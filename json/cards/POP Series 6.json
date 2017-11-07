@@ -1,0 +1,900 @@
+[
+  {
+    "id": "pop6-1",
+    "name": "Bastiodon",
+    "imageUrl": "https://images.pokemontcg.io/pop6/1.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "level": "51",
+    "evolvesFrom": "Shieldon",
+    "ability": {
+      "name": "Protective Wall",
+      "text": "Prevent all damage done to your Benched Pokémon by your opponent's attacks.",
+      "type": "Poké-Body"
+    },
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "1",
+    "artist": "Kazuyuki Kano",
+    "rarity": "Rare",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Anger Revenge",
+        "cost": [
+          "Colorless",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "If Bastiodon was damaged by an attack during your opponent's last turn, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 411,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/1_hires.png"
+  },
+  {
+    "id": "pop6-2",
+    "name": "Lucario",
+    "imageUrl": "https://images.pokemontcg.io/pop6/2.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "level": "30",
+    "evolvesFrom": "Riolu",
+    "hp": "90",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "2",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Feint",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "This attack's damage isn't affected by Resistance."
+      },
+      {
+        "name": "Aura Sphere",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 448,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/2_hires.png"
+  },
+  {
+    "id": "pop6-3",
+    "name": "Manaphy",
+    "imageUrl": "https://images.pokemontcg.io/pop6/3.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "20",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "3",
+    "artist": "Atsuko Nishida",
+    "rarity": "Rare",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+      },
+      {
+        "name": "Aqua Ring",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Switch Manaphy with 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 490,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/3_hires.png"
+  },
+  {
+    "id": "pop6-4",
+    "name": "Pachirisu",
+    "imageUrl": "https://images.pokemontcg.io/pop6/4.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "23",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "4",
+    "artist": "Atsuko Nishida",
+    "rarity": "Rare",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Minor Errand-Running",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      {
+        "name": "Thunder Jolt",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Flip a coin. If tails, Pachirisu does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 417,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/4_hires.png"
+  },
+  {
+    "id": "pop6-5",
+    "name": "Rampardos",
+    "imageUrl": "https://images.pokemontcg.io/pop6/5.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "level": "48",
+    "evolvesFrom": "Cherrim",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "5",
+    "artist": "Kazuyuki Kano",
+    "rarity": "Rare",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Assurance",
+        "cost": [
+          "Colorless",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "As long as the Defending Pokémon's remaining HP is 60 or less, this attack's base damage is 60 instead of 30."
+      },
+      {
+        "name": "Hasty Headbutt",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies. or any other effects on the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 409,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/5_hires.png"
+  },
+  {
+    "id": "pop6-6",
+    "name": "Drifloon",
+    "imageUrl": "https://images.pokemontcg.io/pop6/6.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "17",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "6",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Blowing Wind",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attacked to on top of your deck. Shuffle your deck afterward."
+      },
+      {
+        "name": "Ominous Wind",
+        "cost": [
+          "Colorless",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and can't retreat during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Colorless",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 425,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/6_hires.png",
+    "evolvesTo": [
+      "Drifblim"
+    ]
+  },
+  {
+    "id": "pop6-7",
+    "name": "Gible",
+    "imageUrl": "https://images.pokemontcg.io/pop6/7.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "8",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "7",
+    "artist": "Kouki Saitou",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Surprise Attack",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 443,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/7_hires.png",
+    "evolvesTo": [
+      "Gabite"
+    ]
+  },
+  {
+    "id": "pop6-8",
+    "name": "Riolu",
+    "imageUrl": "https://images.pokemontcg.io/pop6/8.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "7",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "8",
+    "artist": "Kouki Saitou",
+    "rarity": "Uncommon",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Wild Kick",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 447,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/8_hires.png",
+    "evolvesTo": [
+      "Lucario"
+    ]
+  },
+  {
+    "id": "pop6-9",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/pop6/9.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "13",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "9",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Spark",
+        "cost": [
+          "Colorless",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 25,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/9_hires.png",
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "pop6-10",
+    "name": "Staravia",
+    "imageUrl": "https://images.pokemontcg.io/pop6/10.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "level": "21",
+    "evolvesFrom": "Starly",
+    "hp": "70",
+    "number": "10",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Whirlwind",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+      },
+      {
+        "name": "Clutch",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 397,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/10_hires.png",
+    "evolvesTo": [
+      "Staraptor"
+    ]
+  },
+  {
+    "id": "pop6-11",
+    "name": "Bidoof",
+    "imageUrl": "https://images.pokemontcg.io/pop6/11.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "10",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "11",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Amnesia",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+      },
+      {
+        "name": "Scavenge",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search you discard pile for a Trainer card, show it to your opponent, and put it into your hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 399,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/11_hires.png",
+    "evolvesTo": [
+      "Bibarel"
+    ]
+  },
+  {
+    "id": "pop6-12",
+    "name": "Buneary",
+    "imageUrl": "https://images.pokemontcg.io/pop6/12.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "11",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "12",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Splash",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Jump Kick",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 427,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/12_hires.png",
+    "evolvesTo": [
+      "Lopunny"
+    ]
+  },
+  {
+    "id": "pop6-13",
+    "name": "Cherubi",
+    "imageUrl": "https://images.pokemontcg.io/pop6/13.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "7",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "13",
+    "artist": "Atsuko Nishida",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Sleep Powder",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "The Defending Pokémon is now Asleep."
+      },
+      {
+        "name": "Leech Seed",
+        "cost": [
+          "Colorless",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Cherubi."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 420,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/13_hires.png",
+    "evolvesTo": [
+      "Cherrim"
+    ]
+  },
+  {
+    "id": "pop6-14",
+    "name": "Chimchar",
+    "imageUrl": "https://images.pokemontcg.io/pop6/14.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "8",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "14",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "convertedEnergyCost": 0,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Ember",
+        "cost": [
+          "Colorless",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If tails, discard a Energy attached to Chimchar."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 390,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/14_hires.png",
+    "evolvesTo": [
+      "Monferno"
+    ]
+  },
+  {
+    "id": "pop6-15",
+    "name": "Piplup",
+    "imageUrl": "https://images.pokemontcg.io/pop6/15.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "9",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "15",
+    "artist": "Atsuko Nishida",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Peck",
+        "convertedEnergyCost": 0,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Water Splash",
+        "cost": [
+          "Colorless",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 393,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/15_hires.png",
+    "evolvesTo": [
+      "Prinplup"
+    ]
+  },
+  {
+    "id": "pop6-16",
+    "name": "Starly",
+    "imageUrl": "https://images.pokemontcg.io/pop6/16.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "8",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "16",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Gust",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Quick Attack",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 396,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/16_hires.png",
+    "evolvesTo": [
+      "Staravia"
+    ]
+  },
+  {
+    "id": "pop6-17",
+    "name": "Turtwig",
+    "imageUrl": "https://images.pokemontcg.io/pop6/17.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "level": "10",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "17",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Common",
+    "series": "POP",
+    "set": "POP Series 6",
+    "setCode": "pop6",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "convertedEnergyCost": 0,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Razor Leaf",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 387,
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/17_hires.png",
+    "evolvesTo": [
+      "Grotle"
+    ]
+  }
+]
