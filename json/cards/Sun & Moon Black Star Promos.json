@@ -2096,5 +2096,136 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM48_hires.png",
     "nationalPokedexNumber": 718
+  },
+  {
+    "id": "smp-SM68",
+    "name": "Xurkitree-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM68.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM68",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "text": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Rumbling Wires",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Discard the top card of your opponent's deck."
+      },
+      {
+        "name": "Lighting-GX",
+        "cost": [
+          "Lightning" 
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent reveals their hand. Add a card you find there to their Prize cards face down. (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "ability": {
+        "name": "Flashing Head",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have any Special Energy attached to them.",
+        "type": "Ability"
+    },
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM68_hires.png",
+    "nationalPokedexNumber": 796
+  },
+  {
+    "id": "smp-SM84",
+    "name": "Zoroark-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM84.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM84",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra"
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Darkness"
+    ],
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "evolvesFrom": "Zorua",
+    "attacks": [
+      {
+        "name": "Riotous Beating",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20x",
+        "text": "This attack does 20 damage for each of your Pokémon in play."
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": "Trickster-GX",
+        "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can’t use more than 1 GX attack in a game.)",
+        "damage": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "ability": {
+      "name": "Trade",
+      "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
+      "type": "Ability"
+    },
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM84_hires.png",
+    "nationalPokedexNumber": 571
   }
 ]
