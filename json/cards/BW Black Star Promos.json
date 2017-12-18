@@ -3652,6 +3652,100 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/bwp/BW76_hires.png"
   },
   {
+    "id": "bwp-BW77",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/bwp/BW77.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/bwp/BW77_hires.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "number": "BW77",
+    "artist": "Mizue",
+    "rarity": "",
+    "series": "BW",
+    "set": "BW Black Star Promos",
+    "setCode": "bwp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Tail Whap",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10"
+      },
+      {
+        "name": "Thundershock",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 25
+  },
+  {
+    "id": "bwp-BW78",
+    "name": "Raichu",
+    "imageUrl": "https://images.pokemontcg.io/bwp/BW78.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/bwp/BW78_hires.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "hp": "100",
+    "number": "BW78",
+    "artist": "Mizue",
+    "rarity": "",
+    "series": "BW",
+    "set": "BW Black Star Promos",
+    "setCode": "bwp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      },
+      {
+        "name": "Thunder Blast",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Discard an Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 26
+  },
+  {
     "id": "bwp-BW79",
     "name": "Landorus",
     "imageUrl": "https://images.pokemontcg.io/bwp/BW79.png",

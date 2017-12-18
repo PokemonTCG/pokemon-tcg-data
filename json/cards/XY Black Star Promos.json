@@ -8150,6 +8150,157 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY159_hires.png"
   },
   {
+    "id": "xyp-XY160",
+    "name": "Black Kyurem",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY160.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY160_hires.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "XY160",
+    "artist": "kawayoo",
+    "rarity": "Rare",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Ice Wing",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60"
+      },
+      {
+        "name": "Frosty Thunder",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120",
+        "text": "If this Pokémon has any Lightning Energy attached to it, this attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "xyp-XY161",
+    "name": "Braixen",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY161.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY161_hires.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "hp": "80",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "XY161",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Destructive Flame",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+      },
+      {
+        "name": "Crackling Ribbon",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ]
+  },
+  {
+    "id": "xyp-XY183",
+    "name": "Mewtwo EX",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY183.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY183_hires.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "XY183",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Photon Wave",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Psyburn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ]
+  },
+  {
     "id": "xyp-XY164",
     "name": "Volcanion",
     "imageUrl": "https://images.pokemontcg.io/xyp/XY164.png",
