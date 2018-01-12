@@ -2098,6 +2098,145 @@
     "nationalPokedexNumber": 718
   },
   {
+    "id": "smp-SM66",
+    "name": "Pheromosa-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM66.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM66",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Grass"
+    ],
+    "text": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Fast Raid",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "If you go first, you can use this attack on your first turn."
+      },
+      {
+        "name": "Cruel Spike",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Beauty-GX",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50x",
+        "text": "This attack does 50 damage for each Prize card your opponent has taken. (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM66_hires.png",
+    "nationalPokedexNumber": 795
+  },
+  {
+    "id": "smp-SM67",
+    "name": "Celesteela-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM67.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM67",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Metal"
+    ],
+    "text": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Rocket Fall",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "This attack does 30 more damage for each Colorless Energy in your opponent's Active Pokémon's Retreat Cost."
+      },
+      {
+        "name": "Moon Press",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Blaster-GX",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM67_hires.png",
+    "nationalPokedexNumber": 797
+  },
+  {
     "id": "smp-SM68",
     "name": "Xurkitree-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM68.png",
@@ -2135,7 +2274,7 @@
       {
         "name": "Lighting-GX",
         "cost": [
-          "Lightning" 
+          "Lightning"
         ],
         "convertedEnergyCost": 1,
         "damage": "",
@@ -2161,6 +2300,72 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM68_hires.png",
     "nationalPokedexNumber": 796
+  },
+  {
+    "id": "smp-SM69",
+    "name": "Buzzwole-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM69.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "57",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Jet Punch",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Knuckle Impact",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "This Pokémon can't attack during your next turn."
+      },
+      {
+        "name": "Absorption-GX",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40×",
+        "text": "This attack does 40 damage for each of your remaining Prize cards. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM69_hires.png",
+    "nationalPokedexNumber": 794
   },
   {
     "id": "smp-SM84",
