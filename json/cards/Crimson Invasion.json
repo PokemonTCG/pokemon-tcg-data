@@ -5515,5 +5515,641 @@
       "Search your deck for up to 2 Pokémon-GX, reveal them, and put them into your hand. Then, shuffle your deck."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm4/111_hires.png"
+  },
+  {
+    "id": "sm4-112",
+    "name": "Gyarados-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/112.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Magikarp",
+    "hp": "240",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "112",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      },
+      {
+        "name": "Draconic Disaster",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "100+",
+        "text": "If there is any Stadium card in play, this attack does 100 more damage. Then, discard that Stadium card."
+      },
+      {
+        "name": "Dread Storm-GX",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard an Energy from each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/112_hires.png",
+    "nationalPokedexNumber": 130
+  },
+  {
+    "id": "sm4-113",
+    "name": "Alolan Golem-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/113.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Alolan Graveler",
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "113",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      },
+      {
+        "name": "Super Electromagnetic Tackle",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "200",
+        "text": "This Pokémon does 50 damage to itself."
+      },
+      {
+        "name": "Heavy Rock-GX",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Your opponent can't play any cards from their hand during their next turn. (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/113_hires.png",
+    "nationalPokedexNumber": 76
+  },
+  {
+    "id": "sm4-114",
+    "name": "Nihilego-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/114.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Empty Light",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may leave both Active Pokémon Confused and Poisoned.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "114",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Lock Up",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+      },
+      {
+        "name": "Symbiont-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Add the top 2 cards of your opponent's deck to their Prize cards. (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/114_hires.png",
+    "nationalPokedexNumber": 793
+  },
+  {
+    "id": "sm4-115",
+    "name": "Buzzwole-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/115.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "115",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Jet Punch",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Knuckle Impact",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "This Pokémon can't attack during your next turn."
+      },
+      {
+        "name": "Absorption-GX",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40×",
+        "text": "This attack does 40 damage for each of your remaining Prize cards. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/115_hires.png",
+    "nationalPokedexNumber": 794
+  },
+  {
+    "id": "sm4-116",
+    "name": "Guzzlord-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/116.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "116",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Eat Sloppily",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard the top 5 cards of your deck. If any of those cards are Energy cards, attach them to this Pokémon."
+      },
+      {
+        "name": "Tyrannical Hole",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "180",
+        "text": ""
+      },
+      {
+        "name": "Glutton-GX",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "100",
+        "text": "If your opponent's Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards. (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/116_hires.png",
+    "nationalPokedexNumber": 799
+  },
+  {
+    "id": "sm4-117",
+    "name": "Kartana-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/117.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Slice Off",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard a Special Energy from 1 of your opponent's Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "170",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "117",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Gale Blade",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+      },
+      {
+        "name": "Blade-GX",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Take a Prize card. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/117_hires.png",
+    "nationalPokedexNumber": 798
+  },
+  {
+    "id": "sm4-118",
+    "name": "Alolan Exeggutor-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/118.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Exeggcute",
+    "hp": "220",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "118",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Tropical Head",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 20 damage times the amount of Energy attached to this Pokémon to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Dragon Hammer",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Tower-Go-Round-GX",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "Move any number of Energy from your Pokémon to your other Pokémon in any way you like. (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/118_hires.png",
+    "nationalPokedexNumber": 103
+  },
+  {
+    "id": "sm4-119",
+    "name": "Silvally-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/119.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Type: Null",
+    "ability": {
+      "name": "Gyro Unit",
+      "text": "Your Basic Pokémon in play have no Retreat Cost.",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "119",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Turbo Drive",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Rebel-GX",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/119_hires.png",
+    "nationalPokedexNumber": 773
+  },
+  {
+    "id": "sm4-120",
+    "name": "Counter Catcher",
+    "imageUrl": "https://images.pokemontcg.io/sm4/120.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "120",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "You can play this card only if you have more Prize cards remaining than your opponent. Switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/120_hires.png"
+  },
+  {
+    "id": "sm4-121",
+    "name": "Wishful Baton",
+    "imageUrl": "https://images.pokemontcg.io/sm4/121.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "number": "121",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "If the Pokémon this card is attached to is your Active Pokémon and is Knocked Out by damage from an opponent's attack, move up to 3 basic Energy cards from that Pokémon to 1 of your Benched Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/121_hires.png"
+  },
+  {
+    "id": "sm4-122",
+    "name": "Counter Energy",
+    "imageUrl": "https://images.pokemontcg.io/sm4/122.png",
+    "subtype": "Special",
+    "supertype": "Energy",
+    "number": "122",
+    "artist": "",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "This card provides Colorless Energy. If you have more Prize cards remaining than your opponent, and if this card is attached to a Pokémon that isn't a Pokémon-GX or Pokémon-EX, this card provides every type of Energy but provides only 2 Energy at a time."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/122_hires.png"
+  },
+  {
+    "id": "sm4-123",
+    "name": "Warp Energy",
+    "imageUrl": "https://images.pokemontcg.io/sm4/123.png",
+    "subtype": "Special",
+    "supertype": "Energy",
+    "number": "123",
+    "artist": "",
+    "rarity": "Secret Rare",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "This card provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/123_hires.png"
+  },
+  {
+    "id": "sm4-124",
+    "name": "Water Energy",
+    "imageUrl": "https://images.pokemontcg.io/sm4/124.png",
+    "subtype": "Basic",
+    "supertype": "Energy",
+    "number": "124",
+    "artist": "",
+    "rarity": "Secret Rare",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/124_hires.png"
   }
 ]
