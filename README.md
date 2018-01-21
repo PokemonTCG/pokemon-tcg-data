@@ -2,7 +2,7 @@
 
 [![pokemontcg-developers on discord](https://img.shields.io/badge/discord-pokemontcg--developers-738bd7.svg)](https://discord.gg/dpsTCvg)
 
-This is the data found within the [Pokémon TCG API](http://pokemontcg.io/). Currently, the raw JSON files for all the card information can be found here.
+This is the data found within the [Pokémon TCG API](https://pokemontcg.io/). Currently, the raw JSON files for all the card information can be found here.
 
 # Downloading the data
 
