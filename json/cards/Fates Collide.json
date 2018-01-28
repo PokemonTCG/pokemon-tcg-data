@@ -2008,6 +2008,57 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/xy10/43_hires.png"
   },
   {
+    "id": "xy10-43a",
+    "name": "Regirock-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy10/43a.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Regi Power",
+      "text": "The attacks of your Fighting Pokémon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "43a",
+    "artist": "PLANETA",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Fates Collide",
+    "setCode": "xy10",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Bedrock Press",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 377,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy10/43a_hires.png"
+  },
+  {
     "id": "xy10-44",
     "name": "Wormadam",
     "imageUrl": "https://images.pokemontcg.io/xy10/44.png",
@@ -2543,6 +2594,71 @@
     ],
     "nationalPokedexNumber": 718,
     "imageUrlHiRes": "https://images.pokemontcg.io/xy10/54_hires.png"
+  },
+  {
+    "id": "xy10-54a",
+    "name": "Zygarde-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy10/54a.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "54a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Fates Collide",
+    "setCode": "xy10",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Land's Pulse",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20+",
+        "text": "If there is any Stadium card in play, this attack does 20 more damage."
+      },
+      {
+        "name": "Cell Storm",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Heal 30 damage from this Pokémon."
+      },
+      {
+        "name": "Land's Wrath",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 718,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy10/54a_hires.png"
   },
   {
     "id": "xy10-55",
@@ -4661,6 +4777,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/xy10/105_hires.png"
   },
   {
+    "id": "xy10-105a",
+    "name": "N",
+    "imageUrl": "https://images.pokemontcg.io/xy10/105a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "105a",
+    "artist": "Megumi Mizutani",
+    "rarity": "Rare Ultra",
+    "series": "XY",
+    "set": "Fates Collide",
+    "setCode": "xy10",
+    "text": [
+      "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy10/105a_hires.png"
+  },
+  {
     "id": "xy10-106",
     "name": "Old Amber Aerodactyl",
     "imageUrl": "https://images.pokemontcg.io/xy10/106.png",
@@ -4761,6 +4894,23 @@
       "Shuffle your hand into your deck. Then, draw 5 cards."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy10/111_hires.png"
+  },
+  {
+    "id": "xy10-111a",
+    "name": "Shauna",
+    "imageUrl": "https://images.pokemontcg.io/xy10/111a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "111a",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "series": "XY",
+    "set": "Fates Collide",
+    "setCode": "xy10",
+    "text": [
+      "Shuffle your hand into your deck. Then, draw 5 cards."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy10/111a_hires.png"
   },
   {
     "id": "xy10-112",

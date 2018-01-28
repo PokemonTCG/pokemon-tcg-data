@@ -3595,6 +3595,61 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY67_hires.png"
   },
   {
+    "id": "xyp-XY67a",
+    "name": "Jirachi",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY67a.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "XY67a",
+    "artist": "sui",
+    "rarity": "Common",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Stardust",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Discard a Special Energy attached to your opponent's Active Pokémon. If you do, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+      },
+      {
+        "name": "Dream Dance",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Both Active Pokémon are now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 385,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY67a_hires.png"
+  },
+  {
     "id": "xyp-XY68",
     "name": "Chesnaught",
     "imageUrl": "https://images.pokemontcg.io/xyp/XY68.png",
@@ -7725,6 +7780,67 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY150_hires.png"
   },
   {
+    "id": "xyp-XY150a",
+    "name": "Yveltal-EX",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY150a.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "XY150a",
+    "artist": "Eske Yoshinob",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Evil Ball",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "This attack does 20 more damage times the amount of Energy attached to both Active Pokémon."
+      },
+      {
+        "name": "Y Cyclone",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 717,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY150a_hires.png"
+  },
+  {
     "id": "xyp-XY151",
     "name": "Zygarde-EX",
     "imageUrl": "https://images.pokemontcg.io/xyp/XY151.png",
@@ -8848,6 +8964,23 @@
       "Each player shuffles all Pokémon in his or her discard pile into his or her deck."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY177_hires.png"
+  },
+  {
+    "id": "xyp-XY177a",
+    "name": "Karen",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY177a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "XY177a",
+    "artist": "You Iribi",
+    "rarity": "Common",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "text": [
+      "Each player shuffles all Pokémon in his or her discard pile into his or her deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY177a_hires.png"
   },
   {
     "id": "xyp-XY178",

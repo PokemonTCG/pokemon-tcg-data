@@ -1464,6 +1464,63 @@
     "nationalPokedexNumber": 135,
     "imageUrlHiRes": "https://images.pokemontcg.io/g1/28_hires.png"
   },
+
+  {
+    "id": "g1-28a",
+    "name": "Jolteon-EX",
+    "imageUrl": "https://images.pokemontcg.io/g1/28a.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "hp": "160",
+    "number": "28a",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Generations",
+    "setCode": "g1",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Swift",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Flash Ray",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 135,
+    "imageUrlHiRes": "https://images.pokemontcg.io/g1/28a_hires.png"
+  },
   {
     "id": "g1-29",
     "name": "Zapdos",
@@ -3258,6 +3315,23 @@
       "Discard an Energy attached to your opponent's Active Pokémon."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/g1/73_hires.png"
+  },
+  {
+    "id": "g1-73a",
+    "name": "Team Flare Grunt",
+    "imageUrl": "https://images.pokemontcg.io/g1/73a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "73a",
+    "artist": "Yusuke\nOhmura",
+    "rarity": "Uncommon",
+    "series": "XY",
+    "set": "Generations",
+    "setCode": "g1",
+    "text": [
+      "Discard an Energy attached to your opponent's Active Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/g1/73a_hires.png"
   },
   {
     "id": "g1-74",
