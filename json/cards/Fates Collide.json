@@ -5279,5 +5279,55 @@
       "Flip 2 coins. For each heads, discard 2 cards from the top of your opponent's deck."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy10/124_hires.png"
+  },
+  {
+    "id": "xy10-125",
+    "name": "Alakazam-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy10/125.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Kinesis",
+      "text": "When you play M Alakazam-EX from your hand to evolve this Pokémon, before it evolves, you may put 2 damage counters on your opponent's Active Pokémon and 3 damage counters on 1 of your opponent's Benched Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "125",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Secret",
+    "series": "XY",
+    "set": "Fates Collide",
+    "setCode": "xy10",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Suppression",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put 3 damage counters on each of your opponent's Pokémon that has any Energy attached to it."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "nationalPokedexNumber": 65,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy10/125_hires.png",
+    "evolvesTo": "M Alakazam-EX"
   }
 ]
