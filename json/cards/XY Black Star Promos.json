@@ -8366,57 +8366,6 @@
     ]
   },
   {
-    "id": "xyp-XY183",
-    "name": "Mewtwo EX",
-    "imageUrl": "https://images.pokemontcg.io/xyp/XY183.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY183_hires.png",
-    "subtype": "EX",
-    "supertype": "Pokémon",
-    "hp": "170",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "number": "XY183",
-    "artist": "5ban Graphics",
-    "rarity": "Rare Holo EX",
-    "series": "XY",
-    "set": "XY Black Star Promos",
-    "setCode": "xyp",
-    "types": [
-      "Psychic"
-    ],
-    "attacks": [
-      {
-        "name": "Photon Wave",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "30",
-        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
-      },
-      {
-        "name": "Psyburn",
-        "cost": [
-          "Psychic",
-          "Psychic",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "120"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ]
-  },
-  {
     "id": "xyp-XY164",
     "name": "Volcanion",
     "imageUrl": "https://images.pokemontcg.io/xyp/XY164.png",
@@ -9087,5 +9036,92 @@
     ],
     "nationalPokedexNumber": 487,
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY184_hires.png"
+  },
+  {
+    "id": "xyp-XY181",
+    "name": "Crobat BREAK",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY181.png",
+    "subtype": "BREAK",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Crobat",
+    "hp": "160",
+    "number": "181",
+    "artist": "5ban Graphics",
+    "rarity": "Common",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "text": [
+      "Crobat BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Silent Bite",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "You may leave your opponent's Active Pokémon Paralyzed. If you do, shuffle this Pokémon and all cards attached to it into your deck."
+      }
+    ],
+    "nationalPokedexNumber": 169,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY181_hires.png"
+  },
+  {
+    "id": "xyp-XY183",
+    "name": "Mewtwo EX",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY183.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY183_hires.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "XY183",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Photon Wave",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Psyburn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ]
   }
 ]
