@@ -5468,5 +5468,119 @@
       "Discard your hand and draw 7 cards."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy11/114_hires.png"
+  },
+  {
+    "id": "xy11-115",
+    "name": "Volcanion-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy11/115.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Steam Up",
+      "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "115",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "XY",
+    "set": "Steam Siege",
+    "setCode": "xy11",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Volcanic Heat",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This Pokémon can't attack during your next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "types": [
+      "Fire",
+      "Water"
+    ],
+    "nationalPokedexNumber": 721,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy11/115_hires.png"
+  },
+  {
+    "id": "xy11-116",
+    "name": "Gardevoir-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy11/116.png",
+    "subtype": "EX",
+    "supertype": "Pokémon",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "116",
+    "artist": "Eske Yoshinob",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Steam Siege",
+    "setCode": "xy11",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "name": "Link Blast",
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage."
+      },
+      {
+        "name": "Luminous Blade",
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Discard an Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "nationalPokedexNumber": 282,
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy11/116_hires.png",
+    "evolvesTo": "M Gardevoir-EX"
   }
 ]
