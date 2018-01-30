@@ -3245,6 +3245,84 @@
     "nationalPokedexNumber": 799
   },
   {
+    "id": "sm4-63a",
+    "name": "Guzzlord-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm4/63a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "63a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Eat Sloppily",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard the top 5 cards of your deck. If any of those cards are Energy cards, attach them to this Pokémon."
+      },
+      {
+        "name": "Tyrannical Hole",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "180",
+        "text": ""
+      },
+      {
+        "name": "Glutton-GX",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "100",
+        "text": "If your opponent's Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards. (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/63a_hires.png",
+    "nationalPokedexNumber": 799
+  },
+  {
     "id": "sm4-64",
     "name": "Mawile",
     "imageUrl": "https://images.pokemontcg.io/sm4/64.png",
