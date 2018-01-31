@@ -31,8 +31,8 @@
       {
         "name": "Damage Even",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "",
@@ -41,9 +41,9 @@
       {
         "name": "Night Spin",
         "cost": [
+          "Colorless",
           "Psychic",
-          "Psychic",
-          "Colorless"
+          "Psychic"
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
@@ -106,9 +106,9 @@
       {
         "name": "Whirlpool",
         "cost": [
-          "Water",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Water"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -161,10 +161,10 @@
       {
         "name": "Spreading Fire",
         "cost": [
-          "Fire",
-          "Fire",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fire",
+          "Fire"
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
@@ -209,7 +209,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
       },
@@ -263,8 +263,8 @@
       {
         "name": "Speed Shot",
         "cost": [
-          "Lightning",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 2,
         "damage": "",
@@ -273,9 +273,9 @@
       {
         "name": "Crush Volt",
         "cost": [
-          "Lightning",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
@@ -329,9 +329,9 @@
       {
         "name": "Gyro Ball",
         "cost": [
-          "Lightning",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -380,15 +380,15 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "20x",
         "text": "Choose up to 4 in any combination of Pokémon Tool cards and Technical Machine cards in play (both yours and your opponent's) and discard them. This attack does 20 damage times the number of cards discarded in this way."
       },
       {
         "name": "Horror Chant",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
@@ -434,7 +434,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "30",
         "text": "Raichu can't use Slice during your next turn."
       },
@@ -452,9 +452,9 @@
       {
         "name": "Burst Ball",
         "cost": [
+          "Colorless",
           "Lightning",
-          "Lightning",
-          "Colorless"
+          "Lightning"
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
@@ -518,10 +518,10 @@
       {
         "name": "Giga Power",
         "cost": [
-          "Water",
+          "Colorless",
           "Fighting",
           "Metal",
-          "Colorless"
+          "Water"
         ],
         "convertedEnergyCost": 4,
         "damage": "60+",
@@ -577,10 +577,10 @@
       {
         "name": "Slice Drain",
         "cost": [
-          "Grass",
-          "Grass",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Grass",
+          "Grass"
         ],
         "convertedEnergyCost": 4,
         "damage": "60",
@@ -645,10 +645,10 @@
       {
         "name": "Land Shake",
         "cost": [
-          "Grass",
-          "Grass",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Grass",
+          "Grass"
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
@@ -712,9 +712,9 @@
       {
         "name": "Below Zero",
         "cost": [
-          "Water",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Water"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -762,8 +762,8 @@
       {
         "name": "Strange Spin",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
@@ -772,9 +772,9 @@
       {
         "name": "Heavy Potential",
         "cost": [
-          "Psychic",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 3,
         "damage": "",
@@ -828,16 +828,16 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "20",
         "text": "Remove 2 damage counters from 1 of your Pokémon."
       },
       {
         "name": "Solarbeam",
         "cost": [
-          "Grass",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Grass"
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
@@ -888,7 +888,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon can't retreat during your opponent's next turn."
       },
@@ -905,9 +905,9 @@
       {
         "name": "Derail",
         "cost": [
+          "Colorless",
           "Darkness",
-          "Darkness",
-          "Colorless"
+          "Darkness"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -947,7 +947,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Put any 1 card from your discard pile into your hand."
       },
@@ -956,15 +956,15 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. For each Basic Pokémon you put onto your Bench, you may search your deck for a basic Energy card and attach it to that Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Ominous Wind",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
@@ -1017,9 +1017,9 @@
       {
         "name": "Darkness Mist",
         "cost": [
-          "Psychic",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
@@ -1077,8 +1077,8 @@
       {
         "name": "Poltergeist",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "30x",
@@ -1129,15 +1129,15 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "30x",
         "text": "Does 30 damage times the number of Magikarp in your discard pile."
       },
       {
         "name": "Wreak Havoc",
         "cost": [
-          "Water",
-          "Colorless"
+          "Colorless",
+          "Water"
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
@@ -1146,11 +1146,11 @@
       {
         "name": "Dragon Beat",
         "cost": [
-          "Water",
-          "Water",
           "Colorless",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Water",
+          "Water"
         ],
         "convertedEnergyCost": 5,
         "damage": "100",
@@ -1217,10 +1217,10 @@
       {
         "name": "Rage",
         "cost": [
-          "Fighting",
-          "Fighting",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fighting",
+          "Fighting"
         ],
         "convertedEnergyCost": 4,
         "damage": "60+",
@@ -1265,9 +1265,9 @@
       {
         "name": "Ramming Strike",
         "cost": [
-          "Fighting",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 3,
         "damage": "30x",
@@ -1276,10 +1276,10 @@
       {
         "name": "Parade",
         "cost": [
-          "Water",
-          "Fighting",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fighting",
+          "Water"
         ],
         "convertedEnergyCost": 4,
         "damage": "60+",
@@ -1395,9 +1395,9 @@
       {
         "name": "Deep Poison",
         "cost": [
+          "Colorless",
           "Psychic",
-          "Psychic",
-          "Colorless"
+          "Psychic"
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
@@ -1445,8 +1445,8 @@
       {
         "name": "Combustion",
         "cost": [
-          "Fire",
-          "Colorless"
+          "Colorless",
+          "Fire"
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
@@ -1455,10 +1455,10 @@
       {
         "name": "Steam Twister",
         "cost": [
-          "Fire",
-          "Water",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fire",
+          "Water"
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
@@ -1578,9 +1578,9 @@
       {
         "name": "Plunder",
         "cost": [
-          "Darkness",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Darkness"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -1699,10 +1699,10 @@
       {
         "name": "Iron Tail",
         "cost": [
-          "Metal",
-          "Metal",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Metal",
+          "Metal"
         ],
         "convertedEnergyCost": 4,
         "damage": "100x",
@@ -1756,8 +1756,8 @@
       {
         "name": "Green Acid",
         "cost": [
-          "Grass",
-          "Colorless"
+          "Colorless",
+          "Grass"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -1766,10 +1766,10 @@
       {
         "name": "Reaching Vine",
         "cost": [
-          "Grass",
-          "Grass",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Grass",
+          "Grass"
         ],
         "convertedEnergyCost": 4,
         "damage": "60",
@@ -1899,8 +1899,8 @@
       {
         "name": "Bee Powder",
         "cost": [
-          "Grass",
-          "Colorless"
+          "Colorless",
+          "Grass"
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
@@ -2012,7 +2012,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
       }
@@ -2063,9 +2063,9 @@
       {
         "name": "Ambush",
         "cost": [
-          "Psychic",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
@@ -2115,8 +2115,8 @@
       {
         "name": "Confuse Ray",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -2125,9 +2125,9 @@
       {
         "name": "Trick Room",
         "cost": [
-          "Psychic",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
@@ -2355,9 +2355,9 @@
       {
         "name": "Slam",
         "cost": [
-          "Grass",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Grass"
         ],
         "convertedEnergyCost": 3,
         "damage": "60×",
@@ -2409,7 +2409,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Poisoned."
       },
@@ -2476,8 +2476,8 @@
       {
         "name": "Brick Break",
         "cost": [
-          "Fighting",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -2531,9 +2531,9 @@
       {
         "name": "Magnetic Release",
         "cost": [
-          "Lightning",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
@@ -2583,8 +2583,8 @@
       {
         "name": "Thunder Wave",
         "cost": [
-          "Lightning",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -2593,9 +2593,9 @@
       {
         "name": "Removal Pulse",
         "cost": [
-          "Lightning",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
@@ -2710,7 +2710,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your discard pile for up to 4 Lightning Energy cards, show them to your opponent, and put them into your hand."
       }
@@ -2759,9 +2759,9 @@
       {
         "name": "Rouse",
         "cost": [
-          "Fighting",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 3,
         "damage": "20+",
@@ -2770,10 +2770,10 @@
       {
         "name": "Overrun",
         "cost": [
-          "Fighting",
           "Colorless",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 4,
         "damage": "60",
@@ -2885,7 +2885,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Supporter card and discard it. Shuffle your deck afterward. Then, use the effect of that card as the effect of this attack."
       },
@@ -2938,8 +2938,8 @@
       {
         "name": "Slashing Strike",
         "cost": [
-          "Grass",
-          "Colorless"
+          "Colorless",
+          "Grass"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -3060,9 +3060,9 @@
       {
         "name": "Mach Blade",
         "cost": [
-          "Metal",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Metal"
         ],
         "convertedEnergyCost": 3,
         "damage": "",
@@ -3341,7 +3341,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 2 damage counters from Cherubi."
       },
@@ -3572,8 +3572,8 @@
       {
         "name": "Surprise Attack",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -3624,7 +3624,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
@@ -3676,7 +3676,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "You opponent can't play any Trainer cards from his or her hand during your opponent's next turn."
       },
@@ -3741,8 +3741,8 @@
       {
         "name": "Rock Slide",
         "cost": [
-          "Fighting",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -3800,8 +3800,8 @@
       {
         "name": "Knock Back",
         "cost": [
-          "Fighting",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -3846,7 +3846,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin until you get tails. For each heads, draw a card."
       },
@@ -3896,8 +3896,8 @@
       {
         "name": "Magnetic Bomb",
         "cost": [
-          "Lightning",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
@@ -3948,15 +3948,15 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Random Spark",
         "cost": [
-          "Lightning",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 2,
         "damage": "",
@@ -4007,7 +4007,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Asleep."
       },
@@ -4074,9 +4074,9 @@
       {
         "name": "Bind",
         "cost": [
-          "Fighting",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
@@ -4130,9 +4130,9 @@
       {
         "name": "Speed Bolt",
         "cost": [
-          "Lightning",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
@@ -4190,8 +4190,8 @@
       {
         "name": "Agility",
         "cost": [
-          "Fire",
-          "Colorless"
+          "Colorless",
+          "Fire"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -4243,8 +4243,8 @@
       {
         "name": "Petal Spikes",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -4297,8 +4297,8 @@
       {
         "name": "Dangerous Claw",
         "cost": [
-          "Grass",
-          "Colorless"
+          "Colorless",
+          "Grass"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -4577,8 +4577,8 @@
       {
         "name": "Tickle",
         "cost": [
-          "Grass",
-          "Colorless"
+          "Colorless",
+          "Grass"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -4687,7 +4687,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "If an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to that Pokémon until the end of your next turn."
       },
@@ -5148,9 +5148,9 @@
       {
         "name": "Strong-Willed",
         "cost": [
-          "Fighting",
           "Colorless",
-          "Colorless"
+          "Colorless",
+          "Fighting"
         ],
         "convertedEnergyCost": 3,
         "damage": "20",
@@ -5195,9 +5195,9 @@
       {
         "name": "Voltage Shoot",
         "cost": [
+          "Colorless",
           "Lightning",
-          "Lightning",
-          "Colorless"
+          "Lightning"
         ],
         "convertedEnergyCost": 3,
         "damage": "",
@@ -5254,10 +5254,10 @@
       {
         "name": "Giga Blaster",
         "cost": [
-          "Water",
+          "Colorless",
           "Fighting",
           "Metal",
-          "Colorless"
+          "Water"
         ],
         "convertedEnergyCost": 4,
         "damage": "100",
@@ -5306,8 +5306,8 @@
       {
         "name": "Ember",
         "cost": [
-          "Fire",
-          "Colorless"
+          "Colorless",
+          "Fire"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -5362,9 +5362,9 @@
       {
         "name": "Flamethrower",
         "cost": [
+          "Colorless",
           "Fire",
-          "Fire",
-          "Colorless"
+          "Fire"
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
@@ -5475,8 +5475,8 @@
       {
         "name": "Big Explosion",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
@@ -5528,7 +5528,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Put up to 3 damage counters on Duskull.  Then, put that many damage counters on the Defending Pokémon."
       },
@@ -5544,8 +5544,8 @@
       {
         "name": "Night Bind",
         "cost": [
-          "Psychic",
-          "Colorless"
+          "Colorless",
+          "Psychic"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -5612,8 +5612,8 @@
       {
         "name": "Thundershock",
         "cost": [
-          "Lightning",
-          "Colorless"
+          "Colorless",
+          "Lightning"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
