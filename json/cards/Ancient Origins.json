@@ -65,8 +65,8 @@
       {
         "name": "Drool",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -117,9 +117,9 @@
       {
         "name": "Solar Beam",
         "cost": [
-          "Colorless",
           "Grass",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
@@ -168,8 +168,8 @@
       {
         "name": "Flower Tornado",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
@@ -256,8 +256,8 @@
       {
         "name": "Impound",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -308,8 +308,8 @@
       {
         "name": "Unseen Claw",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "60+",
@@ -356,8 +356,8 @@
       {
         "name": "Jagged Saber",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "100",
@@ -593,9 +593,9 @@
       {
         "name": "Heat Breath",
         "cost": [
+          "Fire",
           "Colorless",
-          "Colorless",
-          "Fire"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
@@ -688,8 +688,8 @@
       {
         "name": "Flame Screen",
         "cost": [
-          "Colorless",
-          "Fire"
+          "Fire",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -698,10 +698,10 @@
       {
         "name": "Heat Tackle",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Fire",
-          "Fire"
+          "Fire",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
@@ -741,8 +741,8 @@
       {
         "name": "Combustion",
         "cost": [
-          "Colorless",
-          "Fire"
+          "Fire",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -794,8 +794,8 @@
       {
         "name": "Flamethrower",
         "cost": [
-          "Colorless",
-          "Fire"
+          "Fire",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
@@ -848,9 +848,9 @@
       {
         "name": "Wind Wheel",
         "cost": [
+          "Fire",
           "Colorless",
-          "Colorless",
-          "Fire"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
@@ -934,9 +934,9 @@
       {
         "name": "Berserker Splash",
         "cost": [
+          "Water",
           "Colorless",
-          "Colorless",
-          "Water"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
@@ -945,10 +945,10 @@
       {
         "name": "Aqua Tail",
         "cost": [
+          "Water",
           "Colorless",
           "Colorless",
-          "Colorless",
-          "Water"
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "90+",
@@ -1003,10 +1003,10 @@
       {
         "name": "Thrash",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Water",
-          "Water"
+          "Water",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "100+",
@@ -1052,9 +1052,9 @@
       {
         "name": "Hydro Splash",
         "cost": [
+          "Water",
           "Colorless",
-          "Colorless",
-          "Water"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
@@ -1144,8 +1144,8 @@
       {
         "name": "Ice Beam",
         "cost": [
-          "Colorless",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -1154,9 +1154,9 @@
       {
         "name": "Resistance Blizzard",
         "cost": [
+          "Water",
           "Colorless",
-          "Colorless",
-          "Water"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
@@ -1200,9 +1200,9 @@
       {
         "name": "Glaciate",
         "cost": [
-          "Colorless",
           "Water",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "",
@@ -1211,10 +1211,10 @@
       {
         "name": "Icecalibur",
         "cost": [
-          "Colorless",
           "Water",
           "Water",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
@@ -1256,9 +1256,9 @@
       {
         "name": "Thunder Blast",
         "cost": [
+          "Lightning",
           "Colorless",
-          "Colorless",
-          "Lightning"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
@@ -1316,10 +1316,10 @@
       {
         "name": "Sparkling Tail",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Lightning",
-          "Lightning"
+          "Lightning",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "100",
@@ -1372,10 +1372,10 @@
       {
         "name": "Exavolt",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Lightning",
-          "Lightning"
+          "Lightning",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "120+",
@@ -1528,8 +1528,8 @@
       {
         "name": "Spinning Attack",
         "cost": [
-          "Colorless",
-          "Psychic"
+          "Psychic",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -1627,8 +1627,8 @@
       {
         "name": "Hyper Beam",
         "cost": [
-          "Colorless",
-          "Psychic"
+          "Psychic",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -1833,8 +1833,8 @@
       {
         "name": "Steaming Mad",
         "cost": [
-          "Colorless",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20×",
@@ -1843,9 +1843,9 @@
       {
         "name": "Crazy Hammer",
         "cost": [
-          "Colorless",
           "Fighting",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
@@ -1894,8 +1894,8 @@
       {
         "name": "Wave Splash",
         "cost": [
-          "Colorless",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -1940,8 +1940,8 @@
       {
         "name": "Wave Splash",
         "cost": [
-          "Colorless",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -1950,9 +1950,9 @@
       {
         "name": "Landslide",
         "cost": [
+          "Water",
           "Colorless",
-          "Colorless",
-          "Water"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
@@ -1993,8 +1993,8 @@
       {
         "name": "Rock Throw",
         "cost": [
-          "Colorless",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
@@ -2003,9 +2003,9 @@
       {
         "name": "Unyielding Rock",
         "cost": [
+          "Fighting",
           "Colorless",
-          "Colorless",
-          "Fighting"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
@@ -2057,10 +2057,10 @@
       {
         "name": "Double Lariat",
         "cost": [
+          "Fighting",
           "Colorless",
           "Colorless",
-          "Colorless",
-          "Fighting"
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "90×",
@@ -2105,9 +2105,9 @@
       {
         "name": "Hammer In",
         "cost": [
+          "Darkness",
           "Colorless",
-          "Colorless",
-          "Darkness"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -2116,10 +2116,10 @@
       {
         "name": "Break Ground",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Darkness",
-          "Darkness"
+          "Darkness",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
@@ -2174,10 +2174,10 @@
       {
         "name": "Destroyer King",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Darkness",
-          "Darkness"
+          "Darkness",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "110+",
@@ -2231,8 +2231,8 @@
       {
         "name": "Furtive Drop",
         "cost": [
-          "Colorless",
-          "Darkness"
+          "Darkness",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "",
@@ -2378,9 +2378,9 @@
       {
         "name": "Spinning Attack",
         "cost": [
+          "Metal",
           "Colorless",
-          "Colorless",
-          "Metal"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
@@ -2431,8 +2431,8 @@
       {
         "name": "Metal Claw",
         "cost": [
-          "Colorless",
-          "Metal"
+          "Metal",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -2441,9 +2441,9 @@
       {
         "name": "Bullet Punch",
         "cost": [
-          "Colorless",
           "Metal",
-          "Metal"
+          "Metal",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
@@ -2500,10 +2500,10 @@
       {
         "name": "Iron Cannon",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Metal",
-          "Metal"
+          "Metal",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "80+",
@@ -2565,10 +2565,10 @@
       {
         "name": "Guard Press",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Metal",
-          "Metal"
+          "Metal",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
@@ -2615,8 +2615,8 @@
       {
         "name": "Iron Head",
         "cost": [
-          "Colorless",
-          "Metal"
+          "Metal",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30×",
@@ -2625,9 +2625,9 @@
       {
         "name": "Forbidden Iron Hammer",
         "cost": [
+          "Metal",
           "Colorless",
-          "Colorless",
-          "Metal"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
@@ -2681,8 +2681,8 @@
       {
         "name": "Magical Shot",
         "cost": [
-          "Colorless",
-          "Fairy"
+          "Fairy",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -2740,9 +2740,9 @@
       {
         "name": "Magical Shot",
         "cost": [
+          "Fairy",
           "Colorless",
-          "Colorless",
-          "Fairy"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
@@ -2959,10 +2959,10 @@
       {
         "name": "Chaos Wheel",
         "cost": [
-          "Colorless",
-          "Colorless",
+          "Psychic",
           "Grass",
-          "Psychic"
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "100",
@@ -3007,8 +3007,8 @@
       {
         "name": "Stampede",
         "cost": [
-          "Colorless",
-          "Fairy"
+          "Fairy",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
@@ -3062,8 +3062,8 @@
       {
         "name": "Melt",
         "cost": [
-          "Fairy",
-          "Water"
+          "Water",
+          "Fairy"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -3118,10 +3118,10 @@
       {
         "name": "Shining Breath",
         "cost": [
-          "Colorless",
-          "Colorless",
+          "Water",
           "Fairy",
-          "Water"
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "110",
@@ -3870,8 +3870,8 @@
       {
         "name": "Unseen Claw",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "60+",
@@ -3918,8 +3918,8 @@
       {
         "name": "Jagged Saber",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "100",
@@ -3963,9 +3963,9 @@
       {
         "name": "Glaciate",
         "cost": [
-          "Colorless",
           "Water",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "",
@@ -3974,10 +3974,10 @@
       {
         "name": "Icecalibur",
         "cost": [
-          "Colorless",
           "Water",
           "Water",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
@@ -4029,10 +4029,10 @@
       {
         "name": "Sparkling Tail",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Lightning",
-          "Lightning"
+          "Lightning",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "100",
@@ -4085,10 +4085,10 @@
       {
         "name": "Exavolt",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Lightning",
-          "Lightning"
+          "Lightning",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "120+",
@@ -4188,8 +4188,8 @@
       {
         "name": "Steaming Mad",
         "cost": [
-          "Colorless",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20×",
@@ -4198,9 +4198,9 @@
       {
         "name": "Crazy Hammer",
         "cost": [
-          "Colorless",
           "Fighting",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
@@ -4245,9 +4245,9 @@
       {
         "name": "Hammer In",
         "cost": [
+          "Darkness",
           "Colorless",
-          "Colorless",
-          "Darkness"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -4256,10 +4256,10 @@
       {
         "name": "Break Ground",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Darkness",
-          "Darkness"
+          "Darkness",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
@@ -4314,10 +4314,10 @@
       {
         "name": "Destroyer King",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Darkness",
-          "Darkness"
+          "Darkness",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "110+",
@@ -4372,10 +4372,10 @@
       {
         "name": "Chaos Wheel",
         "cost": [
-          "Colorless",
-          "Colorless",
+          "Psychic",
           "Grass",
-          "Psychic"
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "100",
@@ -4501,10 +4501,10 @@
       {
         "name": "Tidal Storm",
         "cost": [
-          "Colorless",
           "Water",
           "Water",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
@@ -4551,10 +4551,10 @@
       {
         "name": "Gaia Volcano",
         "cost": [
-          "Colorless",
           "Fighting",
           "Fighting",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "100+",
