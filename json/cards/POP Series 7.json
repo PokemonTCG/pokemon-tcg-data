@@ -31,9 +31,9 @@
       {
         "name": "Cluster Bolt",
         "cost": [
+          "Lightning",
           "Colorless",
-          "Colorless",
-          "Lightning"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
@@ -81,8 +81,8 @@
       {
         "name": "Sonic Blade",
         "cost": [
-          "Colorless",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "",
@@ -91,9 +91,9 @@
       {
         "name": "Psychic Cut",
         "cost": [
+          "Psychic",
           "Colorless",
-          "Colorless",
-          "Psychic"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "",
@@ -142,9 +142,9 @@
       {
         "name": "Mist Ball",
         "cost": [
-          "Colorless",
           "Fire",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
@@ -200,10 +200,10 @@
       {
         "name": "Luster Purge",
         "cost": [
-          "Colorless",
-          "Colorless",
           "Grass",
-          "Lightning"
+          "Lightning",
+          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
@@ -248,13 +248,16 @@
         "name": "Silver Wind",
         "convertedEnergyCost": 0,
         "damage": "",
-        "text": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage."
+        "text": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage.",
+        "cost": [
+          "Free"
+        ]
       },
       {
         "name": "Raging Scales",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
@@ -304,7 +307,10 @@
         "name": "Present",
         "convertedEnergyCost": 0,
         "damage": "",
-        "text": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+        "text": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
+        "cost": [
+          "Free"
+        ]
       },
       {
         "name": "Ice Ball",
@@ -359,9 +365,9 @@
       {
         "name": "Electromagnetic Kick",
         "cost": [
-          "Colorless",
           "Lightning",
-          "Lightning"
+          "Lightning",
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -420,9 +426,9 @@
       {
         "name": "Telekinesis",
         "cost": [
+          "Psychic",
           "Colorless",
-          "Colorless",
-          "Psychic"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
@@ -467,7 +473,10 @@
         "name": "Lead",
         "convertedEnergyCost": 0,
         "damage": "",
-        "text": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        "text": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "cost": [
+          "Free"
+        ]
       },
       {
         "name": "Frighten Horn",
@@ -519,9 +528,9 @@
       {
         "name": "Push Over",
         "cost": [
+          "Fighting",
           "Colorless",
-          "Colorless",
-          "Fighting"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
@@ -675,8 +684,8 @@
       {
         "name": "Hook",
         "cost": [
-          "Colorless",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -725,8 +734,8 @@
       {
         "name": "Static Shock",
         "cost": [
-          "Colorless",
-          "Lightning"
+          "Lightning",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
