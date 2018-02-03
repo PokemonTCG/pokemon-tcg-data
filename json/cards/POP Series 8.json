@@ -35,10 +35,10 @@
       {
         "name": "Fire Spin",
         "cost": [
-          "Colorless",
           "Fire",
           "Fire",
-          "Fire"
+          "Fire",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "90",
@@ -79,8 +79,8 @@
       {
         "name": "Blocking Punch",
         "cost": [
-          "Colorless",
-          "Metal"
+          "Metal",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
@@ -89,9 +89,9 @@
       {
         "name": "Striking Kick",
         "cost": [
+          "Fighting",
           "Colorless",
-          "Colorless",
-          "Fighting"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
@@ -137,10 +137,10 @@
       {
         "name": "Thunder",
         "cost": [
-          "Colorless",
           "Lightning",
           "Lightning",
-          "Lightning"
+          "Lightning",
+          "Colorless"
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
@@ -189,8 +189,8 @@
       {
         "name": "Rock Slide",
         "cost": [
-          "Colorless",
-          "Fighting"
+          "Fighting",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
@@ -199,9 +199,9 @@
       {
         "name": "Triple Nose",
         "cost": [
+          "Metal",
           "Colorless",
-          "Colorless",
-          "Metal"
+          "Colorless"
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
@@ -361,8 +361,8 @@
       {
         "name": "Swallow Up",
         "cost": [
-          "Colorless",
-          "Grass"
+          "Grass",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "",
@@ -527,13 +527,16 @@
         "name": "Scratch",
         "convertedEnergyCost": 0,
         "damage": "10",
-        "text": ""
+        "text": "",
+        "cost": [
+          "Free"
+        ]
       },
       {
         "name": "Ember",
         "cost": [
-          "Colorless",
-          "Fire"
+          "Fire",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
@@ -635,7 +638,10 @@
         "name": "Lively",
         "convertedEnergyCost": 0,
         "damage": "",
-        "text": "Remove 2 damage counters from 1 of your Pokémon."
+        "text": "Remove 2 damage counters from 1 of your Pokémon.",
+        "cost": [
+          "Free"
+        ]
       }
     ],
     "weaknesses": [
@@ -675,13 +681,16 @@
         "name": "Peck",
         "convertedEnergyCost": 0,
         "damage": "10",
-        "text": ""
+        "text": "",
+        "cost": [
+          "Free"
+        ]
       },
       {
         "name": "Water Splash",
         "cost": [
-          "Colorless",
-          "Water"
+          "Water",
+          "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
@@ -774,7 +783,10 @@
         "name": "Tackle",
         "convertedEnergyCost": 0,
         "damage": "10",
-        "text": ""
+        "text": "",
+        "cost": [
+          "Free"
+        ]
       },
       {
         "name": "Razor Leaf",

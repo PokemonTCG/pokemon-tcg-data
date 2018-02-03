@@ -110,7 +110,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent’s Active Pokémon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
@@ -152,7 +152,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Electro Ball",
@@ -781,6 +781,142 @@
     "nationalPokedexNumber": 718
   },
   {
+    "id": "smp-SM16",
+    "name": "Solgaleo-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM16.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Cosmoem",
+    "ability": {
+      "name": "Ultra Road",
+      "text": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM16",
+    "artist": "PLANETA",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Sunsteel Strike",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "230",
+        "text": "Discard all Energy from this Pokémon."
+      },
+      {
+        "name": "Sol Burst-GX",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 5 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM16_hires.png",
+    "nationalPokedexNumber": 791
+  },
+  {
+    "id": "smp-SM17",
+    "name": "Lunala-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM17.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Cosmoem",
+    "ability": {
+      "name": "Psychic Transfer",
+      "text": "As often as you like during your turn (before your attack), you may move a Psychic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM17",
+    "artist": "PLANETA",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Moongeist Beam",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120",
+        "text": "The Defending Pokémon can't be healed during your opponent's next turn."
+      },
+      {
+        "name": "Lunar Fall-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Knock Out 1 of your opponent's Basic Pokémon that isn't a Pokémon-GX. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM17_hires.png",
+    "nationalPokedexNumber": 792
+  },
+  {
     "id": "smp-SM18",
     "name": "Alolan Sandslash",
     "imageUrl": "https://images.pokemontcg.io/smp/SM18.png",
@@ -855,7 +991,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "For each Pokémon in your opponent’s discard pile, put 1 damage counter on your opponent's Pokémon in any way you like."
+        "text": "For each Pokémon in your opponent's discard pile, put 1 damage counter on your opponent's Pokémon in any way you like."
       },
       {
         "name": "Revelation Dance",
@@ -1536,7 +1672,7 @@
         "text": ""
       },
       {
-        "name": "Nature’s Judgment",
+        "name": "Nature's Judgment",
         "cost": [
           "Grass",
           "Grass",
@@ -1610,7 +1746,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50×",
-        "text": "This attack does 50 damage times the amount of Energy attached to all of your opponent's Pokémon. (You can’t use more than 1 GX attack in a game.)"
+        "text": "This attack does 50 damage times the amount of Energy attached to all of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM33_hires.png"
@@ -1688,6 +1824,142 @@
     "nationalPokedexNumber": 760
   },
   {
+    "id": "smp-SM35",
+    "name": "Espeon-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM35.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Eevee",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM35",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Psybeam",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "This attack does 30 more damage times the amount of Energy attached to your opponent's Active Pokémon."
+      },
+      {
+        "name": "Divide-GX",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 10 damage counters on your opponent's Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM35_hires.png",
+    "nationalPokedexNumber": 196
+  },
+  {
+    "id": "smp-SM36",
+    "name": "Umbreon-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM36.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Eevee",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM36",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Strafe",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Shadow Bullet",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Dark Call-GX",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Discard 2 Energy from your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM36_hires.png",
+    "nationalPokedexNumber": 197
+  },
+  {
     "id": "smp-SM37",
     "name": "Decidueye-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM37.png",
@@ -1736,7 +2008,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put 3 cards from your discard pile into your hand. (You can’t use more than 1 GX attack in a game.)"
+        "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
       }
     ],
     "weaknesses": [
@@ -1883,6 +2155,206 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM39_hires.png",
     "nationalPokedexNumber": 730
+  },
+  {
+    "id": "smp-SM40",
+    "name": "Jangmo-o",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM40.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM40",
+    "artist": "Naoki Saito",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Iron Defense",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM40_hires.png",
+    "nationalPokedexNumber": 782,
+    "evolvesTo": [
+      "Hakamo-o"
+    ]
+  },
+  {
+    "id": "smp-SM41",
+    "name": "Komala",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM41.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Comatose",
+      "text": "As long as this Pokémon is your Active Pokémon, whenever you attach an Energy from your hand to it, it is now Asleep.",
+      "type": "Ability"
+    },
+    "hp": "80",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM41",
+    "artist": "nagimiso",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Hypno Roll",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "This attack can be used if this Pokémon is Asleep. If it is not Asleep, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM41_hires.png",
+    "nationalPokedexNumber": 775
+  },
+  {
+    "id": "smp-SM42",
+    "name": "Cosmog",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM42.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM42",
+    "artist": "Megumi Mizutani",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Dust Gathering",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw a card."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM42_hires.png",
+    "nationalPokedexNumber": 789,
+    "evolvesTo": [
+      "Cosmoem"
+    ]
+  },
+  {
+    "id": "smp-SM43",
+    "name": "Alolan Meowth",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM43.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM43",
+    "artist": "Megumi Mizutani",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": [
+          "Free"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Fake Out",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM43_hires.png",
+    "nationalPokedexNumber": 52,
+    "evolvesTo": [
+      "Persian"
+    ]
   },
   {
     "id": "smp-SM44",
@@ -2098,6 +2570,946 @@
     "nationalPokedexNumber": 718
   },
   {
+    "id": "smp-SM49",
+    "name": "Bewear",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM49.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Stufful",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM49",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Mix-Up",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Flip a coin. If heads, discard the top 3 cards of your opponent's deck."
+      },
+      {
+        "name": "Tantrum",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM49_hires.png",
+    "nationalPokedexNumber": 760
+  },
+  {
+    "id": "smp-SM50",
+    "name": "Tapu Koko-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM50.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Aero Trail",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may move any number of Lightning Energy from your other Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM50",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Sky-High Claws",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Tapu Thunder-GX",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage times the amount of Energy attached to all of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM50_hires.png"
+  },
+  {
+    "id": "smp-SM51",
+    "name": "Alolan Meowth",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM51.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM51",
+    "artist": "sui",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Nasty Plot",
+        "cost": [
+          "Free"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, search your deck for a card and put it into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Scratch",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM51_hires.png",
+    "nationalPokedexNumber": 52,
+    "evolvesTo": [
+      "Persian"
+    ]
+  },
+  {
+    "id": "smp-SM52",
+    "name": "Golisopod",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM52.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Wimpod",
+    "ability": {
+      "name": "Armor",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM52",
+    "artist": "Naoki Saito",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Resolute Claws",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "If your opponent's Active Pokémon is a Pokémon-GX or a Pokémon-EX, this attack does 70 more damage (before applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM52_hires.png",
+    "nationalPokedexNumber": 768
+  },
+  {
+    "id": "smp-SM53",
+    "name": "Dhelmise",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM53.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Steelworker",
+      "text": "Your Metal Pokémon's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM53",
+    "artist": "Kouki Saitou",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Anchor Shot",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM53_hires.png",
+    "nationalPokedexNumber": 781
+  },
+  {
+    "id": "smp-SM54",
+    "name": "Lucario",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM54.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Riolu",
+    "ability": {
+      "name": "Stance",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may prevent all effects of your opponent's attacks, including damage, done to this Pokémon until the end of your opponent's next turn.",
+      "type": "Ability"
+    },
+    "hp": "120",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM54",
+    "artist": "Anesaki Dynamic",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Submarine Blow",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM54_hires.png",
+    "nationalPokedexNumber": 448
+  },
+  {
+    "id": "smp-SM55",
+    "name": "Decidueye",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM55.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Dartrix",
+    "hp": "140",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM55",
+    "artist": "Kouki Saitou",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Leaf Blade",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 more damage."
+      },
+      {
+        "name": "Brave Bird",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This Pokémon does 20 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM55_hires.png",
+    "nationalPokedexNumber": 724
+  },
+  {
+    "id": "smp-SM56",
+    "name": "Tsareena-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM56.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Steenee",
+    "hp": "230",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM56",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Side Eye",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Confused."
+      },
+      {
+        "name": "Jumping Side Kick",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage."
+      },
+      {
+        "name": "Queen's Command-GX",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Your opponent discards 4 cards from their hand. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM56_hires.png",
+    "nationalPokedexNumber": 763
+  },
+  {
+    "id": "smp-SM57",
+    "name": "Ho-Oh-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM57.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM57",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Sacred Fire",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Phoenix Burn",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "This Pokémon can't use Phoenix Burn during your next turn."
+      },
+      {
+        "name": "Eternal Flame-GX",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM57_hires.png",
+    "nationalPokedexNumber": 250
+  },
+  {
+    "id": "smp-SM58",
+    "name": "Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM58.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Light's End",
+      "text": "Prevent all damage done to this Pokémon by attacks from Colorless Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM58",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Prismatic Burst",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "10+",
+        "text": "Discard all Psychic Energy from this Pokémon. This attack does 60 more damage for each card you discarded in this way."
+      },
+      {
+        "name": "Black Ray-GX",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 100 damage to each of your opponent's Pokémon-GX and Pokémon-EX. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM58_hires.png",
+    "nationalPokedexNumber": 800
+  },
+  {
+    "id": "smp-SM59",
+    "name": "Marshadow-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM59.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Shadow Hunt",
+      "text": "This Pokémon can use the attacks of any Basic Pokémon in your discard pile. (You still need the necessary Energy to use each attack.)",
+      "type": "Ability"
+    },
+    "hp": "150",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM59",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Beatdown",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      },
+      {
+        "name": "Peerless Hundred Blows-GX",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50×",
+        "text": "This attack does 50 damage times the amount of basic Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM59_hires.png",
+    "nationalPokedexNumber": 802
+  },
+  {
+    "id": "smp-SM60",
+    "name": "Charizard-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM60.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Charmeleon",
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM60",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      },
+      {
+        "name": "Crimson Storm",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "300",
+        "text": "Discard 3 Fire Energy from this Pokémon."
+      },
+      {
+        "name": "Raging Out-GX",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM60_hires.png",
+    "nationalPokedexNumber": 6
+  },
+  {
+    "id": "smp-SM62",
+    "name": "Golisopod-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM62.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Wimpod",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM62",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "First Impression",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 90 more damage."
+      },
+      {
+        "name": "Armor Press",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Crossing Cut-GX",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM62_hires.png",
+    "nationalPokedexNumber": 768
+  },
+  {
+    "id": "smp-SM63",
+    "name": "Salazzle-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM63.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Salandit",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM63",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Diabolical Claws",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each Prize card you have taken."
+      },
+      {
+        "name": "Heat Blast",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "110",
+        "text": ""
+      },
+      {
+        "name": "Queen's Haze-GX",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM63_hires.png",
+    "nationalPokedexNumber": 758
+  },
+  {
+    "id": "smp-SM64",
+    "name": "Silvally",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM64.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Type: Null",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM64",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Gear Scan",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "X-Scissor",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM64_hires.png",
+    "nationalPokedexNumber": 773
+  },
+  {
+    "id": "smp-SM65",
+    "name": "Alolan Raichu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM65.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Pikachu",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM65",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 30 more damage."
+      },
+      {
+        "name": "Electric Surfer",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM65_hires.png",
+    "nationalPokedexNumber": 26
+  },
+  {
     "id": "smp-SM66",
     "name": "Pheromosa-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM66.png",
@@ -2113,11 +3525,11 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-    "types": [
-      "Grass"
-    ],
     "text": [
       "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
     ],
     "attacks": [
       {
@@ -2146,8 +3558,8 @@
           "Grass"
         ],
         "convertedEnergyCost": 2,
-        "damage": "50x",
-        "text": "This attack does 50 damage for each Prize card your opponent has taken. (You can’t use more than 1 GX attack in a game.)"
+        "damage": "50×",
+        "text": "This attack does 50 damage for each Prize card your opponent has taken. (You can't use more than 1 GX attack in a game.)"
       }
     ],
     "weaknesses": [
@@ -2178,11 +3590,11 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-    "types": [
-      "Metal"
-    ],
     "text": [
       "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
     ],
     "attacks": [
       {
@@ -2194,7 +3606,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "This attack does 30 more damage for each Colorless Energy in your opponent's Active Pokémon's Retreat Cost."
+        "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
       },
       {
         "name": "Moon Press",
@@ -2218,7 +3630,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "180",
-        "text": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) (You can’t use more than 1 GX attack in a game.)"
+        "text": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) (You can't use more than 1 GX attack in a game.)"
       }
     ],
     "weaknesses": [
@@ -2242,6 +3654,11 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM68.png",
     "subtype": "GX",
     "supertype": "Pokémon",
+    "ability": {
+      "name": "Flashing Head",
+      "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have any Special Energy attached to them.",
+      "type": "Ability"
+    },
     "hp": "180",
     "retreatCost": [
       "Colorless",
@@ -2253,11 +3670,11 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-    "types": [
-      "Lightning"
-    ],
     "text": [
       "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
     ],
     "attacks": [
       {
@@ -2278,14 +3695,9 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent reveals their hand. Add a card you find there to their Prize cards face down. (You can’t use more than 1 GX attack in a game.)"
+        "text": "Your opponent reveals their hand. Add a card you find there to their Prize cards face down. (You can't use more than 1 GX attack in a game.)"
       }
     ],
-    "ability": {
-      "name": "Flashing Head",
-      "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have any Special Energy attached to them.",
-      "type": "Ability"
-    },
     "weaknesses": [
       {
         "type": "Fighting",
@@ -2368,11 +3780,768 @@
     "nationalPokedexNumber": 794
   },
   {
+    "id": "smp-SM70",
+    "name": "Shining Ho-Oh",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM70.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Golden Wing",
+      "text": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, move up to 2 basic Energy cards from this Pokémon to your Benched Pokémon in any way you like.",
+      "type": "Ability"
+    },
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM70",
+    "artist": "Hitoshi Ariga",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Fire Blast",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "110",
+        "text": "Discard an Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM70_hires.png",
+    "nationalPokedexNumber": 250
+  },
+  {
+    "id": "smp-SM71",
+    "name": "Kommo-o-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM71.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Hakamo-o",
+    "hp": "240",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM71",
+    "artist": "",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Adamantine Press",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Shred",
+        "cost": [
+          "Lightning",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Ultra Uppercut-GX",
+        "cost": [
+          "Lightning",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "240",
+        "text": "(You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM71_hires.png",
+    "nationalPokedexNumber": 784
+  },
+  {
+    "id": "smp-SM72",
+    "name": "Alolan Raichu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM72.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Pikachu",
+    "ability": {
+      "name": "Surge Surfer",
+      "text": "If there is any Stadium card in play, this Pokémon has no Retreat Cost.",
+      "type": "Ability"
+    },
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM72",
+    "artist": "Akira Komayama",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70+",
+        "text": "This attack does 20 more damage times the amount of Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM72_hires.png",
+    "nationalPokedexNumber": 26
+  },
+  {
+    "id": "smp-SM73",
+    "name": "Salazzle",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM73.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Salandit",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM73",
+    "artist": "Shin Nagasawa",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Nasty Plot",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Severe Poison",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM73_hires.png",
+    "nationalPokedexNumber": 758
+  },
+  {
+    "id": "smp-SM74",
+    "name": "Regirock",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM74.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Rock Peak Growl",
+      "text": "Your Registeel's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM74",
+    "artist": "kawayoo",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Tough Swing",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": "This attack's damage isn't affected by Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM74_hires.png",
+    "nationalPokedexNumber": 377
+  },
+  {
+    "id": "smp-SM75",
+    "name": "Registeel",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM75.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM75",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Turbo Arm",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Iron Hand",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "If Regice is on your Bench, heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM75_hires.png",
+    "nationalPokedexNumber": 379
+  },
+  {
+    "id": "smp-SM76",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM76.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM76",
+    "artist": "match",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Wave",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM76_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM77",
+    "name": "Mewtwo",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM77.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Pressure",
+      "text": "As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon's attacks do 20 less damage (before applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM77",
+    "artist": "Kouki Saitou",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Super Psy Bolt",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM77_hires.png",
+    "nationalPokedexNumber": 150
+  },
+  {
+    "id": "smp-SM78",
+    "name": "Champions Festival",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM78.png",
+    "subtype": "Stadium",
+    "supertype": "Trainer",
+    "number": "SM78",
+    "artist": "Naoki Saito",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "Once during each player's turn, if that player has 6 Pokémon in play, they may heal 10 damage from each of their Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM78_hires.png"
+  },
+  {
+    "id": "smp-SM79",
+    "name": "Shining Celebi",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM79.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Time Recall",
+      "text": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+      "type": "Ability"
+    },
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM79",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM79_hires.png",
+    "nationalPokedexNumber": 251
+  },
+  {
+    "id": "smp-SM80",
+    "name": "Ho-Oh-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM80.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM80",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Sacred Fire",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Phoenix Burn",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "This Pokémon can't use Phoenix Burn during your next turn."
+      },
+      {
+        "name": "Eternal Flame-GX",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM80_hires.png",
+    "nationalPokedexNumber": 250
+  },
+  {
+    "id": "smp-SM81",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM81.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM81",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Wave",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM81_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM82",
+    "name": "Shining Lugia",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM82.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM82",
+    "artist": "Hitoshi Ariga",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Argent Wing",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "If your opponent's Active Pokémon has an Ability, this attack does 60 more damage."
+      },
+      {
+        "name": "Aero Force",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": "Discard an Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM82_hires.png",
+    "nationalPokedexNumber": 249
+  },
+  {
+    "id": "smp-SM83",
+    "name": "Zorua",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM83.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM83",
+    "artist": "kodama",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Stampede",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM83_hires.png",
+    "nationalPokedexNumber": 570,
+    "evolvesTo": [
+      "Zoroark"
+    ]
+  },
+  {
     "id": "smp-SM84",
     "name": "Zoroark-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM84.png",
     "subtype": "GX",
     "supertype": "Pokémon",
+    "evolvesFrom": "Zorua",
+    "ability": {
+      "name": "Trade",
+      "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
+      "type": "Ability"
+    },
     "hp": "210",
     "retreatCost": [
       "Colorless",
@@ -2384,13 +4553,12 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-    "types": [
-      "Darkness"
-    ],
     "text": [
       "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
     ],
-    "evolvesFrom": "Zorua",
+    "types": [
+      "Darkness"
+    ],
     "attacks": [
       {
         "name": "Riotous Beating",
@@ -2399,25 +4567,20 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20x",
+        "damage": "20×",
         "text": "This attack does 20 damage for each of your Pokémon in play."
       },
       {
+        "name": "Trickster-GX",
         "cost": [
           "Darkness",
           "Darkness"
         ],
-        "name": "Trickster-GX",
-        "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can’t use more than 1 GX attack in a game.)",
+        "convertedEnergyCost": 2,
         "damage": "",
-        "convertedEnergyCost": 2
+        "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)"
       }
     ],
-    "ability": {
-      "name": "Trade",
-      "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
-      "type": "Ability"
-    },
     "weaknesses": [
       {
         "type": "Fighting",
@@ -2432,5 +4595,916 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM84_hires.png",
     "nationalPokedexNumber": 571
+  },
+  {
+    "id": "smp-SM85",
+    "name": "Marshadow",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM85.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Let Loose",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may have each player shuffle their hand into their deck and draw 4 cards.",
+      "type": "Ability"
+    },
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM85",
+    "artist": "Emi Ando",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Shadow Punch",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "This attack's damage isn't affected by Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM85_hires.png",
+    "nationalPokedexNumber": 802
+  },
+  {
+    "id": "smp-SM86",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM86.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM86",
+    "artist": "kodama",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Tail Whap",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Spark",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "This attack does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM86_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM87",
+    "name": "Latias",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM87.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Flight Support",
+      "text": "Your Latios in play have no Retreat Cost.",
+      "type": "Ability"
+    },
+    "hp": "100",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM87",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Misty Gale",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Heal 30 damage from each of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM87_hires.png",
+    "nationalPokedexNumber": 380
+  },
+  {
+    "id": "smp-SM88",
+    "name": "Latios",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM88.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM88",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Break Through",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Lagoon Flight",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM88_hires.png",
+    "nationalPokedexNumber": 381
+  },
+  {
+    "id": "smp-SM89",
+    "name": "Zoroark",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM89.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Zorua",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM89",
+    "artist": "Misa Tsutsui",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Rip Claw",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+      },
+      {
+        "name": "Doom Crush",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Discard a Darkness Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM89_hires.png",
+    "nationalPokedexNumber": 571
+  },
+  {
+    "id": "smp-SM90",
+    "name": "Raichu-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM90.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Pikachu",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM90",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Powerful Spark",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "This attack does 20 more damage times the amount of Lightning Energy attached to your Pokémon."
+      },
+      {
+        "name": "Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "This Pokémon does 30 damage to itself."
+      },
+      {
+        "name": "Voltail-GX",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM90_hires.png",
+    "nationalPokedexNumber": 26
+  },
+  {
+    "id": "smp-SM91",
+    "name": "Silvally-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM91.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Type: Null",
+    "ability": {
+      "name": "Gyro Unit",
+      "text": "Your Basic Pokémon in play have no Retreat Cost.",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "SM91",
+    "artist": "5ban Graphics",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Turbo Drive",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Rebel-GX",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM91_hires.png",
+    "nationalPokedexNumber": 773
+  },
+  {
+    "id": "smp-SM98",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM98.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM98",
+    "artist": "Saya Tsuruta",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Tail Whap",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Thunder Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM98_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM99",
+    "name": "Mimikyu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM99.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM99",
+    "artist": "Megumi Mizutani",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Filch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw 2 cards."
+      },
+      {
+        "name": "Copycat",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "If your opponent's Pokémon used an attack that isn't a GX attack during their last turn, use it as this attack."
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM99_hires.png",
+    "nationalPokedexNumber": 778
+  },
+  {
+    "id": "smp-SM108",
+    "name": "Ash's Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM108.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM108",
+    "artist": "2017 Pikachu Project",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "I Choose You!",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM108_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM109",
+    "name": "Ash's Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM109.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM109",
+    "artist": "2017 Pikachu Project",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Agility",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+      },
+      {
+        "name": "Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Flip a coin. If tails, this Pokémon does 20 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM109_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM110",
+    "name": "Ash's Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM110.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM110",
+    "artist": "2017 Pikachu Project",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Iron Tail",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      },
+      {
+        "name": "Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Flip a coin. If tails, this Pokémon does 20 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM110_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM111",
+    "name": "Ash's Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM111.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM111",
+    "artist": "2017 Pikachu Project",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 more damage."
+      },
+      {
+        "name": "Volt Tackle",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "This Pokémon does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM111_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM112",
+    "name": "Ash's Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM112.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM112",
+    "artist": "2017 Pikachu Project",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 more damage."
+      },
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM112_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM113",
+    "name": "Ash's Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM113.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM113",
+    "artist": "2017 Pikachu Project",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Iron Tail",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      },
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM113_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM114",
+    "name": "Ash's Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM114.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "SM114",
+    "artist": "2017 Pikachu Project",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Iron Tail",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM114_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
   }
 ]
