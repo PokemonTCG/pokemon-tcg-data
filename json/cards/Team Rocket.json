@@ -140,7 +140,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "Does 30 damage plus 20 more damage for each Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way."
+        "text": "Does 30 damage plus 20 more damage for each W Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way."
       },
       {
         "name": "Rocket Tackle",
@@ -387,6 +387,11 @@
     "supertype": "Pokémon",
     "level": "31",
     "evolvesFrom": "Magikarp",
+    "ability": {
+      "name": "Final Beam",
+      "text": "When Dark Gyarados is Knocked Out by an attack, flip a coin. If heads, this power does 20 damage for each Water Energy attached to Dark Gyarados to the Pokémon that Knocked Out Dark Gyarados. Apply Weakness and Resistance. This power doesn't work if Dark Gyarados is Asleep, Confused, or Paralyzed.",
+      "type": "Pokémon Power"
+    },
     "hp": "70",
     "retreatCost": [
       "Colorless",
@@ -936,7 +941,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "Does 30 damage plus 20 more damage for each Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way."
+        "text": "Does 30 damage plus 20 more damage for each W Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way."
       },
       {
         "name": "Rocket Tackle",
@@ -1485,7 +1490,7 @@
     ],
     "weaknesses": [
       {
-        "type": "Fighting",
+        "type": "Fire",
         "value": "×2"
       }
     ],
@@ -1522,7 +1527,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20×",
-        "text": "Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to each Koffing, Weezing, and Dark Weezing even your own). Don't apply Weakness and Resistance."
+        "text": "Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to each Koffing, Weezing, and Dark Weezing (even your own). Don't apply Weakness and Resistance."
       },
       {
         "name": "Stun Gas",
@@ -2711,7 +2716,7 @@
     "supertype": "Pokémon",
     "level": "10",
     "ability": {
-      "name": "Long",
+      "name": "Long Distance Hypnosis",
       "text": "Distance Hypnosis - Once during your turn (before your attack), you may flip a coin. If heads, the Defending Pokémon is now Asleep; if tails, your Active Pokémon is now Asleep. The power can't be used if Drowzee is Asleep, Confused, or Paralyzed.",
       "type": "Pokémon Power"
     },

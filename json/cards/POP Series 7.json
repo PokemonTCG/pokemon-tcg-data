@@ -37,13 +37,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "You may discard all Energy attached to Ampharos. If you do, this attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        "text": "You may discard all Lightning Energy attached to Ampharos. If you do, this attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+30"
       }
     ],
     "resistances": [
@@ -86,7 +86,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Put Damage counters on the Defending Pokémon until it is 50 HP away from being Knocked Out. If you do, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        "text": "Put damage counters on the Defending Pokémon until it is 50 HP away from being Knocked Out. If you do, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
       },
       {
         "name": "Psychic Cut",
@@ -96,14 +96,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "",
-        "text": "You may choose as many of your face-down Prize cards as you like and put them face up. If you do, this attack does 60 damge plus 20 more damage for each Prize card you chose. (These cards remain face up for the rest of the game.)"
+        "damage": "60+",
+        "text": "You may choose as many of your face-down Prize cards as you like and put them face up. If you do, this attack does 60 damage plus 20 more damage for each Prize card you chose. (These cards remain face up for the rest of the game.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "+30"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/2_hires.png",
@@ -137,7 +137,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Remove 1 damage counter and all Special Conditions from Latias."
+        "text": "Remove 2 damage counters and all Special Conditions from Latias."
       },
       {
         "name": "Mist Ball",
@@ -148,13 +148,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Discard a Energy and a Energy attached to Latias."
+        "text": "Discard a Fire Energy and a Water Energy attached to Latias."
       }
     ],
     "weaknesses": [
       {
         "type": "Colorless",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "resistances": [
@@ -213,7 +213,7 @@
     "weaknesses": [
       {
         "type": "Colorless",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "resistances": [
@@ -267,7 +267,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "resistances": [
@@ -325,7 +325,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/6_hires.png",
@@ -360,7 +360,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Search your deck for a Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+        "text": "Search your deck for a Lightning Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Electromagnetic Kick",
@@ -377,7 +377,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "resistances": [
@@ -431,14 +431,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "40",
+        "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/8_hires.png",
@@ -492,7 +492,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/9_hires.png",
@@ -534,13 +534,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
-        "text": "Does 40 damage plus 10 more damage for each Energy attached to Wormadam Sandy Cloak."
+        "text": "Does 40 damage plus 10 more damage for each Fighting Energy attached to Wormadam Sandy Cloak."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "resistances": [
@@ -588,13 +588,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10+",
-        "text": "If Burmy Plant Cloak has any Energy attached to it, this attack does 10 damage plus 10 more damage."
+        "text": "If Burmy Plant Cloak has any Grass Energy attached to it, this attack does 10 damage plus 10 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/11_hires.png",
@@ -636,13 +636,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10+",
-        "text": "If Burmy Sandy Cloak has any Energy attached to it, this attack does 10 damage plus 10 more damage."
+        "text": "If Burmy Sandy Cloak has any Fighting Energy attached to it, this attack does 10 damage plus 10 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/12_hires.png",
@@ -679,7 +679,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 3 different types of Basic Pokémon and put them on your Bench. Shuffle your deck afterward."
+        "text": "Search your deck for up to 3 different types of Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
       },
       {
         "name": "Hook",
@@ -695,7 +695,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/13_hires.png",
@@ -745,7 +745,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "resistances": [
@@ -803,7 +803,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/15_hires.png",
@@ -840,7 +840,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Look at the top 2 cards of your deck, choose 1 of them and put it into your hand. Put the other on the bottom of your deck."
+        "text": "Look at the top 2 cards of your deck, choose 1 of them, and put it into your hand. Put the other card on the bottom of your deck."
       },
       {
         "name": "Scratch",
@@ -855,7 +855,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/16_hires.png",
@@ -907,7 +907,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop7/17_hires.png",

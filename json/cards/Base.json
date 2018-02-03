@@ -169,6 +169,10 @@
     "supertype": "Pokémon",
     "level": "76",
     "evolvesFrom": "Charmeleon",
+    "ability": {
+      "name": "Energy Burn",
+      "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into R for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+    },
     "hp": "120",
     "retreatCost": [
       "Colorless",
@@ -560,6 +564,8 @@
     "evolvesFrom": "Nidorino",
     "hp": "90",
     "retreatCost": [
+      "Colorless",
+      "Colorless",
       "Colorless"
     ],
     "number": "11",
@@ -581,7 +587,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to self."
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
       },
       {
         "name": "Toxic",
@@ -904,8 +910,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "",
-        "text": "Flip 2 coins. This attack does 30 times number of heads."
+        "damage": "30×",
+        "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
       },
       {
         "name": "Poison Sting",
@@ -3600,7 +3606,7 @@
           "Grass"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
+        "damage": "10",
         "text": "Flip a coin. If heads, Defending Pokémon is now Poisoned."
       }
     ],

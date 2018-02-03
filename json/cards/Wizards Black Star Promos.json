@@ -906,9 +906,7 @@
     "supertype": "Pokémon",
     "level": "15",
     "hp": "40",
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": "",
     "number": "19",
     "artist": "Atsuko Nishida",
     "series": "Base",
@@ -1330,7 +1328,6 @@
     "level": "32",
     "hp": "50",
     "retreatCost": [
-      "Colorless",
       "Colorless"
     ],
     "number": "28",
@@ -2411,7 +2408,7 @@
     "supertype": "Pokémon",
     "ability": {
       "name": "Pure Body",
-      "text": "Whenever you attach a Water Energy card to Suicune from your hand, you must discard 1 other Energy card attached to Suicune. (If you can't discard Energy cards, you can't attach the Water Energy card.)",
+      "text": "To attach a Water Energy card from your hand to Suicune, you must discard an Energy card attached to Suicune. (Attach the Water Energy, and then discard an Energy card from Suicune.)",
       "type": "Poké-Body"
     },
     "hp": "70",
@@ -2436,7 +2433,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, the Defending Pokémon is now Asleep."
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep."
       }
     ],
     "weaknesses": [

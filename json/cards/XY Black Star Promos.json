@@ -2026,6 +2026,10 @@
     "subtype": "Stage 2",
     "supertype": "Pokémon",
     "evolvesFrom": "Seadra",
+    "ancientTrait": {
+      "name": "α Growth",
+      "text": "When you attach an Energy card from your hand to this Pokémon (except with an attack, Ability, or Trainer card), you may attach 2 Energy cards."
+    },
     "hp": "130",
     "retreatCost": [
       "Colorless"
@@ -2415,6 +2419,10 @@
       "name": "Clear Humming",
       "text": "Each of your Colorless Pokémon has no Weakness.",
       "type": "Ability"
+    },
+    "ancientTrait": {
+      "name": "Δ Evolution",
+      "text": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon."
     },
     "hp": "90",
     "retreatCost": [
@@ -3163,6 +3171,10 @@
     "subtype": "Stage 1",
     "supertype": "Pokémon",
     "evolvesFrom": "Magikarp",
+    "ancientTrait": {
+      "name": "θ Double",
+      "text": "This Pokémon may have up to 2 Pokémon Tool cards attached to it."
+    },
     "hp": "130",
     "retreatCost": [
       "Colorless",
@@ -7186,7 +7198,7 @@
           "Fairy"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20＋",
+        "damage": "20+",
         "text": "Flip a coin. If heads, this attack does 20 more damage and heal 20 damage from this Pokémon."
       }
     ],
@@ -9075,7 +9087,7 @@
   },
   {
     "id": "xyp-XY183",
-    "name": "Mewtwo EX",
+    "name": "Mewtwo-EX",
     "imageUrl": "https://images.pokemontcg.io/xyp/XY183.png",
     "subtype": "EX",
     "supertype": "Pokémon",
@@ -9090,6 +9102,9 @@
     "series": "XY",
     "set": "XY Black Star Promos",
     "setCode": "xyp",
+    "text": [
+      "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
     "types": [
       "Psychic"
     ],
