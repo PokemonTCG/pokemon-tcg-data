@@ -43,7 +43,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "+40"
       }
     ],
     "resistances": [
@@ -52,8 +52,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 411,
-    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/1_hires.png"
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/1_hires.png",
+    "nationalPokedexNumber": 411
   },
   {
     "id": "pop6-2",
@@ -100,11 +100,11 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "+20"
       }
     ],
-    "nationalPokedexNumber": 448,
-    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/2_hires.png"
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/2_hires.png",
+    "nationalPokedexNumber": 448
   },
   {
     "id": "pop6-3",
@@ -150,11 +150,11 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "+20"
       }
     ],
-    "nationalPokedexNumber": 490,
-    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/3_hires.png"
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/3_hires.png",
+    "nationalPokedexNumber": 490
   },
   {
     "id": "pop6-4",
@@ -199,7 +199,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "resistances": [
@@ -208,8 +208,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 417,
-    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/4_hires.png"
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/4_hires.png",
+    "nationalPokedexNumber": 417
   },
   {
     "id": "pop6-5",
@@ -240,7 +240,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "",
+        "damage": "30",
         "text": "As long as the Defending Pokémon's remaining HP is 60 or less, this attack's base damage is 60 instead of 30."
       },
       {
@@ -252,17 +252,17 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies. or any other effects on the Defending Pokémon."
+        "text": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "×2"
+        "value": "+30"
       }
     ],
-    "nationalPokedexNumber": 409,
-    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/5_hires.png"
+    "imageUrlHiRes": "https://images.pokemontcg.io/pop6/5_hires.png",
+    "nationalPokedexNumber": 409
   },
   {
     "id": "pop6-6",
@@ -292,7 +292,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attacked to on top of your deck. Shuffle your deck afterward."
+        "text": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attached to on top of your deck. Shuffle your deck afterward."
       },
       {
         "name": "Ominous Wind",
@@ -308,7 +308,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "resistances": [
@@ -317,8 +317,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 425,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/6_hires.png",
+    "nationalPokedexNumber": 425,
     "evolvesTo": [
       "Drifblim"
     ]
@@ -361,8 +361,8 @@
         "value": "×2"
       }
     ],
-    "nationalPokedexNumber": 443,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/7_hires.png",
+    "nationalPokedexNumber": 443,
     "evolvesTo": [
       "Gabite"
     ]
@@ -394,18 +394,18 @@
           "Fighting"
         ],
         "convertedEnergyCost": 1,
-        "damage": "",
+        "damage": "30",
         "text": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "×2"
+        "value": "+10"
       }
     ],
-    "nationalPokedexNumber": 447,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/8_hires.png",
+    "nationalPokedexNumber": 447,
     "evolvesTo": [
       "Lucario"
     ]
@@ -454,8 +454,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 25,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/9_hires.png",
+    "nationalPokedexNumber": 25,
     "evolvesTo": [
       "Raichu"
     ]
@@ -503,7 +503,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "+20"
       }
     ],
     "resistances": [
@@ -512,8 +512,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 397,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/10_hires.png",
+    "nationalPokedexNumber": 397,
     "evolvesTo": [
       "Staraptor"
     ]
@@ -555,17 +555,17 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search you discard pile for a Trainer card, show it to your opponent, and put it into your hand."
+        "text": "Search your discard pile for a Trainer card, show it to your opponent, and put it into your hand."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+10"
       }
     ],
-    "nationalPokedexNumber": 399,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/11_hires.png",
+    "nationalPokedexNumber": 399,
     "evolvesTo": [
       "Bibarel"
     ]
@@ -614,11 +614,11 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "×2"
+        "value": "+10"
       }
     ],
-    "nationalPokedexNumber": 427,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/12_hires.png",
+    "nationalPokedexNumber": 427,
     "evolvesTo": [
       "Lopunny"
     ]
@@ -667,7 +667,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "resistances": [
@@ -676,8 +676,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 420,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/13_hires.png",
+    "nationalPokedexNumber": 420,
     "evolvesTo": [
       "Cherrim"
     ]
@@ -720,17 +720,17 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If tails, discard a Energy attached to Chimchar."
+        "text": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "×2"
+        "value": "+10"
       }
     ],
-    "nationalPokedexNumber": 390,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/14_hires.png",
+    "nationalPokedexNumber": 390,
     "evolvesTo": [
       "Monferno"
     ]
@@ -779,11 +779,11 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "+10"
       }
     ],
-    "nationalPokedexNumber": 393,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/15_hires.png",
+    "nationalPokedexNumber": 393,
     "evolvesTo": [
       "Prinplup"
     ]
@@ -832,7 +832,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "resistances": [
@@ -841,8 +841,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 396,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/16_hires.png",
+    "nationalPokedexNumber": 396,
     "evolvesTo": [
       "Staravia"
     ]
@@ -891,7 +891,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "×2"
+        "value": "+10"
       }
     ],
     "resistances": [
@@ -900,8 +900,8 @@
         "value": "-20"
       }
     ],
-    "nationalPokedexNumber": 387,
     "imageUrlHiRes": "https://images.pokemontcg.io/pop6/17_hires.png",
+    "nationalPokedexNumber": 387,
     "evolvesTo": [
       "Grotle"
     ]
