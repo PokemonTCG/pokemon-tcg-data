@@ -4261,7 +4261,12 @@
     "name": "Buried Fossil",
     "imageUrl": "https://images.pokemontcg.io/ecard3/47.png",
     "subtype": "Basic",
-    "supertype": "Energy",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Reconstruction",
+      "text": "Once during your turn (before your attack), if you have a basic Energy card in your hand, you may search your deck for an Omanyte or Kabuto card, show it to your opponent, and put it into your hand. Then put a basic Energy card from your hand into your deck. Shuffle your deck afterward.",
+      "type": "Poké-Power"
+    },
     "hp": "30",
     "retreatCost": [
       "Colorless"
@@ -4273,7 +4278,15 @@
     "series": "E-Card",
     "set": "Skyridge",
     "setCode": "ecard3",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ecard3/47_hires.png"
+    "text": [
+      "You may play a Pokémon card that evolves from Mysterious Fossil on top of Buried Fossil. (This counts as evolving Buried Fossil.) Buried Fossil can’t be affected by Special Conditions."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ecard3/47_hires.png",
+    "evolvesTo": [
+      "Omanyte",
+      "Kabuto",
+      "Aerodactyl"
+    ]
   },
   {
     "id": "ecard3-48",
