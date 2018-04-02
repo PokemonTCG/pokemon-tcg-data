@@ -7397,12 +7397,12 @@
   },
   {
     "id": "sm3-150",
-    "name": "Ho-Oh-GX",
+    "name": "Charizard GX",
     "imageUrl": "https://images.pokemontcg.io/sm3/150.png",
     "subtype": "GX",
     "supertype": "Pokémon",
     "level": "GX",
-    "hp": "190",
+    "hp": "250",
     "retreatCost": [
       "Colorless",
       "Colorless"
@@ -7422,7 +7422,30 @@
     ],
     "attacks": [
       {
-        "name": "Sacred Fire",
+        "name": "Wing Attack",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+      },
+      {
+        "name": "Crimson Storm",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "300",
+        "text": "Discard 3 Energy from this Pokémon."
+      },
+      {
+        "name": "Raging Out-GX",
         "cost": [
           "Fire",
           "Colorless",
@@ -7430,46 +7453,17 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-      },
-      {
-        "name": "Phoenix Burn",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "180",
-        "text": "This Pokémon can't use Phoenix Burn during your next turn."
-      },
-      {
-        "name": "Eternal Flame-GX",
-        "cost": [
-          "Fire",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "",
-        "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+        "text": "Discard the top 10 cards from your opponent's deck. (You can't use more than 1 GX attack in a game.)"
       }
     ],
     "weaknesses": [
       {
-        "type": "Lightning",
+        "type": "Water",
         "value": "×2"
       }
     ],
-    "resistances": [
-      {
-        "type": "Fighting",
-        "value": "-20"
-      }
-    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm3/150_hires.png",
-    "nationalPokedexNumber": 250
+    "nationalPokedexNumber": 6
   },
   {
     "id": "sm3-151",
