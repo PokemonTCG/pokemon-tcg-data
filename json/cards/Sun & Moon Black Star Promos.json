@@ -3794,7 +3794,7 @@
     "convertedRetreatCost": 2,
     "number": "SM69",
     "artist": "5ban Graphics",
-    "rarity": "",
+    "rarity": "Rare Ultra",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
@@ -5082,6 +5082,62 @@
     "nationalPokedexNumber": 773
   },
   {
+    "id": "smp-SM93",
+    "name": "Marshadow",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM93.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SM93",
+    "artist": "kirisAki",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Shadowy Echoes",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put a Basic Pokémon from each player's discard pile onto its owner's Bench."
+      },
+      {
+        "name": "Surprise Attack",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM93_hires.png",
+    "nationalPokedexNumber": 802
+  },
+  {
     "id": "smp-SM98",
     "name": "Pikachu",
     "imageUrl": "https://images.pokemontcg.io/smp/SM98.png",
@@ -5183,6 +5239,386 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM99_hires.png",
     "nationalPokedexNumber": 778
+  },
+  {
+    "id": "smp-SM100",
+    "name": "Lucario-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM100.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Riolu",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM100",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Aura Strike",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If this Pokémon evolved from Riolu during this turn, this attack does 90 more damage."
+      },
+      {
+        "name": "Cyclone Kick",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Cantankerous Beatdown-GX",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM100_hires.png",
+    "nationalPokedexNumber": 448
+  },
+  {
+    "id": "smp-SM101",
+    "name": "Dawn Wings Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM101.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Invasion",
+      "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM101",
+    "artist": "",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Dark Flash",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This attack's damage isn't affected by Resistance."
+      },
+      {
+        "name": "Moon's Eclipse-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "You can use this attack only if you have more Prize cards remaining than your opponent. Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM101_hires.png",
+    "nationalPokedexNumber": 800
+  },
+  {
+    "id": "smp-SM102",
+    "name": "Dusk Mane Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM102.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SM102",
+    "artist": "",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      },
+      {
+        "name": "Meteor Tempest",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "220",
+        "text": "Discard 3 Energy from this Pokémon."
+      },
+      {
+        "name": "Sun's Eclipse-GX",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": "You can use this attack only if you have more Prize cards remaining than your opponent. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM102_hires.png",
+    "nationalPokedexNumber": 800
+  },
+  {
+    "id": "smp-SM105",
+    "name": "Lycanroc",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM105.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Rockruff",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM105",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Stone Edge",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM105_hires.png",
+    "nationalPokedexNumber": 745
+  },
+  {
+    "id": "smp-SM106",
+    "name": "Dawn Wings Necrozma",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM106.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM106",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Gulf Stream",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20+",
+        "text": "If you have exactly 6 Prize cards remaining, this attack does 20 more damage for each damage counter on this Pokémon."
+      },
+      {
+        "name": "Sword of Dawn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM106_hires.png",
+    "nationalPokedexNumber": 800
+  },
+  {
+    "id": "smp-SM107",
+    "name": "Dusk Mane Necrozma",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM107.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM107",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Dusk Shot",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 60 damage to 1 of your opponent's Pokémon-GX or Pokémon-EX. This damage isn't affected by Weakness or Resistance."
+      },
+      {
+        "name": "Rusty Claws",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If your opponent has exactly 1 Prize card remaining, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM107_hires.png",
+    "nationalPokedexNumber": 800
   },
   {
     "id": "smp-SM108",
