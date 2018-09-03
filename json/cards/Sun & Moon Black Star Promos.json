@@ -2457,6 +2457,55 @@
     "nationalPokedexNumber": 777
   },
   {
+    "id": "smp-SM45",
+    "name": "Tapu Lele",
+    "nationalPokedexNumber": 785,
+    "imageUrl": "https://images.pokemontcg.io/smp/SM45.jpg",
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM45_hires.jpg",
+    "types": [
+      "Psychic"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SM45",
+    "artist": "You Iribi",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "attacks": [
+      {
+        "name": "Psywave",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon.",
+        "damage": "20×"
+      },
+      {
+        "name": "Magical Swap",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "text": "Move any number of damage counters on your opponent's Pokémon to their other Pokémon in any way you like.",
+        "damage": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ]
+  },
+  {
     "id": "smp-SM46",
     "name": "Seviper",
     "imageUrl": "https://images.pokemontcg.io/smp/SM46.png",
@@ -3325,6 +3374,58 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM60_hires.png",
     "nationalPokedexNumber": 6
+  },
+  {
+    "id": "smp-SM61",
+    "name": "Tapu Bulu",
+    "nationalPokedexNumber": 786,
+    "imageUrl": "https://images.pokemontcg.io/smp/SM61.jpg",
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM61_hires.jpg",
+    "types": [
+      "Grass"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM61",
+    "artist": "Megumi Mizutani",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "attacks": [
+      {
+        "name": "Horn Leech",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "text": "Heal 30 damage from this Pokémon.",
+        "damage": "30"
+      },
+      {
+        "name": "Calm Strike",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "text": "If you used your GX attack, this attack does 60 more damage.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ]
   },
   {
     "id": "smp-SM62",
@@ -5082,6 +5183,58 @@
     "nationalPokedexNumber": 773
   },
   {
+    "id": "smp-SM92",
+    "name": "Tapu Fini",
+    "nationalPokedexNumber": 787,
+    "imageUrl": "https://images.pokemontcg.io/smp/SM92.jpg",
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM92_hires.jpg",
+    "types": [
+      "Water"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM92",
+    "artist": "Sanosuke Sakuma",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "attacks": [
+      {
+        "name": "Water Pulse",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "text": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": "30"
+      },
+      {
+        "name": "Shining Currents",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "text": "If any of your Water Pokémon were healed during this turn, this attack does 60 more damage.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ]
+  },
+  {
     "id": "smp-SM93",
     "name": "Marshadow",
     "imageUrl": "https://images.pokemontcg.io/smp/SM93.png",
@@ -6038,6 +6191,143 @@
     "nationalPokedexNumber": 25,
     "evolvesTo": [
       "Raichu"
+    ]
+  },
+  {
+    "id": "smp-SM133",
+    "name": "Thundurus-GX",
+    "nationalPokedexNumber": 641,
+    "imageUrl": "https://images.pokemontcg.io/smp/SM133.jpg",
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM133_hires.jpg",
+    "types": [
+      "Lightning"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "GX",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM133",
+    "artist": "5ban Graphics",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "attacks": [
+      {
+        "name": "Charge",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for a Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+        "damage": ""
+      },
+      {
+        "name": "Electric Ball",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "text": "",
+        "damage": "140"
+      },
+      {
+        "name": "Thundering Hurricane-GX",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "text": "Flip 4 coins. This attack does 100 damage for each heads. (You can't use more than 1 GX attack in a game.)",
+        "damage": "100×"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ]
+  },
+  {
+    "id": "smp-SM134",
+    "name": "Tornadus-GX",
+    "nationalPokedexNumber": 640,
+    "imageUrl": "https://images.pokemontcg.io/smp/SM134.jpg",
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM134_hires.jpg",
+    "types": [
+      "Colorless"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "GX",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM134",
+    "artist": "5ban Graphics",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "attacks": [
+      {
+        "name": "Gust",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "text": "",
+        "damage": "50"
+      },
+      {
+        "name": "Wild Fury",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+        "damage": "90+"
+      },
+      {
+        "name": "Destructive Cyclone-GX",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "damage": "130"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
     ]
   }
 ]
