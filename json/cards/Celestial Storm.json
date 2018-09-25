@@ -7612,5 +7612,693 @@
       "Look at the bottom 4 cards of your deck and put 2 of them into your hand. Put the other cards back on the bottom of your deck in any order."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm7/168_hires.png"
+  },
+  {
+    "id": "sm7-169",
+    "name": "Shiftry-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/169.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Nuzleaf",
+    "hp": "240",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "169",
+    "artist": "PLANETA Igarashi",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Perplex",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Extrasensory",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "If you have the same number of cards in your hand as your opponent, this attack does 90 more damage."
+      },
+      {
+        "name": "Den of Iniquity-GX",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Choose 1 of your opponent's Pokémon. Your opponent shuffles that Pokémon and all cards attached to it into their deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/169_hires.png",
+    "nationalPokedexNumber": 275
+  },
+  {
+    "id": "sm7-170",
+    "name": "Blaziken-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/170.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Combusken",
+    "hp": "240",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "170",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": ""
+      },
+      {
+        "name": "Explosive Kick",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "210",
+        "text": "Discard 2 Fire Energy from this Pokémon."
+      },
+      {
+        "name": "Blaze Out-GX",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard 2 Energy from your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/170_hires.png",
+    "nationalPokedexNumber": 257
+  },
+  {
+    "id": "sm7-171",
+    "name": "Articuno-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/171.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Legendary Ascent",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch it with your Active Pokémon. If you do, move any number of Water Energy from your other Pokémon to this Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "171",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Ice Wing",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Cold Crush-GX",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard all Energy from both Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/171_hires.png",
+    "nationalPokedexNumber": 144
+  },
+  {
+    "id": "sm7-172",
+    "name": "Electrode-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/172.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Voltorb",
+    "ability": {
+      "name": "Extra Energy Bomb",
+      "text": "Once during your turn (before your attack), you may attach 5 Energy cards from your discard pile to your Pokémon, except Pokémon-GX or Pokémon-EX, in any way you like. If you do, this Pokémon is Knocked Out.",
+      "type": "Ability"
+    },
+    "hp": "190",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "172",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Crush and Burn-GX",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "Discard any amount of Energy from your Pokémon. This attack does 50 more damage for each card you discarded in this way. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/172_hires.png",
+    "nationalPokedexNumber": 101
+  },
+  {
+    "id": "sm7-173",
+    "name": "Mr. Mime-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/173.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Magic Evens",
+      "text": "Prevent all damage done to this Pokémon by your opponent's attacks if that damage is exactly 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240, or 260.",
+      "type": "Ability"
+    },
+    "hp": "150",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "173",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Breakdown",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "For each card in your opponent's hand, put 1 damage counter on their Active Pokémon."
+      },
+      {
+        "name": "Life Trick-GX",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/173_hires.png",
+    "nationalPokedexNumber": 122
+  },
+  {
+    "id": "sm7-174",
+    "name": "Banette-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/174.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Shuppet",
+    "ability": {
+      "name": "Shady Move",
+      "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may move 1 damage counter from 1 Pokémon to another Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "190",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "174",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Shadow Chant",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "This attack does 10 more damage for each Supporter card in your discard pile. You can't add more than 100 damage in this way."
+      },
+      {
+        "name": "Tomb Hunt-GX",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/174_hires.png",
+    "nationalPokedexNumber": 354
+  },
+  {
+    "id": "sm7-175",
+    "name": "Scizor-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/175.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Scyther",
+    "ability": {
+      "name": "Danger Perception",
+      "text": "If this Pokémon's remaining HP is 100 or less, its attacks do 80 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "175",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Steel Wing",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "80",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Cross-Cut-GX",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 100 more damage. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/175_hires.png",
+    "nationalPokedexNumber": 212
+  },
+  {
+    "id": "sm7-176",
+    "name": "Stakataka-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/176.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Ultra Wall",
+      "text": "Your Ultra Beasts take 10 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "176",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Gigaton Stomp",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      },
+      {
+        "name": "Assembly-GX",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "This attack does 50 more damage for each Prize card you have taken. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/176_hires.png"
+  },
+  {
+    "id": "sm7-177",
+    "name": "Rayquaza-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/177.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Stormy Winds",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard the top 3 cards of your deck. If you do, attach a basic Energy card from your discard pile to this Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "177",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Break",
+        "cost": [
+          "Grass",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30×",
+        "text": "This attack does 30 damage times the amount of basic Grass and basic Lightning Energy attached to your Pokémon."
+      },
+      {
+        "name": "Tempest-GX",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard your hand and draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/177_hires.png",
+    "nationalPokedexNumber": 384
+  },
+  {
+    "id": "sm7-178",
+    "name": "Acro Bike",
+    "imageUrl": "https://images.pokemontcg.io/sm7/178.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "178",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/178_hires.png"
+  },
+  {
+    "id": "sm7-179",
+    "name": "Hustle Belt",
+    "imageUrl": "https://images.pokemontcg.io/sm7/179.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "179",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "If the Pokémon this card is attached to has 30 HP or less remaining and has any damage counters on it, its attacks do 60 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/179_hires.png"
+  },
+  {
+    "id": "sm7-180",
+    "name": "Life Herb",
+    "imageUrl": "https://images.pokemontcg.io/sm7/180.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "180",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "Flip a coin. If heads, heal 60 damage and remove all Special Conditions from 1 of your Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/180_hires.png"
+  },
+  {
+    "id": "sm7-181",
+    "name": "PokéNav",
+    "imageUrl": "https://images.pokemontcg.io/sm7/181.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "181",
+    "artist": "Katsura Tabata",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "Look at the top 3 cards of your deck. You may reveal a Pokémon or Energy card you find there and put it into your hand. Put the other cards back in any order."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/181_hires.png"
+  },
+  {
+    "id": "sm7-182",
+    "name": "Rainbow Brush",
+    "imageUrl": "https://images.pokemontcg.io/sm7/182.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "182",
+    "artist": "Eske Yoshinob",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "Choose an Energy card attached to 1 of your Pokémon. Search your deck for a basic Energy card and switch it with that card. Shuffle the first Energy card into your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/182_hires.png"
+  },
+  {
+    "id": "sm7-183",
+    "name": "Rainbow Energy",
+    "imageUrl": "https://images.pokemontcg.io/sm7/183.png",
+    "subtype": "Special",
+    "supertype": "Energy",
+    "convertedRetreatCost": 0,
+    "number": "183",
+    "artist": "",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/183_hires.png"
   }
 ]
