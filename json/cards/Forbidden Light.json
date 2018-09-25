@@ -6265,5 +6265,717 @@
       "Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you discarded in this way."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm6/131_hires.png"
+  },
+  {
+    "id": "sm6-132",
+    "name": "Palkia-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/132.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "132",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Spatial Control",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Move any number of Energy from your Benched Pokémon to this Pokémon."
+      },
+      {
+        "name": "Hydro Pressure",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pokémon."
+      },
+      {
+        "name": "Zero Vanish-GX",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "150",
+        "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/132_hires.png",
+    "nationalPokedexNumber": 484
+  },
+  {
+    "id": "sm6-133",
+    "name": "Greninja-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/133.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Frogadier",
+    "ability": {
+      "name": "Shuriken Flurry",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "230",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "133",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Haze Slash",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+      },
+      {
+        "name": "Shadowy Hunter-GX",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 130 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/133_hires.png",
+    "nationalPokedexNumber": 658
+  },
+  {
+    "id": "sm6-134",
+    "name": "Naganadel-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/134.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Poipole",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "134",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Beast Raid",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each of your Ultra Beasts in play."
+      },
+      {
+        "name": "Jet Needle",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": "This attack's damage isn't affected by Weakness or Resistance."
+      },
+      {
+        "name": "Stinger-GX",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Both players shuffle their Prize cards into their decks. Then, each player puts the top 3 cards of their deck face down as their Prize cards. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/134_hires.png"
+  },
+  {
+    "id": "sm6-135",
+    "name": "Lucario-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/135.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Riolu",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "135",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Aura Strike",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If this Pokémon evolved from Riolu during this turn, this attack does 90 more damage."
+      },
+      {
+        "name": "Cyclone Kick",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Cantankerous Beatdown-GX",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/135_hires.png",
+    "nationalPokedexNumber": 448
+  },
+  {
+    "id": "sm6-136",
+    "name": "Zygarde-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/136.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "136",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Cell Connector",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Attach 2 Fighting Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Land's Wrath",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Verdict-GX",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": "Prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/136_hires.png",
+    "nationalPokedexNumber": 718
+  },
+  {
+    "id": "sm6-137",
+    "name": "Yveltal-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/137.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "137",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Absorb Vitality",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+      },
+      {
+        "name": "Sonic Evil",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "This attack's damage isn't affected by Weakness or Resistance."
+      },
+      {
+        "name": "Doom Count-GX",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "If your opponent's Active Pokémon has exactly 4 damage counters on it, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/137_hires.png",
+    "nationalPokedexNumber": 717
+  },
+  {
+    "id": "sm6-138",
+    "name": "Dialga-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/138.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "138",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Overclock",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw cards until you have 6 cards in your hand."
+      },
+      {
+        "name": "Shred",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Timeless-GX",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "150",
+        "text": "Take another turn after this one. (Skip the between-turns step.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/138_hires.png",
+    "nationalPokedexNumber": 483
+  },
+  {
+    "id": "sm6-139",
+    "name": "Xerneas-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/139.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "139",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "name": "Overrun",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Aurora Horns",
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      },
+      {
+        "name": "Sanctuary-GX",
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Move all damage counters from each of your Pokémon to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/139_hires.png",
+    "nationalPokedexNumber": 716
+  },
+  {
+    "id": "sm6-140",
+    "name": "Ultra Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm6/140.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "140",
+    "artist": "PLANETA Igarashi",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Photon Geyser",
+        "cost": [
+          "Psychic",
+          "Metal"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Discard all basic Psychic Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      },
+      {
+        "name": "Sky-Scorching Light-GX",
+        "cost": [
+          "Psychic",
+          "Metal"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/140_hires.png",
+    "nationalPokedexNumber": 800
+  },
+  {
+    "id": "sm6-141",
+    "name": "Beast Ring",
+    "imageUrl": "https://images.pokemontcg.io/sm6/141.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "141",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining. Search your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/141_hires.png"
+  },
+  {
+    "id": "sm6-142",
+    "name": "Eneporter",
+    "imageUrl": "https://images.pokemontcg.io/sm6/142.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "142",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "Move a Special Energy from 1 of your opponent's Pokémon to another of their Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/142_hires.png"
+  },
+  {
+    "id": "sm2-143",
+    "name": "Energy Recycler",
+    "imageUrl": "https://images.pokemontcg.io/sm6/143.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "143",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "Shuffle 5 basic Energy cards from your discard pile into your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/143_hires.png"
+  },
+  {
+    "id": "sm6-144",
+    "name": "Metal Frying Pan",
+    "imageUrl": "https://images.pokemontcg.io/sm6/144.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "144",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "The Metal Pokémon this card is attached to takes 30 less damage from your opponent's attacks (after applying Weakness and Resistance) and has no Weakness."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/144_hires.png"
+  },
+  {
+    "id": "sm6-145",
+    "name": "Mysterious Treasure",
+    "imageUrl": "https://images.pokemontcg.io/sm6/145.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "145",
+    "artist": "Eske Yoshinob",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "Discard a card from your hand. If you do, search your deck for a Psychic or Dragon Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/145_hires.png"
+  },
+  {
+    "id": "sm6-146",
+    "name": "Unit Energy FightingDarknessFairy",
+    "imageUrl": "https://images.pokemontcg.io/sm6/146.png",
+    "subtype": "Special",
+    "supertype": "Energy",
+    "convertedRetreatCost": 0,
+    "number": "146",
+    "artist": "",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Fighting, Darkness, and Fairy Energy but provides only 1 Energy at a time."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/146_hires.png"
   }
 ]
