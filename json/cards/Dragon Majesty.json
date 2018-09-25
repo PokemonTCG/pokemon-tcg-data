@@ -3358,5 +3358,384 @@
       "You can play this card only if 1 of your Pokémon was Knocked Out during your opponent's last turn. Attach up to 2 basic Energy cards from your hand to 1 of your Dragon Pokémon."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm75/70_hires.png"
+  },
+  {
+    "id": "sm75-71",
+    "name": "Reshiram-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm75/71.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "71",
+    "artist": "PLANETA Igarashi",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Flame Charge",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Scorching Column",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "110",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Vermilion-GX",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "You may attach up to 5 Fire Energy cards from your hand to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/71_hires.png",
+    "nationalPokedexNumber": 643
+  },
+  {
+    "id": "sm75-72",
+    "name": "Altaria-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm75/72.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Swablu",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "72",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Bright Tone",
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX."
+      },
+      {
+        "name": "Sonic Edge",
+        "cost": [
+          "Water",
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Euphoria-GX",
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Asleep. Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/72_hires.png",
+    "nationalPokedexNumber": 334
+  },
+  {
+    "id": "sm75-73",
+    "name": "Salamence-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm75/73.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Shelgon",
+    "ability": {
+      "name": "Dragon Lift",
+      "text": "Your Pokémon in play have no Retreat Cost, except Pokémon-GX and Pokémon-EX.",
+      "type": "Ability"
+    },
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "73",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Bright Flame",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "200",
+        "text": "Discard 2 Energy from this Pokémon."
+      },
+      {
+        "name": "Flame Jet-GX",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/73_hires.png",
+    "nationalPokedexNumber": 373
+  },
+  {
+    "id": "sm75-74",
+    "name": "White Kyurem-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm75/74.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "74",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Shred",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Raging Blade",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "If this Pokémon has any damage counters on it, this attack does 80 more damage."
+      },
+      {
+        "name": "Dragon Nova-GX",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "200",
+        "text": "Your opponent's Active Pokémon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/74_hires.png",
+    "nationalPokedexNumber": 646
+  },
+  {
+    "id": "sm75-75",
+    "name": "Dragon Talon",
+    "imageUrl": "https://images.pokemontcg.io/sm75/75.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "75",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "If the Dragon Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if that Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/75_hires.png"
+  },
+  {
+    "id": "sm75-76",
+    "name": "Fiery Flint",
+    "imageUrl": "https://images.pokemontcg.io/sm75/76.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "76",
+    "artist": "Eske Yoshinob",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "You can play this card only if you discard 2 other cards from your hand. Search your deck for up to 4 Fire Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/76_hires.png"
+  },
+  {
+    "id": "sm75-77",
+    "name": "Switch Raft",
+    "imageUrl": "https://images.pokemontcg.io/sm75/77.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "77",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "Switch your Active Water Pokémon with 1 of your Benched Pokémon. If you do, heal 30 damage from the Pokémon you moved to your Bench."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/77_hires.png"
+  },
+  {
+    "id": "sm75-78",
+    "name": "Ultra Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm75/78.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "78",
+    "artist": "PLANETA Igarashi",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Dragon Majesty",
+    "setCode": "sm75",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Photon Geyser",
+        "cost": [
+          "Psychic",
+          "Metal"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Discard all basic Psychic Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      },
+      {
+        "name": "Sky-Scorching Light-GX",
+        "cost": [
+          "Psychic",
+          "Metal"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm75/78_hires.png",
+    "nationalPokedexNumber": 800
   }
 ]
