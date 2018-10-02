@@ -636,7 +636,7 @@
     "convertedRetreatCost": 2,
     "number": "13",
     "artist": "5ban Graphics",
-    "rarity": "Rare Ultra",
+    "rarity": "Rare Holo GX",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -1916,7 +1916,7 @@
     "convertedRetreatCost": 2,
     "number": "39",
     "artist": "5ban Graphics",
-    "rarity": "Rare Ultra",
+    "rarity": "Rare Holo GX",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -3176,7 +3176,7 @@
     "convertedRetreatCost": 2,
     "number": "63",
     "artist": "5ban Graphics",
-    "rarity": "Rare Ultra",
+    "rarity": "Rare Holo GX",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -4677,7 +4677,7 @@
     "convertedRetreatCost": 3,
     "number": "90",
     "artist": "5ban Graphics",
-    "rarity": "Rare Ultra",
+    "rarity": "Rare Holo GX",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5224,7 +5224,7 @@
     "convertedRetreatCost": 3,
     "number": "100",
     "artist": "5ban Graphics",
-    "rarity": "Rare Ultra",
+    "rarity": "Rare Holo GX",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -5294,7 +5294,7 @@
     "convertedRetreatCost": 3,
     "number": "101",
     "artist": "5ban Graphics",
-    "rarity": "Rare Ultra",
+    "rarity": "Rare Holo GX",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -6098,7 +6098,7 @@
     "convertedRetreatCost": 2,
     "number": "116",
     "artist": "5ban Graphics",
-    "rarity": "Rare Ultra",
+    "rarity": "Rare Holo GX",
     "series": "Sun & Moon",
     "set": "Ultra Prism",
     "setCode": "sm5",
@@ -7330,5 +7330,869 @@
       "Search your deck for an Item card and a Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm5/156_hires.png"
+  },
+  {
+    "id": "sm5-157",
+    "name": "Leafeon-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/157.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Eevee",
+    "ability": {
+      "name": "Breath of the Leaves",
+      "text": "If this Pokémon is your Active Pokémon, once during your turn (before your attack), you may heal 50 damage from 1 of your Pokémon that has any Energy attached to it.",
+      "type": "Ability"
+    },
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "157",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Solar Beam",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": ""
+      },
+      {
+        "name": "Grand Bloom-GX",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "For each of your Benched Basic Pokémon, search your deck for a card that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/157_hires.png",
+    "nationalPokedexNumber": 470
+  },
+  {
+    "id": "sm5-158",
+    "name": "Pheromosa-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/158.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "158",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Fast Raid",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "If you go first, you can use this attack on your first turn."
+      },
+      {
+        "name": "Cruel Spike",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Beauty-GX",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each Prize card your opponent has taken. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/158_hires.png",
+    "nationalPokedexNumber": 795
+  },
+  {
+    "id": "sm5-159",
+    "name": "Glaceon-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/159.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Eevee",
+    "ability": {
+      "name": "Freezing Gaze",
+      "text": "As long as this Pokémon is your Active Pokémon, your opponent's Pokémon-GX and Pokémon-EX in play, in their hand, and in their discard pile have no Abilities, except for Freezing Gaze.",
+      "type": "Ability"
+    },
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "159",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Frost Bullet",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Polar Spear-GX",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each damage counter on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/159_hires.png",
+    "nationalPokedexNumber": 471
+  },
+  {
+    "id": "sm5-160",
+    "name": "Xurkitree-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/160.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Flashing Head",
+      "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have any Special Energy attached to them.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "160",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Rumbling Wires",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Discard the top card of your opponent's deck."
+      },
+      {
+        "name": "Lighting-GX",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent reveals their hand. Add a card you find there to their Prize cards face down. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/160_hires.png",
+    "nationalPokedexNumber": 796
+  },
+  {
+    "id": "sm5-161",
+    "name": "Dawn Wings Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/143.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Invasion",
+      "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "161",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Dark Flash",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This attack's damage isn't affected by Resistance."
+      },
+      {
+        "name": "Moon's Eclipse-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "You can use this attack only if you have more Prize cards remaining than your opponent. Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/161_hires.png",
+    "nationalPokedexNumber": 800
+  },
+  {
+    "id": "sm5-162",
+    "name": "Celesteela-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/162.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "162",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Rocket Fall",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+      },
+      {
+        "name": "Moon Press",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Blaster-GX",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/162_hires.png",
+    "nationalPokedexNumber": 797
+  },
+  {
+    "id": "sm5-163",
+    "name": "Dusk Mane Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/163.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "163",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      },
+      {
+        "name": "Meteor Tempest",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "220",
+        "text": "Discard 3 Energy from this Pokémon."
+      },
+      {
+        "name": "Sun's Eclipse-GX",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": "You can use this attack only if you have more Prize cards remaining than your opponent. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/163_hires.png",
+    "nationalPokedexNumber": 800
+  },
+  {
+    "id": "sm5-164",
+    "name": "Dialga-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/164.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "164",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Overclock",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw cards until you have 6 cards in your hand."
+      },
+      {
+        "name": "Shred",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Timeless-GX",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "150",
+        "text": "Take another turn after this one. (Skip the between-turns step.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/164_hires.png",
+    "nationalPokedexNumber": 483
+  },
+  {
+    "id": "sm5-165",
+    "name": "Palkia-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/165.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "165",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Spatial Control",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Move any number of Energy from your Benched Pokémon to this Pokémon."
+      },
+      {
+        "name": "Hydro Pressure",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pokémon."
+      },
+      {
+        "name": "Zero Vanish-GX",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "150",
+        "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/165_hires.png",
+    "nationalPokedexNumber": 484
+  },
+  {
+    "id": "sm5-166",
+    "name": "Crushing Hammer",
+    "imageUrl": "https://images.pokemontcg.io/sm5/166.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "166",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/166_hires.png"
+  },
+  {
+    "id": "sm5-167",
+    "name": "Escape Board",
+    "imageUrl": "https://images.pokemontcg.io/sm5/167.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "number": "167",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "The Retreat Cost of the Pokémon this card is attached to is Colorless less, and it can retreat even if it's Asleep or Paralyzed."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/167_hires.png"
+  },
+  {
+    "id": "sm5-168",
+    "name": "Missing Clover",
+    "imageUrl": "https://images.pokemontcg.io/sm5/168.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "168",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "You may play 4 Missing Clover cards at once. • If you played 1 card, look at the top card of your deck. • If you played 4 cards, take a Prize card. (This effect works one time for 4 cards.)"
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/168_hires.png"
+  },
+  {
+    "id": "sm5-169",
+    "name": "Peeking Red Card",
+    "imageUrl": "https://images.pokemontcg.io/sm5/169.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "169",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "Your opponent reveals their hand. You may have your opponent count the cards in their hand, shuffle those cards into their deck, then draw that many cards."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/169_hires.png"
+  },
+  {
+    "id": "sm5-170",
+    "name": "Unit Energy GrassFireWater",
+    "imageUrl": "https://images.pokemontcg.io/sm5/170.png",
+    "subtype": "Special",
+    "supertype": "Energy",
+    "number": "170",
+    "artist": "",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Grass, Fire, and Water Energy but provides only 1 Energy at a time."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/170_hires.png"
+  },
+  {
+    "id": "sm5-171",
+    "name": "Unit Energy LightningPsychicMetal",
+    "imageUrl": "https://images.pokemontcg.io/sm5/171.png",
+    "subtype": "Special",
+    "supertype": "Energy",
+    "number": "171",
+    "artist": "",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Lightning, Psychic, and Metal Energy but provides only 1 Energy at a time."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/171_hires.png"
+  },
+  {
+    "id": "sm1-172",
+    "name": "Lunala-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/172.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Cosmoem",
+    "ability": {
+      "name": "Psychic Transfer",
+      "text": "As often as you like during your turn (before your attack), you may move a Psychic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "172",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Moongeist Beam",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120",
+        "text": "The Defending Pokémon can't be healed during your opponent's next turn."
+      },
+      {
+        "name": "Lunar Fall-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Knock Out 1 of your opponent's Basic Pokémon that isn't a Pokémon-GX. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/172_hires.png",
+    "nationalPokedexNumber": 792
+  },
+  {
+    "id": "sm1-173",
+    "name": "Solgaleo-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm5/173.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Cosmoem",
+    "ability": {
+      "name": "Ultra Road",
+      "text": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "173",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Ultra Prism",
+    "setCode": "sm5",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Sunsteel Strike",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "230",
+        "text": "Discard all Energy from this Pokémon."
+      },
+      {
+        "name": "Sol Burst-GX",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 5 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm5/173_hires.png",
+    "nationalPokedexNumber": 791
   }
 ]
