@@ -1673,7 +1673,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM32.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "hp": "180",
     "retreatCost": [
       "Colorless",
@@ -1734,7 +1733,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM33.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "ability": {
       "name": "Aero Trail",
       "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may move any number of Lightning Energy from your other Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
@@ -1790,7 +1788,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM34.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Stufful",
     "hp": "210",
     "retreatCost": [
@@ -2001,7 +1998,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM37.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Dartrix",
     "ability": {
       "name": "Feather Arrow",
@@ -2063,7 +2059,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM38.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Torracat",
     "hp": "250",
     "retreatCost": [
@@ -2132,7 +2127,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM39.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Brionne",
     "hp": "250",
     "retreatCost": [
@@ -2726,7 +2720,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM50.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "ability": {
       "name": "Aero Trail",
       "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may move any number of Lightning Energy from your other Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
@@ -3043,7 +3036,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM56.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Steenee",
     "hp": "230",
     "retreatCost": [
@@ -3111,7 +3103,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM57.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "hp": "190",
     "retreatCost": [
       "Colorless",
@@ -3187,7 +3178,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM58.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "ability": {
       "name": "Light's End",
       "text": "Prevent all damage done to this Pokémon by attacks from Colorless Pokémon.",
@@ -3250,7 +3240,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM59.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "ability": {
       "name": "Shadow Hunt",
       "text": "This Pokémon can use the attacks of any Basic Pokémon in your discard pile. (You still need the necessary Energy to use each attack.)",
@@ -3310,7 +3299,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM60.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Charmeleon",
     "hp": "250",
     "retreatCost": [
@@ -3435,7 +3423,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM62.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Wimpod",
     "hp": "210",
     "retreatCost": [
@@ -3504,7 +3491,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM63.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Salandit",
     "hp": "200",
     "retreatCost": [
@@ -3888,7 +3874,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM69.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "hp": "190",
     "retreatCost": [
       "Colorless",
@@ -4010,7 +3995,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM71.png",
     "subtype": "GX",
     "supertype": "Pokémon",
-    "level": "GX",
     "evolvesFrom": "Hakamo-o",
     "hp": "240",
     "retreatCost": [
@@ -4401,6 +4385,7 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM78.png",
     "subtype": "Stadium",
     "supertype": "Trainer",
+    "convertedRetreatCost": 0,
     "number": "SM78",
     "artist": "Naoki Saito",
     "rarity": "",
@@ -6619,6 +6604,9 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
     "convertedRetreatCost": 1,
     "number": "SM119",
     "artist": "OOYAMA",
@@ -6648,7 +6636,10 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM119_hires.png",
-    "nationalPokedexNumber": 102
+    "nationalPokedexNumber": 102,
+    "evolvesTo": [
+      "Exeggutor"
+    ]
   },
   {
     "id": "smp-SM120",
@@ -6657,6 +6648,9 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
     "convertedRetreatCost": 1,
     "number": "SM120",
     "artist": "Hideki Ishikawa",
@@ -6686,19 +6680,17 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM120_hires.png",
-    "nationalPokedexNumber": 744
+    "nationalPokedexNumber": 744,
+    "evolvesTo": [
+      "Lycanroc"
+    ]
   },
   {
     "id": "smp-SM121",
     "name": "Raikou-GX",
-    "nationalPokedexNumber": 243,
     "imageUrl": "https://images.pokemontcg.io/smp/SM121.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM121_hires.png",
-    "types": [
-      "Lightning"
-    ],
-    "supertype": "Pokémon",
     "subtype": "GX",
+    "supertype": "Pokémon",
     "hp": "170",
     "retreatCost": [
       "Colorless"
@@ -6710,6 +6702,12 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
     "attacks": [
       {
         "name": "Dig Claws",
@@ -6742,8 +6740,14 @@
           "Lightning"
         ],
         "convertedEnergyCost": 4,
-        "text": "This attack does 100 damage to each of your opponent's Pokémon that has any Energy attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)",
-        "damage": ""
+        "damage": "",
+        "text": "This attack does 100 damage to each of your opponent's Pokémon that has any Energy attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6752,24 +6756,15 @@
         "value": "-20"
       }
     ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "x2"
-      }
-    ]
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM121_hires.png",
+    "nationalPokedexNumber": 243
   },
   {
     "id": "smp-SM122",
     "name": "Zygarde-GX",
-    "nationalPokedexNumber": 718,
     "imageUrl": "https://images.pokemontcg.io/smp/SM122.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM122_hires.png",
-    "types": [
-      "Fighting"
-    ],
-    "supertype": "Pokémon",
     "subtype": "GX",
+    "supertype": "Pokémon",
     "hp": "180",
     "retreatCost": [
       "Colorless",
@@ -6782,6 +6777,9 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Fighting"
+    ],
     "attacks": [
       {
         "name": "Vibration",
@@ -6813,15 +6811,16 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120×",
-        "text": "Your opponent reveals their hand. This attack does 120 damage for each Energy card you find there. (You can’t use more than 1 GX attack in a game.)"
+        "text": "Your opponent reveals their hand. This attack does 120 damage for each Energy card you find there. (You can't use more than 1 GX attack in a game.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM122_hires.png"
   },
   {
     "id": "smp-SM123",
