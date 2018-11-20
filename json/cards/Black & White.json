@@ -5266,5 +5266,56 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/bw1/114_hires.png",
     "nationalPokedexNumber": 644
+  },
+  {
+    "id": "bw1-115",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/bw1/115.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "115",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare Secret",
+    "series": "Black & White",
+    "set": "Black & White",
+    "setCode": "bw1",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Energize",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach a Lightning Energy card from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Discard all Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/bw1/115_hires.png",
+    "nationalPokedexNumber": 25
   }
 ]
