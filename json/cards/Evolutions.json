@@ -4631,5 +4631,153 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy12/109_hires.png",
     "nationalPokedexNumber": 103
+  },
+  {
+    "id": "xy12-110",
+    "name": "Flying Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/xy12/110.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "40",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "110",
+    "artist": "Toshinao Aoki",
+    "rarity": "Rare Secret",
+    "series": "XY",
+    "set": "Evolutions",
+    "setCode": "xy12",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Shock",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Fly",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy12/110_hires.png",
+    "nationalPokedexNumber": 25
+  },
+  {
+    "id": "xy12-111",
+    "name": "Surfing Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/xy12/111.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "111",
+    "artist": "Toshinao Aoki",
+    "rarity": "Rare Secret",
+    "series": "XY",
+    "set": "Evolutions",
+    "setCode": "xy12",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Surf",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy12/111_hires.png",
+    "nationalPokedexNumber": 25
+  },
+  {
+    "id": "xy12-112",
+    "name": "Imakuni?'s Doduo",
+    "imageUrl": "https://images.pokemontcg.io/xy12/112.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Frenzied Escape",
+      "text": "When this Doduo retreats, hold this card and throw it as hard as you can because Doduo is running away. Throw the card horizontally with a snap to get the farthest distance!",
+      "type": "Pokémon Power"
+    },
+    "hp": "50",
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
+    "number": "112",
+    "artist": "Imakuni?",
+    "rarity": "Rare Secret",
+    "series": "XY",
+    "set": "Evolutions",
+    "setCode": "xy12",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Harmonize ",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "From the moment you use this attack, you must begin to sing a song. (While the song is being sung, the game continues.) When the song is finished, this attack does 30 damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy12/112_hires.png",
+    "nationalPokedexNumber": 84
+  },
+  {
+    "id": "xy12-113",
+    "name": "Here Comes Team Rocket!",
+    "imageUrl": "https://images.pokemontcg.io/xy12/113.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "113",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Secret",
+    "series": "XY",
+    "set": "Evolutions",
+    "setCode": "xy12",
+    "text": [
+      "Each player turns all of his or her Prize cards face up. (Those Prize cards remain face up for the rest of the game.)"
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy12/113_hires.png"
   }
 ]
