@@ -4424,5 +4424,103 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex4/95_hires.png",
     "nationalPokedexNumber": 260
+  },
+  {
+    "id": "ex4-96",
+    "name": "Absol",
+    "nationalPokedexNumber": 359,
+    "imageUrl": "https://images.pokemontcg.io/ex4/96.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/96_hires.png",
+    "types": [
+      "Darkness"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "96",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Team Magma vs Team Aqua",
+    "setCode": "ex4",
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "10+"
+      },
+      {
+        "name": "Feint Attack",
+        "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "damage": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ]
+  },
+  {
+    "id": "ex4-97",
+    "name": "Jirachi",
+    "nationalPokedexNumber": 385,
+    "imageUrl": "https://images.pokemontcg.io/ex4/97.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/97_hires.png",
+    "types": [
+      "Psychic"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "97",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Team Magma vs Team Aqua",
+    "setCode": "ex4",
+    "attacks": [
+      {
+        "name": "Hypnoblast",
+        "text": "The Defending Pokémon is now Asleep.",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Swift",
+        "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on the Defending Pokémon.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ]
   }
 ]

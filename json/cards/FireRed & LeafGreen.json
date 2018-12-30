@@ -5352,5 +5352,179 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex6/112_hires.png",
     "nationalPokedexNumber": 3
+  },
+  {
+    "id": "ex6-113",
+    "name": "Charmander",
+    "nationalPokedexNumber": 4,
+    "imageUrl": "https://images.pokemontcg.io/ex6/113.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/113_hires.png",
+    "types": [
+      "Fire"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "113",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "FireRed & LeafGreen",
+    "setCode": "ex6",
+    "attacks": [
+      {
+        "name": "Flare",
+        "text": "",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "10"
+      },
+      {
+        "name": "Rage",
+        "text": "Does 10 damage plus 10 more damage for each damage counter on Charmander.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "artist": "Ken Sugimori"
+  },
+  {
+    "id": "ex6-114",
+    "name": "Articuno ex",
+    "nationalPokedexNumber": 144,
+    "imageUrl": "https://images.pokemontcg.io/ex6/114.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/114_hires.png",
+    "types": [
+      "Water"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "114",
+    "series": "EX",
+    "set": "FireRed & LeafGreen",
+    "setCode": "ex6",
+    "attacks": [
+      {
+        "name": "Cold Crush",
+        "text": "You may discard an Energy card attached to Articuno ex. If you do, your opponent discards an Energy card attached to the Defending Pokémon.",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "damage": "50"
+      }
+    ],
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Holo EX",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "x2"
+      }
+    ]
+  },
+  {
+    "id": "ex6-115",
+    "name": "Moltres ex",
+    "nationalPokedexNumber": 146,
+    "imageUrl": "https://images.pokemontcg.io/ex6/115.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/115_hires.png",
+    "types": [
+      "Fire"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "115",
+    "rarity": "Rare Holo EX",
+    "series": "EX",
+    "set": "FireRed & LeafGreen",
+    "setCode": "ex6",
+    "attacks": [
+      {
+        "name": "Crushing Flames",
+        "text": "You may discard an Energy card attached to Moltres ex. If you do, the Defending Pokémon is now Confused.",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "artist": "Ryo Ueda"
+  },
+  {
+    "id": "ex6-116",
+    "name": "Zapdos ex",
+    "nationalPokedexNumber": 145,
+    "imageUrl": "https://images.pokemontcg.io/ex6/116.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/116_hires.png",
+    "types": [
+      "Lightning"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "116",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Holo EX",
+    "series": "EX",
+    "set": "FireRed & LeafGreen",
+    "setCode": "ex6",
+    "attacks": [
+      {
+        "name": "Electron Crush",
+        "text": "You may discard an Energy card attached to Zapdos ex. If you do, this attack does 50 damage plus 20 more damage.",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ]
   }
 ]

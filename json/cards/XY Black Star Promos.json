@@ -8535,6 +8535,100 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY161_hires.png"
   },
   {
+    "id": "xyp-XY162",
+    "name": "Greninja",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY162.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY162_hires.png",
+    "supertype": "Pokémon",
+    "subtype": "Stage 2",
+    "number": "XY162",
+    "artist": "Sanosuke Sakuma",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 658,
+    "types": [
+      "Water"
+    ],
+    "hp": "130",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "attacks": [
+      {
+        "name": "Aqua Shower",
+        "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Water"
+        ],
+        "damage": ""
+      },
+      {
+        "name": "Dual Cut",
+        "text": "Flip 2 coins. This attack does 60 damage times the number of heads.",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Frogadier"
+  },
+  {
+    "id": "xyp-XY163",
+    "name": "Weezing",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY163.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY163_hires.png",
+    "supertype": "Pokémon",
+    "subtype": "Stage 1",
+    "number": "XY163",
+    "artist": "TOKIYA",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 110,
+    "types": [
+      "Psychic"
+    ],
+    "hp": "100",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Koffing",
+    "ability": {
+      "name": "Levitate",
+      "text": "If this Pokémon has any Energy attached to it, this Pokémon has no Retreat Cost.",
+      "type": "Ability"
+    }
+  },
+  {
     "id": "xyp-XY164",
     "name": "Volcanion",
     "imageUrl": "https://images.pokemontcg.io/xyp/XY164.png",
@@ -8645,6 +8739,55 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY165_hires.png",
     "nationalPokedexNumber": 801
+  },
+  {
+    "id": "xyp-XY166",
+    "name": "M Gengar-EX",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY166.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY166_hires.png",
+    "supertype": "Pokémon",
+    "subtype": "MEGA",
+    "number": "XY166",
+    "artist": "5ban Graphics",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 94,
+    "types": [
+      "Psychic"
+    ],
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "attacks": [
+      {
+        "name": "Hollow Geist",
+        "text": "Your opponent's Active Pokémon is now Poisoned and Confused.",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Gengar-EX",
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ]
   },
   {
     "id": "xyp-XY167",
@@ -9167,59 +9310,82 @@
     "nationalPokedexNumber": 359
   },
   {
-    "id": "xyp-XY184",
-    "name": "Giratina",
-    "imageUrl": "https://images.pokemontcg.io/xyp/XY184.png",
-    "subtype": "Basic",
+    "id": "xyp-XY179",
+    "name": "Snorlax",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY179.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY179_hires.png",
     "supertype": "Pokémon",
-    "ability": {
-      "name": "Devour Light",
-      "text": "Each Pokemon BREAK has no Abilities (this includes Abilities of its previous Evolution).",
-      "type": "Ability"
-    },
-    "hp": "130",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "XY184",
-    "artist": "5ban Graphics",
-    "rarity": "Rare Holo",
+    "subtype": "Basic",
+    "number": "XY179",
+    "artist": "Ken Sugimori",
     "series": "XY",
     "set": "XY Black Star Promos",
     "setCode": "xyp",
+    "nationalPokedexNumber": 143,
     "types": [
-      "Psychic"
+      "Colorless"
     ],
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
     "attacks": [
       {
-        "name": "Shadow Claw",
+        "name": "Body Slam",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "cost": [
-          "Psychic",
-          "Psychic",
+          "Colorless",
+          "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "convertedEnergyCost": 4,
-        "damage": "110",
-        "text": "Discard a random card from your opponent's hand."
+        "damage": "50"
       }
     ],
     "weaknesses": [
       {
-        "type": "Darkness",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
         "type": "Fighting",
-        "value": "-20"
+        "value": "x2"
       }
     ],
-    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY184_hires.png",
-    "nationalPokedexNumber": 487
+    "ability": {
+      "name": "Immunity",
+      "text": "This Pokémon can't be affected by any Special Conditions. (Remove any Special Conditions affecting this Pokémon.)",
+      "type": "Ability"
+    }
+  },
+  {
+    "id": "xyp-XY180",
+    "name": "Arcanine BREAK",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY180.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY180_hires.png",
+    "supertype": "Pokémon",
+    "number": "XY180",
+    "artist": "5ban Graphics",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 59,
+    "types": [
+      "Fire"
+    ],
+    "hp": "160",
+    "attacks": [
+      {
+        "name": "Turbo Flame",
+        "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "80"
+      }
+    ],
+    "evolvesFrom": "Arcanine"
   },
   {
     "id": "xyp-XY181",
@@ -9257,6 +9423,34 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY181_hires.png",
     "nationalPokedexNumber": 169
+  },
+  {
+    "id": "xyp-XY182",
+    "name": "Mandibuzz BREAK",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY182.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY182_hires.png",
+    "supertype": "Pokémon",
+    "number": "XY182",
+    "artist": "5ban Graphics",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "evolvesFrom": "Mandibuzz",
+    "nationalPokedexNumber": 630,
+    "types": [
+      "Darkness"
+    ],
+    "hp": "140",
+    "attacks": [
+      {
+        "name": "Wings of Disaster",
+        "text": "This attack does 20 damage to each of your opponent's Pokémon. This attack's damage isn't affected by Weakness and Resistance. Then, discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": ""
+      }
+    ]
   },
   {
     "id": "xyp-XY183",
@@ -9312,5 +9506,60 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY183_hires.png"
+  },
+  {
+    "id": "xyp-XY184",
+    "name": "Giratina",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY184.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Devour Light",
+      "text": "Each Pokemon BREAK has no Abilities (this includes Abilities of its previous Evolution).",
+      "type": "Ability"
+    },
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "XY184",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Shadow Claw",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "110",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY184_hires.png",
+    "nationalPokedexNumber": 487
   }
 ]
