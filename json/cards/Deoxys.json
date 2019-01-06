@@ -5331,5 +5331,47 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex8/107_hires.png",
     "nationalPokedexNumber": 384
+  },
+  {
+    "id": "ex8-108",
+    "name": "Rocket's Raikou ex",
+    "nationalPokedexNumber": 243,
+    "imageUrl": "https://images.pokemontcg.io/ex8/108.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex8/108_hires.png",
+    "types": [
+      "Darkness"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "100",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "108",
+    "rarity": "Rare Holo EX",
+    "series": "EX",
+    "set": "Deoxys",
+    "setCode": "ex8",
+    "attacks": [
+      {
+        "name": "Thunderous Blow",
+        "text": "Does 40 damage plus 10 more damage for each Lightning Energy attached to Rocket's Raikou ex.",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "artist": "Ryo Ueda"
   }
 ]

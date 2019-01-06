@@ -5597,5 +5597,155 @@
       "Choose a Pokémon Tool or Special Energy card attached to a Pokémon in play (yours or your opponent's) and discard it."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy4/119_hires.png"
+  },
+  {
+    "id": "xy4-120",
+    "name": "M Manectric-EX",
+    "nationalPokedexNumber": 310,
+    "imageUrl": "https://images.pokemontcg.io/xy4/120.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/120_hires.png",
+    "types": [
+      "Lightning"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "MEGA",
+    "hp": "210",
+    "number": "120",
+    "series": "XY",
+    "set": "Phantom Forces",
+    "setCode": "xy4",
+    "attacks": [
+      {
+        "name": "Turbo Bolt",
+        "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "damage": "110"
+      }
+    ],
+    "rarity": "Rare Holo EX",
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "artist": "5ban Graphics",
+    "evolvesFrom": "Manectric-EX"
+  },
+  {
+    "id": "xy4-121",
+    "name": "M Gengar-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy4/121.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/121_hires.png",
+    "supertype": "Pokémon",
+    "subtype": "MEGA",
+    "number": "121",
+    "series": "XY",
+    "set": "Phantom Forces",
+    "setCode": "xy4",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
+    "nationalPokedexNumber": 94,
+    "types": [
+      "Psychic"
+    ],
+    "hp": "220",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "attacks": [
+      {
+        "name": "Phantom Gate",
+        "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack.",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": ""
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Gengar-EX"
+  },
+  {
+    "id": "xy4-122",
+    "name": "Dialga-EX",
+    "nationalPokedexNumber": 483,
+    "imageUrl": "https://images.pokemontcg.io/xy4/122.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/122_hires.png",
+    "types": [
+      "Metal"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "180",
+    "number": "122",
+    "series": "XY",
+    "set": "Phantom Forces",
+    "setCode": "xy4",
+    "attacks": [
+      {
+        "name": "Chrono Wind",
+        "text": "If the Defending Pokémon is a Pokémon-EX, it can't attack during your opponent's next turn.",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "60"
+      },
+      {
+        "name": "Full Metal Impact",
+        "text": "Discard 2 Metal Energy attached to this Pokémon.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "150"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "artist": "Ayaka Yoshida",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "rarity": "Rare Holo EX",
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ]
   }
 ]

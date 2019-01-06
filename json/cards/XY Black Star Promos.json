@@ -8535,6 +8535,100 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY161_hires.png"
   },
   {
+    "id": "xyp-XY162",
+    "name": "Greninja",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY162.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY162_hires.png",
+    "supertype": "Pokémon",
+    "subtype": "Stage 2",
+    "number": "XY162",
+    "artist": "Sanosuke Sakuma",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 658,
+    "types": [
+      "Water"
+    ],
+    "hp": "130",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "attacks": [
+      {
+        "name": "Aqua Shower",
+        "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Water"
+        ],
+        "damage": ""
+      },
+      {
+        "name": "Dual Cut",
+        "text": "Flip 2 coins. This attack does 60 damage times the number of heads.",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Frogadier"
+  },
+  {
+    "id": "xyp-XY163",
+    "name": "Weezing",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY163.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY163_hires.png",
+    "supertype": "Pokémon",
+    "subtype": "Stage 1",
+    "number": "XY163",
+    "artist": "TOKIYA",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 110,
+    "types": [
+      "Psychic"
+    ],
+    "hp": "100",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Koffing",
+    "ability": {
+      "name": "Levitate",
+      "text": "If this Pokémon has any Energy attached to it, this Pokémon has no Retreat Cost.",
+      "type": "Ability"
+    }
+  },
+  {
     "id": "xyp-XY164",
     "name": "Volcanion",
     "imageUrl": "https://images.pokemontcg.io/xyp/XY164.png",
@@ -8645,6 +8739,55 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY165_hires.png",
     "nationalPokedexNumber": 801
+  },
+  {
+    "id": "xyp-XY166",
+    "name": "M Gengar-EX",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY166.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY166_hires.png",
+    "supertype": "Pokémon",
+    "subtype": "MEGA",
+    "number": "XY166",
+    "artist": "5ban Graphics",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 94,
+    "types": [
+      "Psychic"
+    ],
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "attacks": [
+      {
+        "name": "Hollow Geist",
+        "text": "Your opponent's Active Pokémon is now Poisoned and Confused.",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Gengar-EX",
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ]
   },
   {
     "id": "xyp-XY167",
@@ -9167,59 +9310,82 @@
     "nationalPokedexNumber": 359
   },
   {
-    "id": "xyp-XY184",
-    "name": "Giratina",
-    "imageUrl": "https://images.pokemontcg.io/xyp/XY184.png",
-    "subtype": "Basic",
+    "id": "xyp-XY179",
+    "name": "Snorlax",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY179.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY179_hires.png",
     "supertype": "Pokémon",
-    "ability": {
-      "name": "Devour Light",
-      "text": "Each Pokemon BREAK has no Abilities (this includes Abilities of its previous Evolution).",
-      "type": "Ability"
-    },
-    "hp": "130",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "XY184",
-    "artist": "5ban Graphics",
-    "rarity": "Rare Holo",
+    "subtype": "Basic",
+    "number": "XY179",
+    "artist": "Ken Sugimori",
     "series": "XY",
     "set": "XY Black Star Promos",
     "setCode": "xyp",
+    "nationalPokedexNumber": 143,
     "types": [
-      "Psychic"
+      "Colorless"
     ],
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
     "attacks": [
       {
-        "name": "Shadow Claw",
+        "name": "Body Slam",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "cost": [
-          "Psychic",
-          "Psychic",
+          "Colorless",
+          "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "convertedEnergyCost": 4,
-        "damage": "110",
-        "text": "Discard a random card from your opponent's hand."
+        "damage": "50"
       }
     ],
     "weaknesses": [
       {
-        "type": "Darkness",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
         "type": "Fighting",
-        "value": "-20"
+        "value": "x2"
       }
     ],
-    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY184_hires.png",
-    "nationalPokedexNumber": 487
+    "ability": {
+      "name": "Immunity",
+      "text": "This Pokémon can't be affected by any Special Conditions. (Remove any Special Conditions affecting this Pokémon.)",
+      "type": "Ability"
+    }
+  },
+  {
+    "id": "xyp-XY180",
+    "name": "Arcanine BREAK",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY180.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY180_hires.png",
+    "supertype": "Pokémon",
+    "number": "XY180",
+    "artist": "5ban Graphics",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "nationalPokedexNumber": 59,
+    "types": [
+      "Fire"
+    ],
+    "hp": "160",
+    "attacks": [
+      {
+        "name": "Turbo Flame",
+        "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "80"
+      }
+    ],
+    "evolvesFrom": "Arcanine"
   },
   {
     "id": "xyp-XY181",
@@ -9257,6 +9423,34 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY181_hires.png",
     "nationalPokedexNumber": 169
+  },
+  {
+    "id": "xyp-XY182",
+    "name": "Mandibuzz BREAK",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY182.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY182_hires.png",
+    "supertype": "Pokémon",
+    "number": "XY182",
+    "artist": "5ban Graphics",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "evolvesFrom": "Mandibuzz",
+    "nationalPokedexNumber": 630,
+    "types": [
+      "Darkness"
+    ],
+    "hp": "140",
+    "attacks": [
+      {
+        "name": "Wings of Disaster",
+        "text": "This attack does 20 damage to each of your opponent's Pokémon. This attack's damage isn't affected by Weakness and Resistance. Then, discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": ""
+      }
+    ]
   },
   {
     "id": "xyp-XY183",
@@ -9312,5 +9506,1104 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY183_hires.png"
+  },
+  {
+    "id": "xyp-XY184",
+    "name": "Giratina",
+    "imageUrl": "https://images.pokemontcg.io/xyp/XY184.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Devour Light",
+      "text": "Each Pokemon BREAK has no Abilities (this includes Abilities of its previous Evolution).",
+      "type": "Ability"
+    },
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "XY184",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo",
+    "series": "XY",
+    "set": "XY Black Star Promos",
+    "setCode": "xyp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Shadow Claw",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "110",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xyp/XY184_hires.png",
+    "nationalPokedexNumber": 487
+  },
+  {
+    "id":"xyp-XY185",
+    "name":"Volcanion",
+    "nationalPokedexNumber":721,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY185.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY185_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"130",
+    "retreatCost":[
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":4,
+    "number":"XY185",
+    "artist":"TOKIYA",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Concentrated Fire",
+        "text":"Flip a coin for each Fire Energy attached to this Pokémon. This attack does 50 damage times the number of heads.",
+        "cost":[
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"50×"
+      },
+      {
+        "name":"Combustion Impact",
+        "text":"Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+        "cost":[
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"100"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY186",
+    "name":"Magearna",
+    "nationalPokedexNumber":801,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY186.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY186_hires.png",
+    "types":[
+      "Metal"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"90",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY186",
+    "artist":"Megumi Mizutani",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Entertain",
+        "text":"Heal 40 damage from 1 of your Benched Pokémon.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Prismatic Wave",
+        "text":"This attack does 20 damage times the number of different types of Pokémon on your opponent's Bench.",
+        "cost":[
+          "Metal"
+        ],
+        "damage":"20×"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Psychic",
+        "value":"-20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY187",
+    "name":"Celebi",
+    "nationalPokedexNumber":251,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY187.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY187_hires.png",
+    "types":[
+      "Grass"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY187",
+    "artist":"Mitsuhiro Arita",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Time Call",
+        "text":"Flip a coin. If heads, search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Leech Seed",
+        "text":"Heal 10 damage from this Pokémon.",
+        "cost":[
+          "Grass"
+        ],
+        "damage":"10"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY188",
+    "name":"Shaymin",
+    "nationalPokedexNumber":492,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY188.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY188_hires.png",
+    "types":[
+      "Grass"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY188",
+    "artist":"You Iribi",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Aromatherapy",
+        "text":"Heal 30 damage from each of your Pokémon.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Magical Leaf",
+        "text":"Flip a coin. If heads, this attack does 20 more damage and heal 20 damage from this Pokémon.",
+        "cost":[
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"40+"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY189",
+    "name":"Victini",
+    "nationalPokedexNumber":494,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY189.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY189_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY189",
+    "artist":"Atsuko Nishida",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Energy Assist",
+        "text":"Flip a coin. If heads, attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Victory Ball",
+        "text":"Discard a Fire Energy attached to this Pokémon.",
+        "cost":[
+          "Fire",
+          "Colorless"
+        ],
+        "damage":"50"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY190",
+    "name":"Manaphy",
+    "nationalPokedexNumber":490,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY190.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY190_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY190",
+    "artist":"Hitoshi Ariga",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Marine Guidance",
+        "text":"Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "cost":[
+          "Water"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Aqua Ring",
+        "text":"Switch this Pokémon with 1 of your Benched Pokémon.",
+        "cost":[
+          "Water",
+          "Water"
+        ],
+        "damage":"30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Grass",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY191",
+    "name":"Keldeo",
+    "nationalPokedexNumber":647,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY191.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY191_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Justified",
+      "text":"This Pokémon's attacks do 50 more damage to your opponent's Darkness Pokémon (before applying Weakness and Resistance).",
+      "type":"Ability"
+    },
+    "hp":"90",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY191",
+    "artist":"Shin Nagasawa",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Sacred Sword",
+        "text":"This Pokémon can't use Sacred Sword during your next turn.",
+        "cost":[
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "damage":"100"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Grass",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY192",
+    "name":"Mew",
+    "nationalPokedexNumber":151,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY192.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY192_hires.png",
+    "types":[
+      "Psychic"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY192",
+    "artist":"Kouki Saitou",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Clairvoyance",
+        "text":"Your opponent reveals his or her hand.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Psychic",
+        "text":"This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "cost":[
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"40+"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Psychic",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY193",
+    "name":"Meloetta",
+    "nationalPokedexNumber":648,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY193.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY193_hires.png",
+    "types":[
+      "Psychic"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"80",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY193",
+    "artist":"Megumi Mizutani",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Soprano Wave",
+        "text":"Flip 3 coins. This attack does 10 damage times the number of heads to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Psychic"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Entrancing Melody",
+        "text":"Your opponent's Active Pokémon is now Confused.",
+        "cost":[
+          "Psychic",
+          "Psychic"
+        ],
+        "damage":"30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Psychic",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY194",
+    "name":"Darkrai",
+    "nationalPokedexNumber":491,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY194.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY194_hires.png",
+    "types":[
+      "Darkness"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"110",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"XY194",
+    "artist":"kawayoo",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Dark Cutter",
+        "text":"",
+        "cost":[
+          "Darkness",
+          "Colorless"
+        ],
+        "damage":"30"
+      },
+      {
+        "name":"Abyssal Sleep",
+        "text":"Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, that Pokémon is still Asleep.",
+        "cost":[
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "damage":"80"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Psychic",
+        "value":"-20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fighting",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY195",
+    "name":"Jirachi",
+    "nationalPokedexNumber":385,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY195.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY195_hires.png",
+    "types":[
+      "Metal"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY195",
+    "artist":"Kagemaru Himeno",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Precognitive Dream",
+        "text":"Draw 3 cards. This Pokémon is now Asleep.",
+        "cost":[
+          "Metal"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Iron Head",
+        "text":"Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"30x"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Psychic",
+        "value":"-20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY196",
+    "name":"Genesect",
+    "nationalPokedexNumber":649,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY196.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY196_hires.png",
+    "types":[
+      "Metal"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"110",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"XY196",
+    "artist":"PLANETA",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Linear Attack",
+        "text":"This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Metal",
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Destructor Beam",
+        "text":"Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+        "cost":[
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "damage":"90"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Psychic",
+        "value":"-20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY197",
+    "name":"Arceus",
+    "nationalPokedexNumber":493,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY197.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY197_hires.png",
+    "types":[
+      "Colorless"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"130",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"XY197",
+    "artist":"Naoki Saito",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Type Switch",
+        "text":"Choose Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Fairy, or Dragon type. Until the end of your next turn, this Pokémon is that type.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Power Blast",
+        "text":"Discard an Energy card attached to this Pokémon.",
+        "cost":[
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"120"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fighting",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "evolvesFrom":"Camerupt-EX",
+    "id":"xyp-XY198",
+    "name":"M Camerupt-EX",
+    "nationalPokedexNumber":323,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY198.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY198_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"MEGA",
+    "hp":"230",
+    "retreatCost":[
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":4,
+    "number":"XY198",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Magma Eruption",
+        "text":"You may discard the top 3 cards of each player's deck. If you do, this attack does 40 more damage for each Energy card you discarded in this way.",
+        "cost":[
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"120+"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "evolvesFrom":"Camerupt-EX",
+    "id":"xyp-XY198a",
+    "name":"M Camerupt-EX",
+    "nationalPokedexNumber":323,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY198a.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY198a_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"MEGA",
+    "hp":"230",
+    "retreatCost":[
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":4,
+    "number":"XY198a",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Magma Eruption",
+        "text":"You may discard the top 3 cards of each player's deck. If you do, this attack does 40 more damage for each Energy card you discarded in this way.",
+        "cost":[
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"120+"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY199",
+    "name":"Camerupt Spirit Link",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY199.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY199_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Pokémon Tool",
+    "number":"XY199",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Your turn does not end if the Pokémon this card is attached to becomes M Camerupt-EX."
+    ]
+  },
+  {
+    "evolvesFrom":"Sharpedo-EX",
+    "id":"xyp-XY200",
+    "name":"M Sharpedo-EX",
+    "nationalPokedexNumber":319,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY200.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY200_hires.png",
+    "types":[
+      "Darkness"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"MEGA",
+    "hp":"210",
+    "number":"XY200",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Torpedo Dive",
+        "text":"This attack does 10 damage to each of your opponent's Benched Pokémon for each Colorless in that Pokémon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "damage":"120"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "evolvesFrom":"Sharpedo-EX",
+    "id":"xyp-XY200a",
+    "name":"M Sharpedo-EX",
+    "nationalPokedexNumber":319,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY200a.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY200a_hires.png",
+    "types":[
+      "Darkness"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"MEGA",
+    "hp":"210",
+    "number":"XY200a",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Torpedo Dive",
+        "text":"This attack does 10 damage to each of your opponent's Benched Pokémon for each Colorless in that Pokémon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "damage":"120"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY201",
+    "name":"Sharpedo Spirit Link",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY201.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY201_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Pokémon Tool",
+    "number":"XY201",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Your turn does not end if the Pokémon this card is attached to becomes M Sharpedo-EX."
+    ]
+  },
+  {
+    "id":"xyp-XY202",
+    "name":"Pikachu",
+    "nationalPokedexNumber":25,
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY202.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY202_hires.png",
+    "types":[
+      "Lightning"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"XY202",
+    "artist":"Ken Sugimori",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "attacks":[
+      {
+        "name":"Charge",
+        "text":"Search your deck for a Lightning Energy card and attach it to this Pokémon. Shuffle your deck afterward.",
+        "cost":[
+          "Lightning"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Thunderbolt",
+        "text":"Discard all Energy attached to this Pokémon.",
+        "cost":[
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "damage":"70"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Metal",
+        "value":"-20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fighting",
+        "value":"x2"
+      }
+    ]
+  },
+  {
+    "id":"xyp-XY203",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY203.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY203_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY203",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY204",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY204.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY204_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY204",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY205",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY205.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY205_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY205",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY206",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY206.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY206_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY206",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY207",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY207.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY207_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY207",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY208",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY208.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY208_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY208",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY209",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY209.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY209_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY209",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY210",
+    "name":"Gym Badge",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY210.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY210_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"XY210",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Flip a coin until you get tails. Draw a card for each heads."
+    ]
+  },
+  {
+    "id":"xyp-XY211",
+    "name":"Lucario Spirit Link",
+    "imageUrl":"https://images.pokemontcg.io/xyp/XY211.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/xyp/XY211_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Pokémon Tool",
+    "number":"XY211",
+    "artist":"5ban Graphics",
+    "series":"XY",
+    "set":"XY Black Star Promos",
+    "setCode":"xyp",
+    "text":[
+      "Your turn does not end if the Pokémon this card is attached to becomes M Lucario-EX."
+    ]
   }
 ]

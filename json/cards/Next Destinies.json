@@ -5021,5 +5021,164 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/bw4/100_hires.png",
     "nationalPokedexNumber": 500
+  },
+  {
+    "id": "bw4-101",
+    "evolvesFrom": "Lampent",
+    "name": "Chandelure",
+    "nationalPokedexNumber": 609,
+    "imageUrl": "https://images.pokemontcg.io/bw4/101.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/101_hires.png",
+    "types": [
+      "Psychic"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Stage 2",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "101",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Black & White",
+    "set": "Next Destinies",
+    "setCode": "bw4",
+    "attacks": [
+      {
+        "name": "Eerie Glow",
+        "text": "The Defending Pokémon is now Burned and Confused.",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "ability": {
+      "name": "Cursed Shadow",
+      "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may put 3 damage counters on your opponent's Pokémon in any way you like.",
+      "type": "Ability"
+    }
+  },
+  {
+    "name": "Zoroark",
+    "evolvesFrom": "Zorua",
+    "id": "bw4-102",
+    "nationalPokedexNumber": 571,
+    "imageUrl": "https://images.pokemontcg.io/bw4/102.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/102_hires.png",
+    "types": [
+      "Darkness"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Stage 1",
+    "hp": "100",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "102",
+    "rarity": "Rare Secret",
+    "series": "Black & White",
+    "set": "Next Destinies",
+    "setCode": "bw4",
+    "attacks": [
+      {
+        "name": "Nasty Plot",
+        "text": "Search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+        "cost": [
+          "Darkness"
+        ],
+        "damage": ""
+      },
+      {
+        "name": "Foul Play",
+        "text": "Choose 1 of the Defending Pokémon's attacks and use it as this attack.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "artist": "5ban Graphics",
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ]
+  },
+  {
+    "id": "bw4-103",
+    "name": "Hydreigon",
+    "nationalPokedexNumber": 635,
+    "imageUrl": "https://images.pokemontcg.io/bw4/103.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/103_hires.png",
+    "types": [
+      "Darkness"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Stage 2",
+    "hp": "150",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "103",
+    "rarity": "Rare Secret",
+    "series": "Black & White",
+    "set": "Next Destinies",
+    "setCode": "bw4",
+    "attacks": [
+      {
+        "name": "Berserker Blade",
+        "text": "Does 40 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "evolvesFrom": "Zweilous",
+    "ability": {
+      "name": "Dark Aura",
+      "text": "All Energy attached to this Pokémon are Darkness Energy instead of their usual type.",
+      "type": "Ability"
+    },
+    "artist": "5ban Graphics",
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ]
   }
 ]

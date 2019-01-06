@@ -4865,5 +4865,59 @@
     "set": "Emerald",
     "setCode": "ex9",
     "imageUrlHiRes": "https://images.pokemontcg.io/ex9/106_hires.png"
+  },
+  {
+    "id": "ex9-107",
+    "name": "Farfetch'd",
+    "nationalPokedexNumber": 83,
+    "imageUrl": "https://images.pokemontcg.io/ex9/107.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex9/107_hires.png",
+    "types": [
+      "Colorless"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "107",
+    "series": "EX",
+    "set": "Emerald",
+    "setCode": "ex9",
+    "attacks": [
+      {
+        "name": "Spearhead",
+        "text": "Draw a card.",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": ""
+      },
+      {
+        "name": "Nosedive",
+        "text": "Farfetch'd does 10 damage to itself.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "artist": "Masakazu Fukuda",
+    "rarity": "Rare Holo",
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ]
   }
 ]

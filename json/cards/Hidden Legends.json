@@ -5040,5 +5040,58 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex5/101_hires.png",
     "nationalPokedexNumber": 40
+  },
+  {
+    "name": "Groudon",
+    "id": "ex5-102",
+    "nationalPokedexNumber": 383,
+    "imageUrl": "https://images.pokemontcg.io/ex5/102.png",
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex5/102_hires.png",
+    "types": [
+      "Fighting"
+    ],
+    "supertype": "Pokémon",
+    "subtype": "Basic",
+    "hp": "80",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "102",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Hidden Legends",
+    "setCode": "ex5",
+    "attacks": [
+      {
+        "name": "Mud Shot",
+        "text": "",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "damage": "20"
+      },
+      {
+        "name": "Earthquake",
+        "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "artist": "Mitsuhiro Arita"
   }
 ]
