@@ -1,0 +1,1848 @@
+[
+  {
+    "id":"np-1",
+    "name":"Kyogre ex",
+    "nationalPokedexNumber":382,
+    "imageUrl":"https://images.pokemontcg.io/np/1.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/1_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"120",
+    "retreatCost":[
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":3,
+    "number":"1",
+    "artist":"Hiromichi Sugiyama",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Major Flood",
+        "text":"Discard a Water Energy card attached to Kyogre ex. Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "damage":"60"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-2",
+    "name":"Groudon ex",
+    "nationalPokedexNumber":383,
+    "imageUrl":"https://images.pokemontcg.io/np/2.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/2_hires.png",
+    "types":[
+      "Fighting"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"120",
+    "retreatCost":[
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":3,
+    "number":"2",
+    "artist":"Kazuo Yazawa",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Major Earthquake",
+        "text":"Discard a Fighting Energy card attached to Groudon ex. Does 10 damage to your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "damage":"80"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Grass",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-3",
+    "name":"Treecko",
+    "nationalPokedexNumber":252,
+    "imageUrl":"https://images.pokemontcg.io/np/3.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/3_hires.png",
+    "types":[
+      "Grass"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"40",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"3",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Tail Slap",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Razor Leaf",
+        "text":"",
+        "cost":[
+          "Grass",
+          "Colorless"
+        ],
+        "damage":"20"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Water",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-4",
+    "name":"Grovyle",
+    "nationalPokedexNumber":253,
+    "imageUrl":"https://images.pokemontcg.io/np/4.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/4_hires.png",
+    "types":[
+      "Grass"
+    ],
+    "supertype":"Pokémon",
+    "evolvesFrom":"Treecko",
+    "subtype":"Stage 1",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"4",
+    "artist":"Midori Harada",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Poison Breath",
+        "text":"The Defending Pokémon is now Poisoned.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Swift",
+        "text":"This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+        "cost":[
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"30"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Water",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-5",
+    "name":"Mudkip",
+    "nationalPokedexNumber":258,
+    "imageUrl":"https://images.pokemontcg.io/np/5.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/5_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"5",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Pound",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Fury Swipes",
+        "text":"Flip 3 coins. This attack does 10 damage times the number of heads.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"10×"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-6",
+    "name":"Torchic",
+    "nationalPokedexNumber":255,
+    "imageUrl":"https://images.pokemontcg.io/np/6.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/6_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"40",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"6",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Peck",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Fireworks",
+        "text":"Flip a coin. If tails, discard a Fire Energy card attached to Torchic.",
+        "cost":[
+          "Fire",
+          "Colorless"
+        ],
+        "damage":"30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-7",
+    "name":"Treecko",
+    "nationalPokedexNumber":252,
+    "imageUrl":"https://images.pokemontcg.io/np/7.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/7_hires.png",
+    "types":[
+      "Grass"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"40",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"7",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Tail Slap",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Razor Leaf",
+        "text":"",
+        "cost":[
+          "Grass",
+          "Colorless"
+        ],
+        "damage":"20"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Water",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-8",
+    "name":"Torchic",
+    "nationalPokedexNumber":255,
+    "imageUrl":"https://images.pokemontcg.io/np/8.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/8_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"40",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"8",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Peck",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Fireworks",
+        "text":"Flip a coin. If tails, discard a Fire Energy card attached to Torchic.",
+        "cost":[
+          "Fire",
+          "Colorless"
+        ],
+        "damage":"30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-9",
+    "name":"Combusken",
+    "nationalPokedexNumber":256,
+    "imageUrl":"https://images.pokemontcg.io/np/9.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/9_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Trainer",
+    "evolvesFrom":"Torchic",
+    "subtype":"Stage 1",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"9",
+    "artist":"Kouki Saitou",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Flare",
+        "text":"",
+        "cost":[
+          "Fire"
+        ],
+        "damage":"20"
+      },
+      {
+        "name":"Double Kick",
+        "text":"Flip 2 coins. This attack does 40 damage times the number of heads.",
+        "cost":[
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"40×"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-10",
+    "name":"Mudkip",
+    "nationalPokedexNumber":258,
+    "imageUrl":"https://images.pokemontcg.io/np/10.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/10_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"10",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Pound",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Fury Swipes",
+        "text":"Flip 3 coins. This attack does 10 damage times the number of heads.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"10×"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-11",
+    "name":"Marshtomp",
+    "nationalPokedexNumber":259,
+    "imageUrl":"https://images.pokemontcg.io/np/11.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/11_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "evolvesFrom":"Mudkip",
+    "subtype":"Stage 1",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"11",
+    "artist":"Mitsuhiro Arita",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Bubble",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "cost":[
+          "Water"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Slash",
+        "text":"",
+        "cost":[
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"40"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-12",
+    "name":"Pikachu",
+    "nationalPokedexNumber":25,
+    "imageUrl":"https://images.pokemontcg.io/np/12.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/12_hires.png",
+    "types":[
+      "Lightning"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"12",
+    "artist":"Kouki Saitou",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Agility",
+        "text":"Flip a coin. If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Thundershock",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "cost":[
+          "Lightning",
+          "Colorless"
+        ],
+        "damage":"20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fighting",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-13",
+    "name":"Meowth",
+    "nationalPokedexNumber":52,
+    "imageUrl":"https://images.pokemontcg.io/np/13.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/13_hires.png",
+    "types":[
+      "Colorless"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"13",
+    "artist":"Kouki Saitou",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Plunder",
+        "text":"Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage).",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Scratch",
+        "text":"",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fighting",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-14",
+    "name":"Latias",
+    "nationalPokedexNumber":380,
+    "imageUrl":"https://images.pokemontcg.io/np/14.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/14_hires.png",
+    "types":[
+      "Colorless"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"14",
+    "artist":"Ken Sugimori",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Super Psy",
+        "text":"",
+        "cost":[
+          "Psychic"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Searing Flame",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Burned.",
+        "cost":[
+          "Fire",
+          "Water"
+        ],
+        "damage":"20"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Psychic",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-15",
+    "name":"Latios",
+    "nationalPokedexNumber":381,
+    "imageUrl":"https://images.pokemontcg.io/np/15.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/15_hires.png",
+    "types":[
+      "Colorless"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"80",
+    "retreatCost":[
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":3,
+    "number":"15",
+    "artist":"Ken Sugimori",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Super Psy",
+        "text":"",
+        "cost":[
+          "Psychic"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Freeze Dry",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "cost":[
+          "Water",
+          "Psychic",
+          "Lightning"
+        ],
+        "damage":"30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Psychic",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-16",
+    "name":"Treecko",
+    "nationalPokedexNumber":252,
+    "imageUrl":"https://images.pokemontcg.io/np/16.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/16_hires.png",
+    "types":[
+      "Grass"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"40",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"16",
+    "artist":"Kagemaru Himeno",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Pound",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Sporadic Sponging",
+        "text":"Flip a coin. If heads, remove 1 damage counter from Treecko.",
+        "cost":[
+          "Grass"
+        ],
+        "damage":"10"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Water",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-17",
+    "name":"Torchic",
+    "nationalPokedexNumber":255,
+    "imageUrl":"https://images.pokemontcg.io/np/17.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/17_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"17",
+    "artist":"Kagemaru Himeno",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Ember",
+        "text":"Discard a Fire Energy card attached to Torchic.",
+        "cost":[
+          "Fire",
+          "Colorless"
+        ],
+        "damage":"30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-18",
+    "name":"Mudkip",
+    "nationalPokedexNumber":258,
+    "imageUrl":"https://images.pokemontcg.io/np/18.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/18_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"18",
+    "artist":"Kagemaru Himeno",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Surf",
+        "text":"",
+        "cost":[
+          "Water"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Whirlpool",
+        "text":"Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.",
+        "cost":[
+          "Water",
+          "Colorless"
+        ],
+        "damage":"10"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-19",
+    "name":"Whismur",
+    "nationalPokedexNumber":293,
+    "imageUrl":"https://images.pokemontcg.io/np/19.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/19_hires.png",
+    "types":[
+      "Colorless"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"19",
+    "artist":"Kagemaru Himeno",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Supersonic",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Pound",
+        "text":"",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fighting",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-20",
+    "name":"Ludicolo",
+    "nationalPokedexNumber":272,
+    "imageUrl":"https://images.pokemontcg.io/np/20.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/20_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "evolvesFrom":"Lombre",
+    "subtype":"Stage 2",
+    "ability":{
+      "name":"Rain Dish",
+      "text":"At any time between turns, remove 1 damage counter from Ludicolo.",
+      "type":"Poké-Body"
+    },
+    "hp":"90",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"20",
+    "artist":"Kouki Saitou",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Fury Swipes",
+        "text":"Flip 3 coins. This attack does 30 damage times the number of heads.",
+        "cost":[
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"30×"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-21",
+    "name":"Jirachi",
+    "nationalPokedexNumber":385,
+    "imageUrl":"https://images.pokemontcg.io/np/21.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/21_hires.png",
+    "types":[
+      "Psychic"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"21",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"The Third Eye",
+        "text":"Discard an Energy card attached to Jirachi and draw 3 cards.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Psywave",
+        "text":"Does 10 damage times the amount of Energy attached to the Defending Pokémon.",
+        "cost":[
+          "Psychic"
+        ],
+        "damage":"10×"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Psychic",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-22",
+    "name":"Beldum",
+    "nationalPokedexNumber":374,
+    "imageUrl":"https://images.pokemontcg.io/np/22.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/22_hires.png",
+    "types":[
+      "Metal"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Magnetic Call",
+      "text":"Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Metal Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
+      "type":"Poké-Power"
+    },
+    "hp":"50",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"22",
+    "artist":"Mitsuhiro Arita",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Metal Charge",
+        "text":"Put 1 damage counter on Beldum.",
+        "cost":[
+          "Metal",
+          "Colorless"
+        ],
+        "damage":"30"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Grass",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-23",
+    "name":"Metang",
+    "nationalPokedexNumber":375,
+    "imageUrl":"https://images.pokemontcg.io/np/23.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/23_hires.png",
+    "types":[
+      "Metal"
+    ],
+    "supertype":"Pokémon",
+    "evolvesFrom":"Beldum",
+    "subtype":"Stage 1",
+    "hp":"80",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"23",
+    "artist":"Mitsuhiro Arita",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Metal Load",
+        "text":"Search your discard pile for a Metal Energy card and attach it to Metang.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Metal Claw",
+        "text":"",
+        "cost":[
+          "Metal",
+          "Colorless"
+        ],
+        "damage":"30"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Grass",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-24",
+    "name":"Chimecho",
+    "nationalPokedexNumber":358,
+    "imageUrl":"https://images.pokemontcg.io/np/24.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/24_hires.png",
+    "types":[
+      "Psychic"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"24",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Resonate",
+        "text":"Your opponent switches each Defending Pokémon with his or her Benched Pokémon. If your opponent has only 1 Benched Pokémon, you choose the Defending Pokémon to switch.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Healing Sound",
+        "text":"Remove 3 damage counters from each of your Active Pokémon. Each Defending Pokémon is now Asleep.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":""
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Psychic",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-25",
+    "name":"Flygon",
+    "nationalPokedexNumber":330,
+    "imageUrl":"https://images.pokemontcg.io/np/25.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/25_hires.png",
+    "types":[
+      "Colorless"
+    ],
+    "supertype":"Pokémon",
+    "evolvesFrom":"Vibrava",
+    "subtype":"Stage 2",
+    "hp":"120",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"25",
+    "artist":"Kouki Saitou",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Sand Pit",
+        "text":"The Defending Pokémon can't retreat until the end of your opponent's next turn.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"20"
+      },
+      {
+        "name":"Dragonbreath",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing.",
+        "cost":[
+          "Grass",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"80"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Lightning",
+        "value":"-30"
+      },
+      {
+        "type":"Fighting",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Colorless",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-26",
+    "name":"Tropical Wind",
+    "imageUrl":"https://images.pokemontcg.io/np/26.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/26_hires.png",
+    "supertype":"Trainer",
+    "number":"26",
+    "artist":"Sumiyoshi Kizuki",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "text":[
+      "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+    ]
+  },
+  {
+    "id":"np-27",
+    "name":"Tropical Tidal Wave",
+    "imageUrl":"https://images.pokemontcg.io/np/27.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/27_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"27",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "text":[
+      "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer cards (excluding Supporter cards) you have in play."
+    ]
+  },
+  {
+    "id":"np-28",
+    "name":"Championship Arena",
+    "imageUrl":"https://images.pokemontcg.io/np/28.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/28_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Stadium",
+    "number":"28",
+    "artist":"Ryo Ueda",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "text":[
+      "At the end of each player's turn, if that player has 8 or more cards in his or her hand, that player discards a number of cards until the player has 7 cards left in his or her hand."
+    ]
+  },
+  {
+    "id":"np-29",
+    "name":"Celebi",
+    "nationalPokedexNumber":251,
+    "imageUrl":"https://images.pokemontcg.io/np/29.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/29_hires.png",
+    "types":[
+      "Grass"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"29",
+    "artist":"Hajime Kusajima",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Leaf Slice",
+        "text":"Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "cost":[
+          "Grass",
+          "Colorless"
+        ],
+        "damage":"20×"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fire",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-30",
+    "name":"Suicune",
+    "nationalPokedexNumber":245,
+    "imageUrl":"https://images.pokemontcg.io/np/30.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/30_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Pure Body",
+      "text":"Whenever you attach a Water Energy card from your hand to Suicune, discard an Energy card attached to Suicune. (You can't attach a Water Energy card from your hand if Suicune has no Energy cards attached.)",
+      "type":"Pokémon Power"
+    },
+    "hp":"70",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"30",
+    "artist":"Atsuko Nishida",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Hypno Wave",
+        "text":"Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep.",
+        "cost":[
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"30+"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-31",
+    "name":"Moltres ex",
+    "nationalPokedexNumber":146,
+    "imageUrl":"https://images.pokemontcg.io/np/31.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/31_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Synchronized Lift",
+      "text":"As long as you have Articuno ex and Zapdos ex in play, the Retreat Cost for Moltres ex is 0.",
+      "type":"Poké-Body"
+    },
+    "hp":"100",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"31",
+    "artist":"Ken Ikuji",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Flame Gift",
+        "text":"You may move a Fire Energy card attached to Moltres ex to 1 of your Pokémon.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Scorching Wing",
+        "text":"Discard all Fire Energy attached to Moltres ex.",
+        "cost":[
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "damage":"90"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-32",
+    "name":"Articuno ex",
+    "nationalPokedexNumber":144,
+    "imageUrl":"https://images.pokemontcg.io/np/32.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/32_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Synchronized Lift",
+      "text":"As long as you have Zapdos ex and Moltres ex in play, the Retreat Cost for Articuno ex is 0.",
+      "type":"Poké-Body"
+    },
+    "hp":"100",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"32",
+    "artist":"Nakaoka",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Ice Gift",
+        "text":"You may move a Water Energy card attached to Articuno ex to 1 of your Pokémon.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Freezing Wing",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "cost":[
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "damage":"50"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Metal",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-33",
+    "name":"Zapdos ex",
+    "nationalPokedexNumber":145,
+    "imageUrl":"https://images.pokemontcg.io/np/33.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/33_hires.png",
+    "types":[
+      "Lightning"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Synchronized Lift",
+      "text":"As long as you have Articuno ex and Moltres ex in play, the Retreat Cost for Zapdos ex is 0.",
+      "type":"Poké-Body"
+    },
+    "hp":"100",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"33",
+    "artist":"K. Hoshiba",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Thunder Gift",
+        "text":"You may move a Lightning Energy card attached to Zapdos ex to 1 of your Pokémon.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10"
+      },
+      {
+        "name":"Lightning Wing",
+        "text":"Does 10 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "damage":"60"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-34",
+    "name":"Typhlosion",
+    "nationalPokedexNumber":157,
+    "imageUrl":"https://images.pokemontcg.io/np/34.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/34_hires.png",
+    "types":[
+      "Fire"
+    ],
+    "supertype":"Pokémon",
+    "evolvesFrom":"Quilava",
+    "subtype":"Stage 2",
+    "ability":{
+      "name":"Burning Aura",
+      "text":"As long as Typhlosion is your Active Pokémon, put 1 damage counter on each Active Pokémon (both yours and your opponent's) between turns.",
+      "type":"Poké-Body"
+    },
+    "hp":"110",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"34",
+    "artist":"Hajime Kusajima",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Flickering Flames",
+        "text":"The Defending Pokémon is now Asleep.",
+        "cost":[
+          "Fire"
+        ],
+        "damage":"20"
+      },
+      {
+        "name":"Rage",
+        "text":"Does 50 damage plus 10 more damage for each damage counter on Typhlosion.",
+        "cost":[
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"50+"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-35",
+    "name":"Pikachu δ",
+    "nationalPokedexNumber":25,
+    "imageUrl":"https://images.pokemontcg.io/np/35.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/35_hires.png",
+    "types":[
+      "Metal"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"40",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"35",
+    "artist":"Ryo Ueda",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Thunder Wave",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":""
+      },
+      {
+        "name":"Iron Tail",
+        "text":"Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+        "cost":[
+          "Metal",
+          "Colorless"
+        ],
+        "damage":"20×"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Fighting",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-36",
+    "name":"Tropical Tidal Wave",
+    "imageUrl":"https://images.pokemontcg.io/np/36.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/36_hires.png",
+    "supertype":"Trainer",
+    "subtype":"Item",
+    "number":"36",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "text":[
+      "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer cards (excluding Supporter cards) you have in play."
+    ]
+  },
+  {
+    "id":"np-37",
+    "name":"Kyogre ex",
+    "nationalPokedexNumber":382,
+    "imageUrl":"https://images.pokemontcg.io/np/37.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/37_hires.png",
+    "types":[
+      "Water"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Frenzy",
+      "text":"As long as your opponent has Groudon, Groudon ex, Rayquaza, or Rayquaza ex in play, Kyogre ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+      "type":"Poké-Body"
+    },
+    "hp":"100",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"37",
+    "artist":"Ryo Ueda",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Aqua Supply",
+        "text":"You may attach a basic Energy card from your hand to 1 of your Pokémon.",
+        "cost":[
+          "Water",
+          "Colorless"
+        ],
+        "damage":"30"
+      },
+      {
+        "name":"Tsunami",
+        "text":"Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "damage":"40"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Lightning",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-38",
+    "name":"Groudon ex",
+    "nationalPokedexNumber":383,
+    "imageUrl":"https://images.pokemontcg.io/np/38.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/38_hires.png",
+    "types":[
+      "Fighting"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Frenzy",
+      "text":"As long as your opponent has Kyogre, Kyogre ex, Rayquaza, or Rayquaza ex in play, Groudon ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+      "type":"Poké-Body"
+    },
+    "hp":"100",
+    "retreatCost":[
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost":2,
+    "number":"38",
+    "artist":"Ryo Ueda",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Mix-Up",
+        "text":"Flip a coin. If heads, your opponent discards the top card from his or her deck.",
+        "cost":[
+          "Fighting",
+          "Colorless"
+        ],
+        "damage":"30"
+      },
+      {
+        "name":"Earthquake",
+        "text":"Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost":[
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"60"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Water",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-39",
+    "name":"Rayquaza ex",
+    "nationalPokedexNumber":384,
+    "imageUrl":"https://images.pokemontcg.io/np/39.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/39_hires.png",
+    "types":[
+      "Colorless"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "ability":{
+      "name":"Frenzy",
+      "text":"As long as your opponent has Kyogre, Kyogre ex, Groudon, or Groudon ex in play, Rayquaza ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+      "type":"Poké-Body"
+    },
+    "hp":"100",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"39",
+    "artist":"Ryo Ueda",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Dragon Bind",
+        "text":"Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "cost":[
+          "Colorless",
+          "Colorless"
+        ],
+        "damage":"20"
+      },
+      {
+        "name":"Twister",
+        "text":"Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon.",
+        "cost":[
+          "Fire",
+          "Lightning",
+          "Colorless"
+        ],
+        "damage":"50"
+      }
+    ],
+    "resistances":[
+      {
+        "type":"Water",
+        "value":"-30"
+      },
+      {
+        "type":"Fighting",
+        "value":"-30"
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Colorless",
+        "value":"×2"
+      }
+    ]
+  },
+  {
+    "id":"np-40",
+    "name":"Mew",
+    "nationalPokedexNumber":151,
+    "imageUrl":"https://images.pokemontcg.io/np/40.png",
+    "imageUrlHiRes":"https://images.pokemontcg.io/np/40_hires.png",
+    "types":[
+      "Psychic"
+    ],
+    "supertype":"Pokémon",
+    "subtype":"Basic",
+    "hp":"50",
+    "retreatCost":[
+      "Colorless"
+    ],
+    "convertedRetreatCost":1,
+    "number":"40",
+    "artist":"Masakazu Fukuda",
+    "series":"EX",
+    "set":"Nintendo Black Star Promos",
+    "setCode":"np",
+    "attacks":[
+      {
+        "name":"Psywave",
+        "text":"Does 10 damage times the amount of Energy attached to the Defending Pokémon.",
+        "cost":[
+          "Colorless"
+        ],
+        "damage":"10×"
+      },
+      {
+        "name":"Devolution Beam",
+        "text":"Flip a coin. If heads, choose 1 of either player's Evolved Pokémon, remove the highest Stage Evolution card from that Pokémon, and put it into that player's hand.",
+        "cost":[
+          "Psychic"
+        ],
+        "damage":""
+      }
+    ],
+    "weaknesses":[
+      {
+        "type":"Psychic",
+        "value":"×2"
+      }
+    ]
+  }
+]
