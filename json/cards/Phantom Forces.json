@@ -153,7 +153,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Yanma",
     "hp": "110",
-    "convertedRetreatCost": 0,
     "number": "4",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -1214,7 +1213,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Manectric-EX",
     "hp": "210",
-    "convertedRetreatCost": 0,
     "number": "24",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo EX",
@@ -1259,7 +1257,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Manectric-EX",
     "hp": "210",
-    "convertedRetreatCost": 0,
     "number": "24a",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo EX",
@@ -1698,7 +1695,6 @@
       "type": "Ability"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "Kanako Eo",
     "rarity": "Uncommon",
@@ -1750,7 +1746,6 @@
       "type": "Ability"
     },
     "hp": "130",
-    "convertedRetreatCost": 0,
     "number": "33",
     "artist": "Satoshi Shirai",
     "rarity": "Rare",
@@ -5601,19 +5596,20 @@
   {
     "id": "xy4-120",
     "name": "M Manectric-EX",
-    "nationalPokedexNumber": 310,
     "imageUrl": "https://images.pokemontcg.io/xy4/120.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/120_hires.png",
-    "types": [
-      "Lightning"
-    ],
-    "supertype": "Pokémon",
     "subtype": "MEGA",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Manectric-EX",
     "hp": "210",
     "number": "120",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
     "series": "XY",
     "set": "Phantom Forces",
     "setCode": "xy4",
+    "types": [
+      "Lightning"
+    ],
     "attacks": [
       {
         "name": "Turbo Bolt",
@@ -5622,47 +5618,46 @@
           "Lightning",
           "Colorless"
         ],
-        "damage": "110"
+        "damage": "110",
+        "convertedEnergyCost": 2
       }
     ],
-    "rarity": "Rare Holo EX",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
     "resistances": [
       {
         "type": "Metal",
         "value": "-20"
       }
     ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "x2"
-      }
-    ],
-    "artist": "5ban Graphics",
-    "evolvesFrom": "Manectric-EX"
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/120_hires.png",
+    "nationalPokedexNumber": 310
   },
   {
     "id": "xy4-121",
     "name": "M Gengar-EX",
     "imageUrl": "https://images.pokemontcg.io/xy4/121.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/121_hires.png",
-    "supertype": "Pokémon",
     "subtype": "MEGA",
-    "number": "121",
-    "series": "XY",
-    "set": "Phantom Forces",
-    "setCode": "xy4",
-    "artist": "5ban Graphics",
-    "rarity": "Rare Holo EX",
-    "nationalPokedexNumber": 94,
-    "types": [
-      "Psychic"
-    ],
+    "supertype": "Pokémon",
+    "evolvesFrom": "Gengar-EX",
     "hp": "220",
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
+    "number": "121",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Phantom Forces",
+    "setCode": "xy4",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "name": "Phantom Gate",
@@ -5672,7 +5667,14 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": ""
+        "damage": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5681,30 +5683,30 @@
         "value": "-20"
       }
     ],
-    "weaknesses": [
-      {
-        "type": "Darkness",
-        "value": "x2"
-      }
-    ],
-    "evolvesFrom": "Gengar-EX"
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/121_hires.png",
+    "nationalPokedexNumber": 94
   },
   {
     "id": "xy4-122",
     "name": "Dialga-EX",
-    "nationalPokedexNumber": 483,
     "imageUrl": "https://images.pokemontcg.io/xy4/122.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/122_hires.png",
-    "types": [
-      "Metal"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
     "number": "122",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Rare Holo EX",
     "series": "XY",
     "set": "Phantom Forces",
     "setCode": "xy4",
+    "types": [
+      "Metal"
+    ],
     "attacks": [
       {
         "name": "Chrono Wind",
@@ -5714,7 +5716,8 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "60"
+        "damage": "60",
+        "convertedEnergyCost": 3
       },
       {
         "name": "Full Metal Impact",
@@ -5725,27 +5728,23 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "150"
+        "damage": "150",
+        "convertedEnergyCost": 4
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "artist": "Ayaka Yoshida",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "rarity": "Rare Holo EX",
     "resistances": [
       {
         "type": "Psychic",
         "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/122_hires.png",
+    "nationalPokedexNumber": 483
   }
 ]

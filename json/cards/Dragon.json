@@ -962,7 +962,6 @@
       "type": "Poké-Power"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Hajime Kusajima",
     "rarity": "Rare",
@@ -2076,7 +2075,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Nincada",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "38",
     "artist": "Toshinao Aoki",
     "rarity": "Uncommon",
@@ -2436,7 +2434,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Taillow",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Mitsuhiro Arita",
     "rarity": "Uncommon",
@@ -5005,14 +5002,9 @@
   {
     "id": "ex3-98",
     "name": "Charmander",
-    "nationalPokedexNumber": 4,
     "imageUrl": "https://images.pokemontcg.io/ex3/98.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/98_hires.png",
-    "types": [
-      "Fire"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "50",
     "retreatCost": [
       "Colorless"
@@ -5024,6 +5016,9 @@
     "series": "EX",
     "set": "Dragon",
     "setCode": "ex3",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "name": "Flare",
@@ -5031,7 +5026,8 @@
         "cost": [
           "Fire"
         ],
-        "damage": "10"
+        "damage": "10",
+        "convertedEnergyCost": 1
       },
       {
         "name": "Rage",
@@ -5040,37 +5036,43 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "10+"
+        "damage": "10+",
+        "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/98_hires.png",
+    "nationalPokedexNumber": 4,
+    "evolvesTo": [
+      "Charmeleon"
     ]
   },
   {
     "id": "ex3-99",
     "name": "Charmeleon",
-    "nationalPokedexNumber": 5,
     "imageUrl": "https://images.pokemontcg.io/ex3/99.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/99_hires.png",
-    "types": [
-      "Fire"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Charmander",
     "hp": "70",
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "99",
+    "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
     "series": "EX",
     "set": "Dragon",
     "setCode": "ex3",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "name": "Smokescreen",
@@ -5078,7 +5080,8 @@
         "cost": [
           "Fire"
         ],
-        "damage": "10"
+        "damage": "10",
+        "convertedEnergyCost": 1
       },
       {
         "name": "Fireworks",
@@ -5087,29 +5090,29 @@
           "Fire",
           "Colorless"
         ],
-        "damage": "40"
+        "damage": "40",
+        "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "evolvesFrom": "Charmander",
-    "artist": "Mitsuhiro Arita"
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/99_hires.png",
+    "nationalPokedexNumber": 5,
+    "evolvesTo": [
+      "Charizard"
+    ]
   },
   {
     "id": "ex3-100",
     "name": "Charizard",
-    "nationalPokedexNumber": 6,
     "imageUrl": "https://images.pokemontcg.io/ex3/100.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/100_hires.png",
-    "types": [
-      "Fire"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Charmeleon",
     "hp": "120",
     "retreatCost": [
       "Colorless",
@@ -5117,10 +5120,14 @@
     ],
     "convertedRetreatCost": 2,
     "number": "100",
+    "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
     "series": "EX",
     "set": "Dragon",
     "setCode": "ex3",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "name": "Collect Fire",
@@ -5129,7 +5136,8 @@
           "Fire",
           "Colorless"
         ],
-        "damage": "30"
+        "damage": "30",
+        "convertedEnergyCost": 2
       },
       {
         "name": "Flame Pillar",
@@ -5140,16 +5148,17 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "60"
+        "damage": "60",
+        "convertedEnergyCost": 4
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "evolvesFrom": "Charmeleon",
-    "artist": "Mitsuhiro Arita"
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/100_hires.png",
+    "nationalPokedexNumber": 6
   }
 ]

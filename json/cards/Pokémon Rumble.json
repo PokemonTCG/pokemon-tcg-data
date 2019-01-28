@@ -1,713 +1,740 @@
 [
   {
-    "id":"ru1-1",
-    "name":"Venusaur",
-    "nationalPokedexNumber":3,
-    "imageUrl":"https://images.pokemontcg.io/ru/1.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/1_hires.png",
-    "types":[
-      "Grass"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Ivysaur",
-    "subtype":"Stage 2",
-    "hp":"140",
-    "retreatCost":[
+    "id": "ru1-1",
+    "name": "Venusaur",
+    "imageUrl": "https://images.pokemontcg.io/ru1/1.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Ivysaur",
+    "hp": "140",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":4,
-    "number":"1",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 4,
+    "number": "1",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
       {
-        "name":"Giga Drain",
-        "text":"Remove from Venusaur the number of damage counters equal to the damage you did to the Defending Pokémon.",
-        "cost":[
+        "name": "Giga Drain",
+        "text": "Remove from Venusaur the number of damage counters equal to the damage you did to the Defending Pokémon.",
+        "cost": [
           "Grass",
           "Grass",
           "Colorless",
           "Colorless"
         ],
-        "damage":"50"
+        "damage": "50",
+        "convertedEnergyCost": 4
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fire",
-        "value":"×2"
+        "type": "Fire",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/1_hires.png",
+    "nationalPokedexNumber": 3
   },
   {
-    "id":"ru1-2",
-    "name":"Cherrim",
-    "nationalPokedexNumber":421,
-    "imageUrl":"https://images.pokemontcg.io/ru/2.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/2_hires.png",
-    "types":[
-      "Grass"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Cherubi",
-    "subtype":"Stage 1",
-    "hp":"80",
-    "retreatCost":[
+    "id": "ru1-2",
+    "name": "Cherrim",
+    "imageUrl": "https://images.pokemontcg.io/ru1/2.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Cherubi",
+    "hp": "80",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"2",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "2",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
       {
-        "name":"Solarbeam",
-        "text":"",
-        "cost":[
+        "name": "Solarbeam",
+        "text": "",
+        "cost": [
           "Grass",
           "Colorless",
           "Colorless"
         ],
-        "damage":"60"
+        "damage": "60",
+        "convertedEnergyCost": 3
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Water",
-        "value":"-20"
+        "type": "Fire",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Fire",
-        "value":"×2"
+        "type": "Water",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/2_hires.png",
+    "nationalPokedexNumber": 421
   },
   {
-    "id":"ru1-3",
-    "name":"Ninetales",
-    "nationalPokedexNumber":38,
-    "imageUrl":"https://images.pokemontcg.io/ru/3.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/3_hires.png",
-    "types":[
+    "id": "ru1-3",
+    "name": "Ninetales",
+    "imageUrl": "https://images.pokemontcg.io/ru1/3.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Vulpix",
+    "hp": "90",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "3",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
       "Fire"
     ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Vulpix",
-    "subtype":"Stage 1",
-    "hp":"90",
-    "retreatCost":[
-      "Colorless"
-    ],
-    "convertedRetreatCost":1,
-    "number":"3",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "attacks": [
       {
-        "name":"Flame Tail",
-        "text":"",
-        "cost":[
+        "name": "Flame Tail",
+        "text": "",
+        "cost": [
           "Fire",
           "Colorless",
           "Colorless"
         ],
-        "damage":"60"
+        "damage": "60",
+        "convertedEnergyCost": 3
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Water",
-        "value":"×2"
+        "type": "Water",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/3_hires.png",
+    "nationalPokedexNumber": 38
   },
   {
-    "id":"ru1-4",
-    "name":"Heatran",
-    "nationalPokedexNumber":485,
-    "imageUrl":"https://images.pokemontcg.io/ru/4.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/4_hires.png",
-    "types":[
-      "Fire"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"110",
-    "retreatCost":[
+    "id": "ru1-4",
+    "name": "Heatran",
+    "imageUrl": "https://images.pokemontcg.io/ru1/4.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "110",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":4,
-    "number":"4",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 4,
+    "number": "4",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
       {
-        "name":"Heat Boiler",
-        "text":"If the Defending Pokémon is a Water Pokémon, this attack does 60 damage plus 40 more damage.",
-        "cost":[
+        "name": "Heat Boiler",
+        "text": "If the Defending Pokémon is a Water Pokémon, this attack does 60 damage plus 40 more damage.",
+        "cost": [
           "Fire",
           "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "damage":"60+"
+        "damage": "60+",
+        "convertedEnergyCost": 4
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Water",
-        "value":"×2"
+        "type": "Water",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/4_hires.png",
+    "nationalPokedexNumber": 485
   },
   {
-    "id":"ru1-5",
-    "name":"Starmie",
-    "nationalPokedexNumber":121,
-    "imageUrl":"https://images.pokemontcg.io/ru/5.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/5_hires.png",
-    "types":[
-      "Water"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Staryu",
-    "subtype":"Stage 1",
-    "hp":"80",
-    "retreatCost":[
+    "id": "ru1-5",
+    "name": "Starmie",
+    "imageUrl": "https://images.pokemontcg.io/ru1/5.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Staryu",
+    "hp": "80",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"5",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
       {
-        "name":"Spiral Drain",
-        "text":"Remove 1 damage counter from Starmie.",
-        "cost":[
+        "name": "Spiral Drain",
+        "text": "Remove 1 damage counter from Starmie.",
+        "cost": [
           "Water",
           "Colorless",
           "Colorless"
         ],
-        "damage":"50"
+        "damage": "50",
+        "convertedEnergyCost": 3
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Lightning",
-        "value":"×2"
+        "type": "Lightning",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/5_hires.png",
+    "nationalPokedexNumber": 121
   },
   {
-    "id":"ru1-6",
-    "name":"Gyarados",
-    "nationalPokedexNumber":130,
-    "imageUrl":"https://images.pokemontcg.io/ru/6.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/6_hires.png",
-    "types":[
-      "Water"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Magikarp",
-    "subtype":"Stage 1",
-    "hp":"130",
-    "retreatCost":[
+    "id": "ru1-6",
+    "name": "Gyarados",
+    "imageUrl": "https://images.pokemontcg.io/ru1/6.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Magikarp",
+    "hp": "130",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":3,
-    "number":"6",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 3,
+    "number": "6",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
       {
-        "name":"Thrash Tackle",
-        "text":"Gyarados does 20 damage to itself.",
-        "cost":[
+        "name": "Thrash Tackle",
+        "text": "Gyarados does 20 damage to itself.",
+        "cost": [
           "Water",
           "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "damage":"80"
+        "damage": "80",
+        "convertedEnergyCost": 4
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"-20"
+        "type": "Lightning",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Lightning",
-        "value":"×2"
+        "type": "Fighting",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/6_hires.png",
+    "nationalPokedexNumber": 130
   },
   {
-    "id":"ru1-7",
-    "name":"Pikachu",
-    "nationalPokedexNumber":25,
-    "imageUrl":"https://images.pokemontcg.io/ru/7.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/7_hires.png",
-    "types":[
-      "Lightning"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"60",
-    "retreatCost":[
+    "id": "ru1-7",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/ru1/7.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"7",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "7",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
       {
-        "name":"Volt Tackle",
-        "text":"Pikachu does 10 damage to itself.",
-        "cost":[
+        "name": "Volt Tackle",
+        "text": "Pikachu does 10 damage to itself.",
+        "cost": [
           "Lightning",
           "Colorless",
           "Colorless"
         ],
-        "damage":"60"
+        "damage": "60",
+        "convertedEnergyCost": 3
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Metal",
-        "value":"-20"
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Fighting",
-        "value":"×2"
+        "type": "Metal",
+        "value": "-20"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/7_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
     ]
   },
   {
-    "id":"ru1-8",
-    "name":"Zapdos",
-    "nationalPokedexNumber":145,
-    "imageUrl":"https://images.pokemontcg.io/ru/8.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/8_hires.png",
-    "types":[
-      "Lightning"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"100",
-    "retreatCost":[
+    "id": "ru1-8",
+    "name": "Zapdos",
+    "imageUrl": "https://images.pokemontcg.io/ru1/8.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "100",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"8",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "8",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
       {
-        "name":"Drill Peck",
-        "text":"",
-        "cost":[
+        "name": "Drill Peck",
+        "text": "",
+        "cost": [
           "Lightning",
           "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "damage":"70"
+        "damage": "70",
+        "convertedEnergyCost": 4
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"-20"
+        "type": "Lightning",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Lightning",
-        "value":"×2"
+        "type": "Fighting",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/8_hires.png",
+    "nationalPokedexNumber": 145
   },
   {
-    "id":"ru1-9",
-    "name":"Mewtwo",
-    "nationalPokedexNumber":150,
-    "imageUrl":"https://images.pokemontcg.io/ru/9.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/9_hires.png",
-    "types":[
-      "Psychic"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"100",
-    "retreatCost":[
+    "id": "ru1-9",
+    "name": "Mewtwo",
+    "imageUrl": "https://images.pokemontcg.io/ru1/9.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "100",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"9",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "9",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
       {
-        "name":"Super Psy Bolt",
-        "text":"",
-        "cost":[
+        "name": "Super Psy Bolt",
+        "text": "",
+        "cost": [
           "Psychic",
           "Psychic",
           "Colorless"
         ],
-        "damage":"70"
+        "damage": "70",
+        "convertedEnergyCost": 3
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Psychic",
-        "value":"×2"
+        "type": "Psychic",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/9_hires.png",
+    "nationalPokedexNumber": 150
   },
   {
-    "id":"ru1-10",
-    "name":"Mew",
-    "nationalPokedexNumber":151,
-    "imageUrl":"https://images.pokemontcg.io/ru/10.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/10_hires.png",
-    "types":[
+    "id": "ru1-10",
+    "name": "Mew",
+    "imageUrl": "https://images.pokemontcg.io/ru1/10.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "number": "10",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
       "Psychic"
     ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"60",
-    "number":"10",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "attacks": [
       {
-        "name":"Cut",
-        "text":"",
-        "cost":[
+        "name": "Cut",
+        "text": "",
+        "cost": [
           "Colorless",
           "Colorless"
         ],
-        "damage":"30"
+        "damage": "30",
+        "convertedEnergyCost": 2
       },
       {
-        "name":"Will-o'-the-Wisp",
-        "text":"",
-        "cost":[
+        "name": "Will-o'-the-Wisp",
+        "text": "",
+        "cost": [
           "Psychic",
           "Colorless",
           "Colorless"
         ],
-        "damage":"60"
+        "damage": "60",
+        "convertedEnergyCost": 3
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Psychic",
-        "value":"×2"
+        "type": "Psychic",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/10_hires.png",
+    "nationalPokedexNumber": 151
   },
   {
-    "id":"ru1-11",
-    "name":"Diglett",
-    "nationalPokedexNumber":50,
-    "imageUrl":"https://images.pokemontcg.io/ru/11.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/11_hires.png",
-    "types":[
-      "Fighting"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"30",
-    "retreatCost":[
+    "id": "ru1-11",
+    "name": "Diglett",
+    "imageUrl": "https://images.pokemontcg.io/ru1/11.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "30",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"11",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "11",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
       {
-        "name":"Dig",
-        "text":"",
-        "cost":[
+        "name": "Dig",
+        "text": "",
+        "cost": [
           "Colorless",
           "Colorless"
         ],
-        "damage":"20"
+        "damage": "20",
+        "convertedEnergyCost": 2
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Lightning",
-        "value":"-20"
+        "type": "Grass",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Grass",
-        "value":"×2"
+        "type": "Lightning",
+        "value": "-20"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/11_hires.png",
+    "nationalPokedexNumber": 50,
+    "evolvesTo": [
+      "Dugtrio"
     ]
   },
   {
-    "id":"ru1-12",
-    "name":"Lucario",
-    "nationalPokedexNumber":448,
-    "imageUrl":"https://images.pokemontcg.io/ru/12.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/12_hires.png",
-    "types":[
-      "Fighting"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Riolu",
-    "subtype":"Stage 1",
-    "hp":"90",
-    "retreatCost":[
+    "id": "ru1-12",
+    "name": "Lucario",
+    "imageUrl": "https://images.pokemontcg.io/ru1/12.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Riolu",
+    "hp": "90",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"12",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
       {
-        "name":"Metal Claw",
-        "text":"",
-        "cost":[
+        "name": "Metal Claw",
+        "text": "",
+        "cost": [
           "Fighting",
           "Colorless",
           "Colorless"
         ],
-        "damage":"40"
+        "damage": "40",
+        "convertedEnergyCost": 3
       },
       {
-        "name":"Pulse Blast",
-        "text":"",
-        "cost":[
+        "name": "Pulse Blast",
+        "text": "",
+        "cost": [
           "Fighting",
           "Metal",
           "Colorless",
           "Colorless"
         ],
-        "damage":"80"
+        "damage": "80",
+        "convertedEnergyCost": 4
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Psychic",
-        "value":"×2"
+        "type": "Psychic",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/12_hires.png",
+    "nationalPokedexNumber": 448
   },
   {
-    "id":"ru1-13",
-    "name":"Skuntank",
-    "nationalPokedexNumber":435,
-    "imageUrl":"https://images.pokemontcg.io/ru/13.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/13_hires.png",
-    "types":[
-      "Darkness"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Stunky",
-    "subtype":"Stage 1",
-    "hp":"90",
-    "retreatCost":[
+    "id": "ru1-13",
+    "name": "Skuntank",
+    "imageUrl": "https://images.pokemontcg.io/ru1/13.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Stunky",
+    "hp": "90",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"13",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "13",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
       {
-        "name":"Rage",
-        "text":"Does 20 damage plus 10 more damage for each damage counter on Skuntank.",
-        "cost":[
+        "name": "Rage",
+        "text": "Does 20 damage plus 10 more damage for each damage counter on Skuntank.",
+        "cost": [
           "Darkness",
           "Colorless",
           "Colorless"
         ],
-        "damage":"20+"
+        "damage": "20+",
+        "convertedEnergyCost": 3
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Psychic",
-        "value":"-20"
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Fighting",
-        "value":"×2"
+        "type": "Psychic",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/13_hires.png",
+    "nationalPokedexNumber": 435
   },
   {
-    "id":"ru1-14",
-    "name":"Bastiodon",
-    "nationalPokedexNumber":411,
-    "imageUrl":"https://images.pokemontcg.io/ru/14.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/14_hires.png",
-    "types":[
-      "Metal"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Shieldon",
-    "subtype":"Stage 2",
-    "hp":"120",
-    "retreatCost":[
+    "id": "ru1-14",
+    "name": "Bastiodon",
+    "imageUrl": "https://images.pokemontcg.io/ru1/14.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Shieldon",
+    "hp": "120",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":4,
-    "number":"14",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 4,
+    "number": "14",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
       {
-        "name":"Strength",
-        "text":"",
-        "cost":[
+        "name": "Strength",
+        "text": "",
+        "cost": [
           "Metal",
           "Colorless",
           "Colorless"
         ],
-        "damage":"40"
+        "damage": "40",
+        "convertedEnergyCost": 3
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Psychic",
-        "value":"-20"
+        "type": "Fire",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Fire",
-        "value":"×2"
+        "type": "Psychic",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/14_hires.png",
+    "nationalPokedexNumber": 411
   },
   {
-    "id":"ru1-15",
-    "name":"Rattata",
-    "nationalPokedexNumber":19,
-    "imageUrl":"https://images.pokemontcg.io/ru/15.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/15_hires.png",
-    "types":[
+    "id": "ru1-15",
+    "name": "Rattata",
+    "imageUrl": "https://images.pokemontcg.io/ru1/15.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "30",
+    "retreatCost": [
       "Colorless"
     ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"30",
-    "retreatCost":[
+    "convertedRetreatCost": 1,
+    "number": "15",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"15",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "attacks": [
       {
-        "name":"Bite",
-        "text":"",
-        "cost":[
+        "name": "Bite",
+        "text": "",
+        "cost": [
           "Colorless",
           "Colorless"
         ],
-        "damage":"20"
+        "damage": "20",
+        "convertedEnergyCost": 2
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"×2"
+        "type": "Fighting",
+        "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/15_hires.png",
+    "nationalPokedexNumber": 19,
+    "evolvesTo": [
+      "Raticate"
     ]
   },
   {
-    "id":"ru1-16",
-    "name":"Bibarel",
-    "nationalPokedexNumber":400,
-    "imageUrl":"https://images.pokemontcg.io/ru/16.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/ru/16_hires.png",
-    "types":[
-      "Colorless"
-    ],
-    "supertype":"Pokémon",
-    "evolvesFrom":"Bidoof",
-    "subtype":"Stage 1",
-    "hp":"90",
-    "retreatCost":[
+    "id": "ru1-16",
+    "name": "Bibarel",
+    "imageUrl": "https://images.pokemontcg.io/ru1/16.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Bidoof",
+    "hp": "90",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":3,
-    "number":"16",
-    "series":"Platinum",
-    "set":"Pokémon Rumble",
-    "setCode":"ru1",
-    "attacks":[
+    "convertedRetreatCost": 3,
+    "number": "16",
+    "series": "Platinum",
+    "set": "Pokémon Rumble",
+    "setCode": "ru1",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
       {
-        "name":"Rollout",
-        "text":"",
-        "cost":[
+        "name": "Rollout",
+        "text": "",
+        "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "damage":"50"
+        "damage": "50",
+        "convertedEnergyCost": 4
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"×2"
+        "type": "Fighting",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ru1/16_hires.png",
+    "nationalPokedexNumber": 400
   }
 ]

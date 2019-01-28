@@ -945,14 +945,9 @@
   {
     "id": "dv1-21",
     "name": "Kyurem",
-    "nationalPokedexNumber": 646,
     "imageUrl": "https://images.pokemontcg.io/dv1/21.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/dv1/21_hires.png",
-    "types": [
-      "Dragon"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "130",
     "retreatCost": [
       "Colorless",
@@ -964,6 +959,9 @@
     "series": "Black & White",
     "set": "Dragon Vault",
     "setCode": "dv1",
+    "types": [
+      "Dragon"
+    ],
     "attacks": [
       {
         "name": "Dragon Claw",
@@ -973,7 +971,8 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "60"
+        "damage": "60",
+        "convertedEnergyCost": 3
       },
       {
         "name": "Blizzard",
@@ -984,7 +983,8 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "90"
+        "damage": "90",
+        "convertedEnergyCost": 4
       }
     ],
     "weaknesses": [
@@ -992,6 +992,8 @@
         "type": "Dragon",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/dv1/21_hires.png",
+    "nationalPokedexNumber": 646
   }
 ]

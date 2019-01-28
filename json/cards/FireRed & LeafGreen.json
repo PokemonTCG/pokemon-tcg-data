@@ -7,7 +7,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Kakuna",
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "1",
     "artist": "Hajime Kusajima",
     "rarity": "Rare Holo",
@@ -61,7 +60,6 @@
       "type": "Poké-Body"
     },
     "hp": "100",
-    "convertedRetreatCost": 0,
     "number": "2",
     "artist": "Atsuko Nishida",
     "rarity": "Rare Holo",
@@ -511,7 +509,6 @@
       "type": "Poké-Power"
     },
     "hp": "100",
-    "convertedRetreatCost": 0,
     "number": "10",
     "artist": "Midori Harada",
     "rarity": "Rare Holo",
@@ -1483,7 +1480,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Mankey",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "28",
     "artist": "Miki Tanaka",
     "rarity": "Rare",
@@ -2390,7 +2386,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Pidgey",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -2560,7 +2555,6 @@
       "type": "Poké-Body"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "48",
     "artist": "Kyoko Umemoto",
     "rarity": "Uncommon",
@@ -2612,7 +2606,6 @@
       "type": "Poké-Body"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "49",
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
@@ -5356,24 +5349,23 @@
   {
     "id": "ex6-113",
     "name": "Charmander",
-    "nationalPokedexNumber": 4,
     "imageUrl": "https://images.pokemontcg.io/ex6/113.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/113_hires.png",
-    "types": [
-      "Fire"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "50",
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "113",
+    "artist": "Ken Sugimori",
     "rarity": "Rare Holo",
     "series": "EX",
     "set": "FireRed & LeafGreen",
     "setCode": "ex6",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "name": "Flare",
@@ -5381,7 +5373,8 @@
         "cost": [
           "Fire"
         ],
-        "damage": "10"
+        "damage": "10",
+        "convertedEnergyCost": 1
       },
       {
         "name": "Rage",
@@ -5390,28 +5383,28 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "10+"
+        "damage": "10+",
+        "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "artist": "Ken Sugimori"
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/113_hires.png",
+    "nationalPokedexNumber": 4,
+    "evolvesTo": [
+      "Charmeleon"
+    ]
   },
   {
     "id": "ex6-114",
     "name": "Articuno ex",
-    "nationalPokedexNumber": 144,
     "imageUrl": "https://images.pokemontcg.io/ex6/114.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/114_hires.png",
-    "types": [
-      "Water"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "110",
     "retreatCost": [
       "Colorless",
@@ -5419,9 +5412,14 @@
     ],
     "convertedRetreatCost": 2,
     "number": "114",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Holo EX",
     "series": "EX",
     "set": "FireRed & LeafGreen",
     "setCode": "ex6",
+    "types": [
+      "Water"
+    ],
     "attacks": [
       {
         "name": "Cold Crush",
@@ -5431,29 +5429,25 @@
           "Water",
           "Colorless"
         ],
-        "damage": "50"
+        "damage": "50",
+        "convertedEnergyCost": 3
       }
     ],
-    "artist": "Ryo Ueda",
-    "rarity": "Rare Holo EX",
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/114_hires.png",
+    "nationalPokedexNumber": 144
   },
   {
     "id": "ex6-115",
     "name": "Moltres ex",
-    "nationalPokedexNumber": 146,
     "imageUrl": "https://images.pokemontcg.io/ex6/115.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/115_hires.png",
-    "types": [
-      "Fire"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "110",
     "retreatCost": [
       "Colorless",
@@ -5461,10 +5455,14 @@
     ],
     "convertedRetreatCost": 2,
     "number": "115",
+    "artist": "Ryo Ueda",
     "rarity": "Rare Holo EX",
     "series": "EX",
     "set": "FireRed & LeafGreen",
     "setCode": "ex6",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "name": "Crushing Flames",
@@ -5474,28 +5472,25 @@
           "Fire",
           "Colorless"
         ],
-        "damage": "60"
+        "damage": "60",
+        "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "artist": "Ryo Ueda"
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/115_hires.png",
+    "nationalPokedexNumber": 146
   },
   {
     "id": "ex6-116",
     "name": "Zapdos ex",
-    "nationalPokedexNumber": 145,
     "imageUrl": "https://images.pokemontcg.io/ex6/116.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/116_hires.png",
-    "types": [
-      "Lightning"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "110",
     "retreatCost": [
       "Colorless",
@@ -5508,6 +5503,9 @@
     "series": "EX",
     "set": "FireRed & LeafGreen",
     "setCode": "ex6",
+    "types": [
+      "Lightning"
+    ],
     "attacks": [
       {
         "name": "Electron Crush",
@@ -5517,14 +5515,17 @@
           "Lightning",
           "Colorless"
         ],
-        "damage": "50+"
+        "damage": "50+",
+        "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex6/116_hires.png",
+    "nationalPokedexNumber": 145
   }
 ]

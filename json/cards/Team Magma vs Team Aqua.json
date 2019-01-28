@@ -226,7 +226,6 @@
     "subtype": "Stage 1",
     "supertype": "Pokémon",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "5",
     "artist": "Katsura Tabata",
     "rarity": "Rare Holo",
@@ -930,7 +929,6 @@
     "subtype": "Stage 1",
     "supertype": "Pokémon",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Katsura Tabata",
     "rarity": "Rare",
@@ -4428,14 +4426,9 @@
   {
     "id": "ex4-96",
     "name": "Absol",
-    "nationalPokedexNumber": 359,
     "imageUrl": "https://images.pokemontcg.io/ex4/96.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/96_hires.png",
-    "types": [
-      "Darkness"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "70",
     "retreatCost": [
       "Colorless"
@@ -4447,6 +4440,9 @@
     "series": "EX",
     "set": "Team Magma vs Team Aqua",
     "setCode": "ex4",
+    "types": [
+      "Darkness"
+    ],
     "attacks": [
       {
         "name": "Quick Attack",
@@ -4455,7 +4451,8 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "10+"
+        "damage": "10+",
+        "convertedEnergyCost": 2
       },
       {
         "name": "Feint Attack",
@@ -4465,27 +4462,25 @@
           "Darkness",
           "Colorless"
         ],
-        "damage": ""
+        "damage": "",
+        "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/96_hires.png",
+    "nationalPokedexNumber": 359
   },
   {
     "id": "ex4-97",
     "name": "Jirachi",
-    "nationalPokedexNumber": 385,
     "imageUrl": "https://images.pokemontcg.io/ex4/97.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/97_hires.png",
-    "types": [
-      "Psychic"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "50",
     "retreatCost": [
       "Colorless"
@@ -4497,6 +4492,9 @@
     "series": "EX",
     "set": "Team Magma vs Team Aqua",
     "setCode": "ex4",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "name": "Hypnoblast",
@@ -4504,7 +4502,8 @@
         "cost": [
           "Psychic"
         ],
-        "damage": "10"
+        "damage": "10",
+        "convertedEnergyCost": 1
       },
       {
         "name": "Swift",
@@ -4513,14 +4512,17 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "20"
+        "damage": "20",
+        "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/97_hires.png",
+    "nationalPokedexNumber": 385
   }
 ]

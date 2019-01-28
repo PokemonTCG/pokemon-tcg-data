@@ -1566,7 +1566,6 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "hp": "110",
-    "convertedRetreatCost": 0,
     "number": "SM30",
     "artist": "kirisAki",
     "rarity": "",
@@ -1620,7 +1619,6 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "hp": "110",
-    "convertedRetreatCost": 0,
     "number": "SM31",
     "artist": "kirisAki",
     "rarity": "",
@@ -2453,14 +2451,9 @@
   {
     "id": "smp-SM45",
     "name": "Tapu Lele",
-    "nationalPokedexNumber": 785,
     "imageUrl": "https://images.pokemontcg.io/smp/SM45.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM45_hires.png",
-    "types": [
-      "Psychic"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "110",
     "retreatCost": [
       "Colorless"
@@ -2472,6 +2465,9 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "name": "Psywave",
@@ -2496,9 +2492,11 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM45_hires.png",
+    "nationalPokedexNumber": 785
   },
   {
     "id": "smp-SM46",
@@ -3367,14 +3365,9 @@
   {
     "id": "smp-SM61",
     "name": "Tapu Bulu",
-    "nationalPokedexNumber": 786,
     "imageUrl": "https://images.pokemontcg.io/smp/SM61.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM61_hires.png",
-    "types": [
-      "Grass"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "130",
     "retreatCost": [
       "Colorless",
@@ -3387,6 +3380,9 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Grass"
+    ],
     "attacks": [
       {
         "name": "Horn Leech",
@@ -3413,9 +3409,11 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM61_hires.png",
+    "nationalPokedexNumber": 786
   },
   {
     "id": "smp-SM62",
@@ -4385,7 +4383,6 @@
     "imageUrl": "https://images.pokemontcg.io/smp/SM78.png",
     "subtype": "Stadium",
     "supertype": "Trainer",
-    "convertedRetreatCost": 0,
     "number": "SM78",
     "artist": "Naoki Saito",
     "rarity": "",
@@ -5172,14 +5169,9 @@
   {
     "id": "smp-SM92",
     "name": "Tapu Fini",
-    "nationalPokedexNumber": 787,
     "imageUrl": "https://images.pokemontcg.io/smp/SM92.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM92_hires.png",
-    "types": [
-      "Water"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "120",
     "retreatCost": [
       "Colorless",
@@ -5192,6 +5184,9 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Water"
+    ],
     "attacks": [
       {
         "name": "Water Pulse",
@@ -5218,9 +5213,11 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM92_hires.png",
+    "nationalPokedexNumber": 787
   },
   {
     "id": "smp-SM93",
@@ -5802,19 +5799,19 @@
   {
     "id": "smp-SM103",
     "name": "Lunala-GX",
-    "nationalPokedexNumber": 792,
     "imageUrl": "https://images.pokemontcg.io/smp/SM103.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM103_hires.png",
-    "types": [
-      "Psychic"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Cosmoem",
     "hp": "230",
     "number": "SM103",
+    "artist": "PLANETA",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "name": "Glide",
@@ -5823,7 +5820,8 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "50"
+        "damage": "50",
+        "convertedEnergyCost": 2
       },
       {
         "name": "Lunar Javelin",
@@ -5834,7 +5832,8 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "200"
+        "damage": "200",
+        "convertedEnergyCost": 4
       },
       {
         "name": "Requiem GX",
@@ -5845,35 +5844,37 @@
           "Psychic",
           "Colorless"
         ],
-        "damage": "250"
+        "damage": "250",
+        "convertedEnergyCost": 4
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "evolvesFrom": "Cosmoem",
-    "artist": "PLANETA",
     "resistances": [
       {
         "type": "Fighting",
         "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM103_hires.png",
+    "nationalPokedexNumber": 792
   },
   {
     "id": "smp-SM104",
     "name": "Solgaleo-GX",
-    "nationalPokedexNumber": 791,
     "imageUrl": "https://images.pokemontcg.io/smp/SM104.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM104_hires.png",
-    "types": [
-      "Metal"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Cosmoem",
+    "ability": {
+      "name": "Shining Mane",
+      "text": "Your Pokémon in play have no Weakness.",
+      "type": "Ability"
+    },
     "hp": "250",
     "retreatCost": [
       "Colorless",
@@ -5881,9 +5882,13 @@
     ],
     "convertedRetreatCost": 2,
     "number": "SM104",
+    "artist": "PLANETA",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Metal"
+    ],
     "attacks": [
       {
         "name": "Turbo Strike",
@@ -5892,7 +5897,8 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": "120"
+        "damage": "120",
+        "convertedEnergyCost": 2
       },
       {
         "name": "Prominence GX",
@@ -5901,28 +5907,24 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": ""
+        "damage": "",
+        "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "ability": {
-      "name": "Shining Mane",
-      "text": "Your Pokémon in play have no Weakness.",
-      "type": "Ability"
-    },
-    "artist": "PLANETA",
-    "evolvesFrom": "Cosmoem",
     "resistances": [
       {
         "type": "Psychic",
         "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM104_hires.png",
+    "nationalPokedexNumber": 791
   },
   {
     "id": "smp-SM105",
@@ -6521,7 +6523,6 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "hp": "110",
-    "convertedRetreatCost": 0,
     "number": "SM115",
     "artist": "You Iribi",
     "rarity": "",
@@ -6945,7 +6946,8 @@
         "value": "×2"
       }
     ],
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM122_hires.png"
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM122_hires.png",
+    "nationalPokedexNumber": 718
   },
   {
     "id": "smp-SM123",
@@ -7129,53 +7131,55 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM125_hires.png"
   },
   {
-    "id":"smp-SM126",
-    "name":"Ultra Necrozma-GX",
-    "nationalPokedexNumber":800,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM126.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM126_hires.png",
-    "types":[
-      "Dragon"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"190",
-    "retreatCost":[
+    "id": "smp-SM126",
+    "name": "Ultra Necrozma-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM126.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "190",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"SM126",
-    "artist":"PLANETA Otani",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "SM126",
+    "artist": "PLANETA Otani",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
       {
-        "name":"Photon Geyser",
-        "text":"Discard all basic Psychic Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
-        "cost":[
+        "name": "Photon Geyser",
+        "text": "Discard all basic Psychic Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+        "cost": [
           "Psychic",
           "Metal"
         ],
-        "damage":"20+"
+        "damage": "20+",
+        "convertedEnergyCost": 2
       },
       {
-        "name":"Sky-Scorching Light GX",
-        "text":"You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)",
-        "cost":[
+        "name": "Sky-Scorching Light GX",
+        "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "cost": [
           "Psychic",
           "Metal"
         ],
-        "damage":""
+        "damage": "",
+        "convertedEnergyCost": 2
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fairy",
-        "value":"x2"
+        "type": "Fairy",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM126_hires.png",
+    "nationalPokedexNumber": 800
   },
   {
     "id": "smp-SM127",
@@ -7363,7 +7367,6 @@
       "type": "Ability"
     },
     "hp": "110",
-    "convertedRetreatCost": 0,
     "number": "SM130",
     "artist": "Ryota Murayama",
     "rarity": "",
@@ -7502,14 +7505,9 @@
   {
     "id": "smp-SM133",
     "name": "Thundurus-GX",
-    "nationalPokedexNumber": 641,
     "imageUrl": "https://images.pokemontcg.io/smp/SM133.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM133_hires.png",
-    "types": [
-      "Lightning"
-    ],
-    "supertype": "Pokémon",
     "subtype": "GX",
+    "supertype": "Pokémon",
     "hp": "180",
     "retreatCost": [
       "Colorless",
@@ -7522,6 +7520,9 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
     "attacks": [
       {
         "name": "Charge",
@@ -7555,30 +7556,27 @@
         "damage": "100×"
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
     "resistances": [
       {
         "type": "Metal",
         "value": "-20"
       }
     ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "x2"
-      }
-    ]
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM133_hires.png",
+    "nationalPokedexNumber": 642
   },
   {
     "id": "smp-SM134",
     "name": "Tornadus-GX",
-    "nationalPokedexNumber": 640,
     "imageUrl": "https://images.pokemontcg.io/smp/SM134.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM134_hires.png",
-    "types": [
-      "Colorless"
-    ],
-    "supertype": "Pokémon",
     "subtype": "GX",
+    "supertype": "Pokémon",
     "hp": "180",
     "retreatCost": [
       "Colorless",
@@ -7591,6 +7589,9 @@
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
+    "types": [
+      "Colorless"
+    ],
     "attacks": [
       {
         "name": "Gust",
@@ -7625,18 +7626,20 @@
         "damage": "130"
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
     "resistances": [
       {
         "type": "Fighting",
         "value": "-20"
       }
     ],
-    "weaknesses": [
-      {
-        "type": "Lightning",
-        "value": "x2"
-      }
-    ]
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM134_hires.png",
+    "nationalPokedexNumber": 641
   },
   {
     "id": "smp-SM135",
@@ -7744,518 +7747,538 @@
     "nationalPokedexNumber": 381
   },
   {
-    "id":"smp-SM137",
-    "name":"Reshiram-GX",
-    "nationalPokedexNumber":643,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM137.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM137_hires.png",
-    "types":[
+    "id": "smp-SM137",
+    "name": "Reshiram-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM137.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM137",
+    "artist": "PLANETA Otani",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
       "Fire"
     ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"180",
-    "retreatCost":[
+    "attacks": [
+      {
+        "name": "Flame Charge",
+        "text": "Search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "name": "Scorching Column",
+        "text": "Your opponent's Active Pokémon is now Burned.",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "110",
+        "convertedEnergyCost": 4
+      },
+      {
+        "name": "Vermilion GX",
+        "text": "You may attach up to 5 Fire Energy cards from your hand to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "180",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM137_hires.png",
+    "nationalPokedexNumber": 643
+  },
+  {
+    "id": "smp-SM138",
+    "name": "Zekrom-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM138.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"SM137",
-    "artist":"PLANETA Otani",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
-      {
-        "name":"Flame Charge",
-        "text":"Search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
-        "cost":[
-          "Colorless"
-        ],
-        "damage":""
-      },
-      {
-        "name":"Scorching Column",
-        "text":"Your opponent's Active Pokémon is now Burned.",
-        "cost":[
-          "Fire",
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
-        "damage":"110"
-      },
-      {
-        "name":"Vermilion GX",
-        "text":"You may attach up to 5 Fire Energy cards from your hand to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",
-        "cost":[
-          "Fire",
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
-        "damage":"180"
-      }
-    ],
-    "weaknesses":[
-      {
-        "type":"Water",
-        "value":"x2"
-      }
-    ]
-  },
-  {
-    "id":"smp-SM138",
-    "name":"Zekrom-GX",
-    "nationalPokedexNumber":644,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM138.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM138_hires.png",
-    "types":[
+    "convertedRetreatCost": 3,
+    "number": "SM138",
+    "artist": "5ban Graphics",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
       "Lightning"
     ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"180",
-    "retreatCost":[
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost":3,
-    "number":"SM138",
-    "artist":"5ban Graphics",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "attacks": [
       {
-        "name":"Bullet Uppercut",
-        "text":"If your opponent's Active Pokémon is a Pokémon-GX or a Pokémon-EX, this attack does 60 more damage. This attack's damage isn't affected by Weakness.",
-        "cost":[
+        "name": "Bullet Uppercut",
+        "text": "If your opponent's Active Pokémon is a Pokémon-GX or a Pokémon-EX, this attack does 60 more damage. This attack's damage isn't affected by Weakness.",
+        "cost": [
           "Colorless"
         ],
-        "damage":"10+"
+        "damage": "10+",
+        "convertedEnergyCost": 1
       },
       {
-        "name":"Swift Bolt Strike",
-        "text":"Flip 2 coins. This attack does 60 more damage for each heads.",
-        "cost":[
+        "name": "Swift Bolt Strike",
+        "text": "Flip 2 coins. This attack does 60 more damage for each heads.",
+        "cost": [
           "Lightning",
           "Lightning",
           "Lightning",
           "Colorless"
         ],
-        "damage":"80+"
+        "damage": "80+",
+        "convertedEnergyCost": 4
       },
       {
-        "name":"Rampage Bolt GX",
-        "text":"This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
-        "cost":[
+        "name": "Rampage Bolt GX",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "cost": [
           "Lightning",
           "Lightning",
           "Lightning",
           "Colorless"
         ],
-        "damage":"200"
+        "damage": "200",
+        "convertedEnergyCost": 4
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Metal",
-        "value":"-20"
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Fighting",
-        "value":"x2"
+        "type": "Metal",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM138_hires.png",
+    "nationalPokedexNumber": 644
   },
   {
-    "id":"smp-SM139",
-    "evolvesFrom":"Shelgon",
-    "name":"Salamence-GX",
-    "nationalPokedexNumber":373,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM139.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM139_hires.png",
-    "types":[
-      "Dragon"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Stage 2",
-    "ability":{
-      "name":"Dragon Lift",
-      "text":"Your Pokémon in play have no Retreat Cost, except Pokémon-GX and Pokémon-EX.",
-      "type":"Ability"
+    "id": "smp-SM139",
+    "name": "Salamence-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM139.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Shelgon",
+    "ability": {
+      "name": "Dragon Lift",
+      "text": "Your Pokémon in play have no Retreat Cost, except Pokémon-GX and Pokémon-EX.",
+      "type": "Ability"
     },
-    "hp":"250",
-    "retreatCost":[
+    "hp": "250",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"SM139",
-    "artist":"5ban Graphics",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "SM139",
+    "artist": "5ban Graphics",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
       {
-        "name":"Bright Flame",
-        "text":"Discard 2 Energy from this Pokémon.",
-        "cost":[
+        "name": "Bright Flame",
+        "text": "Discard 2 Energy from this Pokémon.",
+        "cost": [
           "Fire",
           "Water",
           "Colorless",
           "Colorless"
         ],
-        "damage":"200"
+        "damage": "200",
+        "convertedEnergyCost": 4
       },
       {
-        "name":"Flame Jet GX",
-        "text":"This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)",
-        "cost":[
+        "name": "Flame Jet GX",
+        "text": "This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)",
+        "cost": [
           "Fire",
           "Colorless",
           "Colorless"
         ],
-        "damage":""
+        "damage": "",
+        "convertedEnergyCost": 3
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fairy",
-        "value":"x2"
+        "type": "Fairy",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM139_hires.png",
+    "nationalPokedexNumber": 373
   },
   {
-    "evolvesFrom":"Shelgon",
-    "id":"smp-SM140",
-    "name":"Salamence",
-    "nationalPokedexNumber":373,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM140.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM140_hires.png",
-    "types":[
-      "Dragon"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Stage 2",
-    "ability":{
-      "name":"Dragon Wind",
-      "text":"If this Pokémon is your Active Pokémon, once during your turn (before your attack), you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
-      "type":"Ability"
+    "id": "smp-SM140",
+    "name": "Salamence",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM140.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Shelgon",
+    "ability": {
+      "name": "Dragon Wind",
+      "text": "If this Pokémon is your Active Pokémon, once during your turn (before your attack), you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "type": "Ability"
     },
-    "hp":"150",
-    "retreatCost":[
+    "hp": "150",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":3,
-    "number":"SM140",
-    "artist":"Mitsuhiro Arita",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 3,
+    "number": "SM140",
+    "artist": "Mitsuhiro Arita",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
       {
-        "name":"Dragon Claw",
-        "text":"",
-        "cost":[
+        "name": "Dragon Claw",
+        "text": "",
+        "cost": [
           "Fire",
           "Water",
           "Colorless",
           "Colorless"
         ],
-        "damage":"100"
+        "damage": "100",
+        "convertedEnergyCost": 4
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fairy",
-        "value":"x2"
+        "type": "Fairy",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM140_hires.png",
+    "nationalPokedexNumber": 373
   },
   {
-    "id":"smp-SM141",
-    "name":"White Kyurem-GX",
-    "nationalPokedexNumber":646,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM141.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM141_hires.png",
-    "types":[
-      "Dragon"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"190",
-    "retreatCost":[
+    "id": "smp-SM141",
+    "name": "White Kyurem-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM141.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "190",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":3,
-    "number":"SM141",
-    "artist":"5ban Graphics",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 3,
+    "number": "SM141",
+    "artist": "5ban Graphics",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
       {
-        "name":"Shred",
-        "text":"This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
-        "cost":[
+        "name": "Shred",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+        "cost": [
           "Fire"
         ],
-        "damage":"40"
+        "damage": "40",
+        "convertedEnergyCost": 1
       },
       {
-        "name":"Raging Blade",
-        "text":"If this Pokémon has any damage counters on it, this attack does 80 more damage.",
-        "cost":[
+        "name": "Raging Blade",
+        "text": "If this Pokémon has any damage counters on it, this attack does 80 more damage.",
+        "cost": [
           "Fire",
           "Water",
           "Colorless"
         ],
-        "damage":"80+"
+        "damage": "80+",
+        "convertedEnergyCost": 3
       },
       {
-        "name":"Dragon Nova GX",
-        "text":"Your opponent's Active Pokémon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)",
-        "cost":[
+        "name": "Dragon Nova GX",
+        "text": "Your opponent's Active Pokémon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)",
+        "cost": [
           "Fire",
           "Fire",
           "Water",
           "Colorless"
         ],
-        "damage":"200"
+        "damage": "200",
+        "convertedEnergyCost": 4
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fairy",
-        "value":"x2"
+        "type": "Fairy",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM141_hires.png",
+    "nationalPokedexNumber": 646
   },
   {
-    "id":"smp-SM142",
-    "name":"Kyurem",
-    "nationalPokedexNumber":646,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM142.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM142_hires.png",
-    "types":[
-      "Dragon"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"130",
-    "retreatCost":[
+    "id": "smp-SM142",
+    "name": "Kyurem",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM142.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"SM142",
-    "artist":"TOKIYA",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "SM142",
+    "artist": "TOKIYA",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
       {
-        "name":"Outrage",
-        "text":"This attack does 10 more damage for each damage counter on this Pokémon.",
-        "cost":[
+        "name": "Outrage",
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
+        "cost": [
           "Colorless",
           "Colorless"
         ],
-        "damage":"20+"
+        "damage": "20+",
+        "convertedEnergyCost": 2
       },
       {
-        "name":"Frost Spear",
-        "text":"This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
-        "cost":[
+        "name": "Frost Spear",
+        "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
           "Water",
           "Water",
           "Colorless"
         ],
-        "damage":"100"
+        "damage": "100",
+        "convertedEnergyCost": 3
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fairy",
-        "value":"x2"
+        "type": "Fairy",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM142_hires.png",
+    "nationalPokedexNumber": 646
   },
   {
-    "id":"smp-SM143",
-    "name":"Moltres",
-    "nationalPokedexNumber":146,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM143.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM143_hires.png",
-    "types":[
+    "id": "smp-SM143",
+    "name": "Moltres",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM143.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SM143",
+    "artist": "Hitoshi Ariga",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
       "Fire"
     ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"120",
-    "retreatCost":[
-      "Colorless"
-    ],
-    "convertedRetreatCost":1,
-    "number":"SM143",
-    "artist":"Hitoshi Ariga",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "attacks": [
       {
-        "name":"Wing Attack",
-        "text":"",
-        "cost":[
+        "name": "Wing Attack",
+        "text": "",
+        "cost": [
           "Fire",
           "Colorless",
           "Colorless"
         ],
-        "damage":"70"
+        "damage": "70",
+        "convertedEnergyCost": 3
       },
       {
-        "name":"Sky Attack",
-        "text":"Flip a coin. If tails, this attack does nothing.",
-        "cost":[
+        "name": "Sky Attack",
+        "text": "Flip a coin. If tails, this attack does nothing.",
+        "cost": [
           "Fire",
           "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "damage":"150"
+        "damage": "150",
+        "convertedEnergyCost": 4
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"-20"
+        "type": "Lightning",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Lightning",
-        "value":"x2"
+        "type": "Fighting",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM143_hires.png",
+    "nationalPokedexNumber": 146
   },
   {
-    "id":"smp-SM144",
-    "name":"Articuno",
-    "nationalPokedexNumber":144,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM144.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM144_hires.png",
-    "types":[
+    "id": "smp-SM144",
+    "name": "Articuno",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM144.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SM144",
+    "artist": "Hitoshi Ariga",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
       "Water"
     ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"120",
-    "retreatCost":[
-      "Colorless"
-    ],
-    "convertedRetreatCost":1,
-    "number":"SM144",
-    "artist":"Hitoshi Ariga",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "attacks": [
       {
-        "name":"Gust",
-        "text":"",
-        "cost":[
+        "name": "Gust",
+        "text": "",
+        "cost": [
           "Colorless",
           "Colorless"
         ],
-        "damage":"30"
+        "damage": "30",
+        "convertedEnergyCost": 2
       },
       {
-        "name":"Sheer Cold",
-        "text":"Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
-        "cost":[
+        "name": "Sheer Cold",
+        "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+        "cost": [
           "Water",
           "Water",
           "Colorless"
         ],
-        "damage":"100"
+        "damage": "100",
+        "convertedEnergyCost": 3
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"-20"
+        "type": "Lightning",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Lightning",
-        "value":"x2"
+        "type": "Fighting",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM144_hires.png",
+    "nationalPokedexNumber": 144
   },
   {
-    "id":"smp-SM145",
-    "name":"Zapdos",
-    "nationalPokedexNumber":145,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM145.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM145_hires.png",
-    "types":[
-      "Lightning"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"120",
-    "retreatCost":[
+    "id": "smp-SM145",
+    "name": "Zapdos",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM145.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "120",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"SM145",
-    "artist":"Hitoshi Ariga",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "SM145",
+    "artist": "Hitoshi Ariga",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
       {
-        "name":"Thunder Shock",
-        "text":"Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
-        "cost":[
+        "name": "Thunder Shock",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "cost": [
           "Lightning"
         ],
-        "damage":"20"
+        "damage": "20",
+        "convertedEnergyCost": 1
       },
       {
-        "name":"Drill Peck",
-        "text":"",
-        "cost":[
+        "name": "Drill Peck",
+        "text": "",
+        "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
         ],
-        "damage":"120"
+        "damage": "120",
+        "convertedEnergyCost": 4
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"-20"
+        "type": "Lightning",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Lightning",
-        "value":"x2"
+        "type": "Fighting",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM145_hires.png",
+    "nationalPokedexNumber": 145
   },
   {
     "id": "smp-SM146",
@@ -8401,284 +8424,297 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM148_hires.png"
   },
   {
-    "id":"smp-SM149",
-    "name":"Suicune",
-    "nationalPokedexNumber":245,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM149.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM149_hires.png",
-    "types":[
-      "Water"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "ability":{
-      "name":"Frozen Flow",
-      "text":"Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon.",
-      "type":"Ability"
+    "id": "smp-SM149",
+    "name": "Suicune",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM149.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Frozen Flow",
+      "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon.",
+      "type": "Ability"
     },
-    "hp":"110",
-    "retreatCost":[
+    "hp": "110",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"SM149",
-    "artist":"Anesaki Dynamic",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "SM149",
+    "artist": "Anesaki Dynamic",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
       {
-        "name":"Aurora Gain",
-        "text":"Heal 30 damage from this Pokémon.",
-        "cost":[
+        "name": "Aurora Gain",
+        "text": "Heal 30 damage from this Pokémon.",
+        "cost": [
           "Water",
           "Colorless",
           "Colorless"
         ],
-        "damage":"70"
+        "damage": "70",
+        "convertedEnergyCost": 3
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Grass",
-        "value":"x2"
+        "type": "Grass",
+        "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM149_hires.png",
+    "nationalPokedexNumber": 245
   },
   {
-    "id":"smp-SM150",
-    "name":"Raikou",
-    "nationalPokedexNumber":243,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM150.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM150_hires.png",
-    "types":[
-      "Lightning"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"120",
-    "retreatCost":[
+    "id": "smp-SM150",
+    "name": "Raikou",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM150.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "120",
+    "retreatCost": [
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":2,
-    "number":"SM150",
-    "artist":"Kagemaru Himeno",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 2,
+    "number": "SM150",
+    "artist": "Kagemaru Himeno",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
       {
-        "name":"Lost Voltage",
-        "text":"If you have any Lightning Energy cards in the Lost Zone, this attack does 90 more damage.",
-        "cost":[
+        "name": "Lost Voltage",
+        "text": "If you have any Lightning Energy cards in the Lost Zone, this attack does 90 more damage.",
+        "cost": [
           "Lightning",
           "Colorless"
         ],
-        "damage":"30+"
+        "damage": "30+",
+        "convertedEnergyCost": 2
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Metal",
-        "value":"-20"
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Fighting",
-        "value":"x2"
+        "type": "Metal",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM150_hires.png",
+    "nationalPokedexNumber": 243
   },
   {
-    "id":"smp-SM151",
-    "name":"Giratina",
-    "nationalPokedexNumber":487,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM151.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM151_hires.png",
-    "types":[
-      "Psychic"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "ability":{
-      "name":"Distortion Door",
-      "text":"Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 1 damage counter on 2 of your opponent's Benched Pokémon.",
-      "type":"Ability"
+    "id": "smp-SM151",
+    "name": "Giratina",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM151.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Distortion Door",
+      "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 1 damage counter on 2 of your opponent's Benched Pokémon.",
+      "type": "Ability"
     },
-    "hp":"130",
-    "retreatCost":[
+    "hp": "130",
+    "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless"
     ],
-    "convertedRetreatCost":3,
-    "number":"SM151",
-    "artist":"Hasuno",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 3,
+    "number": "SM151",
+    "artist": "Hasuno",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
       {
-        "name":"Shadow Impact",
-        "text":"Put 4 damage counters on 1 of your Pokémon.",
-        "cost":[
+        "name": "Shadow Impact",
+        "text": "Put 4 damage counters on 1 of your Pokémon.",
+        "cost": [
           "Psychic",
           "Psychic",
           "Colorless"
         ],
-        "damage":"130"
+        "damage": "130",
+        "convertedEnergyCost": 3
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Fighting",
-        "value":"-20"
+        "type": "Darkness",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Darkness",
-        "value":"x2"
+        "type": "Fighting",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM151_hires.png",
+    "nationalPokedexNumber": 487
   },
   {
-    "id":"smp-SM152",
-    "name":"Tapu Lele",
-    "nationalPokedexNumber":786,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM152.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM152_hires.png",
-    "types":[
-      "Fairy"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "ability":{
-      "name":"Charmed Charm",
-      "text":"Whenever you attach a Pokémon Tool card that has \"Fairy Charm\" in its name from your hand to this Pokémon during your turn, you may leave your opponent's Active Pokémon Confused.",
-      "type":"Ability"
+    "id": "smp-SM152",
+    "name": "Tapu Lele",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM152.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Charmed Charm",
+      "text": "Whenever you attach a Pokémon Tool card that has \"Fairy Charm\" in its name from your hand to this Pokémon during your turn, you may leave your opponent's Active Pokémon Confused.",
+      "type": "Ability"
     },
-    "hp":"110",
-    "retreatCost":[
+    "hp": "110",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"SM152",
-    "artist":"Mizue",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "SM152",
+    "artist": "Mizue",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
       {
-        "name":"Magical Shot",
-        "text":"",
-        "cost":[
+        "name": "Magical Shot",
+        "text": "",
+        "cost": [
           "Fairy",
           "Colorless",
           "Colorless"
         ],
-        "damage":"70"
+        "damage": "70",
+        "convertedEnergyCost": 3
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Darkness",
-        "value":"-20"
+        "type": "Metal",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Metal",
-        "value":"x2"
+        "type": "Darkness",
+        "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM152_hires.png",
+    "nationalPokedexNumber": 786
   },
   {
-    "id":"smp-SM153",
-    "name":"Rowlet",
-    "nationalPokedexNumber":722,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM153.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM153_hires.png",
-    "types":[
-      "Grass"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"60",
-    "retreatCost":[
+    "id": "smp-SM153",
+    "name": "Rowlet",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM153.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"SM153",
-    "artist":"Masakazu Fukuda",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "SM153",
+    "artist": "Masakazu Fukuda",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
       {
-        "name":"Leaf Blade",
-        "text":"Flip a coin. If heads, this attack does 30 more damage.",
-        "cost":[
+        "name": "Leaf Blade",
+        "text": "Flip a coin. If heads, this attack does 30 more damage.",
+        "cost": [
           "Grass",
           "Colorless"
         ],
-        "damage":"10+"
+        "damage": "10+",
+        "convertedEnergyCost": 2
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Fire",
-        "value":"x2"
+        "type": "Fire",
+        "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM153_hires.png",
+    "nationalPokedexNumber": 722,
+    "evolvesTo": [
+      "Dartrix"
     ]
   },
   {
-    "id":"smp-SM154",
-    "name":"Salandit",
-    "nationalPokedexNumber":757,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM154.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM154_hires.png",
-    "types":[
-      "Fire"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "hp":"60",
-    "retreatCost":[
+    "id": "smp-SM154",
+    "name": "Salandit",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM154.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"SM154",
-    "artist":"Naoki Saito",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "SM154",
+    "artist": "Naoki Saito",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
       {
-        "name":"Smog",
-        "text":"Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
-        "cost":[
+        "name": "Smog",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+        "cost": [
           "Fire"
         ],
-        "damage":""
+        "damage": "",
+        "convertedEnergyCost": 1
       },
       {
-        "name":"Ember",
-        "text":"Discard an Energy from this Pokémon.",
-        "cost":[
+        "name": "Ember",
+        "text": "Discard an Energy from this Pokémon.",
+        "cost": [
           "Fire",
           "Colorless"
         ],
-        "damage":"30"
+        "damage": "30",
+        "convertedEnergyCost": 2
       }
     ],
-    "weaknesses":[
+    "weaknesses": [
       {
-        "type":"Water",
-        "value":"x2"
+        "type": "Water",
+        "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM154_hires.png",
+    "nationalPokedexNumber": 757,
+    "evolvesTo": [
+      "Salazzle"
     ]
   },
   {
@@ -8816,52 +8852,56 @@
     "nationalPokedexNumber": 149
   },
   {
-    "id":"smp-SM157",
-    "name":"Pikachu",
-    "nationalPokedexNumber":25,
-    "imageUrl":"https://images.pokemontcg.io/smp/SM157.png",
-    "imageUrlHiRes":"https://images.pokemontcg.io/smp/SM157_hires.png",
-    "types":[
-      "Lightning"
-    ],
-    "supertype":"Pokémon",
-    "subtype":"Basic",
-    "ability":{
-      "name":"Pika Shield",
-      "text":"This Pokémon can't be Paralyzed.",
-      "type":"Ability"
+    "id": "smp-SM157",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM157.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Pika Shield",
+      "text": "This Pokémon can't be Paralyzed.",
+      "type": "Ability"
     },
-    "hp":"60",
-    "retreatCost":[
+    "hp": "60",
+    "retreatCost": [
       "Colorless"
     ],
-    "convertedRetreatCost":1,
-    "number":"SM157",
-    "artist":"Megumi Mizutani",
-    "series":"Sun & Moon",
-    "set":"SM Black Star Promos",
-    "setCode":"smp",
-    "attacks":[
+    "convertedRetreatCost": 1,
+    "number": "SM157",
+    "artist": "Megumi Mizutani",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
       {
-        "name":"Static Shock",
-        "text":"",
-        "cost":[
+        "name": "Static Shock",
+        "text": "",
+        "cost": [
           "Lightning"
         ],
-        "damage":"10"
+        "damage": "10",
+        "convertedEnergyCost": 1
       }
     ],
-    "resistances":[
+    "weaknesses": [
       {
-        "type":"Metal",
-        "value":"-20"
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
-    "weaknesses":[
+    "resistances": [
       {
-        "type":"Fighting",
-        "value":"x2"
+        "type": "Metal",
+        "value": "-20"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM157_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
     ]
   }
 ]

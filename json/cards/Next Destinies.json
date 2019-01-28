@@ -1204,7 +1204,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Staryu",
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "24",
     "artist": "Shin Nagasawa",
     "rarity": "Uncommon",
@@ -2311,7 +2310,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Shinx",
     "hp": "80",
-    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Naoki Saito",
     "rarity": "Uncommon",
@@ -2458,7 +2456,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Blitzle",
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "48",
     "artist": "Naoki Saito",
     "rarity": "Rare",
@@ -5024,16 +5021,16 @@
   },
   {
     "id": "bw4-101",
-    "evolvesFrom": "Lampent",
     "name": "Chandelure",
-    "nationalPokedexNumber": 609,
     "imageUrl": "https://images.pokemontcg.io/bw4/101.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/101_hires.png",
-    "types": [
-      "Psychic"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Lampent",
+    "ability": {
+      "name": "Cursed Shadow",
+      "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may put 3 damage counters on your opponent's Pokémon in any way you like.",
+      "type": "Ability"
+    },
     "hp": "130",
     "retreatCost": [
       "Colorless",
@@ -5046,6 +5043,9 @@
     "series": "Black & White",
     "set": "Next Destinies",
     "setCode": "bw4",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "name": "Eerie Glow",
@@ -5055,43 +5055,40 @@
           "Psychic",
           "Colorless"
         ],
-        "damage": "50"
+        "damage": "50",
+        "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "ability": {
-      "name": "Cursed Shadow",
-      "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may put 3 damage counters on your opponent's Pokémon in any way you like.",
-      "type": "Ability"
-    }
+    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/101_hires.png",
+    "nationalPokedexNumber": 609
   },
   {
-    "name": "Zoroark",
-    "evolvesFrom": "Zorua",
     "id": "bw4-102",
-    "nationalPokedexNumber": 571,
+    "name": "Zoroark",
     "imageUrl": "https://images.pokemontcg.io/bw4/102.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/102_hires.png",
-    "types": [
-      "Darkness"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Zorua",
     "hp": "100",
     "retreatCost": [
       "Colorless"
     ],
     "convertedRetreatCost": 1,
     "number": "102",
+    "artist": "5ban Graphics",
     "rarity": "Rare Secret",
     "series": "Black & White",
     "set": "Next Destinies",
     "setCode": "bw4",
+    "types": [
+      "Darkness"
+    ],
     "attacks": [
       {
         "name": "Nasty Plot",
@@ -5099,7 +5096,8 @@
         "cost": [
           "Darkness"
         ],
-        "damage": ""
+        "damage": "",
+        "convertedEnergyCost": 1
       },
       {
         "name": "Foul Play",
@@ -5108,34 +5106,37 @@
           "Colorless",
           "Colorless"
         ],
-        "damage": ""
+        "damage": "",
+        "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "artist": "5ban Graphics",
     "resistances": [
       {
         "type": "Psychic",
         "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/102_hires.png",
+    "nationalPokedexNumber": 571
   },
   {
     "id": "bw4-103",
     "name": "Hydreigon",
-    "nationalPokedexNumber": 635,
     "imageUrl": "https://images.pokemontcg.io/bw4/103.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/103_hires.png",
-    "types": [
-      "Darkness"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Zweilous",
+    "ability": {
+      "name": "Dark Aura",
+      "text": "All Energy attached to this Pokémon are Darkness Energy instead of their usual type.",
+      "type": "Ability"
+    },
     "hp": "150",
     "retreatCost": [
       "Colorless",
@@ -5144,10 +5145,14 @@
     ],
     "convertedRetreatCost": 3,
     "number": "103",
+    "artist": "5ban Graphics",
     "rarity": "Rare Secret",
     "series": "Black & White",
     "set": "Next Destinies",
     "setCode": "bw4",
+    "types": [
+      "Darkness"
+    ],
     "attacks": [
       {
         "name": "Berserker Blade",
@@ -5158,27 +5163,23 @@
           "Darkness",
           "Darkness"
         ],
-        "damage": "60"
+        "damage": "60",
+        "convertedEnergyCost": 4
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "evolvesFrom": "Zweilous",
-    "ability": {
-      "name": "Dark Aura",
-      "text": "All Energy attached to this Pokémon are Darkness Energy instead of their usual type.",
-      "type": "Ability"
-    },
-    "artist": "5ban Graphics",
     "resistances": [
       {
         "type": "Psychic",
         "value": "-20"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/bw4/103_hires.png",
+    "nationalPokedexNumber": 635
   }
 ]

@@ -110,7 +110,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Golbat",
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "3",
     "artist": "Midori Harada",
     "rarity": "Rare Holo",
@@ -936,7 +935,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Clamperl",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -1037,7 +1035,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Surskit",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "20",
     "artist": "Toshinao Aoki",
     "rarity": "Rare",
@@ -1750,7 +1747,6 @@
       "type": "Poké-Body"
     },
     "hp": "80",
-    "convertedRetreatCost": 0,
     "number": "33",
     "artist": "Miki Tanaka",
     "rarity": "Uncommon",
@@ -2713,7 +2709,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Tentacool",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "51",
     "artist": "Hisao Nakamura",
     "rarity": "Uncommon",
@@ -5042,16 +5037,11 @@
     "nationalPokedexNumber": 40
   },
   {
-    "name": "Groudon",
     "id": "ex5-102",
-    "nationalPokedexNumber": 383,
+    "name": "Groudon",
     "imageUrl": "https://images.pokemontcg.io/ex5/102.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/ex5/102_hires.png",
-    "types": [
-      "Fighting"
-    ],
-    "supertype": "Pokémon",
     "subtype": "Basic",
+    "supertype": "Pokémon",
     "hp": "80",
     "retreatCost": [
       "Colorless",
@@ -5060,10 +5050,14 @@
     ],
     "convertedRetreatCost": 3,
     "number": "102",
+    "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
     "series": "EX",
     "set": "Hidden Legends",
     "setCode": "ex5",
+    "types": [
+      "Fighting"
+    ],
     "attacks": [
       {
         "name": "Mud Shot",
@@ -5072,7 +5066,8 @@
           "Fighting",
           "Colorless"
         ],
-        "damage": "20"
+        "damage": "20",
+        "convertedEnergyCost": 2
       },
       {
         "name": "Earthquake",
@@ -5083,15 +5078,17 @@
           "Fighting",
           "Colorless"
         ],
-        "damage": "60"
+        "damage": "60",
+        "convertedEnergyCost": 4
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
-    "artist": "Mitsuhiro Arita"
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex5/102_hires.png",
+    "nationalPokedexNumber": 383
   }
 ]
