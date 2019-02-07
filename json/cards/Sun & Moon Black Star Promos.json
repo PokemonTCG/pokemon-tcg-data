@@ -8905,939 +8905,971 @@
     ]
   },
   {
-	"id": "smp-SM158",
-	"name": "Charizard",
-	"imageUrl": "https://images.pokemontcg.io/smp/SM158.png",
-	"subtype": "Stage 2",
-	"supertype": "Pokémon",
-	"evolvesFrom": "Charmeleon",
-	"ability": {
-		"name": "Roaring Resolve",
-		"text": "Once during your turn (before your attack), you may put 2 damage counters on this Pokémon. If you do, search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
-		"type": "Ability"
-	},
-	"hp": "150",
-	"retreatCost": [
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 2,
-	"number": "SM158",
-	"artist": "",
-	"rarity": "",
-	"series": "Sun & Moon",
+    "id": "smp-SM158",
+    "name": "Charizard",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM158.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Charmeleon",
+    "ability": {
+      "name": "Roaring Resolve",
+      "text": "Once during your turn (before your attack), you may put 2 damage counters on this Pokémon. If you do, search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+      "type": "Ability"
+    },
+    "hp": "150",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM158",
+    "artist": "Anesaki Dynamic",
+    "rarity": "",
+    "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Fire"
-	],
-	"attacks": [
-		{
-			"name": "Continuous Blaze Ball",
-			"text": "Discard all Fire Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way.",
-			"cost": [
-				"Fire",
-				"Fire"
-			],
-			"damage": "30+",
-			"convertedEnergyCost": 2
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Water",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Continuous Blaze Ball",
+        "text": "Discard all Fire Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way.",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "damage": "30+",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM158_hires.png",
     "nationalPokedexNumber": 6
-   },
-   {
-	"id": "smp-SM159",
-	"name": "Zapdos",
+  },
+  {
+    "id": "smp-SM159",
+    "name": "Zapdos",
     "imageUrl": "https://images.pokemontcg.io/smp/SM159.png",
-	"subtype": "Basic",
-	"supertype": "Pokémon",
-	"hp": "110",
-	"retreatCost": [
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 2,
-	"number": "SM159",
-    "artist": "",
-	"rarity": "",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM159",
+    "artist": "Misa Tsutsui",
+    "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
-	"setCode": "smp",
-	"types": [
-		"Lightning"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Lightning"
-			],
-			"damage": "10+",
-			"name": "Thunderous Assault",
-			"text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 70 more damage. This attack’s damage isn't affected by Weakness."
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Lightning",
-			"value": "×2"
-		}
-	],
-	"resistances": [
-		{
-			"type": "Fighting",
-			"value": "-20"
-		}
-	],
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "10+",
+        "name": "Thunderous Assault",
+        "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 70 more damage. This attack's damage isn't affected by Weakness."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM159_hires.png",
     "nationalPokedexNumber": 145
-   },
-   {
-	"id": "smp-SM160",
-	"name": "Nidoqueen",
+  },
+  {
+    "id": "smp-SM160",
+    "name": "Nidoqueen",
     "imageUrl": "https://images.pokemontcg.io/smp/SM160.png",
-	"subtype": "Stage 2",
-	"supertype": "Pokémon",
-	"evolvesFrom": "Nidorina",
-	"hp": "160",
-	"retreatCost": [
-		"Colorless",
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 3,
-	"number": "SM160",
-    "artist": "",
-	"rarity": "",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Nidorina",
+    "ability": {
+      "name": "Queen's Call",
+      "text": "Once during your turn (before your attack), you may search your deck for a Pokémon that isn't a Pokémon-GX or Pokémon-EX, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "type": "Ability"
+    },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SM160",
+    "artist": "Midori Harada",
+    "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Psychic"
-	],
-	"ability": {
-		"name": "Queen's Call",
-		"text": "Once during your turn (before your attack), you may search your deck for a Pokémon that isn’t a Pokémon-GX or Pokémon-EX, reveal it, and put it into your hand. Then, shuffle your deck.",
-		"type": "Ability"
-	},
-	"attacks": [
-		{
-			"convertedEnergyCost": 3,
-			"cost": [
-				"Colorless",
-				"Colorless",
-				"Colorless"
-			],
-			"damage": "10+",
-			"name": "Power Lariat",
-			"text": "This attack does 50 more damage for each Evolution Pokémon on your Bench."
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Psychic",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "10+",
+        "name": "Power Lariat",
+        "text": "This attack does 50 more damage for each Evolution Pokémon on your Bench."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM160_hires.png",
     "nationalPokedexNumber": 31
-   },
-   {
-	"id": "smp-SM161",
-	"name": "Jirachi",
+  },
+  {
+    "id": "smp-SM161",
+    "name": "Jirachi",
     "imageUrl": "https://images.pokemontcg.io/smp/SM161.png",
-	"subtype": "Basic",
-	"supertype": "Pokémon",
-	"hp": "70",
-	"retreatCost": [
-		"Colorless"
-	],
-	"convertedRetreatCost": 1,
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Stellar Wish",
+      "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may look at the top 5 cards of your deck, reveal a Trainer card you find there, and put it into your hand. Then, shuffle the other cards back into your deck, and this Pokémon is now Asleep.",
+      "type": "Ability"
+    },
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
     "number": "SM161",
-    "artist": "",
+    "artist": "Mizue",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"ability": {
-		"name": "Stellar Wish",
-		"text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may look at the top 5 cards of your deck, reveal a Trainer card you find there, and put it into your hand. Then, shuffle the other cards back into your deck, and this Pokémon is now Asleep.",
-		"type": "Ability"
-	},
-	"types": [
-		"Metal"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 2,
-			"cost": [
-				"Metal",
-				"Colorless"
-			],
-			"damage": "30",
-			"name": "Slap",
-			"text": ""
-		}
-	],
-	"resistances": [
-		{
-			"type": "Psychic",
-			"value": "-20"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fire",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 2,
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "damage": "30",
+        "name": "Slap",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM161_hires.png",
     "nationalPokedexNumber": 385
-   },
-   {
-	"id": "smp-SM162",
-	"name": "Pikachu",
+  },
+  {
+    "id": "smp-SM162",
+    "name": "Pikachu",
     "imageUrl": "https://images.pokemontcg.io/smp/SM162.png",
-	"subtype": "Basic",
-	"supertype": "Pokémon",
-	"hp": "60",
-	"retreatCost": [
-		"Colorless"
-	],
-	"convertedRetreatCost": 1,
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
     "number": "SM162",
-    "artist": "",
+    "artist": "Saya Tsuruta",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Lightning"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Colorless"
-			],
-			"damage": "",
-			"name": "Nuzzle",
-			"text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-		},
-		{
-			"convertedEnergyCost": 2,
-			"cost": [
-				"Lightning",
-				"Colorless"
-			],
-			"damage": "30",
-			"name": "Thunder Jolt",
-			"text": "This Pokémon does 10 damage to itself."
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fighting",
-			"value": "×2"
-		}
-	],
-	"resistances": [
-		{
-			"type": "Metal",
-			"value": "-20"
-		}
-	],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "name": "Nuzzle",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "convertedEnergyCost": 2,
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "damage": "30",
+        "name": "Thunder Jolt",
+        "text": "This Pokémon does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM162_hires.png",
     "nationalPokedexNumber": 25,
     "evolvesTo": [
       "Raichu"
     ]
-   },
-   {
-	"id": "smp-SM163",
-	"name": "Mimikyu",
+  },
+  {
+    "id": "smp-SM163",
+    "name": "Mimikyu",
     "imageUrl": "https://images.pokemontcg.io/smp/SM163.png",
-	"subtype": "Basic",
-	"supertype": "Pokémon",
-	"hp": "70",
-	"retreatCost": [
-		"Colorless"
-	],
-	"convertedRetreatCost": 1,
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
     "number": "SM163",
-    "artist": "",
+    "artist": "Saya Tsuruta",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Fairy"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Fairy"
-			],
-			"damage": "",
-			"name": "Mimic",
-			"text": "Shuffle your hand into your deck. Then, draw a card for each card in your opponent's hand."
-		},
-		{
-			"convertedEnergyCost": 2,
-			"cost": [
-				"Fairy",
-				"Colorless"
-			],
-			"damage": "20+",
-			"name": "Play Rough",
-			"text": "Flip a coin. If heads, this attack does 20 more damage."
-		}
-	],
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Fairy"
+        ],
+        "damage": "",
+        "name": "Mimic",
+        "text": "Shuffle your hand into your deck. Then, draw a card for each card in your opponent's hand."
+      },
+      {
+        "convertedEnergyCost": 2,
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "damage": "20+",
+        "name": "Play Rough",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM163_hires.png",
     "nationalPokedexNumber": 778
-   },
-   {
-	"id": "smp-SM164",
-	"name": "Deoxys",
-	"imageUrl": "https://images.pokemontcg.io/smp/SM164.png",
-	"subtype": "Basic",
-	"supertype": "Pokémon",
-	"hp": "110",
-	"retreatCost": [
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 2,
+  },
+  {
+    "id": "smp-SM164",
+    "name": "Deoxys",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM164.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Power Suction",
+      "text": "Once during your turn (before your attack), you may move an Energy from 1 of your Pokémon to 1 of your Deoxys.",
+      "type": "Ability"
+    },
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
     "number": "SM164",
-    "artist": "",
+    "artist": "You Iribi",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"ability": {
-		"name": "Power Suction",
-		"text": "Once during your turn (before your attack), you may move an Energy from 1 of your Pokémon to 1 of your Deoxys.",
-		"type": "Ability"
-	},
-	"types": [
-		"Psychic"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 3,
-			"cost": [
-				"Psychic",
-				"Psychic",
-				"Colorless"
-			],
-			"damage": "100",
-			"name": "Psycho Boost",
-			"text": "During your next turn, this Pokémon's Psycho Boost attack's base damage is 50."
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Psychic",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "100",
+        "name": "Psycho Boost",
+        "text": "During your next turn, this Pokémon's Psycho Boost attack's base damage is 50."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM164_hires.png",
     "nationalPokedexNumber": 386
-   },
-   {
-	"id": "smp-SM165",
-	"name": "Ultra Necrozma",
+  },
+  {
+    "id": "smp-SM165",
+    "name": "Ultra Necrozma",
     "imageUrl": "https://images.pokemontcg.io/smp/SM165.png",
-	"subtype": "Basic",
-	"supertype": "Pokémon",
-	"hp": "130",
-	"retreatCost": [
-		"Colorless",
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 3,
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
     "number": "SM165",
-    "artist": "",
+    "artist": "Shin Nagasawa",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Dragon"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 4,
-			"cost": [
-				"Metal",
-				"Metal",
-				"Psychic",
-				"Psychic"
-			],
-			"damage": "100+",
-			"name": "Shining Burst",
-			"text": "If the total of both players' remaining Prize cards is 6 or less, discard all Energy from this Pokémon, and this attack does 100 more damage."
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fairy",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 4,
+        "cost": [
+          "Metal",
+          "Metal",
+          "Psychic",
+          "Psychic"
+        ],
+        "damage": "100+",
+        "name": "Shining Burst",
+        "text": "If the total of both players' remaining Prize cards is 6 or less, discard all Energy from this Pokémon, and this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM165_hires.png",
     "nationalPokedexNumber": 800
-   },
-   {
-	"id": "smp-SM166",
-	"name": "Magikarp & Wailord-GX",
+  },
+  {
+    "id": "smp-SM166",
+    "name": "Magikarp & Wailord-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM166.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"hp": "300",
-	"retreatCost": [
-		"Colorless",
-		"Colorless",
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 4,
+    "hp": "300",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
     "number": "SM166",
-    "artist": "",
+    "artist": "Mitsuhiro Arita",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Water"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 5,
-			"cost": [
-				"Water",
-				"Water",
-				"Water",
-				"Water",
-				"Water"
-			],
-			"damage": "180",
-			"name": "Super Splash",
-			"text": ""
-		},
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Water"
-			],
-			"damage": "10",
-			"name": "Towering Splash GX",
-			"text": "If this Pokémon has at least 7 extra Water Energy attached to it (in addition to this attack's cost), this attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Grass",
-			"value": "×2"
-		}
-	],
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM165_hires.png",
-    "nationalPokedexNumber": 129
-   },
-   {
-	"id": "smp-SM171",
-	"name": "Flareon-GX",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 5,
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "damage": "180",
+        "name": "Super Splash",
+        "text": ""
+      },
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Water"
+        ],
+        "damage": "10",
+        "name": "Towering Splash GX",
+        "text": "If this Pokémon has at least 7 extra Water Energy attached to it (in addition to this attack's cost), this attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM166_hires.png",
+    "nationalPokedexNumber": 129,
+    "evolvesTo": [
+      "Gyarados"
+    ]
+  },
+  {
+    "id": "smp-SM171",
+    "name": "Flareon-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM171.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"evolvesFrom": "Eevee",
-	"hp": "210",
-	"retreatCost": [
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 2,
+    "evolvesFrom": "Eevee",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
     "number": "SM171",
-    "artist": "",
+    "artist": "PLANETA Otani",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Fire"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Fire"
-			],
-			"damage": "30",
-			"name": "Heat Stage",
-			"text": "You may attach up to 3 Fire Energy cards from your hand to your Pokémon in any way you like."
-		},
-		{
-			"convertedEnergyCost": 3,
-			"cost": [
-				"Fire",
-				"Fire",
-				"Colorless"
-			],
-			"damage": "190",
-			"name": "Bright Flame",
-			"text": "Discard 2 Fire Energy from this Pokémon."
-		},
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Fire"
-			],
-			"damage": "20x",
-			"name": "Power Burner GX",
-			"text": "This attack does 20 damage for each Fire Energy card in your discard pile. (You can't use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Water",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Fire"
+        ],
+        "damage": "30",
+        "name": "Heat Stage",
+        "text": "You may attach up to 3 Fire Energy cards from your hand to your Pokémon in any way you like."
+      },
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "190",
+        "name": "Bright Flame",
+        "text": "Discard 2 Fire Energy from this Pokémon."
+      },
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Fire"
+        ],
+        "damage": "20x",
+        "name": "Power Burner GX",
+        "text": "This attack does 20 damage for each Fire Energy card in your discard pile. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM171_hires.png",
     "nationalPokedexNumber": 136
-   },
-   {
-	"id": "smp-SM172",
-	"name": "Vaporeon-GX",
+  },
+  {
+    "id": "smp-SM172",
+    "name": "Vaporeon-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM172.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"evolvesFrom": "Eevee",
-	"hp": "210",
-	"retreatCost": [
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 2,
+    "evolvesFrom": "Eevee",
+    "ability": {
+      "name": "Hydrating Drops",
+      "text": "Once during your turn (before your attack), you may heal 30 damage from your Active Water Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
     "number": "SM172",
-    "artist": "",
+    "artist": "PLANETA Otani",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"ability": {
-		"name": "Hydrating Drops",
-		"text": "Once during your turn (before your attack), you may heal 30 damage from your Active Water Pokémon.",
-		"type": "Ability"
-	},
-	"types": [
-		"Water"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 3,
-			"cost": [
-				"Colorless",
-				"Colorless",
-				"Colorless"
-			],
-			"damage": "40+",
-			"name": "Hydro Pump",
-			"text": "This attack does 30 more damage times the amount of Water Energy attached to this Pokémon."
-		},
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Water"
-			],
-			"damage": "",
-			"name": "Cure Shower GX",
-			"text": "Heal all damage from all of your Water Pokémon. (You can't use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Grass",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "40+",
+        "name": "Hydro Pump",
+        "text": "This attack does 30 more damage times the amount of Water Energy attached to this Pokémon."
+      },
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Water"
+        ],
+        "damage": "",
+        "name": "Cure Shower GX",
+        "text": "Heal all damage from all of your Water Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM172_hires.png",
     "nationalPokedexNumber": 134
-   },
-   {
-	"id": "smp-SM173",
-	"name": "Jolteon-GX",
+  },
+  {
+    "id": "smp-SM173",
+    "name": "Jolteon-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM173.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"evolvesFrom": "Eevee",
-	"hp": "200",
-	"retreatCost": [],
-	"convertedRetreatCost": 0,
+    "evolvesFrom": "Eevee",
+    "hp": "200",
+    "convertedRetreatCost": 0,
     "number": "SM173",
-    "artist": "",
+    "artist": "PLANETA Otani",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Lightning"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Lightning"
-			],
-			"damage": "30",
-			"name": "Electrobullet",
-			"text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-		},
-		{
-			"convertedEnergyCost": 2,
-			"cost": [
-				"Lightning",
-				"Colorless"
-			],
-			"damage": "110",
-			"name": "Head Bolt",
-			"text": ""
-		},
-		{
-			"convertedEnergyCost": 2,
-			"cost": [
-				"Lightning",
-				"Colorless"
-			],
-			"damage": "110",
-			"name": "Swift Run GX",
-			"text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can’t use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fighting",
-			"value": "×2"
-		}
-	],
-	"resistances": [
-		{
-			"type": "Metal",
-			"value": "-20"
-		}
-	],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Lightning"
+        ],
+        "damage": "30",
+        "name": "Electrobullet",
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "convertedEnergyCost": 2,
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "damage": "110",
+        "name": "Head Bolt",
+        "text": ""
+      },
+      {
+        "convertedEnergyCost": 2,
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "damage": "110",
+        "name": "Swift Run GX",
+        "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM173_hires.png",
     "nationalPokedexNumber": 135
-   },
-   {
-	"id": "smp-SM174",
-	"name": "Eevee-GX",
+  },
+  {
+    "id": "smp-SM174",
+    "name": "Eevee-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM174.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"hp": "160",
-	"retreatCost": [
-		"Colorless"
-	],
-	"convertedRetreatCost": 1,
+    "ability": {
+      "name": "Ascension DNA",
+      "text": "Once during your turn (before your attack), if you have a Pokémon in your hand that evolves from Eevee, you may put that card onto this Pokémon to evolve it. Before evolving, heal all damage from this Pokémon. You can't use this Ability during your first turn or the turn this Pokémon was put into play.",
+      "type": "Ability"
+    },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
     "number": "SM174",
-    "artist": "",
+    "artist": "PLANETA Otani",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"ability": {
-		"name": "Ascension DNA",
-		"text": "Once during your turn (before your attack), if you have a Pokémon in your hand that evolves from Eevee, you may put that card onto this Pokémon to evolve it. Before evolving, heal all damage from this Pokémon. You can't use this Ability during your first turn or the turn this Pokémon was put into play.",
-		"type": "Ability"
-	},
-	"types": [
-		"Colorless"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 3,
-			"cost": [
-				"Colorless",
-				"Colorless",
-				"Colorless"
-			],
-			"damage": "100",
-			"name": "Boost Dash",
-			"text": ""
-		},
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Colorless"
-			],
-			"damage": "",
-			"name": "Joy Maker GX",
-			"text": "Put 3 cards from your discard pile into your hand. (You can’t use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fighting",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "100",
+        "name": "Boost Dash",
+        "text": ""
+      },
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "name": "Joy Maker GX",
+        "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM174_hires.png",
-    "nationalPokedexNumber": 133
-   },
-   {
-	"id": "smp-SM175",
-	"name": "Eevee-GX",
+    "nationalPokedexNumber": 133,
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ]
+  },
+  {
+    "id": "smp-SM175",
+    "name": "Eevee-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM175.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"hp": "160",
-	"retreatCost": [
-		"Colorless"
-	],
-	"convertedRetreatCost": 1,
+    "ability": {
+      "name": "Ascension DNA",
+      "text": "Once during your turn (before your attack), if you have a Pokémon in your hand that evolves from Eevee, you may put that card onto this Pokémon to evolve it. Before evolving, heal all damage from this Pokémon. You can't use this Ability during your first turn or the turn this Pokémon was put into play.",
+      "type": "Ability"
+    },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
     "number": "SM175",
-    "artist": "",
+    "artist": "PLANETA Otani",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"ability": {
-		"name": "Ascension DNA",
-		"text": "Once during your turn (before your attack), if you have a Pokémon in your hand that evolves from Eevee, you may put that card onto this Pokémon to evolve it. Before evolving, heal all damage from this Pokémon. You can't use this Ability during your first turn or the turn this Pokémon was put into play.",
-		"type": "Ability"
-	},
-	"types": [
-		"Colorless"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 3,
-			"cost": [
-				"Colorless",
-				"Colorless",
-				"Colorless"
-			],
-			"damage": "100",
-			"name": "Boost Dash",
-			"text": ""
-		},
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Colorless"
-			],
-			"damage": "",
-			"name": "Joy Maker GX",
-			"text": "Put 3 cards from your discard pile into your hand. (You can’t use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fighting",
-			"value": "×2"
-		}
-	],
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "100",
+        "name": "Boost Dash",
+        "text": ""
+      },
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "name": "Joy Maker GX",
+        "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM175_hires.png",
-    "nationalPokedexNumber": 133
-   },
-   {
-	"id": "smp-SM176",
-	"name": "Eevee-GX",
+    "nationalPokedexNumber": 133,
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ]
+  },
+  {
+    "id": "smp-SM176",
+    "name": "Eevee-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM176.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"hp": "160",
-	"retreatCost": [
-		"Colorless"
-	],
-	"convertedRetreatCost": 1,
+    "ability": {
+      "name": "Ascension DNA",
+      "text": "Once during your turn (before your attack), if you have a Pokémon in your hand that evolves from Eevee, you may put that card onto this Pokémon to evolve it. Before evolving, heal all damage from this Pokémon. You can't use this Ability during your first turn or the turn this Pokémon was put into play.",
+      "type": "Ability"
+    },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
     "number": "SM176",
-    "artist": "",
+    "artist": "PLANETA Otani",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"ability": {
-		"name": "Ascension DNA",
-		"text": "Once during your turn (before your attack), if you have a Pokémon in your hand that evolves from Eevee, you may put that card onto this Pokémon to evolve it. Before evolving, heal all damage from this Pokémon. You can't use this Ability during your first turn or the turn this Pokémon was put into play.",
-		"type": "Ability"
-	},
-	"types": [
-		"Colorless"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 3,
-			"cost": [
-				"Colorless",
-				"Colorless",
-				"Colorless"
-			],
-			"damage": "100",
-			"name": "Boost Dash",
-			"text": ""
-		},
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Colorless"
-			],
-			"damage": "",
-			"name": "Joy Maker GX",
-			"text": "Put 3 cards from your discard pile into your hand. (You can’t use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fighting",
-			"value": "×2"
-		}
-	],
-    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM175_hires.png",
-    "nationalPokedexNumber": 133
-   },
-   {
-	"id": "smp-SM177",
-	"name": "Meltan",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "100",
+        "name": "Boost Dash",
+        "text": ""
+      },
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "name": "Joy Maker GX",
+        "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM176_hires.png",
+    "nationalPokedexNumber": 133,
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ]
+  },
+  {
+    "id": "smp-SM177",
+    "name": "Meltan",
     "imageUrl": "https://images.pokemontcg.io/smp/SM177.png",
-	"subtype": "Basic",
-	"supertype": "Pokémon",
-	"hp": "60",
-	"retreatCost": [
-		"Colorless"
-	],
-	"convertedRetreatCost": 1,
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
     "number": "SM177",
-    "artist": "",
+    "artist": "Shin Nagasawa",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"types": [
-		"Metal"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Metal"
-			],
-			"damage": "",
-			"name": "Multiply",
-			"text": "Search your deck for Meltan and put it onto your Bench. Then, shuffle your deck."
-		},
-		{
-			"convertedEnergyCost": 2,
-			"cost": [
-				"Colorless",
-				"Colorless"
-			],
-			"damage": "30",
-			"name": "Beam",
-			"text": ""
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fire",
-			"value": "×2"
-		}
-	],
-	"resistances": [
-		{
-			"type": "Psychic",
-			"value": "-20"
-		}
-	],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Metal"
+        ],
+        "damage": "",
+        "name": "Multiply",
+        "text": "Search your deck for Meltan and put it onto your Bench. Then, shuffle your deck."
+      },
+      {
+        "convertedEnergyCost": 2,
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "30",
+        "name": "Beam",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM177_hires.png",
     "nationalPokedexNumber": 808,
     "evolvesTo": [
       "Melmetal"
     ]
-   },
-   {
-	"id": "smp-SM178",
-	"name": "Melmetal-GX",
+  },
+  {
+    "id": "smp-SM178",
+    "name": "Melmetal-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM178.png",
-	"subtype": "GX",
-	"supertype": "Pokémon",
+    "subtype": "GX",
+    "supertype": "Pokémon",
     "level": "GX",
-	"evolvesFrom": "Meltan",
-	"hp": "220",
-	"retreatCost": [
-		"Colorless",
-		"Colorless",
-		"Colorless",
-		"Colorless"
-	],
-	"convertedRetreatCost": 4,
+    "evolvesFrom": "Meltan",
+    "ability": {
+      "name": "Hard Coat",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "220",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
     "number": "SM178",
-    "artist": "",
+    "artist": "PLANETA Otani",
     "rarity": "",
     "series": "Sun & Moon",
     "set": "SM Black Star Promos",
     "setCode": "smp",
-	"ability": {
-		"name": "Hard Coat",
-		"text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
-		"type": "Ability"
-	},
-	"types": [
-		"Metal"
-	],
-	"attacks": [
-		{
-			"convertedEnergyCost": 4,
-			"cost": [
-				"Colorless",
-				"Colorless",
-				"Colorless",
-				"Colorless"
-			],
-			"damage": "110+",
-			"name": "Metal Blast",
-			"text": "This attack does 20 more damage times the amount of Metal Energy attached to this Pokémon."
-		},
-		{
-			"convertedEnergyCost": 1,
-			"cost": [
-				"Metal"
-			],
-			"damage": "",
-			"name": "Iron Force GX",
-			"text": "Attach any number of Metal Energy cards from your discard pile to this Pokémon. (You can’t use more than 1 GX attack in a game.)"
-		}
-	],
-	"weaknesses": [
-		{
-			"type": "Fire",
-			"value": "×2"
-		}
-	],
-	"resistances": [
-		{
-			"type": "Psychic",
-			"value": "-20"
-		}
-	],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "convertedEnergyCost": 4,
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "110+",
+        "name": "Metal Blast",
+        "text": "This attack does 20 more damage times the amount of Metal Energy attached to this Pokémon."
+      },
+      {
+        "convertedEnergyCost": 1,
+        "cost": [
+          "Metal"
+        ],
+        "damage": "",
+        "name": "Iron Force GX",
+        "text": "Attach any number of Metal Energy cards from your discard pile to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM178_hires.png",
     "nationalPokedexNumber": 809
-   }
+  }
 ]
