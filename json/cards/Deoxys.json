@@ -626,7 +626,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Poochyena",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "12",
     "artist": "Naoyo Kimura",
     "rarity": "Rare Holo",
@@ -685,7 +684,6 @@
       "type": "Poké-Body"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "13",
     "artist": "Katsura Tabata",
     "rarity": "Rare Holo",
@@ -740,7 +738,6 @@
       "type": "Poké-Body"
     },
     "hp": "50",
-    "convertedRetreatCost": 0,
     "number": "14",
     "artist": "Yukiko Baba",
     "rarity": "Rare Holo",
@@ -1238,7 +1235,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Goldeen",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "24",
     "artist": "Atsuko Nishida",
     "rarity": "Rare",
@@ -1510,7 +1506,6 @@
       "type": "Poké-Body"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "29",
     "artist": "Yuka Morii",
     "rarity": "Rare",
@@ -1621,7 +1616,6 @@
       "type": "Poké-Body"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "31",
     "artist": "Sachiko Adachi",
     "rarity": "Uncommon",
@@ -2035,7 +2029,6 @@
       "type": "Poké-Body"
     },
     "hp": "60",
-    "convertedRetreatCost": 0,
     "number": "39",
     "artist": "Mitsuhiro Arita",
     "rarity": "Uncommon",
@@ -2563,7 +2556,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Taillow",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "49",
     "artist": "Midori Harada",
     "rarity": "Uncommon",
@@ -4611,7 +4603,6 @@
       "type": "Poké-Power"
     },
     "hp": "130",
-    "convertedRetreatCost": 0,
     "number": "96",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo EX",
@@ -5086,7 +5077,6 @@
     "level": "ex",
     "evolvesFrom": "Carvanha",
     "hp": "100",
-    "convertedRetreatCost": 0,
     "number": "104",
     "artist": "Hikaru Koike",
     "rarity": "Rare Holo EX",
@@ -5331,5 +5321,48 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex8/107_hires.png",
     "nationalPokedexNumber": 384
+  },
+  {
+    "id": "ex8-108",
+    "name": "Rocket's Raikou ex",
+    "imageUrl": "https://images.pokemontcg.io/ex8/108.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "100",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "108",
+    "artist": "Ryo Ueda",
+    "rarity": "Rare Holo EX",
+    "series": "EX",
+    "set": "Deoxys",
+    "setCode": "ex8",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Thunderous Blow",
+        "text": "Does 40 damage plus 10 more damage for each Lightning Energy attached to Rocket's Raikou ex.",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "40+",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex8/108_hires.png",
+    "nationalPokedexNumber": 243
   }
 ]

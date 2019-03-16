@@ -110,7 +110,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Golbat",
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "3",
     "artist": "Midori Harada",
     "rarity": "Rare Holo",
@@ -936,7 +935,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Clamperl",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare",
@@ -1037,7 +1035,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Surskit",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "20",
     "artist": "Toshinao Aoki",
     "rarity": "Rare",
@@ -1750,7 +1747,6 @@
       "type": "Poké-Body"
     },
     "hp": "80",
-    "convertedRetreatCost": 0,
     "number": "33",
     "artist": "Miki Tanaka",
     "rarity": "Uncommon",
@@ -2713,7 +2709,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Tentacool",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "51",
     "artist": "Hisao Nakamura",
     "rarity": "Uncommon",
@@ -5040,5 +5035,60 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex5/101_hires.png",
     "nationalPokedexNumber": 40
+  },
+  {
+    "id": "ex5-102",
+    "name": "Groudon",
+    "imageUrl": "https://images.pokemontcg.io/ex5/102.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "80",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "102",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Hidden Legends",
+    "setCode": "ex5",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Mud Shot",
+        "text": "",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "damage": "20",
+        "convertedEnergyCost": 2
+      },
+      {
+        "name": "Earthquake",
+        "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "damage": "60",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex5/102_hires.png",
+    "nationalPokedexNumber": 383
   }
 ]

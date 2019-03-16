@@ -962,7 +962,6 @@
       "type": "Poké-Power"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Hajime Kusajima",
     "rarity": "Rare",
@@ -2076,7 +2075,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Nincada",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "38",
     "artist": "Toshinao Aoki",
     "rarity": "Uncommon",
@@ -2436,7 +2434,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Taillow",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "45",
     "artist": "Mitsuhiro Arita",
     "rarity": "Uncommon",
@@ -5001,5 +4998,167 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex3/97_hires.png",
     "nationalPokedexNumber": 384
+  },
+  {
+    "id": "ex3-98",
+    "name": "Charmander",
+    "imageUrl": "https://images.pokemontcg.io/ex3/98.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "98",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Dragon",
+    "setCode": "ex3",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Flare",
+        "text": "",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "10",
+        "convertedEnergyCost": 1
+      },
+      {
+        "name": "Rage",
+        "text": "Does 10 damage plus 10 more damage for each damage counter on Charmander.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "10+",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/98_hires.png",
+    "nationalPokedexNumber": 4,
+    "evolvesTo": [
+      "Charmeleon"
+    ]
+  },
+  {
+    "id": "ex3-99",
+    "name": "Charmeleon",
+    "imageUrl": "https://images.pokemontcg.io/ex3/99.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Charmander",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "99",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Dragon",
+    "setCode": "ex3",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "10",
+        "convertedEnergyCost": 1
+      },
+      {
+        "name": "Fireworks",
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Charmeleon.",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "40",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/99_hires.png",
+    "nationalPokedexNumber": 5,
+    "evolvesTo": [
+      "Charizard"
+    ]
+  },
+  {
+    "id": "ex3-100",
+    "name": "Charizard",
+    "imageUrl": "https://images.pokemontcg.io/ex3/100.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Charmeleon",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "100",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Dragon",
+    "setCode": "ex3",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Collect Fire",
+        "text": "Flip a coin. If heads, search your discard pile for 2 Fire Energy cards and attach them to Charizard (1 if there is only 1).",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "30",
+        "convertedEnergyCost": 2
+      },
+      {
+        "name": "Flame Pillar",
+        "text": "You may discard a Fire Energy card attached to Charizard. If you do, choose 1 of your opponent's Benched Pokémon and do 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "60",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex3/100_hires.png",
+    "nationalPokedexNumber": 6
   }
 ]

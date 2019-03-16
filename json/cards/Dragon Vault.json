@@ -941,5 +941,59 @@
       "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile back into your deck."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/dv1/20_hires.png"
+  },
+  {
+    "id": "dv1-21",
+    "name": "Kyurem",
+    "imageUrl": "https://images.pokemontcg.io/dv1/21.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "21",
+    "artist": "Ryo Ueda",
+    "series": "Black & White",
+    "set": "Dragon Vault",
+    "setCode": "dv1",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Claw",
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "60",
+        "convertedEnergyCost": 3
+      },
+      {
+        "name": "Blizzard",
+        "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Water",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "90",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/dv1/21_hires.png",
+    "nationalPokedexNumber": 646
   }
 ]

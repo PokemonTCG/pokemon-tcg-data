@@ -226,7 +226,6 @@
     "subtype": "Stage 1",
     "supertype": "Pokémon",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "5",
     "artist": "Katsura Tabata",
     "rarity": "Rare Holo",
@@ -930,7 +929,6 @@
     "subtype": "Stage 1",
     "supertype": "Pokémon",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Katsura Tabata",
     "rarity": "Rare",
@@ -4424,5 +4422,107 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex4/95_hires.png",
     "nationalPokedexNumber": 260
+  },
+  {
+    "id": "ex4-96",
+    "name": "Absol",
+    "imageUrl": "https://images.pokemontcg.io/ex4/96.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "96",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Team Magma vs Team Aqua",
+    "setCode": "ex4",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "10+",
+        "convertedEnergyCost": 2
+      },
+      {
+        "name": "Feint Attack",
+        "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "damage": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/96_hires.png",
+    "nationalPokedexNumber": 359
+  },
+  {
+    "id": "ex4-97",
+    "name": "Jirachi",
+    "imageUrl": "https://images.pokemontcg.io/ex4/97.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "97",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Team Magma vs Team Aqua",
+    "setCode": "ex4",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Hypnoblast",
+        "text": "The Defending Pokémon is now Asleep.",
+        "cost": [
+          "Psychic"
+        ],
+        "damage": "10",
+        "convertedEnergyCost": 1
+      },
+      {
+        "name": "Swift",
+        "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on the Defending Pokémon.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "20",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex4/97_hires.png",
+    "nationalPokedexNumber": 385
   }
 ]

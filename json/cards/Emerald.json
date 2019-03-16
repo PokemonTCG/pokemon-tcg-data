@@ -1808,7 +1808,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Zigzagoon",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "34",
     "artist": "Yuka Morii",
     "rarity": "Uncommon",
@@ -2182,7 +2181,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Taillow",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "41",
     "artist": "Naoyo Kimura",
     "rarity": "Uncommon",
@@ -4566,7 +4564,6 @@
       "type": "Poké-Body"
     },
     "hp": "100",
-    "convertedRetreatCost": 0,
     "number": "97",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo EX",
@@ -4865,5 +4862,61 @@
     "set": "Emerald",
     "setCode": "ex9",
     "imageUrlHiRes": "https://images.pokemontcg.io/ex9/106_hires.png"
+  },
+  {
+    "id": "ex9-107",
+    "name": "Farfetch'd",
+    "imageUrl": "https://images.pokemontcg.io/ex9/107.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "107",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Emerald",
+    "setCode": "ex9",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Spearhead",
+        "text": "Draw a card.",
+        "cost": [
+          "Colorless"
+        ],
+        "damage": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "name": "Nosedive",
+        "text": "Farfetch'd does 10 damage to itself.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "30",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex9/107_hires.png",
+    "nationalPokedexNumber": 83
   }
 ]

@@ -568,7 +568,6 @@
       "type": "Poké-Body"
     },
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "11",
     "artist": "Kyoko Umemoto",
     "rarity": "Rare Holo",
@@ -923,7 +922,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Rattata",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "17",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
@@ -976,7 +974,6 @@
       "type": "Poké-Body"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "18",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare",
@@ -1840,7 +1837,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Zubat",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "34",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -2639,7 +2635,6 @@
       "type": "Poké-Body"
     },
     "hp": "60",
-    "convertedRetreatCost": 0,
     "number": "49",
     "artist": "Kyoko Umemoto",
     "rarity": "Uncommon",
@@ -5401,5 +5396,76 @@
     "evolvesTo": [
       "Grovyle"
     ]
+  },
+  {
+    "id": "ex7-110",
+    "name": "Charmeleon",
+    "imageUrl": "https://images.pokemontcg.io/ex7/110.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Charmander",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "110",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Team Rocket Returns",
+    "setCode": "ex7",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+        "cost": [
+          "Fire"
+        ],
+        "damage": "10",
+        "convertedEnergyCost": 1
+      },
+      {
+        "name": "Fireworks",
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Charmeleon.",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "damage": "40",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex7/110_hires.png",
+    "nationalPokedexNumber": 5,
+    "evolvesTo": [
+      "Charizard"
+    ]
+  },
+  {
+    "id": "ex7-111",
+    "name": "Here Comes Team Rocket!",
+    "imageUrl": "https://images.pokemontcg.io/ex7/111.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "111",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "series": "EX",
+    "set": "Team Rocket Returns",
+    "setCode": "ex7",
+    "text": [
+      "Each player plays with his or her Prize cards face up for the rest of the game."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/ex7/111_hires.png"
   }
 ]

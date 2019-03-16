@@ -153,7 +153,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Yanma",
     "hp": "110",
-    "convertedRetreatCost": 0,
     "number": "4",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
@@ -1214,7 +1213,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Manectric-EX",
     "hp": "210",
-    "convertedRetreatCost": 0,
     "number": "24",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo EX",
@@ -1259,7 +1257,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Manectric-EX",
     "hp": "210",
-    "convertedRetreatCost": 0,
     "number": "24a",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo EX",
@@ -1698,7 +1695,6 @@
       "type": "Ability"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "Kanako Eo",
     "rarity": "Uncommon",
@@ -1750,7 +1746,6 @@
       "type": "Ability"
     },
     "hp": "130",
-    "convertedRetreatCost": 0,
     "number": "33",
     "artist": "Satoshi Shirai",
     "rarity": "Rare",
@@ -5597,5 +5592,159 @@
       "Choose a Pokémon Tool or Special Energy card attached to a Pokémon in play (yours or your opponent's) and discard it."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy4/119_hires.png"
+  },
+  {
+    "id": "xy4-120",
+    "name": "M Manectric-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy4/120.png",
+    "subtype": "MEGA",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Manectric-EX",
+    "hp": "210",
+    "number": "120",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Phantom Forces",
+    "setCode": "xy4",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Turbo Bolt",
+        "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "damage": "110",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/120_hires.png",
+    "nationalPokedexNumber": 310
+  },
+  {
+    "id": "xy4-121",
+    "name": "M Gengar-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy4/121.png",
+    "subtype": "MEGA",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Gengar-EX",
+    "hp": "220",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "121",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Phantom Forces",
+    "setCode": "xy4",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Phantom Gate",
+        "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack.",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/121_hires.png",
+    "nationalPokedexNumber": 94
+  },
+  {
+    "id": "xy4-122",
+    "name": "Dialga-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy4/122.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "122",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Rare Holo EX",
+    "series": "XY",
+    "set": "Phantom Forces",
+    "setCode": "xy4",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Chrono Wind",
+        "text": "If the Defending Pokémon is a Pokémon-EX, it can't attack during your opponent's next turn.",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "60",
+        "convertedEnergyCost": 3
+      },
+      {
+        "name": "Full Metal Impact",
+        "text": "Discard 2 Metal Energy attached to this Pokémon.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "150",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/xy4/122_hires.png",
+    "nationalPokedexNumber": 483
   }
 ]
