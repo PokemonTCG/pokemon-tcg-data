@@ -317,7 +317,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Kakuna",
     "hp": "120",
-    "convertedRetreatCost": 0,
     "number": "7",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
@@ -792,7 +791,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Ninetales",
     "hp": "140",
-    "convertedRetreatCost": 0,
     "number": "16",
     "artist": "5ban Graphics",
     "rarity": "Rare BREAK",
@@ -1608,7 +1606,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Starmie",
     "hp": "130",
-    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "5ban Graphics",
     "rarity": "Rare BREAK",
@@ -2354,7 +2351,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Nidoking",
     "hp": "180",
-    "convertedRetreatCost": 0,
     "number": "46",
     "artist": "5ban Graphics",
     "rarity": "Rare BREAK",
@@ -3067,7 +3063,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Machamp",
     "hp": "190",
-    "convertedRetreatCost": 0,
     "number": "60",
     "artist": "5ban Graphics",
     "rarity": "Rare BREAK",
@@ -3332,7 +3327,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Pidgeot-EX",
     "hp": "220",
-    "convertedRetreatCost": 0,
     "number": "65",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo EX",
@@ -4454,7 +4448,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Pidgeot-EX",
     "hp": "220",
-    "convertedRetreatCost": 0,
     "number": "105",
     "artist": "5ban Graphics",
     "rarity": "Rare Ultra",
@@ -4669,14 +4662,16 @@
           "Colorless",
           "Colorless"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 3,
         "damage": "30",
         "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       }
     ],
-    "weaknesses": [],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy12/110_hires.png",
-    "nationalPokedexNumber": 25
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
   },
   {
     "id": "xy12-111",
@@ -4717,7 +4712,10 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy12/111_hires.png",
-    "nationalPokedexNumber": 25
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
+    ]
   },
   {
     "id": "xy12-112",
@@ -4731,7 +4729,6 @@
       "type": "Pokémon Power"
     },
     "hp": "50",
-    "retreatCost": [],
     "convertedRetreatCost": 0,
     "number": "112",
     "artist": "Imakuni?",
@@ -4761,7 +4758,10 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/xy12/112_hires.png",
-    "nationalPokedexNumber": 84
+    "nationalPokedexNumber": 84,
+    "evolvesTo": [
+      "Dodrio"
+    ]
   },
   {
     "id": "xy12-113",
