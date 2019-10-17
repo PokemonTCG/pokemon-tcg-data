@@ -10345,5 +10345,75 @@
     "evolvesTo": [
       "Granbull"
     ]
+  },
+  {
+    "id": "smp-SM201",
+    "name": "Reshiram & Charizard-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM201.png",
+    "subtype": "TAG TEAM",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "217",
+    "artist": "Ryota Murayama",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
+        "damage": "30+",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Flare Strike",
+        "text": "This Pokémon can't use Flare Strike during your next turn.",
+        "damage": "230",
+        "convertedEnergyCost": 4
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Double Blaze-GX",
+        "text": "If this Pokémon has at least 3 extra Fire Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "damage": "200+",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM201_hires.png",
+    "nationalPokedexNumber": 6
   }
 ]
