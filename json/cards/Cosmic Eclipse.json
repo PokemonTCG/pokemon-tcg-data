@@ -11331,6 +11331,25 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm12/236_hires.png"
   },
   {
+    "id": "sm12-237",
+    "name": "Torkoal",
+    "imageUrl": "https://images.pokemontcg.io/sm12/237.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "237",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 1,
@@ -11353,34 +11372,31 @@
         "text": "Discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon."
       }
     ],
-    "hp": 110,
-    "id": "sm12-237",
-    "imageUrl": "https://images.pokemontcg.io/sm12/237.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/237_hires.png",
-    "name": "Torkoal",
-    "nationalPokedexNumber": 324,
-    "number": "237",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Fire"
-    ],
     "weaknesses": [
       {
         "type": "Water",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/237_hires.png",
+    "nationalPokedexNumber": 324
   },
   {
+    "id": "sm12-238",
+    "name": "Weavile",
+    "imageUrl": "https://images.pokemontcg.io/sm12/238.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Sneasel",
+    "hp": "90",
+    "number": "238",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Water"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 1,
@@ -11403,31 +11419,34 @@
         "text": ""
       }
     ],
-    "evolvesFrom": "Sneasel",
-    "hp": 90,
-    "id": "sm12-238",
-    "imageUrl": "https://images.pokemontcg.io/sm12/238.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/238_hires.png",
-    "name": "Weavile",
-    "nationalPokedexNumber": 461,
-    "number": "238",
-    "rarity": "Rare Secret",
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 1",
-    "supertype": "Pokémon",
-    "types": [
-      "Water"
-    ],
     "weaknesses": [
       {
         "type": "Metal",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/238_hires.png",
+    "nationalPokedexNumber": 461
   },
   {
+    "id": "sm12-239",
+    "name": "Piplup",
+    "imageUrl": "https://images.pokemontcg.io/sm12/239.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "239",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Water"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -11441,38 +11460,44 @@
         "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       }
     ],
-    "hp": 60,
-    "id": "sm12-239",
-    "imageUrl": "https://images.pokemontcg.io/sm12/239.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/239_hires.png",
-    "name": "Piplup",
-    "nationalPokedexNumber": 393,
-    "number": "239",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Water"
-    ],
     "weaknesses": [
       {
         "type": "Lightning",
         "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/239_hires.png",
+    "nationalPokedexNumber": 393,
+    "evolvesTo": [
+      "Prinplup"
     ]
   },
   {
+    "id": "sm12-240",
+    "name": "Wishiwashi",
+    "imageUrl": "https://images.pokemontcg.io/sm12/240.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
     "ability": {
       "name": "Scatter",
       "text": "At the end of your opponent's turn, if this Pokémon has any damage counters on it, flip a coin. If tails, shuffle this Pokémon and all cards attached to it into your deck.",
       "type": "Ability"
     },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "240",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Water"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -11486,35 +11511,34 @@
         "text": ""
       }
     ],
-    "hp": 180,
-    "id": "sm12-240",
-    "imageUrl": "https://images.pokemontcg.io/sm12/240.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/240_hires.png",
-    "name": "Wishiwashi",
-    "nationalPokedexNumber": 746,
-    "number": "240",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Water"
-    ],
     "weaknesses": [
       {
         "type": "Lightning",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/240_hires.png",
+    "nationalPokedexNumber": 746
   },
   {
+    "id": "sm12-241",
+    "name": "Pikachu",
+    "imageUrl": "https://images.pokemontcg.io/sm12/241.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "241",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Lightning"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 1,
@@ -11537,39 +11561,43 @@
         "text": "This Pokémon does 10 damage to itself."
       }
     ],
-    "hp": 70,
-    "id": "sm12-241",
-    "imageUrl": "https://images.pokemontcg.io/sm12/241.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/241_hires.png",
-    "name": "Pikachu",
-    "nationalPokedexNumber": 25,
-    "number": "241",
-    "rarity": "Rare Secret",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
     "resistances": [
       {
         "type": "Metal",
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Lightning"
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/241_hires.png",
+    "nationalPokedexNumber": 25,
+    "evolvesTo": [
+      "Raichu"
     ]
   },
   {
+    "id": "sm12-242",
+    "name": "Magnemite",
+    "imageUrl": "https://images.pokemontcg.io/sm12/242.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "242",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Lightning"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 1,
@@ -11581,44 +11609,48 @@
         "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack doesn't happen."
       }
     ],
-    "hp": 60,
-    "id": "sm12-242",
-    "imageUrl": "https://images.pokemontcg.io/sm12/242.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/242_hires.png",
-    "name": "Magnemite",
-    "nationalPokedexNumber": 81,
-    "number": "242",
-    "rarity": "Rare Secret",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
     "resistances": [
       {
         "type": "Metal",
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Lightning"
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/242_hires.png",
+    "nationalPokedexNumber": 81,
+    "evolvesTo": [
+      "Magneton"
     ]
   },
   {
+    "id": "sm12-243",
+    "name": "Koffing",
+    "imageUrl": "https://images.pokemontcg.io/sm12/243.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
     "ability": {
       "name": "Blow-Away Bomb",
       "text": "Once during your turn, when you discard this Pokémon with the effect of Roxie, you may put 1 damage counter on each of your opponent's Pokémon. (Place damage counters after the effect of Roxie.)",
       "type": "Ability"
     },
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "243",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 2,
@@ -11631,38 +11663,44 @@
         "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "hp": 60,
-    "id": "sm12-243",
-    "imageUrl": "https://images.pokemontcg.io/sm12/243.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/243_hires.png",
-    "name": "Koffing",
-    "nationalPokedexNumber": 109,
-    "number": "243",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Psychic"
-    ],
     "weaknesses": [
       {
         "type": "Psychic",
         "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/243_hires.png",
+    "nationalPokedexNumber": 109,
+    "evolvesTo": [
+      "Weezing"
     ]
   },
   {
+    "id": "sm12-244",
+    "name": "Gallade",
+    "imageUrl": "https://images.pokemontcg.io/sm12/244.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Kirlia",
     "ability": {
       "name": "Double Type",
       "text": "As long as this Pokémon is in play, it is {P} and {F} type.",
       "type": "Ability"
     },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "244",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 2,
@@ -11675,35 +11713,34 @@
         "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
       }
     ],
-    "evolvesFrom": "Kirlia",
-    "hp": 160,
-    "id": "sm12-244",
-    "imageUrl": "https://images.pokemontcg.io/sm12/244.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/244_hires.png",
-    "name": "Gallade",
-    "nationalPokedexNumber": 475,
-    "number": "244",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 2",
-    "supertype": "Pokémon",
-    "types": [
-      "Psychic"
-    ],
     "weaknesses": [
       {
         "type": "Psychic",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/244_hires.png",
+    "nationalPokedexNumber": 475
   },
   {
+    "id": "sm12-245",
+    "name": "Mimikyu",
+    "imageUrl": "https://images.pokemontcg.io/sm12/245.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "245",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 1,
@@ -11724,27 +11761,32 @@
         "text": "Choose 2 of your opponent's Pokémon and put 2 damage counters on each of them."
       }
     ],
-    "hp": 70,
-    "id": "sm12-245",
-    "imageUrl": "https://images.pokemontcg.io/sm12/245.png",
     "imageUrlHiRes": "https://images.pokemontcg.io/sm12/245_hires.png",
-    "name": "Mimikyu",
-    "nationalPokedexNumber": 778,
-    "number": "245",
-    "rarity": "Rare Secret",
+    "nationalPokedexNumber": 778
+  },
+  {
+    "id": "sm12-246",
+    "name": "Excadrill",
+    "imageUrl": "https://images.pokemontcg.io/sm12/246.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Drilbur",
+    "hp": "140",
     "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
+    "number": "246",
+    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
     "types": [
-      "Psychic"
-    ]
-  },
-  {
+      "Fighting"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 1,
@@ -11765,37 +11807,38 @@
         "text": "Discard the top 4 cards of your deck."
       }
     ],
-    "evolvesFrom": "Drilbur",
-    "hp": 140,
-    "id": "sm12-246",
-    "imageUrl": "https://images.pokemontcg.io/sm12/246.png",
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm12/246_hires.png",
-    "name": "Excadrill",
-    "nationalPokedexNumber": 530,
-    "number": "246",
-    "rarity": "Rare Secret",
+    "nationalPokedexNumber": 530
+  },
+  {
+    "id": "sm12-247",
+    "name": "Steelix",
+    "imageUrl": "https://images.pokemontcg.io/sm12/247.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Onix",
+    "hp": "170",
     "retreatCost": [
       "Colorless",
       "Colorless",
       "Colorless",
       "Colorless"
     ],
+    "convertedRetreatCost": 4,
+    "number": "247",
+    "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Stage 1",
-    "supertype": "Pokémon",
     "types": [
-      "Fighting"
+      "Metal"
     ],
-    "weaknesses": [
-      {
-        "type": "Grass",
-        "value": "×2"
-      }
-    ]
-  },
-  {
     "attacks": [
       {
         "convertedEnergyCost": 2,
@@ -11820,48 +11863,48 @@
         "text": "Flip a coin until you get tails. This attack does 100 damage for each heads."
       }
     ],
-    "evolvesFrom": "Onix",
-    "hp": 170,
-    "id": "sm12-247",
-    "imageUrl": "https://images.pokemontcg.io/sm12/247.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/247_hires.png",
-    "name": "Steelix",
-    "nationalPokedexNumber": 208,
-    "number": "247",
-    "rarity": "Rare Secret",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
     "resistances": [
       {
         "type": "Psychic",
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 1",
-    "supertype": "Pokémon",
-    "types": [
-      "Metal"
-    ],
-    "weaknesses": [
-      {
-        "type": "Fire",
-        "value": "×2"
-      }
-    ]
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/247_hires.png",
+    "nationalPokedexNumber": 208
   },
   {
+    "id": "sm12-248",
+    "name": "Stoutland",
+    "imageUrl": "https://images.pokemontcg.io/sm12/248.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Herdier",
     "ability": {
       "name": "Arf Arf Bark",
       "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard an Energy from your opponent's Active Pokémon. If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, you may discard an Energy from your opponent's Active Pokémon.",
       "type": "Ability"
     },
+    "hp": "150",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "248",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Colorless"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -11872,44 +11915,44 @@
         ],
         "damage": "110",
         "name": "Overrun",
-        "text": "This attack does 30 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
-    ],
-    "evolvesFrom": "Herdier",
-    "hp": 150,
-    "id": "sm12-248",
-    "imageUrl": "https://images.pokemontcg.io/sm12/248.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/248_hires.png",
-    "name": "Stoutland",
-    "nationalPokedexNumber": 508,
-    "number": "248",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 2",
-    "supertype": "Pokémon",
-    "types": [
-      "Colorless"
     ],
     "weaknesses": [
       {
         "type": "Fighting",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/248_hires.png",
+    "nationalPokedexNumber": 508
   },
   {
+    "id": "sm12-249",
+    "name": "Venusaur & Snivy-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/249.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
     "ability": {
       "name": "Shining Vine",
-      "text": "Once during your turn, if this Pokémon is your Active Pokémon, when you attach a {G} Energy card from your hand to it, you may switch 1 of your opponent’s Benched Pokémon with their Active Pokémon.",
+      "text": "Once during your turn, if this Pokémon is your Active Pokémon, when you attach a {G} Energy card from your hand to it, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
       "type": "Ability"
     },
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "249",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Grass"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 4,
@@ -11932,43 +11975,47 @@
         ],
         "damage": "",
         "name": "Solar Plant GX",
-        "text": "This attack does 50 damage to each of your opponent's Pokémon. If this Pokémon has at least 2 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)"
+        "text": "This attack does 50 damage to each of your opponent's Pokémon. If this Pokémon has at least 2 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 270,
-    "id": "sm12-249",
-    "imageUrl": "https://images.pokemontcg.io/sm12/249.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/249_hires.png",
-    "name": "Venusaur & Snivy-GX",
-    "nationalPokedexNumber": 3,
-    "number": "249",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Grass"
     ],
     "weaknesses": [
       {
         "type": "Fire",
         "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/249_hires.png",
+    "nationalPokedexNumber": 3,
+    "evolvesTo": [
+      "Servine"
     ]
   },
   {
+    "id": "sm12-250",
+    "name": "Vileplume-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/250.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Gloom",
     "ability": {
       "name": "Fragrant Flower Garden",
       "text": "Once during your turn (before your attack), you may heal 30 damage from each of your Pokémon.",
       "type": "Ability"
     },
+    "hp": "240",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "250",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Grass"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 2,
@@ -11990,35 +12037,36 @@
         "text": "Your opponent's Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
       }
     ],
-    "evolvesFrom": "Gloom",
-    "hp": 240,
-    "id": "sm12-250",
-    "imageUrl": "https://images.pokemontcg.io/sm12/250.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/250_hires.png",
-    "name": "Vileplume-GX",
-    "nationalPokedexNumber": 45,
-    "number": "250",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 2",
-    "supertype": "Pokémon",
-    "types": [
-      "Grass"
-    ],
     "weaknesses": [
       {
         "type": "Fire",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/250_hires.png",
+    "nationalPokedexNumber": 45
   },
   {
+    "id": "sm12-251",
+    "name": "Charizard & Braixen-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/251.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "251",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 4,
@@ -12039,43 +12087,48 @@
         ],
         "damage": "",
         "name": "Crimson Flame Pillar GX",
-        "text": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Burned and Confused. (You can’t use more than 1 GX attack in a game.)"
+        "text": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Burned and Confused. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 270,
-    "id": "sm12-251",
-    "imageUrl": "https://images.pokemontcg.io/sm12/251.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/251_hires.png",
-    "name": "Charizard & Braixen-GX",
-    "nationalPokedexNumber": 6,
-    "number": "251",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Fire"
     ],
     "weaknesses": [
       {
         "type": "Water",
         "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/251_hires.png",
+    "nationalPokedexNumber": 6,
+    "evolvesTo": [
+      "Delphox"
     ]
   },
   {
+    "id": "sm12-252",
+    "name": "Volcarona-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/252.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Larvesta",
     "ability": {
       "name": "Flaming Shot",
       "text": "Once during your turn (before your attack), you may discard a {R} Energy card from your hand. If you do, put 2 damage counters on 1 of your opponent's Pokémon.",
       "type": "Ability"
     },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "252",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Fire"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12098,36 +12151,36 @@
         "text": "Discard an Energy from each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
       }
     ],
-    "evolvesFrom": "Larvesta",
-    "hp": 210,
-    "id": "sm12-252",
-    "imageUrl": "https://images.pokemontcg.io/sm12/252.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/252_hires.png",
-    "name": "Volcarona-GX",
-    "nationalPokedexNumber": 637,
-    "number": "252",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 1",
-    "supertype": "Pokémon",
-    "types": [
-      "Fire"
-    ],
     "weaknesses": [
       {
         "type": "Water",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/252_hires.png",
+    "nationalPokedexNumber": 637
   },
   {
+    "id": "sm12-253",
+    "name": "Blastoise & Piplup-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/253.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "253",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Water"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12152,35 +12205,38 @@
         "text": "Your opponent's Active Pokémon is now Paralyzed. If this Pokémon has at least 3 extra {W} Energy attached to it (in addition to this attack's cost), this attack does 150 more damage. (You can't use more than 1 GX attack in a game.)"
       }
     ],
-    "hp": 270,
-    "id": "sm12-253",
-    "imageUrl": "https://images.pokemontcg.io/sm12/253.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/253_hires.png",
-    "name": "Blastoise & Piplup-GX",
-    "nationalPokedexNumber": 9,
-    "number": "253",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Water"
-    ],
     "weaknesses": [
       {
         "type": "Grass",
         "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/253_hires.png",
+    "nationalPokedexNumber": 9,
+    "evolvesTo": [
+      "Prinplup"
     ]
   },
   {
+    "id": "sm12-254",
+    "name": "Solgaleo & Lunala-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/254.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "254",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 4,
@@ -12203,42 +12259,42 @@
         ],
         "damage": "200",
         "name": "Light of the Protector GX",
-        "text": "If you played Lillie's Full Force from your hand during this turn, prevent all effects of attacks, including damage, done to each of your Pokémon during your opponent's next turn. (You can’t use more than 1 GX attack in a game.)"
+        "text": "If you played Lillie's Full Force from your hand during this turn, prevent all effects of attacks, including damage, done to each of your Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 270,
-    "id": "sm12-254",
-    "imageUrl": "https://images.pokemontcg.io/sm12/254.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/254_hires.png",
-    "name": "Solgaleo & Lunala-GX",
-    "nationalPokedexNumber": 791,
-    "number": "254",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Psychic"
     ],
     "weaknesses": [
       {
         "type": "Psychic",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/254_hires.png",
+    "nationalPokedexNumber": 791
   },
   {
+    "id": "sm12-255",
+    "name": "Oricorio-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/255.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
     "ability": {
       "name": "Dance of Tribute",
       "text": "Once during your turn (before your attack), if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Dance of Tribute Ability each turn.",
       "type": "Ability"
     },
+    "hp": "170",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "255",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Psychic"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12260,47 +12316,50 @@
         ],
         "damage": "100",
         "name": "Strafe GX",
-        "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can’t use more than 1 GX attack in a game.)"
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 170,
-    "id": "sm12-255",
-    "imageUrl": "https://images.pokemontcg.io/sm12/255.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/255_hires.png",
-    "name": "Oricorio-GX",
-    "nationalPokedexNumber": 741,
-    "number": "255",
-    "rarity": "Rare Secret",
-    "resistances": [
-      {
-        "type": "Fighting",
-        "value": "-20"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Psychic"
     ],
     "weaknesses": [
       {
         "type": "Darkness",
         "value": "×2"
       }
-    ]
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/255_hires.png",
+    "nationalPokedexNumber": 741
   },
   {
+    "id": "sm12-256",
+    "name": "Flygon-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/256.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Vibrava",
     "ability": {
       "name": "Dusty Defense",
-      "text": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent’s attacks (after applying Weakness and Resistance).",
+      "text": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance).",
       "type": "Ability"
     },
+    "hp": "240",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "256",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Fighting"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12322,43 +12381,44 @@
         ],
         "damage": "220",
         "name": "Sonic Edge GX",
-        "text": "This attack’s damage isn’t affected by any effects on your opponent’s Active Pokémon. (You can’t use more than 1 GX attack in a game.)"
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "evolvesFrom": "Vibrava",
-    "hp": 240,
-    "id": "sm12-256",
-    "imageUrl": "https://images.pokemontcg.io/sm12/256.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/256_hires.png",
-    "name": "Flygon-GX",
-    "nationalPokedexNumber": 330,
-    "number": "256",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 2",
-    "supertype": "Pokémon",
-    "types": [
-      "Fighting"
     ],
     "weaknesses": [
       {
         "type": "Grass",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/256_hires.png",
+    "nationalPokedexNumber": 330
   },
   {
+    "id": "sm12-257",
+    "name": "Alolan Persian-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/257.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Alolan Meowth",
     "ability": {
       "name": "Smug Face",
       "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's TAG TEAM Pokémon and Ultra Beasts, and by your opponent's Pokémon that have any Special Energy attached to them.",
       "type": "Ability"
     },
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "257",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Darkness"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12380,44 +12440,45 @@
         ],
         "damage": "",
         "name": "Stalking Claws GX",
-        "text": "This attack does 120 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon. (You can’t use more than 1 GX attack in a game.)"
+        "text": "This attack does 120 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "evolvesFrom": "Alolan Meowth",
-    "hp": 200,
-    "id": "sm12-257",
-    "imageUrl": "https://images.pokemontcg.io/sm12/257.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/257_hires.png",
-    "name": "Alolan Persian-GX",
-    "nationalPokedexNumber": 53,
-    "number": "257",
-    "rarity": "Rare Secret",
-    "resistances": [
-      {
-        "type": "Psychic",
-        "value": "-20"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 1",
-    "supertype": "Pokémon",
-    "types": [
-      "Darkness"
     ],
     "weaknesses": [
       {
         "type": "Fighting",
         "value": "×2"
       }
-    ]
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/257_hires.png",
+    "nationalPokedexNumber": 53
   },
   {
+    "id": "sm12-258",
+    "name": "Arceus & Dialga & Palkia-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/258.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "280",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "258",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Dragon"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12437,38 +12498,39 @@
         ],
         "damage": "",
         "name": "Altered Creation GX",
-        "text": "For the rest of this game, your Pokémon’s attacks do 30 more damage to your opponent’s Active Pokémon (before applying Weakness and Resistance). If this Pokémon has at least 1 extra {W} Energy attached to it (in addition to this attack's cost), when your opponent’s Active Pokémon is Knocked Out by damage from those attacks, take 1 more Prize card. (You can't use more than 1 GX attack in a game.)"
+        "text": "For the rest of this game, your Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). If this Pokémon has at least 1 extra {W} Energy attached to it (in addition to this attack's cost), when your opponent's Active Pokémon is Knocked Out by damage from those attacks, take 1 more Prize card. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 280,
-    "id": "sm12-258",
-    "imageUrl": "https://images.pokemontcg.io/sm12/258.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/258_hires.png",
-    "name": "Arceus & Dialga & Palkia-GX",
-    "nationalPokedexNumber": 483,
-    "number": "258",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Dragon"
     ],
     "weaknesses": [
       {
         "type": "Fairy",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/258_hires.png",
+    "nationalPokedexNumber": 483
   },
   {
+    "id": "sm12-259",
+    "name": "Reshiram & Zekrom-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/259.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "259",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Dragon"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 2,
@@ -12490,43 +12552,44 @@
         ],
         "damage": "",
         "name": "Cross Break GX",
-        "text": "This attack does 170 damage to 1 of your opponent's Benched Pokémon. If you played N's Resolve from your hand during this turn, this attack also does 170 damage to 1 of your opponent's other Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)"
+        "text": "This attack does 170 damage to 1 of your opponent's Benched Pokémon. If you played N's Resolve from your hand during this turn, this attack also does 170 damage to 1 of your opponent's other Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 270,
-    "id": "sm12-259",
-    "imageUrl": "https://images.pokemontcg.io/sm12/259.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/259_hires.png",
-    "name": "Reshiram & Zekrom-GX",
-    "nationalPokedexNumber": 643,
-    "number": "259",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Dragon"
     ],
     "weaknesses": [
       {
         "type": "Fairy",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/259_hires.png",
+    "nationalPokedexNumber": 643
   },
   {
+    "id": "sm12-260",
+    "name": "Naganadel & Guzzlord-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/260.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
     "ability": {
       "name": "Violent Appetite",
       "text": "Once during your turn (before your attack), you may discard a Pokémon from your hand. If you do, heal 60 damage from this Pokémon.",
       "type": "Ability"
     },
+    "hp": "280",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "260",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Dragon"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12546,38 +12609,37 @@
         ],
         "damage": "",
         "name": "Chaotic Order GX",
-        "text": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) If this Pokémon has at least 1 extra {P} Energy and 1 extra {D} Energy attached to it (in addition to this attack’s cost), take 2 Prize cards. (You can’t use more than 1 GX attack in a game.)"
+        "text": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) If this Pokémon has at least 1 extra {P} Energy and 1 extra {D} Energy attached to it (in addition to this attack's cost), take 2 Prize cards. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 280,
-    "id": "sm12-260",
-    "imageUrl": "https://images.pokemontcg.io/sm12/260.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/260_hires.png",
-    "name": "Naganadel & Guzzlord-GX",
-    "nationalPokedexNumber": 799,
-    "number": "260",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Dragon"
     ],
     "weaknesses": [
       {
         "type": "Fairy",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/260_hires.png",
+    "nationalPokedexNumber": 799
   },
   {
+    "id": "sm12-261",
+    "name": "Mega Lopunny & Jigglypuff-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/261.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "240",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "261",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Colorless"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 3,
@@ -12597,41 +12659,47 @@
         ],
         "damage": "",
         "name": "Puffy Smashers GX",
-        "text": "Your opponent’s Active Pokémon is now Asleep. If this Pokémon has at least 4 extra Energy attached to it (in addition to this attack's cost), this attack does 200 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)"
+        "text": "Your opponent's Active Pokémon is now Asleep. If this Pokémon has at least 4 extra Energy attached to it (in addition to this attack's cost), this attack does 200 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "hp": 240,
-    "id": "sm12-261",
-    "imageUrl": "https://images.pokemontcg.io/sm12/261.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/261_hires.png",
-    "name": "Mega Lopunny & Jigglypuff-GX",
-    "nationalPokedexNumber": 39,
-    "number": "261",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Basic",
-    "supertype": "Pokémon",
-    "types": [
-      "Colorless"
     ],
     "weaknesses": [
       {
         "type": "Fighting",
         "value": "×2"
       }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/261_hires.png",
+    "nationalPokedexNumber": 39,
+    "evolvesTo": [
+      "Wigglytuff"
     ]
   },
   {
+    "id": "sm12-262",
+    "name": "Silvally-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm12/262.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Type: Null",
     "ability": {
       "name": "Disk Reload",
       "text": "Once during your turn (before your attack), you may draw cards until you have 5 cards in your hand.",
       "type": "Ability"
     },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "262",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Cosmic Eclipse",
+    "setCode": "sm12",
+    "types": [
+      "Colorless"
+    ],
     "attacks": [
       {
         "convertedEnergyCost": 2,
@@ -12651,182 +12719,163 @@
         ],
         "damage": "",
         "name": "Silver Knight GX",
-        "text": "If your opponent’s Active Pokémon is an Ultra Beast, it is Knocked Out. (You can’t use more than 1 GX attack in a game.)"
+        "text": "If your opponent's Active Pokémon is an Ultra Beast, it is Knocked Out. (You can't use more than 1 GX attack in a game.)"
       }
-    ],
-    "evolvesFrom": "Type: Null",
-    "hp": 210,
-    "id": "sm12-262",
-    "imageUrl": "https://images.pokemontcg.io/sm12/262.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/262_hires.png",
-    "name": "Silvally-GX",
-    "nationalPokedexNumber": 773,
-    "number": "262",
-    "rarity": "Rare Secret",
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "series": "Sun & Moon",
-    "set": "Cosmic Eclipse",
-    "setCode": "sm12",
-    "subtype": "Stage 1",
-    "supertype": "Pokémon",
-    "types": [
-      "Colorless"
     ],
     "weaknesses": [
       {
         "type": "Fighting",
         "value": "×2"
       }
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/262_hires.png",
+    "nationalPokedexNumber": 773
   },
   {
     "id": "sm12-263",
-    "imageUrl": "https://images.pokemontcg.io/sm12/263.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/263_hires.png",
     "name": "Giant Hearth",
+    "imageUrl": "https://images.pokemontcg.io/sm12/263.png",
+    "subtype": "Stadium",
+    "supertype": "Trainer",
     "number": "263",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Stadium",
-    "supertype": "Trainer",
     "text": [
-      "Once during each player’s turn, that player may discard a card from their hand. If they do, that player searches their deck for up to 2 Fire Energy cards, reveals them, and puts them into their hand. Then, that player shuffles their deck."
-    ]
+      "Once during each player's turn, that player may discard a card from their hand. If they do, that player searches their deck for up to 2 Fire Energy cards, reveals them, and puts them into their hand. Then, that player shuffles their deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/263_hires.png"
   },
   {
     "id": "sm12-264",
-    "imageUrl": "https://images.pokemontcg.io/sm12/264.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/264_hires.png",
     "name": "Great Catcher",
+    "imageUrl": "https://images.pokemontcg.io/sm12/264.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
     "number": "264",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Item",
-    "supertype": "Trainer",
     "text": [
       "You can play this card only if you discard 2 other cards from your hand.",
       "Switch 1 of your opponent's Benched Pokémon-GX or Pokémon-EX with their Active Pokémon."
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/264_hires.png"
   },
   {
     "id": "sm12-265",
-    "imageUrl": "https://images.pokemontcg.io/sm12/265.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/265_hires.png",
     "name": "Island Challenge Amulet",
+    "imageUrl": "https://images.pokemontcg.io/sm12/265.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
     "number": "265",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Pokémon Tool",
-    "supertype": "Trainer",
     "text": [
-      "The Pokémon-GX or Pokémon-EX this card is attached to gets -100 HP, and when it is Knocked Out by damage from an opponent’s attack, that player takes 1 fewer Prize card."
-    ]
+      "The Pokémon-GX or Pokémon-EX this card is attached to gets -100 HP, and when it is Knocked Out by damage from an opponent's attack, that player takes 1 fewer Prize card."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/265_hires.png"
   },
   {
     "id": "sm12-266",
-    "imageUrl": "https://images.pokemontcg.io/sm12/266.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/266_hires.png",
     "name": "Lana's Fishing Rod",
+    "imageUrl": "https://images.pokemontcg.io/sm12/266.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
     "number": "266",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Item",
-    "supertype": "Trainer",
     "text": [
       "Shuffle a Pokémon and a Pokémon Tool card from your discard pile into your deck."
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/266_hires.png"
   },
   {
     "id": "sm12-267",
-    "imageUrl": "https://images.pokemontcg.io/sm12/267.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/267_hires.png",
     "name": "Lillie's Poké Doll",
+    "imageUrl": "https://images.pokemontcg.io/sm12/267.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
     "number": "267",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Item",
-    "supertype": "Trainer",
     "text": [
       "Play this card as if it were a 30-HP Colorless Basic Pokémon. At any time during your turn (before your attack), if this Pokémon is your Active Pokémon, you may discard all cards from it and put it on the bottom of your deck.",
       "This card can't retreat. If this card is Knocked Out, your opponent can't take any Prize cards for it."
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/267_hires.png"
   },
   {
     "id": "sm12-268",
-    "imageUrl": "https://images.pokemontcg.io/sm12/268.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/268_hires.png",
     "name": "Martial Arts Dojo",
+    "imageUrl": "https://images.pokemontcg.io/sm12/268.png",
+    "subtype": "Stadium",
+    "supertype": "Trainer",
     "number": "268",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Stadium",
-    "supertype": "Trainer",
     "text": [
       "The attacks of non-Ultra Beast Pokémon that have any basic Fighting Energy attached to them (both yours and your opponent's) do 10 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance). If the attacking player has more Prize cards remaining than their opponent, those attacks do 40 more damage instead."
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/268_hires.png"
   },
   {
     "id": "sm12-269",
-    "imageUrl": "https://images.pokemontcg.io/sm12/269.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/269_hires.png",
     "name": "Power Plant",
+    "imageUrl": "https://images.pokemontcg.io/sm12/269.png",
+    "subtype": "Stadium",
+    "supertype": "Trainer",
     "number": "269",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Stadium",
-    "supertype": "Trainer",
     "text": [
       "Pokémon-GX and Pokémon-EX in play (both yours and your opponent's) have no Abilities."
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/269_hires.png"
   },
   {
     "id": "sm12-270",
-    "imageUrl": "https://images.pokemontcg.io/sm12/270.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/270_hires.png",
     "name": "Tag Call",
+    "imageUrl": "https://images.pokemontcg.io/sm12/270.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
     "number": "270",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Item",
-    "supertype": "Trainer",
     "text": [
       "Search your deck for up to 2 TAG TEAM cards, reveal them, and put them into your hand. Then, shuffle your deck."
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/270_hires.png"
   },
   {
     "id": "sm12-271",
-    "imageUrl": "https://images.pokemontcg.io/sm12/271.png",
-    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/271_hires.png",
     "name": "Draw Energy",
+    "imageUrl": "https://images.pokemontcg.io/sm12/271.png",
+    "subtype": "Special",
+    "supertype": "Energy",
     "number": "271",
     "rarity": "Rare Secret",
     "series": "Sun & Moon",
     "set": "Cosmic Eclipse",
     "setCode": "sm12",
-    "subtype": "Special",
-    "supertype": "Energy",
     "text": [
       "This card provides Colorless Energy. ",
       "When you attach this card from your hand to a Pokémon, draw a card."
-    ]
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm12/271_hires.png"
   }
 ]
