@@ -10013,6 +10013,73 @@
     "nationalPokedexNumber": 448
   },
   {
+    "id": "smp-SM193",
+    "name": "Garchomp & Giratina-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM193.png",
+    "subtype": "TAG TEAM",
+    "supertype": "Pokémon",
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SM193",
+    "artist": "Anesaki Dynamic",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Linear Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Calamitous Slash",
+        "cost": [
+          "Psychic",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage."
+      },
+      {
+        "name": "GG End-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard 1 of your opponent's Pokémon and all cards attached to it. If this Pokémon has at least 3 extra Fighting Energy attached to it (in addition to this attack's cost), discard 2 of your opponent's Pokémon instead. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM193_hires.png",
+    "nationalPokedexNumber": 445
+  },
+  {
     "id": "smp-SM194",
     "name": "Detective Pikachu",
     "imageUrl": "https://images.pokemontcg.io/smp/SM194.png",
