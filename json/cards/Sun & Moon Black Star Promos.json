@@ -9993,6 +9993,197 @@
     "nationalPokedexNumber": 105
   },
   {
+    "id": "smp-SM191",
+    "name": "Mewtwo & Mew-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM191.png",
+    "subtype": "TAG TEAM",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Perfection",
+      "text": "This Pokémon can use the attacks of any Pokémon-GX or Pokémon-EX on your Bench or in your discard pile. (You still need the necessary Energy to use each attack.)",
+      "type": "Ability"
+    },
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM191",
+    "artist": "sui",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Miraculous Duo-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM191_hires.png",
+    "nationalPokedexNumber": 150
+  },
+  {
+    "id": "smp-SM192",
+    "name": "Lucario & Melmetal-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM192.png",
+    "subtype": "TAG TEAM",
+    "supertype": "Pokémon",
+    "hp": "260",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SM192",
+    "artist": "nagimiso",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Steel Fist",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Search your deck for a Metal Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Heavy Impact",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": ""
+      },
+      {
+        "name": "Full Metal Wall-GX",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "For the rest of this game, your Metal Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance). If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM192_hires.png",
+    "nationalPokedexNumber": 448
+  },
+  {
+    "id": "smp-SM193",
+    "name": "Garchomp & Giratina-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM193.png",
+    "subtype": "TAG TEAM",
+    "supertype": "Pokémon",
+    "hp": "270",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SM193",
+    "artist": "Anesaki Dynamic",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "text": [
+      "When your TAG TEAM is knocked out, your opponent takes 3 Prize Cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Linear Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Calamitous Slash",
+        "cost": [
+          "Psychic",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage."
+      },
+      {
+        "name": "GG End-GX",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard 1 of your opponent's Pokémon and all cards attached to it. If this Pokémon has at least 3 extra Fighting Energy attached to it (in addition to this attack's cost), discard 2 of your opponent's Pokémon instead. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM193_hires.png",
+    "nationalPokedexNumber": 445
+  },
+  {
     "id": "smp-SM194",
     "name": "Detective Pikachu",
     "imageUrl": "https://images.pokemontcg.io/smp/SM194.png",
@@ -11316,5 +11507,53 @@
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM217_hires.png",
     "nationalPokedexNumber": 477
+  },
+  {
+    "id": "smp-SM221",
+    "name": "Blacephalon",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM221.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM221",
+    "artist": "Shin Nagasawa",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Fireworks Bomb",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put 4 damage counters on your opponent's Pokémon in any way you like. If your opponent has exactly 3 Prize cards remaining, put 12 damage counters on them instead."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM221_hires.png",
+    "nationalPokedexNumber": 806
   }
 ]
