@@ -38,7 +38,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Flip a coin. If heads, defender is now Confused."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       }
     ],
     "weaknesses": [
@@ -89,7 +89,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
-        "text": "Does 40 damage plus 10 more damage for each attached to Blastoise but not used to pay for this attack's Energy cost. Extra Energy after the 2nd doesn't count."
+        "text": "Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
       }
     ],
     "weaknesses": [
@@ -174,7 +174,7 @@
     "evolvesFrom": "Charmeleon",
     "ability": {
       "name": "Energy Burn",
-      "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into R for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+      "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
     },
     "hp": "120",
     "retreatCost": [
@@ -309,7 +309,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, Defending Pokémon is now Asleep."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
       },
       {
         "name": "Metronome",
@@ -387,7 +387,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "40",
-        "text": "Flip a coin. If heads, Defending Pokémon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
@@ -830,7 +830,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "Does 30 damage plus 10 more damage for each Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Energy after the 2nd doesn't count."
+        "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Energy after the 2nd doesn't count."
       },
       {
         "name": "Whirlpool",
@@ -1226,7 +1226,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Flip 2 coins. This attack does 30 times number of heads."
+        "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
       },
       {
         "name": "Hyper Beam",
@@ -1238,7 +1238,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "20",
-        "text": "If the Defending Pokémon has energy cards attached to it, choose 1 of them and discard it."
+        "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
       }
     ],
     "resistances": [
@@ -1381,7 +1381,7 @@
     "evolvesFrom": "Voltorb",
     "ability": {
       "name": "Buzzap",
-      "text": "At any time during your turn (before your attack) you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, chose a type of Energy. is now an Energy card (instead of a Pokémon) that provides 2 energy of that type. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
+      "text": "At any time during your turn (before your attack) you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pokémon) that provides 2 energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
       "type": "Pokémon Power"
     },
     "hp": "80",
@@ -2216,7 +2216,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If tails, this attack does nothing. Either way, use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again.)"
+        "text": "Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again.)"
       },
       {
         "name": "Pot Smash",
