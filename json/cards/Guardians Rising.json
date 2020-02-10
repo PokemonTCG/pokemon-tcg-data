@@ -952,6 +952,60 @@
     ]
   },
   {
+    "id": "sm2-19a",
+    "name": "Alolan Sandshrew",
+    "imageUrl": "https://images.pokemontcg.io/sm2/19a.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "19a",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Common",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Defense Curl",
+        "cost": [
+          "Free"
+        ],
+        "convertedEnergyCost": 0,
+        "damage": "",
+        "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+      },
+      {
+        "name": "Ice Ball",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/19a_hires.png",
+    "nationalPokedexNumber": 27,
+    "evolvesTo": [
+      "Sandslash"
+    ]
+  },
+  {
     "id": "sm2-20",
     "name": "Alolan Sandslash",
     "imageUrl": "https://images.pokemontcg.io/sm2/20.png",
@@ -1048,6 +1102,59 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/21_hires.png",
+    "nationalPokedexNumber": 37,
+    "evolvesTo": [
+      "Ninetales"
+    ]
+  },
+  {
+    "id": "sm2-21a",
+    "name": "Alolan Vulpix",
+    "imageUrl": "https://images.pokemontcg.io/sm2/21a.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "21a",
+    "artist": "kirisAki",
+    "rarity": "Common",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Beacon",
+        "cost": [
+          "Free"
+        ],
+        "convertedEnergyCost": 0,
+        "damage": "",
+        "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Icy Snow",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/21a_hires.png",
     "nationalPokedexNumber": 37,
     "evolvesTo": [
       "Ninetales"
@@ -2692,6 +2799,60 @@
     "nationalPokedexNumber": 569
   },
   {
+    "id": "sm2-51a",
+    "name": "Garbodor",
+    "imageUrl": "https://images.pokemontcg.io/sm2/51a.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Trubbish",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "51a",
+    "artist": "nagimiso",
+    "rarity": "Rare",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Trashalanche",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Item card in your opponent's discard pile."
+      },
+      {
+        "name": "Acid Spray",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/51a_hires.png",
+    "nationalPokedexNumber": 569
+  },
+  {
     "id": "sm2-52",
     "name": "Gothita",
     "imageUrl": "https://images.pokemontcg.io/sm2/52.png",
@@ -3160,6 +3321,59 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/60_hires.png",
+    "nationalPokedexNumber": 786
+  },
+  {
+    "id": "sm2-60a",
+    "name": "Tapu Lele-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm2/60a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Wonder Tag",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "type": "Ability"
+    },
+    "hp": "170",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "60a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo GX",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Energy Drive",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+      },
+      {
+        "name": "Tapu Cure-GX",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/60a_hires.png",
     "nationalPokedexNumber": 786
   },
   {
@@ -4915,6 +5129,80 @@
     "nationalPokedexNumber": 700
   },
   {
+    "id": "sm2-92a",
+    "name": "Sylveon-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm2/92a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Eevee",
+    "hp": "200",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "92a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo GX",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "name": "Magical Ribbon",
+        "cost": [
+          "Fairy"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Fairy Wind",
+        "cost": [
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": ""
+      },
+      {
+        "name": "Plea-GX",
+        "cost": [
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/92a_hires.png",
+    "nationalPokedexNumber": 700
+  },
+  {
     "id": "sm2-93",
     "name": "Comfey",
     "imageUrl": "https://images.pokemontcg.io/sm2/93.png",
@@ -6277,6 +6565,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/121_hires.png"
   },
   {
+    "id": "sm2-121a",
+    "name": "Choice Band",
+    "imageUrl": "https://images.pokemontcg.io/sm2/121a.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "number": "121a",
+    "artist": "Eske Yoshinob",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon-GX or Active Pokémon-EX (before applying Weakness and Resistance)."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/121a_hires.png"
+  },
+  {
     "id": "sm2-122",
     "name": "Energy Loto",
     "imageUrl": "https://images.pokemontcg.io/sm2/122.png",
@@ -6328,6 +6633,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/124_hires.png"
   },
   {
+    "id": "sm2-124a",
+    "name": "Enhanced Hammer",
+    "imageUrl": "https://images.pokemontcg.io/sm2/124a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "124a",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "Discard a Special Energy from 1 of your opponent's Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/124a_hires.png"
+  },
+  {
     "id": "sm2-125",
     "name": "Field Blower",
     "imageUrl": "https://images.pokemontcg.io/sm2/125.png",
@@ -6343,6 +6665,23 @@
       "Choose up to 2 in any combination of Pokémon Tool cards and Stadium cards in play (yours or your opponent's) and discard them."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/125_hires.png"
+  },
+  {
+    "id": "sm2-125a",
+    "name": "Field Blower",
+    "imageUrl": "https://images.pokemontcg.io/sm2/125a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "125a",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "Choose up to 2 in any combination of Pokémon Tool cards and Stadium cards in play (yours or your opponent's) and discard them."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/125a_hires.png"
   },
   {
     "id": "sm2-126",
@@ -6396,6 +6735,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/128_hires.png"
   },
   {
+    "id": "sm2-128a",
+    "name": "Max Potion",
+    "imageUrl": "https://images.pokemontcg.io/sm2/128a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "128a",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "Heal all damage from 1 of your Pokémon. If you do, discard all Energy from that Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/128a_hires.png"
+  },
+  {
     "id": "sm2-129",
     "name": "Multi Switch",
     "imageUrl": "https://images.pokemontcg.io/sm2/129.png",
@@ -6428,6 +6784,23 @@
       "Choose 1: •Put a Pokémon from your discard pile into your hand. •Shuffle 3 Pokémon from your discard pile into your deck."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/130_hires.png"
+  },
+  {
+    "id": "sm2-130a",
+    "name": "Rescue Stretcher",
+    "imageUrl": "https://images.pokemontcg.io/sm2/130a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "130a",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "Choose 1: •Put a Pokémon from your discard pile into your hand. •Shuffle 3 Pokémon from your discard pile into your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/130a_hires.png"
   },
   {
     "id": "sm2-131",
@@ -8071,6 +8444,75 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm2/157_hires.png",
+    "nationalPokedexNumber": 376
+  },
+  {
+    "id": "sm2-157a",
+    "name": "Metagross-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm2/157a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Metang",
+    "ability": {
+      "name": "Geotech System",
+      "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "157a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Guardians Rising",
+    "setCode": "sm2",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Giga Hammer",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "This Pokémon can't use Giga Hammer during your next turn."
+      },
+      {
+        "name": "Algorithm-GX",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm2/157a_hires.png",
     "nationalPokedexNumber": 376
   },
   {
