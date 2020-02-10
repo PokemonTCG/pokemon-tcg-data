@@ -4609,6 +4609,58 @@
     "nationalPokedexNumber": 486
   },
   {
+    "id": "sm4-84a",
+    "name": "Regigigas",
+    "imageUrl": "https://images.pokemontcg.io/sm4/84a.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Seal of Antiquity",
+      "text": "This Pokémon can't attack unless Regirock, Regice, and Registeel are on your Bench.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "84a",
+    "artist": "Hasuno",
+    "rarity": "Rare Holo",
+    "series": "Sun & Moon",
+    "set": "Crimson Invasion",
+    "setCode": "sm4",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Giant Stomp",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "160",
+        "text": "Discard any Stadium card in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm4/84a_hires.png",
+    "nationalPokedexNumber": 486
+  },
+  {
     "id": "sm4-85",
     "name": "Minccino",
     "imageUrl": "https://images.pokemontcg.io/sm4/85.png",
