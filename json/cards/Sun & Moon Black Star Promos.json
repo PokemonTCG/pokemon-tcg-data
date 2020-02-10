@@ -1614,6 +1614,60 @@
     "nationalPokedexNumber": 785
   },
   {
+    "id": "smp-SM30a",
+    "name": "Tapu Koko",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM30a.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "110",
+    "number": "SM30a",
+    "artist": "kirisAki",
+    "rarity": "",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Flying Flip",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Electric Ball",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM30a_hires.png",
+    "nationalPokedexNumber": 785
+  },
+  {
     "id": "smp-SM31",
     "name": "Tapu Koko",
     "imageUrl": "https://images.pokemontcg.io/smp/SM31.png",
@@ -5869,6 +5923,73 @@
     "nationalPokedexNumber": 792
   },
   {
+    "id": "smp-SM103a",
+    "name": "Lunala-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM103a.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Cosmoem",
+    "hp": "230",
+    "number": "SM103a",
+    "artist": "PLANETA Igarashi",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Glide",
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "50",
+        "convertedEnergyCost": 2
+      },
+      {
+        "name": "Lunar Javelin",
+        "text": "Discard 2 Psychic Energy from this Pokémon.",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "200",
+        "convertedEnergyCost": 4
+      },
+      {
+        "name": "Requiem GX",
+        "text": "(You can't use more than 1 GX attack in a game.)",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "damage": "250",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM103a_hires.png",
+    "nationalPokedexNumber": 792
+  },
+  {
     "id": "smp-SM104",
     "name": "Solgaleo-GX",
     "imageUrl": "https://images.pokemontcg.io/smp/SM104.png",
@@ -5929,6 +6050,69 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM104_hires.png",
+    "nationalPokedexNumber": 791
+  },
+  {
+    "id": "smp-SM104a",
+    "name": "Solgaleo-GX",
+    "imageUrl": "https://images.pokemontcg.io/smp/SM104a.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Cosmoem",
+    "ability": {
+      "name": "Shining Mane",
+      "text": "Your Pokémon in play have no Weakness.",
+      "type": "Ability"
+    },
+    "hp": "250",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SM104a",
+    "artist": "PLANETA Igarashi",
+    "series": "Sun & Moon",
+    "set": "SM Black Star Promos",
+    "setCode": "smp",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Turbo Strike",
+        "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "120",
+        "convertedEnergyCost": 2
+      },
+      {
+        "name": "Prominence GX",
+        "text": "Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "damage": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/smp/SM104a_hires.png",
     "nationalPokedexNumber": 791
   },
   {
