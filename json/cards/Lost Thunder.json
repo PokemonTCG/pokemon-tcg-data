@@ -626,7 +626,6 @@
       "type": "Ability"
     },
     "hp": "60",
-    "convertedRetreatCost": 0,
     "number": "13",
     "artist": "Hitoshi Ariga",
     "rarity": "Uncommon",
@@ -673,7 +672,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Skiploom",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "14",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Holo",
@@ -1467,7 +1465,6 @@
       "type": "Ability"
     },
     "hp": "80",
-    "convertedRetreatCost": 0,
     "number": "30",
     "artist": "kirisAki",
     "rarity": "Uncommon",
@@ -5471,7 +5468,10 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm8/107_hires.png",
-    "nationalPokedexNumber": 803
+    "nationalPokedexNumber": 803,
+    "evolvesTo": [
+      "Naganadel"
+    ]
   },
   {
     "id": "sm8-108",
@@ -5979,7 +5979,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "If you go second, this attack does 60 more damage during your first turn."
       }
@@ -6029,7 +6029,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "90-",
         "text": "This attack does 30 less damage times the amount of Energy attached to your opponent's Active Pokémon."
       }
@@ -6202,7 +6202,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
       }
@@ -6252,7 +6252,7 @@
         "cost": [
           "Free"
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "60",
         "text": "This attack's damage isn't affected by Weakness or Resistance."
       }
@@ -7504,7 +7504,6 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "hp": "30",
-    "convertedRetreatCost": 0,
     "number": "145",
     "artist": "Midori Harada",
     "rarity": "Common",
@@ -7556,7 +7555,6 @@
       "type": "Ability"
     },
     "hp": "60",
-    "convertedRetreatCost": 0,
     "number": "146",
     "artist": "Hasuno",
     "rarity": "Rare",
@@ -9105,7 +9103,6 @@
     "imageUrl": "https://images.pokemontcg.io/sm8/194.png",
     "subtype": "Special",
     "supertype": "Energy",
-    "convertedRetreatCost": 0,
     "number": "194",
     "artist": "",
     "rarity": "Uncommon",
