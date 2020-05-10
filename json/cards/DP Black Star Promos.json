@@ -114,7 +114,7 @@
     "name": "Piplup",
     "imageUrl": "https://images.pokemontcg.io/dpp/DP03.png",
     "subtype": "Basic",
-    "supertype": "Trainer",
+    "supertype": "Pokémon",
     "hp": "60",
     "retreatCost": [
       "Colorless"
@@ -156,7 +156,10 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/dpp/DP03_hires.png",
-    "nationalPokedexNumber": 393
+    "nationalPokedexNumber": 393,
+    "evolvesTo": [
+      "Prinplup"
+    ]
   },
   {
     "id": "dpp-DP04",
@@ -583,7 +586,7 @@
     "name": "Buizel",
     "imageUrl": "https://images.pokemontcg.io/dpp/DP13.png",
     "subtype": "Basic",
-    "supertype": "Trainer",
+    "supertype": "Pokémon",
     "hp": "60",
     "retreatCost": [
       "Colorless"
@@ -615,7 +618,10 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/dpp/DP13_hires.png",
-    "nationalPokedexNumber": 418
+    "nationalPokedexNumber": 418,
+    "evolvesTo": [
+      "Floatzel"
+    ]
   },
   {
     "id": "dpp-DP14",
@@ -1149,7 +1155,11 @@
     "series": "Diamond & Pearl",
     "set": "DP Black Star Promos",
     "setCode": "dpp",
+<<<<<<< HEAD
 	"text": [
+=======
+    "text": [
+>>>>>>> 6f826e693e3d5a2dfb838b47d125a2b02d03af1c
       "If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn."
     ],
     "types": [

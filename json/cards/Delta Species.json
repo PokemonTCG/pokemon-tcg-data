@@ -12,7 +12,6 @@
       "type": "Poké-Power"
     },
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "1",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Holo",
@@ -56,7 +55,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Golbat",
     "hp": "90",
-    "convertedRetreatCost": 0,
     "number": "2",
     "artist": "Ryo Ueda",
     "rarity": "Rare Holo",
@@ -873,7 +871,6 @@
       "type": "Poké-Power"
     },
     "hp": "60",
-    "convertedRetreatCost": 0,
     "number": "15",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Holo",
@@ -1196,7 +1193,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Holon's Voltorb",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "21",
     "artist": "Hisao Nakamura",
     "rarity": "Rare",
@@ -1764,7 +1760,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Taillow",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "Atsuko Nishida",
     "rarity": "Rare",
@@ -2767,7 +2762,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Larvitar",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "51",
     "artist": "Masakazu Fukuda",
     "rarity": "Uncommon",
@@ -2819,7 +2813,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Ponyta",
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "52",
     "artist": "Atsuko Nishida",
     "rarity": "Uncommon",
@@ -4736,16 +4729,8 @@
     "series": "EX",
     "set": "Delta Species",
     "setCode": "ex11",
-    "attacks": [
-      {
-        "name": "Dual Ball",
-        "cost": [
-          "Free"
-        ],
-        "convertedEnergyCost": 0,
-        "damage": "",
-        "text": "Flip 2 coins. For each head, search your deck for a Basic Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
-      }
+    "text": [
+      "Flip 2 coins. For each head, search your deck for a Basic Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex11/89_hires.png"
   },
@@ -4762,16 +4747,8 @@
     "series": "EX",
     "set": "Delta Species",
     "setCode": "ex11",
-    "attacks": [
-      {
-        "name": "Great Ball",
-        "cost": [
-          "Free"
-        ],
-        "convertedEnergyCost": 0,
-        "damage": "",
-        "text": "Search your deck for a Basic Pokémon (excluding Pokémon-ex) and put it onto your Bench. Shuffle your deck afterward."
-      }
+    "text": [
+      "Search your deck for a Basic Pokémon (excluding Pokémon-ex) and put it onto your Bench. Shuffle your deck afterward."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ex11/90_hires.png"
   },
@@ -5159,7 +5136,6 @@
       "type": "Poké-Power"
     },
     "hp": "100",
-    "convertedRetreatCost": 0,
     "number": "109",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo EX",
