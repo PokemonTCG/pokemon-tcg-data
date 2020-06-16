@@ -522,6 +522,74 @@
     "nationalPokedexNumber": 244
   },
   {
+    "id": "sm35-10a",
+    "name": "Entei-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm35/10a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "10a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo GX",
+    "series": "Sun & Moon",
+    "set": "Shining Legends",
+    "setCode": "sm35",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Fire Fang",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Brave Burn-GX",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 150 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm35/10a_hires.png",
+    "nationalPokedexNumber": 244
+  },
+  {
     "id": "sm35-11",
     "name": "Torkoal",
     "imageUrl": "https://images.pokemontcg.io/sm35/11.png",
@@ -3211,6 +3279,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm35/68_hires.png"
   },
   {
+    "id": "sm35-68a",
+    "name": "Ultra Ball",
+    "imageUrl": "https://images.pokemontcg.io/sm35/68a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "68a",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Shining Legends",
+    "setCode": "sm35",
+    "text": [
+      "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm35/68a_hires.png"
+  },
+  {
     "id": "sm35-69",
     "name": "Double Colorless Energy",
     "imageUrl": "https://images.pokemontcg.io/sm35/69.png",
@@ -3669,6 +3754,74 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm35/77_hires.png",
+    "nationalPokedexNumber": 571
+  },
+  {
+    "id": "sm35-77a",
+    "name": "Zoroark-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm35/77a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "evolvesFrom": "Zorua",
+    "ability": {
+      "name": "Trade",
+      "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw 2 cards.",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "77a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Shining Legends",
+    "setCode": "sm35",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Riotous Beating",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each of your Pokémon in play."
+      },
+      {
+        "name": "Trickster-GX",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm35/77a_hires.png",
     "nationalPokedexNumber": 571
   },
   {

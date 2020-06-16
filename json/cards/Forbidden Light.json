@@ -86,6 +86,49 @@
     "nationalPokedexNumber": 103
   },
   {
+    "id": "sm6-2a",
+    "name": "Alolan Exeggutor",
+    "imageUrl": "https://images.pokemontcg.io/sm6/2a.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Exeggcute",
+    "hp": "160",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "2a",
+    "artist": "kawayoo",
+    "rarity": "Rare",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Tropical Shake",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20+",
+        "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/2a_hires.png",
+    "nationalPokedexNumber": 103
+  },
+  {
     "id": "sm6-3",
     "name": "Snover",
     "imageUrl": "https://images.pokemontcg.io/sm6/3.png",
@@ -5299,6 +5342,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm6/102_hires.png"
   },
   {
+    "id": "sm6-102a",
+    "name": "Beast Ring",
+    "imageUrl": "https://images.pokemontcg.io/sm6/102a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "102a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining. Search your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/102a_hires.png"
+  },
+  {
     "id": "sm6-103",
     "name": "Bonnie",
     "imageUrl": "https://images.pokemontcg.io/sm6/103.png",
@@ -5470,12 +5530,46 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm6/112_hires.png"
   },
   {
+    "id": "sm6-112a",
+    "name": "Metal Frying Pan",
+    "imageUrl": "https://images.pokemontcg.io/sm6/112a.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "number": "112a",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "The Metal Pokémon this card is attached to takes 30 less damage from your opponent's attacks (after applying Weakness and Resistance) and has no Weakness."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/112a_hires.png"
+  },
+  {
     "id": "sm6-113",
     "name": "Mysterious Treasure",
     "imageUrl": "https://images.pokemontcg.io/sm6/113.png",
     "subtype": "Item",
     "supertype": "Trainer",
     "number": "113",
+    "artist": "Eske Yoshinob",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Forbidden Light",
+    "setCode": "sm6",
+    "text": [
+      "Discard a card from your hand. If you do, search your deck for a Psychic or Dragon Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm6/113_hires.png"
+  },
+  {
+    "id": "sm6-113a",
+    "name": "Mysterious Treasure",
+    "imageUrl": "https://images.pokemontcg.io/sm6/113a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "113a",
     "artist": "Eske Yoshinob",
     "rarity": "Uncommon",
     "series": "Sun & Moon",

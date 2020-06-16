@@ -489,6 +489,52 @@
     "nationalPokedexNumber": 254
   },
   {
+    "id": "sm7-10a",
+    "name": "Sceptile",
+    "imageUrl": "https://images.pokemontcg.io/sm7/10a.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Grovyle",
+    "ability": {
+      "name": "Power of Nature",
+      "text": "Prevent all damage done to your Pokémon that have any Grass Energy attached to them by attacks from your opponent's Ultra Beasts.",
+      "type": "Ability"
+    },
+    "hp": "140",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "10a",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Rare Holo",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Powerful Storm",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "This attack does 20 damage times the amount of Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/10a_hires.png",
+    "nationalPokedexNumber": 254
+  },
+  {
     "id": "sm7-11",
     "name": "Seedot",
     "imageUrl": "https://images.pokemontcg.io/sm7/11.png",
@@ -6387,6 +6433,24 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm7/123_hires.png"
   },
   {
+    "id": "sm7-123a",
+    "name": "Acro Bike",
+    "imageUrl": "https://images.pokemontcg.io/sm7/123a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "123a",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/123a_hires.png"
+  },
+  {
     "id": "sm7-124",
     "name": "Apricorn Maker",
     "imageUrl": "https://images.pokemontcg.io/sm7/124.png",
@@ -6835,6 +6899,24 @@
       "Choose 1: •Shuffle your hand into your deck. Then, draw 5 cards. •Switch your Active Pokémon with 1 of your Benched Pokémon."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm7/148_hires.png"
+  },
+  {
+    "id": "sm7-148a",
+    "name": "Tate & Liza",
+    "imageUrl": "https://images.pokemontcg.io/sm7/148a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "convertedRetreatCost": 0,
+    "number": "148a",
+    "artist": "You Iribi",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "Choose 1: •Shuffle your hand into your deck. Then, draw 5 cards. •Switch your Active Pokémon with 1 of your Benched Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/148a_hires.png"
   },
   {
     "id": "sm7-149",
@@ -8194,6 +8276,68 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm7/177_hires.png",
+    "nationalPokedexNumber": 384
+  },
+  {
+    "id": "sm7-177a",
+    "name": "Rayquaza-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm7/177a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Stormy Winds",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard the top 3 cards of your deck. If you do, attach a basic Energy card from your discard pile to this Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "177a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Celestial Storm",
+    "setCode": "sm7",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Break",
+        "cost": [
+          "Grass",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30×",
+        "text": "This attack does 30 damage times the amount of basic Grass and basic Lightning Energy attached to your Pokémon."
+      },
+      {
+        "name": "Tempest-GX",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard your hand and draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm7/177a_hires.png",
     "nationalPokedexNumber": 384
   },
   {

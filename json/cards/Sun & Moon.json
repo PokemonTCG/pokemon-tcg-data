@@ -5484,6 +5484,62 @@
     ]
   },
   {
+    "id": "sm1-101a",
+    "name": "Eevee",
+    "imageUrl": "https://images.pokemontcg.io/sm1/101a.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Energy Evolution",
+      "text": "When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+      "type": "Ability"
+    },
+    "hp": "60",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "101a",
+    "artist": "Saya Tsuruta",
+    "rarity": "Common",
+    "series": "Sun & Moon",
+    "set": "Sun & Moon",
+    "setCode": "sm1",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Draw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, draw a card."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm1/101a_hires.png",
+    "nationalPokedexNumber": 133,
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ]
+  },
+  {
     "id": "sm1-102",
     "name": "Spinda",
     "imageUrl": "https://images.pokemontcg.io/sm1/102.png",

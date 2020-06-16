@@ -905,6 +905,59 @@
     ]
   },
   {
+    "id": "sm3-18a",
+    "name": "Charmander",
+    "imageUrl": "https://images.pokemontcg.io/sm3/18a.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "18a",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Common",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Flame Tail",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/18a_hires.png",
+    "nationalPokedexNumber": 4,
+    "evolvesTo": [
+      "Charmeleon"
+    ]
+  },
+  {
     "id": "sm3-19",
     "name": "Charmeleon",
     "imageUrl": "https://images.pokemontcg.io/sm3/19.png",
@@ -2019,6 +2072,64 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm3/39_hires.png",
+    "nationalPokedexNumber": 788
+  },
+  {
+    "id": "sm3-39a",
+    "name": "Tapu Fini-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm3/39a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "39a",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo GX",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Ring",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Hydro Shot",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Tapu Storm-GX",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/39a_hires.png",
     "nationalPokedexNumber": 788
   },
   {
@@ -4754,6 +4865,75 @@
     "nationalPokedexNumber": 491
   },
   {
+    "id": "sm3-88a",
+    "name": "Darkrai-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm3/88a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "level": "GX",
+    "ability": {
+      "name": "Restoration",
+      "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "88a",
+    "artist": "PLANETA",
+    "rarity": "Rare Holo GX",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Dark Cleave",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This attack's damage isn't affected by Resistance."
+      },
+      {
+        "name": "Dead End-GX",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/88a_hires.png",
+    "nationalPokedexNumber": 491
+  },
+  {
     "id": "sm3-89",
     "name": "Inkay",
     "imageUrl": "https://images.pokemontcg.io/sm3/89.png",
@@ -4974,6 +5154,67 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm3/92_hires.png",
+    "nationalPokedexNumber": 281,
+    "evolvesTo": [
+      "Gardevoir",
+      "Gallade"
+    ]
+  },
+  {
+    "id": "sm3-92a",
+    "name": "Kirlia",
+    "imageUrl": "https://images.pokemontcg.io/sm3/92a.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Ralts",
+    "hp": "80",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "92a",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "name": "Smack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Magical Shot",
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/92a_hires.png",
     "nationalPokedexNumber": 281,
     "evolvesTo": [
       "Gardevoir",
@@ -5681,6 +5922,55 @@
     "nationalPokedexNumber": 474
   },
   {
+    "id": "sm3-105a",
+    "name": "Porygon-Z",
+    "imageUrl": "https://images.pokemontcg.io/sm3/105a.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Porygon2",
+    "ability": {
+      "name": "Initialize",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may devolve each of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand.",
+      "type": "Ability"
+    },
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "105",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Holo",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Zap Cannon",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "This Pokémon can't use Zap Cannon during your next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/105a_hires.png",
+    "nationalPokedexNumber": 474
+  },
+  {
     "id": "sm3-106",
     "name": "Hoothoot",
     "imageUrl": "https://images.pokemontcg.io/sm3/106.png",
@@ -6025,6 +6315,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm3/112_hires.png"
   },
   {
+    "id": "sm3-112a",
+    "name": "Acerola",
+    "imageUrl": "https://images.pokemontcg.io/sm3/112a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "112a",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "text": [
+      "Put 1 of your Pokémon that has any damage counters on it and all cards attached to it into your hand."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/112a_hires.png"
+  },
+  {
     "id": "sm3-113",
     "name": "Bodybuilding Dumbbells",
     "imageUrl": "https://images.pokemontcg.io/sm3/113.png",
@@ -6076,6 +6383,23 @@
     "imageUrlHiRes": "https://images.pokemontcg.io/sm3/115_hires.png"
   },
   {
+    "id": "sm3-115a",
+    "name": "Guzma",
+    "imageUrl": "https://images.pokemontcg.io/sm3/115a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "115a",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "text": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/115a_hires.png"
+  },
+  {
     "id": "sm3-116",
     "name": "Kiawe",
     "imageUrl": "https://images.pokemontcg.io/sm3/116.png",
@@ -6091,6 +6415,23 @@
       "Search your deck for up to 4 Fire Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm3/116_hires.png"
+  },
+  {
+    "id": "sm3-116a",
+    "name": "Kiawe",
+    "imageUrl": "https://images.pokemontcg.io/sm3/116a.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "116a",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "series": "Sun & Moon",
+    "set": "Burning Shadows",
+    "setCode": "sm3",
+    "text": [
+      "Search your deck for up to 4 Fire Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm3/116a_hires.png"
   },
   {
     "id": "sm3-117",
