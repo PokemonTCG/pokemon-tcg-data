@@ -89,7 +89,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20+",
-        "text": "Discard all Energy cards attached to Blaine's Charizard. If all Energy cards attached to Blaine's Charizard provide 2 Energy, discard all of them. This attack does 20 damage plus 20 more damage for each Energy discarded in this way. ERRATA: Discard all Energy cards attached to Blaine's Charizard except 1."
+        "text": "Discard all Fighting Energy cards attached to Blaine's Charizard. If all Energy cards attached to Blaine's Charizard provide 2 Fire Energy, discard all of them. This attack does 20 damage plus 20 more damage for each Fire Energy discarded in this way. ERRATA: Discard all Fire Energy cards attached to Blaine's Charizard except 1."
       },
       {
         "name": "Flame Jet",
@@ -196,7 +196,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, you may attach up to 2 Energy cards from your hand to Erika's Venusaur."
+        "text": "Flip a coin. If heads, you may attach up to 2 Grass Energy cards from your hand to Erika's Venusaur."
       },
       {
         "name": "Wide Solarbeam",
@@ -587,7 +587,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage to the Defending Pokémon and discard all Energy cards attached to Lt. Surge's Raichu. If tails, this attack does 20 damage."
+        "text": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage to the Defending Pokémon and discard all Lightning Energy cards attached to Lt. Surge's Raichu. If tails, this attack does 20 damage."
       },
       {
         "name": "Thundertackle",
@@ -816,7 +816,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "If there are any Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos."
+        "text": "If there are any Lightning Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos."
       },
       {
         "name": "Electroburn",
@@ -828,7 +828,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "70",
-        "text": "Rocket's Zapdos does damage to itself equal to 10 times the number of Energy cards attached to it."
+        "text": "Rocket's Zapdos does damage to itself equal to 10 times the number of Lightning Energy cards attached to it."
       }
     ],
     "resistances": [
@@ -905,7 +905,7 @@
     "set": "Gym Challenge",
     "setCode": "gym2",
     "text": [
-      "During this turn, instead of attaching your free Energy card, you may instead attach 2 Energy cards to 1 of your Pokémon with Blaine in its name. (Playing additional copies of this card this turn has no effect.)"
+      "During this turn, instead of attaching your free Energy card, you may instead attach 2 Fire Energy cards to 1 of your Pokémon with Blaine in its name. (Playing additional copies of this card this turn has no effect.)"
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/gym2/17_hires.png"
   },
@@ -997,7 +997,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "Flip a coin. If tails, discard all Energy cards attached to Blaine's Ninetales."
+        "text": "Flip a coin. If tails, discard all Fire Energy cards attached to Blaine's Ninetales."
       }
     ],
     "weaknesses": [
@@ -1552,8 +1552,8 @@
           "Fire"
         ],
         "convertedEnergyCost": 3,
-        "damage": "10×",
-        "text": "Flip 3 coins. For each heads, discard 1 Energy card attached to Blaine's Charmeleon. If you can't discard Energy cards, this attack does nothing. This attack does 10 damage times the number of heads to each of your opponent's Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        "damage": "",
+        "text": "Flip 3 coins. For each heads, discard 1 Fire nergy card attached to Blaine's Charmeleon. If you can't discard Energy cards, this attack does nothing. This attack does 10 damage times the number of heads to each of your opponent's Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
       }
     ],
     "weaknesses": [
@@ -2816,7 +2816,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "If the Defending Pokémon is , this attack's base damage is doubled."
+        "text": "If the Defending Pokémon is Fighting, this attack's base damage is doubled."
       },
       {
         "name": "Take Down",
@@ -3125,7 +3125,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Use this attack only if there are any Energy cards attached to Blaine's Charmander. Flip a coin. If tails, discard 1 of those cards."
+        "text": "Use this attack only if there are any Fire Energy cards attached to Blaine's Charmander. Flip a coin. If tails, discard 1 of those cards."
       }
     ],
     "weaknesses": [
@@ -3226,7 +3226,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Energy card and attach it to Blaine's Growlithe. Shuffle your deck afterward."
+        "text": "Search your deck for a Fire Energy card and attach it to Blaine's Growlithe. Shuffle your deck afterward."
       },
       {
         "name": "Body Slam",
@@ -3447,7 +3447,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip 3 coins. For each heads, if you have a Energy card in your discard pile, put it into your hand."
+        "text": "Flip 3 coins. For each heads, if you have a Fire Energy card in your discard pile, put it into your hand."
       }
     ],
     "weaknesses": [
@@ -4929,7 +4929,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Energy card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+        "text": "Search your deck for a Psychic Energy card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
       },
       {
         "name": "Mind Shock",
@@ -5181,7 +5181,7 @@
     "set": "Gym Challenge",
     "setCode": "gym2",
     "text": [
-      "During this turn, instead of attaching your free Energy card, you may instead attach 2 Energy cards to 1 of your Pokémon with Blaine in its name. (Playing additional copies of this card this turn has no effect.)"
+      "During this turn, instead of attaching your free Energy card, you may instead attach 2 Fire Energy cards to 1 of your Pokémon with Blaine in its name. (Playing additional copies of this card this turn has no effect.)"
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/gym2/100_hires.png"
   },
@@ -5487,7 +5487,7 @@
     "set": "Gym Challenge",
     "setCode": "gym2",
     "text": [
-      "Discard 1 of the other cards in your hand in order to search your deck for up to 2 Energy cards. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward."
+      "Discard 1 of the other cards in your hand in order to search your deck for up to 2 Water Energy cards. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/gym2/118_hires.png"
   },
@@ -5589,7 +5589,7 @@
     "set": "Gym Challenge",
     "setCode": "gym2",
     "text": [
-      "Show the top 3 cards of your deck to all players. Put any Energy cards there into your hand and discard the rest."
+      "Show the top 3 cards of your deck to all players. Put any Fire Energy cards there into your hand and discard the rest."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/gym2/124_hires.png"
   },

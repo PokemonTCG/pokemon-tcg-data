@@ -193,7 +193,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "You may discard any number of Energy cards attached to Arcanine when you use this attack. If you do, flip a number of coins equal to the number of Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads."
+        "text": "You may discard any number of Fire Energy cards attached to Arcanine when you use this attack. If you do, flip a number of coins equal to the number of Fire Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads."
       }
     ],
     "weaknesses": [
@@ -738,7 +738,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "You may flip a coin. If heads, discard a Energy card attached to Entei and the Defending Pokémon is now Burned."
+        "text": "You may flip a coin. If heads, discard a Fire Energy card attached to Entei and the Defending Pokémon is now Burned."
       }
     ],
     "weaknesses": [
@@ -967,7 +967,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage times the amount of Energy attached to Exeggutor. (Don't apply Weakness or Resistance for Benched Pokémon)"
+        "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage times the amount of Grass Energy attached to Exeggutor. (Don't apply Weakness or Resistance for Benched Pokémon)"
       }
     ],
     "weaknesses": [
@@ -1009,7 +1009,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If tails, discard a Energy card attached to Houndoom."
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Houndoom."
       },
       {
         "name": "Dark Impact",
@@ -1322,7 +1322,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Flip a coin. If tails, discard all Energy cards attached to Houndoom."
+        "text": "Flip a coin. If tails, discard all Fire Energy cards attached to Houndoom."
       }
     ],
     "weaknesses": [
@@ -1415,7 +1415,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If tails, discard 1 Energy card attached to Houndoom."
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Houndoom."
       },
       {
         "name": "Dark Impact",
@@ -1681,7 +1681,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Flip a number of coins equal to the amount of Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned."
+        "text": "Flip a number of coins equal to the amount of Grass Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned."
       }
     ],
     "weaknesses": [
@@ -1946,7 +1946,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "Discard all Energy cards attached to Lanturn. Flip a number of coins equal to the number of Energy cards you discarded. This attack does 30 damage plus 40 more damage for each heads."
+        "text": "Discard all Lightning Energy cards attached to Lanturn. Flip a number of coins equal to the number of Lightning Energy cards you discarded. This attack does 30 damage plus 40 more damage for each heads."
       }
     ],
     "weaknesses": [
@@ -2258,7 +2258,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Flip a number of coins equal to the amount of Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned."
+        "text": "Flip a number of coins equal to the amount of Grass Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned."
       }
     ],
     "weaknesses": [
@@ -3162,7 +3162,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "Flip a coin. If heads, discard a Energy card attached to Rapidash, and this attack does 30 damage plus 20 more damage."
+        "text": "Flip a coin. If heads, discard a Fire Energy card attached to Rapidash, and this attack does 30 damage plus 20 more damage."
       }
     ],
     "weaknesses": [
@@ -3181,8 +3181,8 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "ability": {
-      "name": "Anti",
-      "text": "Lightning - You can't attach Lightning Energy cards to Zapdos from your hand to Zapdos.",
+      "name": "Anti-Lightning",
+      "text": "You can't attach Lightning Energy cards to Zapdos from your hand to Zapdos.",
       "type": "Poké-Body"
     },
     "hp": "80",
@@ -3208,7 +3208,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "If there are any Energy cards in your discard pile, flip a coin. If heads attach 1 of them to Zapdos."
+        "text": "If there are any Lightning Energy cards in your discard pile, flip a coin. If heads attach 1 of them to Zapdos."
       },
       {
         "name": "Lightning Storm",
@@ -3892,8 +3892,8 @@
     "subtype": "Basic",
     "supertype": "Pokémon",
     "ability": {
-      "name": "Anti",
-      "text": "Lightning - You can't attach Lightning Energy cards from your hand to Zapdos.",
+      "name": "Anti-Lightning",
+      "text": "You can't attach Lightning Energy cards from your hand to Zapdos.",
       "type": "Poké-Body"
     },
     "hp": "80",
@@ -3919,7 +3919,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "If there are any Energy cards in your discard pile, flip a coin. If heads attach 1 of those Energy cards to Zapdos."
+        "text": "If there are any Lightning Energy cards in your discard pile, flip a coin. If heads attach 1 of those Energy cards to Zapdos."
       },
       {
         "name": "Lightning Storm",
@@ -4286,7 +4286,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Discard a Energy card attached to Growlithe."
+        "text": "Discard a Fire Energy card attached to Growlithe."
       }
     ],
     "weaknesses": [
@@ -4667,7 +4667,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "Flip a number of coins equal to the number of Energy attached to Seadra. This attack does 30 damage plus 10 more damage for each heads."
+        "text": "Flip a number of coins equal to the number of Water Energy attached to Seadra. This attack does 30 damage plus 10 more damage for each heads."
       }
     ],
     "weaknesses": [
@@ -5007,7 +5007,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach up to 2 Energy cards from your hand to Weepinbell."
+        "text": "Attach up to 2 Grass Energy cards from your hand to Weepinbell."
       },
       {
         "name": "Double Razor Leaf",
@@ -5668,7 +5668,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, search your deck for a Energy card and attach it to one of your Benched Pokémon. Shuffle your deck afterward."
+        "text": "Flip a coin. If heads, search your deck for a Psychic Energy card and attach it to one of your Benched Pokémon. Shuffle your deck afterward."
       }
     ],
     "weaknesses": [
@@ -6461,7 +6461,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach 1 Energy card in your discard pile to Mareep."
+        "text": "Attach 1 Lightning Energy card in your discard pile to Mareep."
       },
       {
         "name": "Tail Slap",
@@ -6931,7 +6931,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Discard a Energy card attached to Ponyta."
+        "text": "Discard a Fire Energy card attached to Ponyta."
       }
     ],
     "weaknesses": [
@@ -7510,7 +7510,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Discard 1 Energy card attached to Tentacool in order to use this attack. Remove all damage counters from Tentacool."
+        "text": "Discard 1 Water Energy card attached to Tentacool in order to use this attack. Remove all damage counters from Tentacool."
       }
     ],
     "weaknesses": [
@@ -7648,7 +7648,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "If there are any Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Vulpix."
+        "text": "If there are any Fire Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Vulpix."
       }
     ],
     "weaknesses": [
@@ -7882,7 +7882,7 @@
     "set": "Aquapolis",
     "setCode": "ecard2",
     "text": [
-      "Discard all Energy cards attached to this Pokémon. Then, flip a number of coins equal to the number of Energy cards discarded that way. This attack does 40 damage times the number of heads."
+      "Discard all Lightning Energy cards attached to this Pokémon. Then, flip a number of coins equal to the number of Energy cards discarded that way. This attack does 40 damage times the number of heads."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ecard2/127_hires.png"
   },
@@ -8137,7 +8137,7 @@
     "set": "Aquapolis",
     "setCode": "ecard2",
     "text": [
-      "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's or has Dark in its name. Darkness Energy provides Energy. (Doesn't count as a basic Energy card.)"
+      "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ecard2/142_hires.png"
   },
@@ -8154,7 +8154,7 @@
     "set": "Aquapolis",
     "setCode": "ecard2",
     "text": [
-      "Damage done to the Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't , whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Energy. (Doesn't count as a basic Energy card.)"
+      "Damage done to the Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't Metal, whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ecard2/143_hires.png"
   },
@@ -8188,7 +8188,7 @@
     "set": "Aquapolis",
     "setCode": "ecard2",
     "text": [
-      "Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy."
+      "Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides Colorless Colorless Colorless Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ecard2/145_hires.png"
   },
@@ -8205,7 +8205,7 @@
     "set": "Aquapolis",
     "setCode": "ecard2",
     "text": [
-      "Crystal Energy provides 1 Energy of all types (colors) of all basic Energy cards attached to the Pokémon Crystal Energy is attached to. If there are no basic Energy cards attached to the Pokémon Crystal Energy is attached to, Crystal Energy provides Energy."
+      "Crystal Energy provides 1 Energy of all types (colors) of all basic Energy cards attached to the Pokémon Crystal Energy is attached to. If there are no basic Energy cards attached to the Pokémon Crystal Energy is attached to, Crystal Energy provides Colorless Energy."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ecard2/146_hires.png"
   },
@@ -8222,7 +8222,7 @@
     "set": "Aquapolis",
     "setCode": "ecard2",
     "text": [
-      "Warp Energy provides 1 Energy. When you attach Warp Energy from your hand to your Active Pokémon, switch your Active Pokémon with 1 of your Benched Pokémon."
+      "Warp Energy provides 1 Colorless Energy. When you attach Warp Energy from your hand to your Active Pokémon, switch your Active Pokémon with 1 of your Benched Pokémon."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/ecard2/147_hires.png"
   },
