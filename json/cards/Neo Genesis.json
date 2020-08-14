@@ -238,7 +238,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "10+",
-        "text": "Does 10 damage plus 10 damage times the number of Energy cards in your discard pile. Then, shuffle all Energy cards from your discard pile into your deck."
+        "text": "Does 10 damage plus 10 damage times the number of Water Energy cards in your discard pile. Then, shuffle all Water Energy cards from your discard pile into your deck."
       }
     ],
     "weaknesses": [
@@ -436,7 +436,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "Discard a Energy card, a Energy card, and a Energy card attached to Lugia in order to use this attack."
+        "text": "Discard a Fire Energy card, a Water Energy card, and a Lightning Energy card attached to Lugia in order to use this attack."
       }
     ],
     "weaknesses": [
@@ -937,7 +937,7 @@
     "set": "Neo Genesis",
     "setCode": "neo1",
     "text": [
-      "Damage done to Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't , whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Energy. (Doesn't count as a basic Energy card.)"
+      "Damage done to Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't Metal, whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/neo1/19_hires.png"
   },
@@ -1695,7 +1695,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30×",
-        "text": "Discard all Energy cards attached to Flaaffy in order to use this attack. Flip a number of coins equal to the number of Energy cards you discarded. This attack does 30 damage times the number of heads."
+        "text": "Discard all Lightning Energy cards attached to Flaaffy in order to use this attack. Flip a number of coins equal to the number of Lightning Energy cards you discarded. This attack does 30 damage times the number of heads."
       },
       {
         "name": "Electric Current",
@@ -1705,7 +1705,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Take 1 Energy card attached to Flaaffy and attach it to 1 of your Benched Pokémon. If you have no Benched Pokémon, discard that Energy card."
+        "text": "Take 1 Lightning Energy card attached to Flaaffy and attach it to 1 of your Benched Pokémon. If you have no Benched Pokémon, discard that Energy card."
       }
     ],
     "weaknesses": [
@@ -2378,7 +2378,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Discard 1 Energy card attached to Quilava in order to use this attack."
+        "text": "Discard 1 Fire Energy card attached to Quilava in order to use this attack."
       },
       {
         "name": "Fire Wind",
@@ -3377,7 +3377,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "For each Mareep in play, you may search your deck for a Energy card and attach it to Mareep. Shuffle your deck afterward."
+        "text": "For each Mareep in play, you may search your deck for a Lightning Energy card and attach it to Mareep. Shuffle your deck afterward."
       },
       {
         "name": "Thundershock",
@@ -4088,7 +4088,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, you may attach up to 2 Energy cards from your hand to Sunkern."
+        "text": "Flip a coin. If heads, you may attach up to 2 Grass Energy cards from your hand to Sunkern."
       },
       {
         "name": "Mega Drain",
@@ -4338,7 +4338,7 @@
     "subtype": "",
     "supertype": "Trainer",
     "number": "83",
-    "artist": "",
+    "artist": "K. Hoshiba, CR CG gangs",
     "rarity": "Rare",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4352,10 +4352,10 @@
     "id": "neo1-84",
     "name": "Ecogym",
     "imageUrl": "https://images.pokemontcg.io/neo1/84.png",
-    "subtype": "",
+    "subtype": "Stadium",
     "supertype": "Trainer",
     "number": "84",
-    "artist": "",
+    "artist": "Shin-ichi Yoshikawa, CR CG gangs",
     "rarity": "Rare",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4386,7 +4386,7 @@
     "id": "neo1-86",
     "name": "Focus Band",
     "imageUrl": "https://images.pokemontcg.io/neo1/86.png",
-    "subtype": "",
+    "subtype": "Pokémon Tool",
     "supertype": "Trainer",
     "number": "86",
     "artist": "Tomokazu Komiya",
@@ -4423,7 +4423,7 @@
     "subtype": "",
     "supertype": "Trainer",
     "number": "88",
-    "artist": "",
+    "artist": "Katsura Tabata, CR CG gangs",
     "rarity": "Rare",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4457,7 +4457,7 @@
     "subtype": "",
     "supertype": "Trainer",
     "number": "90",
-    "artist": "",
+    "artist": "\"Big Mama\" Tagawa, CR CG gangs",
     "rarity": "Rare",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4491,7 +4491,7 @@
     "subtype": "",
     "supertype": "Trainer",
     "number": "92",
-    "artist": "",
+    "artist": "K. Hoshiba, CR CG gangs",
     "rarity": "Uncommon",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4505,10 +4505,10 @@
     "id": "neo1-93",
     "name": "Gold Berry",
     "imageUrl": "https://images.pokemontcg.io/neo1/93.png",
-    "subtype": "",
+    "subtype": "Pokémon Tool",
     "supertype": "Trainer",
     "number": "93",
-    "artist": "",
+    "artist": "Ryuta Kusumi, CR CG gangs",
     "rarity": "Uncommon",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4522,10 +4522,10 @@
     "id": "neo1-94",
     "name": "Miracle Berry",
     "imageUrl": "https://images.pokemontcg.io/neo1/94.png",
-    "subtype": "",
+    "subtype": "Pokémon Tool",
     "supertype": "Trainer",
     "number": "94",
-    "artist": "",
+    "artist": "Yousuke Hirata, CR CG gangs",
     "rarity": "Uncommon",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4573,10 +4573,10 @@
     "id": "neo1-97",
     "name": "Sprout Tower",
     "imageUrl": "https://images.pokemontcg.io/neo1/97.png",
-    "subtype": "",
+    "subtype": "Stadium",
     "supertype": "Trainer",
     "number": "97",
-    "artist": "",
+    "artist": "Hiromichi Sugiyama, CR CG gangs",
     "rarity": "Uncommon",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4607,10 +4607,10 @@
     "id": "neo1-99",
     "name": "Berry",
     "imageUrl": "https://images.pokemontcg.io/neo1/99.png",
-    "subtype": "",
+    "subtype": "Pokémon Tool",
     "supertype": "Trainer",
     "number": "99",
-    "artist": "",
+    "artist": "Yousuke Hirata, CR CG gangs",
     "rarity": "Common",
     "series": "Neo",
     "set": "Neo Genesis",
@@ -4701,7 +4701,7 @@
     "set": "Neo Genesis",
     "setCode": "neo1",
     "text": [
-      "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's or has Dark in its name. Darkness Energy provides Energy. (Doesn't count as a basic Energy card.)"
+      "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/neo1/104_hires.png"
   },
@@ -4718,7 +4718,7 @@
     "set": "Neo Genesis",
     "setCode": "neo1",
     "text": [
-      "Recycle Energy provides 1 Energy. (Doesn't count as a basic Energy card.) If this card is put into your discard pile from play, return it to your hand."
+      "Recycle Energy provides Colorless Energy. (Doesn't count as a basic Energy card.) If this card is put into your discard pile from play, return it to your hand."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/neo1/105_hires.png"
   },
