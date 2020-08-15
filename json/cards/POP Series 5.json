@@ -41,7 +41,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60",
-        "text": "Discard a Energy attached to Ho-oh."
+        "text": "Discard a Fire Energy attached to Ho-oh."
       }
     ],
     "weaknesses": [
@@ -275,7 +275,7 @@
     "set": "POP Series 5",
     "setCode": "pop5",
     "text": [
-      "Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy."
+      "Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides Colorless Colorless Colorless Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop5/8_hires.png"
   },
@@ -292,7 +292,7 @@
     "set": "POP Series 5",
     "setCode": "pop5",
     "text": [
-      "Delta Species Rainbow Energy provides Energy. While attached to a Pokémon that has Delta Species on its card, Delta Species Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)"
+      "Delta Species Rainbow Energy provides Colorless Energy. While attached to a Pokémon that has Delta Species on its card, Delta Species Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)"
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop5/9_hires.png"
   },
@@ -512,7 +512,6 @@
       "type": "Poké-Body"
     },
     "hp": "70",
-    "convertedRetreatCost": 0,
     "number": "14",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
@@ -623,6 +622,9 @@
     "series": "POP",
     "set": "POP Series 5",
     "setCode": "pop5",
+    "text": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
     "types": [
       "Psychic"
     ],
@@ -646,10 +648,7 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop5/16_hires.png",
-    "nationalPokedexNumber": 196,
-    "text": [
-      "You can't have more than 1 Pokémon Star in your deck."
-    ]
+    "nationalPokedexNumber": 196
   },
   {
     "id": "pop5-17",
@@ -673,6 +672,9 @@
     "series": "POP",
     "set": "POP Series 5",
     "setCode": "pop5",
+    "text": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
     "types": [
       "Darkness"
     ],
@@ -701,9 +703,6 @@
       }
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/pop5/17_hires.png",
-    "nationalPokedexNumber": 197,
-    "text": [
-      "You can't have more than 1 Pokémon Star in your deck."
-    ]
+    "nationalPokedexNumber": 197
   }
 ]

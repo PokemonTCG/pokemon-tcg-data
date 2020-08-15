@@ -186,7 +186,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Energy card and attach it to Pikachu. Shuffle your deck afterward."
+        "text": "Search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
       },
       {
         "name": "Thunderbolt",
@@ -301,7 +301,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40+",
-        "text": "Discard 2 Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
+        "text": "Discard 2 Fire Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
       }
     ],
     "weaknesses": [
@@ -536,7 +536,6 @@
       "type": "Poké-Power"
     },
     "hp": "30",
-    "convertedRetreatCost": 0,
     "number": "11",
     "artist": "Kagemaru Himeno",
     "series": "Base",
@@ -820,7 +819,6 @@
     "level": "28",
     "evolvesFrom": "Meowth",
     "hp": "60",
-    "convertedRetreatCost": 0,
     "number": "17",
     "artist": "Ken Sugimori",
     "series": "Base",
@@ -923,7 +921,6 @@
     "supertype": "Pokémon",
     "level": "15",
     "hp": "40",
-    "convertedRetreatCost": 0,
     "number": "19",
     "artist": "Atsuko Nishida",
     "series": "Base",
@@ -1047,7 +1044,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Flip a coin. If heads, discard 1 Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing."
+        "text": "Flip a coin. If heads, discard 1 Fire Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing."
       }
     ],
     "resistances": [
@@ -1279,7 +1276,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "Discard all Energy cards attached to Pikachu in order to use this attack."
+        "text": "Discard all Energy cards attached to Pikachu."
       }
     ],
     "weaknesses": [
@@ -1302,7 +1299,6 @@
     "supertype": "Pokémon",
     "level": "5",
     "hp": "30",
-    "convertedRetreatCost": 0,
     "number": "27",
     "artist": "Atsuko Nishida",
     "series": "Base",
@@ -1494,7 +1490,6 @@
     "supertype": "Pokémon",
     "level": "5",
     "hp": "30",
-    "convertedRetreatCost": 0,
     "number": "31",
     "artist": "Ken Sugimori",
     "series": "Base",
@@ -1531,7 +1526,6 @@
     "supertype": "Pokémon",
     "level": "21",
     "hp": "40",
-    "convertedRetreatCost": 0,
     "number": "32",
     "artist": "Tomokazu Komiya",
     "series": "Base",
@@ -1680,7 +1674,6 @@
     "supertype": "Pokémon",
     "level": "4",
     "hp": "30",
-    "convertedRetreatCost": 0,
     "number": "35",
     "artist": "Ken Sugimori",
     "series": "Base",
@@ -1717,7 +1710,6 @@
     "supertype": "Pokémon",
     "level": "5",
     "hp": "30",
-    "convertedRetreatCost": 0,
     "number": "36",
     "artist": "Kagemaru Himeno",
     "series": "Base",
@@ -1916,7 +1908,7 @@
     "id": "basep-41",
     "name": "Lucky Stadium",
     "imageUrl": "https://images.pokemontcg.io/basep/41.png",
-    "subtype": "",
+    "subtype": "Stadium",
     "supertype": "Trainer",
     "number": "41",
     "artist": "",
@@ -1932,7 +1924,7 @@
     "id": "basep-42",
     "name": "Pokémon Tower",
     "imageUrl": "https://images.pokemontcg.io/basep/42.png",
-    "subtype": "",
+    "subtype": "Stadium",
     "supertype": "Trainer",
     "number": "42",
     "artist": "Keiji Kinebuchi",
@@ -2029,7 +2021,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10+",
-        "text": "When you use this attack, you may discard any number of Energy cards attached to your Pokémon in play. This attack does 10 damage plus 10 more damage for each Energy card you discarded in this way."
+        "text": "When you use this attack, you may discard any number of Fire Energy cards attached to your Pokémon in play. This attack does 10 damage plus 10 more damage for each Fire Energy card you discarded in this way."
       },
       {
         "name": "Magma Punch",
@@ -2357,7 +2349,6 @@
     "supertype": "Pokémon",
     "evolvesFrom": "Ponyta",
     "hp": "60",
-    "convertedRetreatCost": 0,
     "number": "51",
     "artist": "Mitsuhiro Arita",
     "series": "Base",

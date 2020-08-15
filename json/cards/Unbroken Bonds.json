@@ -9369,6 +9369,71 @@
     "nationalPokedexNumber": 702
   },
   {
+    "id": "sm10-195a",
+    "name": "Dedenne-GX",
+    "imageUrl": "https://images.pokemontcg.io/sm10/195a.png",
+    "subtype": "GX",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Dedechange",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard your hand and draw 6 cards. You can't use more than 1 Dedechange Ability each turn.",
+      "type": "Ability"
+    },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "195a",
+    "artist": "kanahei",
+    "rarity": "Rare Ultra",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Static Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Tingly Return-GX",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Your opponent's Active Pokémon is now Paralyzed. Put this Pokémon and all cards attached to it into your hand. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/195a_hires.png",
+    "nationalPokedexNumber": 702
+  },
+  {
     "id": "sm10-196",
     "name": "Muk & Alolan Muk-GX",
     "imageUrl": "https://images.pokemontcg.io/sm10/196.png",
@@ -11322,6 +11387,23 @@
       "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm10/233_hires.png"
+  },
+  {
+    "id": "sm10-233a",
+    "name": "Pokégear 3.0",
+    "imageUrl": "https://images.pokemontcg.io/sm10/233a.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "233a",
+    "artist": "OOYAMA",
+    "rarity": "Rare Secret",
+    "series": "Sun & Moon",
+    "set": "Unbroken Bonds",
+    "setCode": "sm10",
+    "text": [
+      "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/sm10/233a_hires.png"
   },
   {
     "id": "sm10-234",
