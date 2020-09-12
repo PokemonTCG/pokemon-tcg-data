@@ -9047,5 +9047,460 @@
       "Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokémon VMAX. If you attached any Energy cards in this way, discard your hand."
     ],
     "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/189_hires.png"
+  },
+  {
+    "id": "swsh3-190",
+    "name": "Butterfree VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/190.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Butterfree V",
+    "hp": "300",
+    "number": "190",
+    "artist": "aky CG Works",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Toxbreeze",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/190_hires.png",
+    "nationalPokedexNumber": 12
+  },
+  {
+    "id": "swsh3-191",
+    "name": "Centiskorch VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/191.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Centiskorch V",
+    "hp": "320",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "191",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Centiferno",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40+",
+        "text": "This attack does 40 more damage for each Fire Energy attached to this Pokémon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/191_hires.png",
+    "nationalPokedexNumber": 851
+  },
+  {
+    "id": "swsh3-192",
+    "name": "Eternatus VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/192.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Eternatus V",
+    "ability": {
+      "name": "Eternal Zone",
+      "text": "If all of your Pokémon in play are Darkness type, you can have up to 8 Pokémon on your Bench, and you can't put non-Darkness Pokémon into play. (If this Ability stops working, discard Pokémon from your Bench until you have 5.)",
+      "type": "Ability"
+    },
+    "hp": "340",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "192",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Dread End",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each of your Darkness Pokémon in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/192_hires.png",
+    "nationalPokedexNumber": 890
+  },
+  {
+    "id": "swsh3-193",
+    "name": "Scizor VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/193.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Scizor V",
+    "hp": "320",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "193",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Hard Scissors",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "90",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Max Steelspike",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "190",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/193_hires.png",
+    "nationalPokedexNumber": 212
+  },
+  {
+    "id": "swsh3-194",
+    "name": "Salamence VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/194.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Salamence V",
+    "hp": "320",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "194",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Sonic Double",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 40 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Max Wings",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't use Max Wings."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/194_hires.png",
+    "nationalPokedexNumber": 373
+  },
+  {
+    "id": "swsh3-195",
+    "name": "Pokémon Breeder's Nurturing",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/195.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "195",
+    "artist": "kirisAki",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "Choose up to 2 of your Pokémon in play. For each of those Pokémon, search your deck for a card that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can't use this card during your first turn or on a Pokémon that was put into play this turn."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/195_hires.png"
+  },
+  {
+    "id": "swsh3-196",
+    "name": "Rose",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/196.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "189",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokémon VMAX. If you attached any Energy cards in this way, discard your hand."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/196_hires.png"
+  },
+  {
+    "id": "swsh3-197",
+    "name": "Rillaboom",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/197.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Thwackey",
+    "ability": {
+      "name": "Voltage Beat",
+      "text": "Once during your tyrn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
+      "type": "Ability"
+    },
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "197",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/197_hires.png",
+    "nationalPokedexNumber": 812
+  },
+  {
+    "id": "swsh3-198",
+    "name": "Coalossal",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/198.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Carkol",
+    "ability": {
+      "name": "Tar Generator",
+      "text": "Once during your turn, you may attach a Fire Energy card, a Fighting Energy card, or 1 of each from your discard pile to your Pokémon in any way you like.",
+      "type": "Ability"
+    },
+    "hp": "160",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "198",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Flaming Avalanche",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/198_hires.png",
+    "nationalPokedexNumber": 839
+  },
+  {
+    "id": "swsh3-199",
+    "name": "Big Parasol",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/199.png",
+    "subtype": "Pokémon Tool",
+    "supertype": "Trainer",
+    "number": "199",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "As long as the Pokémon this card is attached to is in the Active Spot, prevent all effects of attacks from your opponent's Pokémon done to all of your Pokémon. (Existing effects are not removed. Damage is not an effect.)"
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/199_hires.png"
+  },
+  {
+    "id": "swsh3-200",
+    "name": "Turbo Patch",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/200.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "200",
+    "artist": "Toyste Beach",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "Flip a coin. If heads, attach a basic Energy card from your discard pile to 1 of your Basic Pokémon that isn't a Pokémon-GX."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/200_hires.png"
+  },
+  {
+    "id": "swsh3-201",
+    "name": "Capture Energy",
+    "imageUrl": "https://images.pokemontcg.io/swsh3/201.png",
+    "subtype": "Special",
+    "supertype": "Energy",
+    "number": "201",
+    "artist": "",
+    "rarity": "Rare Secret",
+    "series": "Sword & Shield",
+    "set": "Darkness Ablaze",
+    "setCode": "swsh3",
+    "text": [
+      "As long as this card is attached to a Pokémon, it provides Colorless Energy. When you attach this card from your hand to a Pokémon, search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh3/201_hires.png"
   }
 ]
