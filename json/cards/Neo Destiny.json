@@ -5245,6 +5245,31 @@
     "setCode": "neo4",
     "types": [
       "Darkness"
+	      ],
+	"attacks": [
+      {
+        "name": "Mountain Crush",
+        "cost": [
+          "Darkness",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin until you get tails. For each heads, your opponent discards the top card from his or her deck."
+      },
+	  {
+        "name": "Destructive Fire",
+        "cost": [
+          "Darkness",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "50",
+        "text": "Flip a coin for each Fire Energy card attached to Shining Tyranitar. For each heads, discard a Fire Energy card attached to Shining Tyranitar or this attack does nothing. Then, for each heads, choose an Energy card attached to the Defending Pokémon and discard it. If it has fewer Energy cards than that, discard all of them."
+      }
     ],
     "resistances": [
       {
