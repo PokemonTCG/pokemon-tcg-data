@@ -1,0 +1,3097 @@
+[
+  {
+    "id": "swsh35-1",
+    "name": "Venusaur V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/1.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "220",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "1",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Pollen Bomb",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Your opponent's Active Pokémon is now Asleep and Poisoned."
+      },
+      {
+        "name": "Solar Typhoon",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "220",
+        "text": "During your next turn, this Pokémon can't use Solar Typhoon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/1_hires.png",
+    "nationalPokedexNumber": 3
+  },
+  {
+    "id": "swsh35-2",
+    "name": "Weedle",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/2.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "2",
+    "artist": "Yuka Morii",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/2_hires.png",
+    "nationalPokedexNumber": 13,
+    "evolvesTo": [
+      "Kakuna"
+    ]
+  },
+  {
+    "id": "swsh35-3",
+    "name": "Kakuna",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/3.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Weedle",
+    "hp": "80",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "3",
+    "artist": "Miki Tanaka",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Bug Bite",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/3_hires.png",
+    "nationalPokedexNumber": 14,
+    "evolvesTo": [
+      "Beedrill"
+    ]
+  },
+  {
+    "id": "swsh35-4",
+    "name": "Beedrill",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/4.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Kakuna",
+    "hp": "140",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "4",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Poison Jab",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "80",
+        "text": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/4_hires.png",
+    "nationalPokedexNumber": 15
+  },
+  {
+    "id": "swsh35-5",
+    "name": "Eldegoss V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/5.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Happy Match",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put a Supporter card from your discard pile into your hand.",
+      "type": "Ability"
+    },
+    "hp": "180",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Float Up",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "You may shuffle this Pokémon and all attached cards into your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/5_hires.png",
+    "nationalPokedexNumber": 830
+  },
+  {
+    "id": "swsh35-6",
+    "name": "Vulpix",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/6.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "6",
+    "artist": "Shibuzoh.",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Singe",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/6_hires.png",
+    "nationalPokedexNumber": 37,
+    "evolvesTo": [
+      "Ninetales"
+    ]
+  },
+  {
+    "id": "swsh35-7",
+    "name": "Victini",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/7.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "7",
+    "artist": "Taira Akitsu",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Draw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw a card."
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/7_hires.png",
+    "nationalPokedexNumber": 494
+  },
+  {
+    "id": "swsh35-8",
+    "name": "Incineroar V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/8.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "220",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "8",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Grand Flame",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Attach up to 2 Fire Energy cards from your discard pile to 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Flare Blitzer",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "220",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/8_hires.png",
+    "nationalPokedexNumber": 727
+  },
+  {
+    "id": "swsh35-9",
+    "name": "Sizzlipede",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/9.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/9_hires.png",
+    "nationalPokedexNumber": 850,
+    "evolvesTo": [
+      "Centiskorch"
+    ]
+  },
+  {
+    "id": "swsh35-10",
+    "name": "Centiskorch",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/10.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Sizzlipede",
+    "hp": "130",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "10",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Searing Flame",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Heat Crawler",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/10_hires.png",
+    "nationalPokedexNumber": 851
+  },
+  {
+    "id": "swsh35-11",
+    "name": "Carvanha",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/11.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "11",
+    "artist": "Shigenori Negishi",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/11_hires.png",
+    "nationalPokedexNumber": 318,
+    "evolvesTo": [
+      "Sharpedo"
+    ]
+  },
+  {
+    "id": "swsh35-12",
+    "name": "Sharpedo",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/12.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Carvanha",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "artist": "Ryuta Fuse",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Jet",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50",
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/12_hires.png",
+    "nationalPokedexNumber": 319
+  },
+  {
+    "id": "swsh35-13",
+    "name": "Wailord V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/13.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "280",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "13",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Draw Up",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 3 Water Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Ocean Waves",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120×",
+        "text": "Flip 3 coins. This attack does 120 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/13_hires.png",
+    "nationalPokedexNumber": 321
+  },
+  {
+    "id": "swsh35-14",
+    "name": "Drednaw V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/14.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Solid Shell",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "14",
+    "artist": "aky CG Works",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Powerful Bite",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/14_hires.png",
+    "nationalPokedexNumber": 834
+  },
+  {
+    "id": "swsh35-15",
+    "name": "Drednaw VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/15.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Drednaw V",
+    "ability": {
+      "name": "Solid Shell",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "320",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "15",
+    "artist": "aky CG Works",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Headbutt",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "Flip a coin. If heads, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/15_hires.png",
+    "nationalPokedexNumber": 834
+  },
+  {
+    "id": "swsh35-16",
+    "name": "Gardevoir V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/16.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "16",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Magical Shot",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Swelling Pulse",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/16_hires.png",
+    "nationalPokedexNumber": 282
+  },
+  {
+    "id": "swsh35-17",
+    "name": "Gardevoir VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/17.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Gardevoir V",
+    "hp": "320",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "17",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Max Cure",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "Heal 50 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/17_hires.png",
+    "nationalPokedexNumber": 282
+  },
+  {
+    "id": "swsh35-18",
+    "name": "Hatenna",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/18.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "18",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Stampede",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Magical Shot",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/18_hires.png",
+    "nationalPokedexNumber": 856,
+    "evolvesTo": [
+      "Hattrem"
+    ]
+  },
+  {
+    "id": "swsh35-19",
+    "name": "Hattrem",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/19.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Hatenna",
+    "hp": "90",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "19",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Beat",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Super Psy Bolt",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/19_hires.png",
+    "nationalPokedexNumber": 857,
+    "evolvesTo": [
+      "Hatterene"
+    ]
+  },
+  {
+    "id": "swsh35-20",
+    "name": "Hatterene",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/20.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Hattrem",
+    "ability": {
+      "name": "Hazard Sensor",
+      "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Confused.",
+      "type": "Ability"
+    },
+    "hp": "150",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "20",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Life Sucker",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/20_hires.png",
+    "nationalPokedexNumber": 858
+  },
+  {
+    "id": "swsh35-21",
+    "name": "Galarian Cursola V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/21.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Gnawing Aura",
+      "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "21",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Hollow Missile",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/21_hires.png",
+    "nationalPokedexNumber": 864
+  },
+  {
+    "id": "swsh35-22",
+    "name": "Alcremie V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/22.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "22",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Sugary Sprinkles",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal 30 damage from each of your Benched Pokémon."
+      },
+      {
+        "name": "Sweet Splash",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/22_hires.png",
+    "nationalPokedexNumber": 869
+  },
+  {
+    "id": "swsh35-23",
+    "name": "Alcremie VMAX",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/23.png",
+    "subtype": "VMAX",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Alcremie V",
+    "hp": "310",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "23",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Adornment",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "G-Max Whisk",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60×",
+        "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/23_hires.png",
+    "nationalPokedexNumber": 869
+  },
+  {
+    "id": "swsh35-24",
+    "name": "Machop",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/24.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "24",
+    "artist": "Shibuzoh.",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Low Kick",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Steady Punch",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Flip a coin. If heads, this attack does 40 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/24_hires.png",
+    "nationalPokedexNumber": 66,
+    "evolvesTo": [
+      "Machoke"
+    ]
+  },
+  {
+    "id": "swsh35-25",
+    "name": "Machoke",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/25.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Machop",
+    "hp": "110",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "25",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Low Kick",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Pummel",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "Flip a coin. If heads, this attack does 70 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/25_hires.png",
+    "nationalPokedexNumber": 67,
+    "evolvesTo": [
+      "Machamp"
+    ]
+  },
+  {
+    "id": "swsh35-26",
+    "name": "Machamp",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/26.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Machoke",
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "26",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Macho Revenge",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Fighting Pokémon in your discard pile."
+      },
+      {
+        "name": "Dynamite Punch",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "This Pokémon also does 50 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/26_hires.png",
+    "nationalPokedexNumber": 68
+  },
+  {
+    "id": "swsh35-27",
+    "name": "Lucario V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/27.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "27",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Aura Sphere",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Beatdown Smash",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your next turn, this Pokémon can't use Beatdown Smash."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/27_hires.png",
+    "nationalPokedexNumber": 448
+  },
+  {
+    "id": "swsh35-28",
+    "name": "Zygarde",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/28.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "140",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "28",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Power Blast",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": "Discard a Fighting Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/28_hires.png",
+    "nationalPokedexNumber": 718
+  },
+  {
+    "id": "swsh35-29",
+    "name": "Rockruff",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/29.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "29",
+    "artist": "Naoyo Kimura",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Collect",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw a card."
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/29_hires.png",
+    "nationalPokedexNumber": 744,
+    "evolvesTo": [
+      "Lycanroc"
+    ]
+  },
+  {
+    "id": "swsh35-30",
+    "name": "Lycanroc",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/30.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Rockruff",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "30",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Rock Throw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Slashing Strike",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your next turn, this Pokémon can't use Slashing Strike."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/30_hires.png",
+    "nationalPokedexNumber": 745
+  },
+  {
+    "id": "swsh35-31",
+    "name": "Rolycoly",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/31.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "31",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Ram",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/31_hires.png",
+    "nationalPokedexNumber": 837,
+    "evolvesTo": [
+      "Carkol"
+    ]
+  },
+  {
+    "id": "swsh35-32",
+    "name": "Grapploct V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/32.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "32",
+    "artist": "PLANETA Igarashi",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Tie Up",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+      },
+      {
+        "name": "Moonsault Press",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "Flip a coin. If heads, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/32_hires.png",
+    "nationalPokedexNumber": 853
+  },
+  {
+    "id": "swsh35-33",
+    "name": "Ekans",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/33.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "33",
+    "artist": "Uta",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Ram",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Tail Snap",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/33_hires.png",
+    "nationalPokedexNumber": 23,
+    "evolvesTo": [
+      "Arbok"
+    ]
+  },
+  {
+    "id": "swsh35-34",
+    "name": "Arbok",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/34.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Ekans",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "34",
+    "artist": "nagimiso",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Sharp Fang",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Tail Snap",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/34_hires.png",
+    "nationalPokedexNumber": 24
+  },
+  {
+    "id": "swsh35-35",
+    "name": "Galarian Zigzagoon",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/35.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "35",
+    "artist": "Kouki Saitou",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Pin Missile",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Flip 4 coins. This attack does 10 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/35_hires.png",
+    "nationalPokedexNumber": 263,
+    "evolvesTo": [
+      "Linoone"
+    ]
+  },
+  {
+    "id": "swsh35-36",
+    "name": "Galarian Linoone",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/36.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Galarian Zigzagoon",
+    "hp": "100",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "36",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Double-Edge",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/36_hires.png",
+    "nationalPokedexNumber": 264
+  },
+  {
+    "id": "swsh35-37",
+    "name": "Galarian Obstagoon",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/37.png",
+    "subtype": "Stage 2",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Galarian Linoone",
+    "ability": {
+      "name": "Wicked Ruler",
+      "text": "Once during your turn, you may have your opponent discard cards from their hand until they have 4 cards in their hand.",
+      "type": "Ability"
+    },
+    "hp": "170",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "37",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Knuckle Impact",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/37_hires.png",
+    "nationalPokedexNumber": 862
+  },
+  {
+    "id": "swsh35-38",
+    "name": "Absol",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/38.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "100",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "38",
+    "artist": "kodama",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Dark Cutter",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/38_hires.png",
+    "nationalPokedexNumber": 359
+  },
+  {
+    "id": "swsh35-39",
+    "name": "Purrloin",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/39.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "39",
+    "artist": "sowsow",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Dig Claws",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Fake Out",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/39_hires.png",
+    "nationalPokedexNumber": 509,
+    "evolvesTo": [
+      "Liepard"
+    ]
+  },
+  {
+    "id": "swsh35-40",
+    "name": "Liepard",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/40.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Purrloin",
+    "ability": {
+      "name": "Limber",
+      "text": "This Pokémon can't be Paralyzed.",
+      "type": "Ability"
+    },
+    "hp": "100",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "40",
+    "artist": "Hasuno",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/40_hires.png",
+    "nationalPokedexNumber": 510
+  },
+  {
+    "id": "swsh35-41",
+    "name": "Scraggy",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/41.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "41",
+    "artist": "miki kudo",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Stampede",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/41_hires.png",
+    "nationalPokedexNumber": 559,
+    "evolvesTo": [
+      "Scrafty"
+    ]
+  },
+  {
+    "id": "swsh35-42",
+    "name": "Scrafty",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/42.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Scraggy",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "42",
+    "artist": "tetsuya koizumi",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Corner",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      },
+      {
+        "name": "Bad Brawl",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "If you played Piers from your hand during this turn, this attack does 90 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/42_hires.png",
+    "nationalPokedexNumber": 560
+  },
+  {
+    "id": "swsh35-43",
+    "name": "Trubbish",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/43.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "43",
+    "artist": "nagimiso",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Venoshock",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/43_hires.png",
+    "nationalPokedexNumber": 568,
+    "evolvesTo": [
+      "Garbodor"
+    ]
+  },
+  {
+    "id": "swsh35-44",
+    "name": "Inkay",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/44.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "60",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "44",
+    "artist": "sui",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Attack from Behind",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "If your opponent's Active Pokémon is Confused, this attack does 50 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/44_hires.png",
+    "nationalPokedexNumber": 686,
+    "evolvesTo": [
+      "Malamar"
+    ]
+  },
+  {
+    "id": "swsh35-45",
+    "name": "Malamar",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/45.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Inkay",
+    "hp": "120",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "45",
+    "artist": "kawayoo",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Eerie Wave",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Random Peck",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "Flip 2 coins. This attack does 40 more damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/45_hires.png",
+    "nationalPokedexNumber": 687
+  },
+  {
+    "id": "swsh35-46",
+    "name": "Nickit",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/46.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "70",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "46",
+    "artist": "Naoki Saito",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Filch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw a card."
+      },
+      {
+        "name": "Tail Smack",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/46_hires.png",
+    "nationalPokedexNumber": 827,
+    "evolvesTo": [
+      "Thievul"
+    ]
+  },
+  {
+    "id": "swsh35-47",
+    "name": "Duraludon V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/47.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Hard Coat",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "220",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "47",
+    "artist": "aky CG Works",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Gatling Slug",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "10+",
+        "text": "This attack does 40 more damage for each Metal Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/47_hires.png",
+    "nationalPokedexNumber": 884
+  },
+  {
+    "id": "swsh35-48",
+    "name": "Swablu",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/48.png",
+    "subtype": "Basic",
+    "supertype": "Pokémon",
+    "hp": "50",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "48",
+    "artist": "0313",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Peck",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/48_hires.png",
+    "nationalPokedexNumber": 333,
+    "evolvesTo": [
+      "Altaria"
+    ]
+  },
+  {
+    "id": "swsh35-49",
+    "name": "Altaria",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/49.png",
+    "subtype": "Stage 1",
+    "supertype": "Pokémon",
+    "evolvesFrom": "Swablu",
+    "ability": {
+      "name": "Miraculous Charm",
+      "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX.",
+      "type": "Ability"
+    },
+    "hp": "110",
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "49",
+    "artist": "Taira Akitsu",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Speed Dive",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/49_hires.png",
+    "nationalPokedexNumber": 334
+  },
+  {
+    "id": "swsh35-50",
+    "name": "Bede",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/50.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "50",
+    "artist": "Naoki Saito",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Attach a basic Energy card from your hand to 1 of your Benched Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/50_hires.png"
+  },
+  {
+    "id": "swsh35-51",
+    "name": "Full Heal",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/51.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "51",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Your Active Pokémon recovers from all Special Conditions."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/51_hires.png"
+  },
+  {
+    "id": "swsh35-52",
+    "name": "Great Ball",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/52.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "52",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/52_hires.png"
+  },
+  {
+    "id": "swsh35-53",
+    "name": "Hop",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/53.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "53",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Draw 3 cards."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/53_hires.png"
+  },
+  {
+    "id": "swsh35-54",
+    "name": "Hyper Potion",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/54.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "54",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Heal 120 damage from 1 of your Pokémon that has at least 2 Energy attached. If you healed any damage in this way, discard 2 Energy from it."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/54_hires.png"
+  },
+  {
+    "id": "swsh35-55",
+    "name": "Kabu",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/55.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "55",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/55_hires.png"
+  },
+  {
+    "id": "swsh35-56",
+    "name": "Marnie",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/56.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "56",
+    "artist": "kirisAki",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/56_hires.png"
+  },
+  {
+    "id": "swsh35-57",
+    "name": "Milo",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/57.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "57",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Discard up to 2 cards from your hand, and draw 2 cards for each card you discarded in this way."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/57_hires.png"
+  },
+  {
+    "id": "swsh35-58",
+    "name": "Piers",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/58.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "58",
+    "artist": "take",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/58_hires.png"
+  },
+  {
+    "id": "swsh35-59",
+    "name": "Poké Ball",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/59.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "59",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/59_hires.png"
+  },
+  {
+    "id": "swsh35-60",
+    "name": "Pokémon Center Lady",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/60.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "60",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditions."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/60_hires.png"
+  },
+  {
+    "id": "swsh35-61",
+    "name": "Potion",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/61.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "61",
+    "artist": "Ryo Ueda",
+    "rarity": "Common",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Heal 30 damage from 1 of your Pokémon."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/61_hires.png"
+  },
+  {
+    "id": "swsh35-62",
+    "name": "Professor's Research (Professor Magnolia)",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/62.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "62",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Discard your hand and draw 7 cards."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/62_hires.png"
+  },
+  {
+    "id": "swsh35-63",
+    "name": "Rotom Bike",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/63.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "63",
+    "artist": "5ban Graphics",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Draw cards until you have 6 cards in your hand. Your turn ends."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/63_hires.png"
+  },
+  {
+    "id": "swsh35-64",
+    "name": "Rotom Phone",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/64.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "64",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Look at the top 5 cards of your deck, choose 1 of them, and shuffle the other cards back into your deck. Then, put the card you chose on top of your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/64_hires.png"
+  },
+  {
+    "id": "swsh35-65",
+    "name": "Sonia",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/65.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "65",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Search your deck for up to 2 Basic Pokémon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/65_hires.png"
+  },
+  {
+    "id": "swsh35-66",
+    "name": "Suspicious Food Tin",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/66.png",
+    "subtype": "Item",
+    "supertype": "Trainer",
+    "number": "66",
+    "artist": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/66_hires.png"
+  },
+  {
+    "id": "swsh35-67",
+    "name": "Team Yell Grunt",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/67.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "67",
+    "artist": "nagimiso",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Put an Energy attached to 1 of your opponent's Pokémon into their hand."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/67_hires.png"
+  },
+  {
+    "id": "swsh35-68",
+    "name": "Turffield Stadium",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/68.png",
+    "subtype": "Stadium",
+    "supertype": "Trainer",
+    "number": "68",
+    "artist": "aky CG Works",
+    "rarity": "Uncommon",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Once during each player's turn, that player may search their deck for an Evolution Grass Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/68_hires.png"
+  },
+  {
+    "id": "swsh35-69",
+    "name": "Drednaw V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/69.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Solid Shell",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+      "type": "Ability"
+    },
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "69",
+    "artist": "aky CG Works",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Powerful Bite",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/69_hires.png",
+    "nationalPokedexNumber": 834
+  },
+  {
+    "id": "swsh35-70",
+    "name": "Gardevoir V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/70.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "70",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Magical Shot",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Swelling Pulse",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/70_hires.png",
+    "nationalPokedexNumber": 282
+  },
+  {
+    "id": "swsh35-71",
+    "name": "Galarian Cursola V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/71.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "ability": {
+      "name": "Gnawing Aura",
+      "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon.",
+      "type": "Ability"
+    },
+    "hp": "190",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "71",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Hollow Missile",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/71_hires.png",
+    "nationalPokedexNumber": 864
+  },
+  {
+    "id": "swsh35-72",
+    "name": "Grapploct V",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/72.png",
+    "subtype": "V",
+    "supertype": "Pokémon",
+    "hp": "210",
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "72",
+    "artist": "PLANETA Igarashi",
+    "rarity": "Rare Holo",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Tie Up",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+      },
+      {
+        "name": "Moonsault Press",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "Flip a coin. If heads, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/72_hires.png",
+    "nationalPokedexNumber": 853
+  },
+  {
+    "id": "swsh35-73",
+    "name": "Hop",
+    "imageUrl": "https://images.pokemontcg.io/swsh35/73.png",
+    "subtype": "Supporter",
+    "supertype": "Trainer",
+    "number": "73",
+    "artist": "Naoki Saito",
+    "rarity": "Rare Ultra",
+    "series": "Sword & Shield",
+    "set": "Champions Path",
+    "setCode": "swsh35",
+    "text": [
+      "Draw 3 cards."
+    ],
+    "imageUrlHiRes": "https://images.pokemontcg.io/swsh35/73_hires.png"
+  }
+]
