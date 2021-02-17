@@ -1,559 +1,5 @@
 [
   {
-    "id": "mcd19-1",
-    "name": "Caterpie",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "50",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Metapod"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Grass"
-        ],
-        "name": "Surprise Attack",
-        "text": "Flip a coin. If tails, this attack does nothing.",
-        "damage": "20",
-        "convertedEnergyCost": 1
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "1",
-    "artist": "Sekio",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      10
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/1.png",
-      "large": "https://images.pokemontcg.io/mcd19/1_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-2",
-    "name": "Alolan Exeggutor",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "160",
-    "types": [
-      "Grass"
-    ],
-    "evolvesFrom": "Exeggcute",
-    "attacks": [
-      {
-        "cost": [
-          "Grass"
-        ],
-        "name": "Tropical Shake",
-        "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
-        "damage": "20+",
-        "convertedEnergyCost": 1
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 3,
-    "number": "2",
-    "artist": "Satoshi Shirai",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      103
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/2.png",
-      "large": "https://images.pokemontcg.io/mcd19/2_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-3",
-    "name": "Magmar",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "80",
-    "types": [
-      "Fire"
-    ],
-    "evolvesTo": [
-      "Magmortar"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Fire"
-        ],
-        "name": "Controlled Burn",
-        "text": "Discard the top card of your opponent's deck.",
-        "damage": null,
-        "convertedEnergyCost": 1
-      },
-      {
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
-        "name": "Flamethrower",
-        "text": "Discard an Energy from this Pokémon.",
-        "damage": "80",
-        "convertedEnergyCost": 3
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "3",
-    "artist": "Yumi",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      126
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/3.png",
-      "large": "https://images.pokemontcg.io/mcd19/3_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-4",
-    "name": "Alolan Sandshrew",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "60",
-    "types": [
-      "Water"
-    ],
-    "evolvesTo": [
-      "Sandslash"
-    ],
-    "attacks": [
-      {
-        "cost": [
-
-        ],
-        "name": "Fury Swipes",
-        "text": "Flip 3 coins. This attack does 10 damage for each heads.",
-        "damage": "10",
-        "convertedEnergyCost": 0
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "4",
-    "artist": "Shin Nagasawa",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      27
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/4.png",
-      "large": "https://images.pokemontcg.io/mcd19/4_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-5",
-    "name": "Lapras",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "120",
-    "types": [
-      "Water"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Water"
-        ],
-        "name": "Aqua Bullet",
-        "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
-        "damage": "20",
-        "convertedEnergyCost": 1
-      },
-      {
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless",
-          "Water"
-        ],
-        "name": "Hydro Pump",
-        "text": "This attack does 10 more damage times the amount of [W] Energy attached to this Pokémon.",
-        "damage": "70+",
-        "convertedEnergyCost": 4
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "5",
-    "artist": "Saya Tsuruta",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      131
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/5.png",
-      "large": "https://images.pokemontcg.io/mcd19/5_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-6",
-    "name": "Pikachu",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "60",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Lightning"
-        ],
-        "name": "Iron Tail",
-        "text": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
-        "damage": "20",
-        "convertedEnergyCost": 1
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "6",
-    "artist": "Kagemaru Himeno",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      25
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/6.png",
-      "large": "https://images.pokemontcg.io/mcd19/6_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-7",
-    "name": "Gastly",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "50",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesTo": [
-      "Haunter"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Psychic"
-        ],
-        "name": "Ominous Eyes",
-        "text": "Put 1 damage counter on 1 of your opponent's Pokémon.",
-        "damage": null,
-        "convertedEnergyCost": 1
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "7",
-    "artist": "Shibuzoh.",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      92
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/7.png",
-      "large": "https://images.pokemontcg.io/mcd19/7_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-8",
-    "name": "Mankey",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "60",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Primeape"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Fighting"
-        ],
-        "name": "Three-Step Strike",
-        "text": "Flip 3 coins. This attack does 10 damage for each heads.",
-        "damage": "10",
-        "convertedEnergyCost": 1
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "8",
-    "artist": "Miki Tanaka",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      56
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/8.png",
-      "large": "https://images.pokemontcg.io/mcd19/8_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-9",
-    "name": "Onix",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "100",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Steelix"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Colorless"
-        ],
-        "name": "Screech",
-        "text": "During your next turn, the Defending Pokémon takes 20 more damage from attacks (after applying Weakness and Resistance).",
-        "damage": null,
-        "convertedEnergyCost": 1
-      },
-      {
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
-        "name": "Rage",
-        "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
-        "damage": "10+",
-        "convertedEnergyCost": 2
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "9",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      95
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/9.png",
-      "large": "https://images.pokemontcg.io/mcd19/9_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-10",
-    "name": "Alolan Meowth",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "60",
-    "types": [
-      "Darkness"
-    ],
-    "evolvesTo": [
-      "Persian"
-    ],
-    "attacks": [
-      {
-        "cost": [
-
-        ],
-        "name": "Spoil the Fun",
-        "text": "If you go second, this attack does 60 more damage during your first turn.",
-        "damage": "10+",
-        "convertedEnergyCost": 0
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "10",
-    "artist": "Akira Komayama",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      52
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/10.png",
-      "large": "https://images.pokemontcg.io/mcd19/10_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-11",
-    "name": "Alolan Dugtrio",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "60",
-    "types": [
-      "Metal"
-    ],
-    "evolvesFrom": "Alolan Diglett",
-    "attacks": [
-      {
-        "cost": [
-          "Metal"
-        ],
-        "name": "Gold Rush",
-        "text": "Discard any number of [M] Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
-        "damage": "30",
-        "convertedEnergyCost": 1
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "11",
-    "artist": "Megumi Mizutani",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      51
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/11.png",
-      "large": "https://images.pokemontcg.io/mcd19/11_hires.png"
-    }
-  },
-  {
-    "id": "mcd19-12",
-    "name": "Eevee",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "60",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Vaporeon",
-      "Jolteon",
-      "Flareon",
-      "Sylveon",
-      "Espeon",
-      "Umbreon",
-      "Leafeon",
-      "Glaceon"
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Colorless"
-        ],
-        "name": "Gnaw",
-        "text": null,
-        "damage": "20",
-        "convertedEnergyCost": 1
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "12",
-    "artist": "Atsuko Nishida",
-    "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      133
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/mcd19/12.png",
-      "large": "https://images.pokemontcg.io/mcd19/12_hires.png"
-    }
-  },
-  {
     "id": "mcd16-1",
     "name": "Vulpix",
     "supertype": "Pokémon",
@@ -569,22 +15,28 @@
     ],
     "attacks": [
       {
+        "name": "Roar",
         "cost": [
           "Colorless"
         ],
-        "name": "Roar",
-        "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
-        "damage": null,
-        "convertedEnergyCost": 1
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
       },
       {
+        "name": "Gnaw",
         "cost": [
           "Fire"
         ],
-        "name": "Gnaw",
-        "text": null,
+        "convertedEnergyCost": 1,
         "damage": "10",
-        "convertedEnergyCost": 1
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -594,6 +46,7 @@
     "number": "1",
     "artist": "kirisAki",
     "rarity": "Promo",
+    "flavorText": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
     "nationalPokedexNumbers": [
       37
     ],
@@ -621,14 +74,19 @@
     ],
     "attacks": [
       {
+        "name": "Ember",
         "cost": [
-          "Fire",
           "Fire"
         ],
-        "name": "Ember",
-        "text": "Flip a coin. If tails, discard a [R] Energy attached to this Pokémon.",
+        "convertedEnergyCost": 1,
         "damage": "20",
-        "convertedEnergyCost": 2
+        "text": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -638,6 +96,7 @@
     "number": "2",
     "artist": "sui",
     "rarity": "Promo",
+    "flavorText": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
     "nationalPokedexNumbers": [
       255
     ],
@@ -665,13 +124,19 @@
     ],
     "attacks": [
       {
+        "name": "Will-O-Wisp",
         "cost": [
           "Fire"
         ],
-        "name": "Will-O-Wisp",
-        "text": null,
+        "convertedEnergyCost": 1,
         "damage": "20",
-        "convertedEnergyCost": 1
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -681,6 +146,7 @@
     "number": "3",
     "artist": "5ban Graphics",
     "rarity": "Promo",
+    "flavorText": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
     "nationalPokedexNumbers": [
       653
     ],
@@ -708,13 +174,19 @@
     ],
     "attacks": [
       {
+        "name": "Epic Splash",
         "cost": [
           "Water"
         ],
-        "name": "Epic Splash",
-        "text": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+        "convertedEnergyCost": 1,
         "damage": "30",
-        "convertedEnergyCost": 1
+        "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -724,6 +196,7 @@
     "number": "4",
     "artist": "Akira Komayama",
     "rarity": "Promo",
+    "flavorText": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
     "nationalPokedexNumbers": [
       129
     ],
@@ -751,13 +224,19 @@
     ],
     "attacks": [
       {
+        "name": "Fury Strikes",
         "cost": [
           "Water"
         ],
-        "name": "Fury Strikes",
-        "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
-        "damage": "10",
-        "convertedEnergyCost": 1
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -767,6 +246,7 @@
     "number": "5",
     "artist": "Kagemaru Himeno",
     "rarity": "Promo",
+    "flavorText": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
     "nationalPokedexNumbers": [
       158
     ],
@@ -794,23 +274,35 @@
     ],
     "attacks": [
       {
+        "name": "Tail Whip",
         "cost": [
           "Colorless"
         ],
-        "name": "Tail Whip",
-        "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
-        "damage": null,
-        "convertedEnergyCost": 1
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
       },
       {
+        "name": "Electro Ball",
         "cost": [
           "Lightning",
           "Colorless"
         ],
-        "name": "Electro Ball",
-        "text": null,
+        "convertedEnergyCost": 2,
         "damage": "30",
-        "convertedEnergyCost": 2
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
       }
     ],
     "retreatCost": [
@@ -820,6 +312,7 @@
     "number": "6",
     "artist": "Naoki Saito",
     "rarity": "Promo",
+    "flavorText": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
     "nationalPokedexNumbers": [
       25
     ],
@@ -847,14 +340,26 @@
     ],
     "attacks": [
       {
+        "name": "Corkscrew Punch",
         "cost": [
           "Darkness",
           "Darkness"
         ],
-        "name": "Corkscrew Punch",
-        "text": null,
+        "convertedEnergyCost": 2,
         "damage": "30",
-        "convertedEnergyCost": 2
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
       }
     ],
     "retreatCost": [
@@ -865,6 +370,7 @@
     "number": "7",
     "artist": "Tomokazu Komiya",
     "rarity": "Promo",
+    "flavorText": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling it skin up to its neck.",
     "nationalPokedexNumbers": [
       559
     ],
@@ -892,23 +398,34 @@
     ],
     "attacks": [
       {
+        "name": "Rollout",
         "cost": [
           "Colorless"
         ],
-        "name": "Rollout",
-        "text": null,
+        "convertedEnergyCost": 1,
         "damage": "10",
-        "convertedEnergyCost": 1
+        "text": ""
       },
       {
-        "cost": [
-          "Fairy",
-          "Darkness"
-        ],
         "name": "Heartfelt Song",
-        "text": "Discard a [D] Energy attached to your opponent's Active Pokémon.",
-        "damage": null,
-        "convertedEnergyCost": 2
+        "cost": [
+          "Fairy"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard a Darkness Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
       }
     ],
     "retreatCost": [
@@ -918,6 +435,7 @@
     "number": "8",
     "artist": "Kanako Eo",
     "rarity": "Promo",
+    "flavorText": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
     "nationalPokedexNumbers": [
       39
     ],
@@ -945,13 +463,25 @@
     ],
     "attacks": [
       {
+        "name": "Sweet Kiss",
         "cost": [
           "Colorless"
         ],
-        "name": "Sweet Kiss",
-        "text": "Your opponent draws a card.",
+        "convertedEnergyCost": 1,
         "damage": "10",
-        "convertedEnergyCost": 1
+        "text": "Your opponent draws a card."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
       }
     ],
     "retreatCost": [
@@ -961,6 +491,7 @@
     "number": "9",
     "artist": "HiRON",
     "rarity": "Promo",
+    "flavorText": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
     "nationalPokedexNumbers": [
       175
     ],
@@ -985,24 +516,36 @@
     ],
     "attacks": [
       {
+        "name": "Nuzzle",
         "cost": [
           "Colorless"
         ],
-        "name": "Nuzzle",
-        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
-        "damage": null,
-        "convertedEnergyCost": 1
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
+        "name": "Spiral Drain",
         "cost": [
           "Fairy",
           "Colorless",
           "Colorless"
         ],
-        "name": "Spiral Drain",
-        "text": "Heal 20 damage from this Pokémon.",
+        "convertedEnergyCost": 3,
         "damage": "60",
-        "convertedEnergyCost": 3
+        "text": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
       }
     ],
     "retreatCost": [
@@ -1012,6 +555,7 @@
     "number": "10",
     "artist": "5ban Graphics",
     "rarity": "Promo",
+    "flavorText": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
     "nationalPokedexNumbers": [
       702
     ],
@@ -1039,14 +583,19 @@
     ],
     "attacks": [
       {
-        "cost": [
-          "Colorless",
-          "Darkness"
-        ],
         "name": "Act Tough",
-        "text": "If this Pokémon has any [D] Energy attached to it, this attack does 20 more damage.",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
         "damage": "10+",
-        "convertedEnergyCost": 2
+        "text": "If this Pokémon has any Darkness Energy attached to it, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1056,6 +605,7 @@
     "number": "11",
     "artist": "Kanako Eo",
     "rarity": "Promo",
+    "flavorText": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
     "nationalPokedexNumbers": [
       52
     ],
@@ -1090,23 +640,29 @@
     ],
     "attacks": [
       {
+        "name": "Tackle",
         "cost": [
           "Colorless"
         ],
-        "name": "Tackle",
-        "text": null,
+        "convertedEnergyCost": 1,
         "damage": "10",
-        "convertedEnergyCost": 1
+        "text": ""
       },
       {
+        "name": "Lunge",
         "cost": [
           "Colorless",
           "Colorless"
         ],
-        "name": "Lunge",
-        "text": "Flip a coin. If tails, this attack does nothing.",
+        "convertedEnergyCost": 2,
         "damage": "30",
-        "convertedEnergyCost": 2
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1116,6 +672,7 @@
     "number": "12",
     "artist": "Kouki Saitou",
     "rarity": "Promo",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
     "nationalPokedexNumbers": [
       133
     ],
