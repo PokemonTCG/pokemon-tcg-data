@@ -33,7 +33,7 @@ Dir.glob('cards/en/*.json') do |json_file|
   v1_cards = []
   cards.each do |card|
     card[:imageUrl] = card[:images][:small]
-    card[:subtype] = card[:subtypes].last unless card[:abilities].nil?
+    card[:subtype] = card[:subtypes].last unless card[:subtypes].nil?
     card[:ability] = card[:abilities].first unless card[:abilities].nil?
     card[:series] = set[:series]
     card[:setCode] = set[:id]
