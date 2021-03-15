@@ -210,7 +210,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH004",
     "artist": "aky CG Works",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       52
     ],
@@ -269,7 +269,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH005",
     "artist": "aky CG Works",
-    "rarity": "Rare Holo VMAX",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       52
     ],
@@ -812,7 +812,7 @@
     "convertedRetreatCost": 3,
     "number": "SWSH014",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       812
     ],
@@ -874,7 +874,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH015",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       815
     ],
@@ -938,7 +938,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH016",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       818
     ],
@@ -1002,7 +1002,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH017",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       849
     ],
@@ -1070,7 +1070,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH018",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       888
     ],
@@ -1138,7 +1138,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH019",
     "artist": "aky CG Works",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       889
     ],
@@ -1269,7 +1269,7 @@
     "convertedRetreatCost": 1,
     "number": "SWSH021",
     "artist": "PLANETA Igarashi",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       855
     ],
@@ -1850,7 +1850,7 @@
     "convertedRetreatCost": 4,
     "number": "SWSH030",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       879
     ],
@@ -2676,7 +2676,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH043",
     "artist": "PLANETA Tsuji",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       865
     ],
@@ -2741,7 +2741,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH044",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       890
     ],
@@ -2803,7 +2803,7 @@
     "convertedRetreatCost": 3,
     "number": "SWSH045",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo VMAX",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       890
     ],
@@ -3054,7 +3054,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH049",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       832
     ],
@@ -3122,7 +3122,7 @@
     "convertedRetreatCost": 3,
     "number": "SWSH050",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       6
     ],
@@ -3440,7 +3440,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH055",
     "artist": "PLANETA Igarashi",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       858
     ],
@@ -3504,7 +3504,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH056",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       877
     ],
@@ -3568,7 +3568,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH057",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       861
     ],
@@ -3769,6 +3769,72 @@
     }
   },
   {
+    "id": "swshp-SWSH061",
+    "name": "Pikachu V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Charge",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Lightning Energy cards and attach them to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH061",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH061.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH061_hires.png"
+    }
+  },
+  {
     "id": "swshp-SWSH063",
     "name": "Pikachu V",
     "supertype": "Pokémon",
@@ -3819,7 +3885,7 @@
     "convertedRetreatCost": 1,
     "number": "SWSH063",
     "artist": "Ryota Murayama",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       25
     ],
@@ -3884,7 +3950,7 @@
     "convertedRetreatCost": 2,
     "number": "SWSH064",
     "artist": "5ban Graphics",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       890
     ],
@@ -3957,7 +4023,7 @@
     "convertedRetreatCost": 1,
     "number": "SWSH065",
     "artist": "Kagemaru Himeno",
-    "rarity": "Rare Holo V",
+    "rarity": "Promo",
     "nationalPokedexNumbers": [
       133
     ],
@@ -4520,6 +4586,1145 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH074.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH074_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH076",
+    "name": "Zacian V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Intrepid Sword",
+        "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of Metal Energy cards you find there to this Pokémon. Put the other cards into your hand. If you use this Ability, your turn ends.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Brave Blade",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "230",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH076",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      888
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH076.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH076_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH077",
+    "name": "Zamazenta V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "230",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Dauntless Shield",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon VMAX.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Assault Tackle",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "Discard a Special Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH077",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      889
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH077.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH077_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH078",
+    "name": "Orbeetle V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "180",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Strafe",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Mysterious Wave",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50+",
+        "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH078",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      826
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH078.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH078_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH079",
+    "name": "Galarian Mr. Rime",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Galarian Mr. Mime",
+    "abilities": [
+      {
+        "name": "Shuffle Dance",
+        "text": "Once during your turn, you may switch 1 of your opponent's face-down Prize cards with the top card of their deck. (The cards stay face down.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mad Party",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH079",
+    "artist": "KEIICHIRO ITO",
+    "rarity": "Promo",
+    "flavorText": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH079.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH079_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH080",
+    "name": "Dedenne",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Mad Party",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH080",
+    "artist": "Yuu Nishida",
+    "rarity": "Promo",
+    "flavorText": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
+    "nationalPokedexNumbers": [
+      702
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH080.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH080_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH081",
+    "name": "Polteageist",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Sinistea",
+    "abilities": [
+      {
+        "name": "Tea Break",
+        "text": "You must discard a Pokémon that has the Mad Party attack from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mad Party",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH081",
+    "artist": "Misa Tsutsui",
+    "rarity": "Promo",
+    "flavorText": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
+    "nationalPokedexNumbers": [
+      855
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH081.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH081_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH082",
+    "name": "Bunnelby",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "40",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Diggersby"
+    ],
+    "attacks": [
+      {
+        "name": "Mad Party",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH082",
+    "artist": "sowsow",
+    "rarity": "Promo",
+    "flavorText": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+    "nationalPokedexNumbers": [
+      659
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH082.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH082_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH083",
+    "name": "Alakazam V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Zen Spoon",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put 3 damage counters on your opponent's Pokémon in any way you like."
+      },
+      {
+        "name": "Mind Ruler",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each card in your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH083",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      65
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH083.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH083_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH084",
+    "name": "Eldegoss V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "180",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Happy Match",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put a Supporter card from your discard pile into your hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Float Up",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH084",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      830
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH084.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH084_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH085",
+    "name": "Boltund V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "200",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Electrify",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Lightning Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+      },
+      {
+        "name": "Bolt Storm",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 30 more damage for each Lightning Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH085",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      836
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH085.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH085_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH086",
+    "name": "Cramorant V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "200",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Beak Catch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Spit Shot",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard all Energy from this Pokémon. This attack does 160 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH086",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      845
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH086.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH086_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH087",
+    "name": "Eevee VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "300",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Eevee V",
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ],
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Cuddle",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH087",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH087.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH087_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH096",
+    "name": "Dragapult V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Jet Assault",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60+",
+        "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH096",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      887
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH096.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH096_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH097",
+    "name": "Dragapult VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "320",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Dragapult V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Shred",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Max Phantom",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130",
+        "text": "Put 5 damage counters on your opponent's Benched Pokémon in any way you like."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH097",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      887
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH097.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH097_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH098",
+    "name": "Crobat V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "180",
+    "types": [
+      "Darkness"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Dark Asset",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Venomous Fang",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH098",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      169
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH098.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH098_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH099",
+    "name": "Crobat VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "300",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Crobat V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Stealth Poison",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Max Cutter",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH099",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      169
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH099.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH099_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH100",
+    "name": "Venusaur V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Leaf Drain",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Heal 30 damage from this Pokémon."
+      },
+      {
+        "name": "Double-Edge",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "190",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SWSH100",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      3
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH100.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH100_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH101",
+    "name": "Blastoise V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Torrential Cannon",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "During your next turn, this Pokémon can't use Torrential Cannon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SWSH101",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      9
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH101.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH101_hires.png"
     }
   }
 ]
