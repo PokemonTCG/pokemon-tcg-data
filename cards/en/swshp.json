@@ -5567,7 +5567,7 @@
     "convertedRetreatCost": 3,
     "number": "SWSH091",
     "artist": "Atsushi Furusawa",
-    "rarity": "Common",
+    "rarity": "Promo",
     "flavorText": "Many scientists suspect that this Pokémon originated outside the Galar region, based on the patterns on its body.",
     "nationalPokedexNumbers": [
       437
@@ -6361,6 +6361,133 @@
     }
   },
   {
+    "id": "swshp-SWSH104",
+    "name": "Victini V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Spreading Flames",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 3 Fire Energy cards from your discard pile to your Pokémon in any way you like."
+      },
+      {
+        "name": "Energy Burst",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each Energy attached to both Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH104",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      494
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH104.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH104_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH105",
+    "name": "Gardevoir V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Magical Shot",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Swelling Pulse",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH105",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      282
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH105.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH105_hires.png"
+    }
+  },
+  {
     "id": "swshp-SWSH106",
     "name": "Single Strike Urshifu V",
     "supertype": "Pokémon",
@@ -6490,6 +6617,721 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH107.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH107_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH108",
+    "name": "Empoleon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Emperor’s Eyes",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent's Basic Pokémon in play have no Abilities, except for Pokémon with a Rule Box (Pokémon V, Pokémon-GX, etc. have Rule Boxes).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Swirling Slice",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH108",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      395
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH108.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH108_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH109",
+    "name": "Tyranitar V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "230",
+    "types": [
+      "Darkness"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Cragalanche",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Discard the top 2 cards of your opponent's deck."
+      },
+      {
+        "name": "Single Strike Crush",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "240",
+        "text": "Discard the top 4 cards of your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SWSH109",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      248
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH109.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH109_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH111",
+    "name": "Galarian Rapidash V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Libra Horn",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put damage counters on 1 of your opponent's Pokémon until its remaining HP is 100."
+      },
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60+",
+        "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH111",
+    "artist": "Saki Hayashiro",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      78
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH111.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH111_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH112",
+    "name": "Cinderace",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Raboot",
+    "abilities": [
+      {
+        "name": "Crisis Power",
+        "text": "This Pokémon's attacks do 30 more damage to your opponent's Active Pokémon for each Prize card your opponent has taken (before applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fireball Shot",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "150",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH112",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
+    "nationalPokedexNumbers": [
+      815
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH112.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH112_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH113",
+    "name": "Inteleon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Drizzile",
+    "abilities": [
+      {
+        "name": "Quick Shooting",
+        "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH113",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Promo",
+    "flavorText": "Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
+    "nationalPokedexNumbers": [
+      818
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH113.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH113_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH114",
+    "name": "Cresselia",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Crescent Glow",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. If you go second and it's your first turn, instead search for up to 3 Psychic Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Photon Laser",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "If you have at least 5 Energy in play, this attack does 90 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH114",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+    "nationalPokedexNumbers": [
+      488
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH114.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH114_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH115",
+    "name": "Passimian",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "abilities": [
+      {
+        "name": "Throwing Coach",
+        "text": "Your Rapid Strike Pokémon's attacks do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX (before applying Weakness and Resistance). You can't apply more than 1 Throwing Coach Ability at a time.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fling",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH115",
+    "artist": "Teeziro",
+    "rarity": "Promo",
+    "flavorText": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
+    "nationalPokedexNumbers": [
+      766
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH115.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH115_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH116",
+    "name": "Morpeko",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Famished",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw a card."
+      },
+      {
+        "name": "Thunder Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH116",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Promo",
+    "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
+    "nationalPokedexNumbers": [
+      877
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH116.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH116_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH117",
+    "name": "Phanpy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [
+      "Donphan"
+    ],
+    "attacks": [
+      {
+        "name": "Stampede",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Strike Back",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each damage counter on this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH117",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+    "nationalPokedexNumbers": [
+      231
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH117.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH117_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH118",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ],
+    "attacks": [
+      {
+        "name": "Signs of Evolution",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a card that evolves from Eevee, reveal it, and put it into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Wild Kick",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH118",
+    "artist": "Yuu Nishida",
+    "rarity": "Promo",
+    "flavorText": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH118.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH118_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH119",
+    "name": "Snorlax",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "140",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Slap Push",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Single Strike Tackle",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "SWSH119",
+    "artist": "Yuya Oka",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
+    "nationalPokedexNumbers": [
+      143
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH119.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH119_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH178",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "number": "SWSH178",
+    "artist": "Yusuke Kozaki",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH178.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH178_hires.png"
     }
   }
 ]
