@@ -5110,7 +5110,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+        "text": "You may shuffle this Pokémon and all attached cards into your deck."
       }
     ],
     "weaknesses": [
@@ -5401,7 +5401,8 @@
     "name": "Octillery",
     "supertype": "Pokémon",
     "subtypes": [
-      "Stage 1"
+      "Stage 1",
+      "Rapid Strike"
     ],
     "hp": "110",
     "types": [
@@ -5411,7 +5412,7 @@
     "abilities": [
       {
         "name": "Rapid Strike Search",
-        "text": "Once during your turn, you may search your deck for a Rapid Strike card, reveal it, and put it into your hand. Then, shuffle your deck. You can't use more than 1 Rapid Strike Search Ability each turn.",
+        "text": "Once during your turn, you may search your deck for a Rapid Strike card, reveal it, and put it into your hand. Then, shuffle your deck. You can't use more than 1 Rapid Strike Search Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -5461,7 +5462,8 @@
     "name": "Houndoom",
     "supertype": "Pokémon",
     "subtypes": [
-      "Stage 1"
+      "Stage 1",
+      "Single Strike"
     ],
     "hp": "130",
     "types": [
@@ -6625,7 +6627,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "V"
+      "V",
+      "Rapid Strike"
     ],
     "hp": "210",
     "types": [
@@ -6636,7 +6639,7 @@
     ],
     "abilities": [
       {
-        "name": "Emperor’s Eyes",
+        "name": "Emperor's Eyes",
         "text": "As long as this Pokémon is in the Active Spot, your opponent's Basic Pokémon in play have no Abilities, except for Pokémon with a Rule Box (Pokémon V, Pokémon-GX, etc. have Rule Boxes).",
         "type": "Ability"
       }
@@ -6687,7 +6690,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "V"
+      "V",
+      "Single Strike"
     ],
     "hp": "230",
     "types": [
@@ -6747,6 +6751,66 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH109.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH109_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH110",
+    "name": "Crobat V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "180",
+    "types": [
+      "Darkness"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Dark Asset",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Venomous Fang",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH110",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      169
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH110.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH110_hires.png"
     }
   },
   {
@@ -6823,7 +6887,8 @@
     "name": "Cinderace",
     "supertype": "Pokémon",
     "subtypes": [
-      "Stage 2"
+      "Stage 2",
+      "Single Strike"
     ],
     "hp": "170",
     "types": [
@@ -6881,7 +6946,8 @@
     "name": "Inteleon",
     "supertype": "Pokémon",
     "subtypes": [
-      "Stage 2"
+      "Stage 2",
+      "Rapid Strike"
     ],
     "hp": "150",
     "types": [
@@ -7004,7 +7070,8 @@
     "name": "Passimian",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Rapid Strike"
     ],
     "hp": "110",
     "types": [
@@ -7251,7 +7318,8 @@
     "name": "Snorlax",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Single Strike"
     ],
     "hp": "140",
     "types": [
@@ -7311,18 +7379,18 @@
     }
   },
   {
-    "id": "swshp-SWSH178",
-    "name": "Professor's Research",
+    "id": "swshp-SWSH120",
+    "name": "Marnie",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Discard your hand and draw 7 cards.",
-      "You may play only 1 Supporter card during your turn."
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
     ],
-    "number": "SWSH178",
-    "artist": "Yusuke Kozaki",
+    "number": "SWSH120",
+    "artist": "Sanosuke Sakuma",
     "rarity": "Promo",
     "legalities": {
       "unlimited": "Legal",
@@ -7330,8 +7398,665 @@
       "expanded": "Legal"
     },
     "images": {
-      "small": "https://images.pokemontcg.io/swshp/SWSH178.png",
-      "large": "https://images.pokemontcg.io/swshp/SWSH178_hires.png"
+      "small": "https://images.pokemontcg.io/swshp/SWSH120.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH120_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH121",
+    "name": "Marnie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "SWSH121",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH121.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH121_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH122",
+    "name": "Flaaffy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Mareep",
+    "evolvesTo": [
+      "Ampharos"
+    ],
+    "abilities": [
+      {
+        "name": "Dynamotor",
+        "text": "Once during your turn (before your attack), you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH122",
+    "artist": "Pani Kobayashi",
+    "rarity": "Promo",
+    "flavorText": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
+    "nationalPokedexNumbers": [
+      180
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH122.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH122_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH123",
+    "name": "Galarian Articuno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Cruel Charge",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Psychic Energy cards from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psylaser",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard all Psychic Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH123",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "Known as Articuno, this Pokémon fires beams that can immobilize opponents as if they had been frozen solid.",
+    "nationalPokedexNumbers": [
+      144
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH123.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH123_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH124",
+    "name": "Galarian Zapdos",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "abilities": [
+      {
+        "name": "Strong Legs Charge",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Fighting Energy cards from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Zapper Kick",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "You may discard all Energy from this Pokémon. If you do, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "number": "SWSH124",
+    "artist": "Oswaldo KATO",
+    "rarity": "Promo",
+    "flavorText": "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph.",
+    "nationalPokedexNumbers": [
+      145
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH124.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH124_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH125",
+    "name": "Galarian Moltres",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "abilities": [
+      {
+        "name": "Malevolent Charge",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Darkness Energy cards from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fiery Wrath",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20+",
+        "text": "This attack does 50 more damage for each Prize card your opponent has taken."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH125",
+    "artist": "KEIICHIRO ITO",
+    "rarity": "Promo",
+    "flavorText": "The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres.",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH125.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH125_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH126",
+    "name": "Galarian Slowpoke",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Slowbro",
+      "Slowking"
+    ],
+    "attacks": [
+      {
+        "name": "Everyone Laze Around",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal 10 damage from each of your Pokémon."
+      },
+      {
+        "name": "Tail Whap",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH126",
+    "artist": "sowsow",
+    "rarity": "Promo",
+    "flavorText": "Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.",
+    "nationalPokedexNumbers": [
+      79
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH126.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH126_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH127",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ],
+    "attacks": [
+      {
+        "name": "Be Prepared",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach a basic Energy card from your hand to this Pokémon."
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH127",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH127.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH127_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH128",
+    "name": "Eiscue",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Ice Bonus",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard a Water Energy card from your hand. If you do, draw 3 cards."
+      },
+      {
+        "name": "Headbutt Bounce",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH128",
+    "artist": "kirisAki",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+    "nationalPokedexNumbers": [
+      875
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH128.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH128_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH129",
+    "name": "Umbreon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Blindside",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 60 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Moon Mirage",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH129",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "flavorText": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+    "nationalPokedexNumbers": [
+      197
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH129.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH129_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH130",
+    "name": "Ice Rider Calyrex V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Frost Stamp",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH130",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH130.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH130_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH131",
+    "name": "Shadow Rider Calyrex V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Cloak in Shadows",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach a Psychic Energy card from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Hollow Binding",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH131",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH131.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH131_hires.png"
     }
   }
 ]
