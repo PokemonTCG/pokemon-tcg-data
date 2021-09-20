@@ -5303,7 +5303,9 @@
     "artist": "Nobuyuki Fujimoto",
     "rarity": "Uncommon",
     "legalities": {
-      "unlimited": "Legal"
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
     },
     "images": {
       "small": "https://images.pokemontcg.io/pl4/88.png",
@@ -5460,6 +5462,11 @@
     ],
     "abilities": [
       {
+        "name": "Multi-type",
+        "text": "Arceus LV. X's type is the same type as its previous Level.",
+        "type": "Poké-Body"
+      },
+      {
         "name": "Omniscient",
         "text": "Arceus can use the attacks of all Arceus you have in play as its own. (You still need the necessary Energy to use each attack.)",
         "type": "Poké-Body"
@@ -5559,6 +5566,11 @@
       {
         "name": "Multitype",
         "text": "Arceus LV.X‘s type is the same type as its previous Level.",
+        "type": "Poké-Body"
+      },
+      {
+        "name": "Omniscient",
+        "text": "Arceus can use the attacks of all Arceus you have in play as its own. (You still need the necessary Energy to use each attack.)",
         "type": "Poké-Body"
       }
     ],
