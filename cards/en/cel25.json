@@ -1,0 +1,1483 @@
+[
+  {
+    "id": "cel25-1",
+    "name": "Ho-Oh",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Sacred Fire",
+        "damage": "",
+        "text": "This attack does 50 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Fire Blast",
+        "damage": "120",
+        "text": "Discard an Energy from this Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "1",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      250
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/1.png",
+      "large": "https://images.pokemontcg.io/cel25/1_hires.png"
+    }
+  },
+  {
+    "id": "cel25-2",
+    "name": "Reshiram",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scorching Wind",
+        "damage": "",
+        "text": "This attack does 20 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Black Flame",
+        "damage": "80+",
+        "text": "If Zekrom is on your Bench, this attack does 80 more damage.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "2",
+    "artist": "Aya Kusube",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      643
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/2.png",
+      "large": "https://images.pokemontcg.io/cel25/2_hires.png"
+    }
+  },
+  {
+    "id": "cel25-3",
+    "name": "Kyogre",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Aqua Storm",
+        "damage": "",
+        "text": "Discard the top 5 cards of your deck, and then choose 2 of your opponent’s Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Surf",
+        "damage": "120",
+        "text": "",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "3",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      382
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/3.png",
+      "large": "https://images.pokemontcg.io/cel25/3_hires.png"
+    }
+  },
+  {
+    "id": "cel25-4",
+    "name": "Palkia",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Absolute Space",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent can’t play any Stadium cards from their hand."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Overdrive Smash",
+        "damage": "80+",
+        "text": "During your next turn, this Pokémon’s Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "4",
+    "artist": "5ban Graphics",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      484
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/4.png",
+      "large": "https://images.pokemontcg.io/cel25/4_hires.png"
+    }
+  },
+  {
+    "id": "cel25-5",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gnaw",
+        "damage": "10",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Thunder Jolt",
+        "damage": "30",
+        "text": "Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/5.png",
+      "large": "https://images.pokemontcg.io/cel25/5_hires.png"
+    }
+  },
+  {
+    "id": "cel25-6",
+    "name": "Flying Pikachu V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Thunder Shock",
+        "damage": "20",
+        "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fly",
+        "damage": "120",
+        "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent’s next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "number": "6",
+    "artist": "aky CG Works",
+    "rarity": "V",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/6.png",
+      "large": "https://images.pokemontcg.io/cel25/6_hires.png"
+    }
+  },
+  {
+    "id": "cel25-7",
+    "name": "Flying Pikachu VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Flying Pikachu V",
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Max Balloon",
+        "damage": "160",
+        "text": "During your opponent’s next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "number": "7",
+    "artist": "aky CG Works",
+    "rarity": "VM",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/7.png",
+      "large": "https://images.pokemontcg.io/cel25/7_hires.png"
+    }
+  },
+  {
+    "id": "cel25-8",
+    "name": "Surfing Pikachu V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V"
+    ],
+    "hp": "200",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Surf",
+        "damage": "150",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "8",
+    "artist": "aky CG Works",
+    "rarity": "V",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/8.png",
+      "large": "https://images.pokemontcg.io/cel25/8_hires.png"
+    }
+  },
+  {
+    "id": "cel25-9",
+    "name": "Surfing Pikachu VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Surfing Pikachu V",
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Max Surfer",
+        "damage": "160",
+        "text": "This attack also does 30 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "aky CG Works",
+    "rarity": "VM",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/9.png",
+      "large": "https://images.pokemontcg.io/cel25/9_hires.png"
+    }
+  },
+  {
+    "id": "cel25-10",
+    "name": "Zekrom",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Field Crush",
+        "damage": "30",
+        "text": "If your opponent has a Stadium in play, discard it.",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "White Thunder",
+        "damage": "80+",
+        "text": "If Reshiram is on your Bench, this attack does 80 more damage.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "10",
+    "artist": "Aya Kusube",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      644
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/10.png",
+      "large": "https://images.pokemontcg.io/cel25/10_hires.png"
+    }
+  },
+  {
+    "id": "cel25-11",
+    "name": "Mew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Mysterious Tail",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psyshot",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "11",
+    "artist": "Yuu Nishida",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/11.png",
+      "large": "https://images.pokemontcg.io/cel25/11_hires.png"
+    }
+  },
+  {
+    "id": "cel25-12",
+    "name": "Xerneas",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Breath of Life",
+        "damage": "",
+        "text": "Search your deck for up to 3 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Aurora Horns",
+        "damage": "100",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "12",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      716
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/12.png",
+      "large": "https://images.pokemontcg.io/cel25/12_hires.png"
+    }
+  },
+  {
+    "id": "cel25-13",
+    "name": "Cosmog",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Cosmoem"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Star Protection",
+        "damage": "",
+        "text": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage done to this Pokémon by attacks.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "13",
+    "artist": "kirisAki",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      789
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/13.png",
+      "large": "https://images.pokemontcg.io/cel25/13_hires.png"
+    }
+  },
+  {
+    "id": "cel25-14",
+    "name": "Cosmoem",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Cosmog",
+    "evolvesTo": [
+      "Solgaleo",
+      "Lunala"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Star Protection",
+        "damage": "",
+        "text": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage done to this Pokémon by attacks.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "14",
+    "artist": "kirisAki",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      790
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/14.png",
+      "large": "https://images.pokemontcg.io/cel25/14_hires.png"
+    }
+  },
+  {
+    "id": "cel25-15",
+    "name": "Lunala",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Cosmoem",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Lunar Pain",
+        "damage": "",
+        "text": "Double the number of damage counters on each of your opponent’s Pokémon.",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Psychic Shot",
+        "damage": "130",
+        "text": "This attack also does 30 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "15",
+    "artist": "kirisAki",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      792
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/15.png",
+      "large": "https://images.pokemontcg.io/cel25/15_hires.png"
+    }
+  },
+  {
+    "id": "cel25-16",
+    "name": "Zacian V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Roar of the Sword",
+        "text": "Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Storm Slash",
+        "damage": "60+",
+        "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "16",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "V",
+    "nationalPokedexNumbers": [
+      888
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/16.png",
+      "large": "https://images.pokemontcg.io/cel25/16_hires.png"
+    }
+  },
+  {
+    "id": "cel25-17",
+    "name": "Groudon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Magma Volcano",
+        "damage": "80×",
+        "text": "Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Massive Rend",
+        "damage": "120",
+        "text": "",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "17",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      383
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/17.png",
+      "large": "https://images.pokemontcg.io/cel25/17_hires.png"
+    }
+  },
+  {
+    "id": "cel25-18",
+    "name": "Zamazenta V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Fighting"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Growl of the Shield",
+        "text": "All of your Fighting Pokémon take 20 less damage from attacks from your opponent’s Pokémon VMAX (after applying Weakness and Resistance). You can’t apply more than 1 Growl of the Shield Ability at a time."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Heavy Impact",
+        "damage": "150",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "18",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "V",
+    "nationalPokedexNumbers": [
+      889
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/18.png",
+      "large": "https://images.pokemontcg.io/cel25/18_hires.png"
+    }
+  },
+  {
+    "id": "cel25-19",
+    "name": "Yveltal",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Cry of Destruction",
+        "damage": "",
+        "text": "Discard up to 3 Special Energy from your opponent’s Pokémon.",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dark Feather",
+        "damage": "100",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "19",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      717
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/19.png",
+      "large": "https://images.pokemontcg.io/cel25/19_hires.png"
+    }
+  },
+  {
+    "id": "cel25-20",
+    "name": "Dialga",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Temporal Backflow",
+        "damage": "",
+        "text": "Put a card from your discard pile into your hand.",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Metal Blast",
+        "damage": "60+",
+        "text": "This attack does 20 more damage for each Metal Energy attached to this Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "20",
+    "artist": "5ban Graphics",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      483
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/20.png",
+      "large": "https://images.pokemontcg.io/cel25/20_hires.png"
+    }
+  },
+  {
+    "id": "cel25-21",
+    "name": "Solgaleo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Cosmoem",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Rush In",
+        "text": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Solar Geyser",
+        "damage": "100",
+        "text": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "21",
+    "artist": "kirisAki",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      791
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/21.png",
+      "large": "https://images.pokemontcg.io/cel25/21_hires.png"
+    }
+  },
+  {
+    "id": "cel25-22",
+    "name": "Lugia",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Aero Ball",
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Energy attached to both Active Pokémon.",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Deep Crush",
+        "damage": "160",
+        "text": "During your next turn, this Pokémon can’t attack.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "22",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      249
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/22.png",
+      "large": "https://images.pokemontcg.io/cel25/22_hires.png"
+    }
+  },
+  {
+    "id": "cel25-23",
+    "name": "Professor’s Research (Professor Oak)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards."
+    ],
+    "number": "23",
+    "artist": "KIYOTAKA OSHIYAMA",
+    "rarity": "Rare Holo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/23.png",
+      "large": "https://images.pokemontcg.io/cel25/23_hires.png"
+    }
+  },
+  {
+    "id": "cel25-24",
+    "name": "Professor’s Research (Professor Oak)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards."
+    ],
+    "number": "24",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/24.png",
+      "large": "https://images.pokemontcg.io/cel25/24_hires.png"
+    }
+  },
+  {
+    "id": "cel25-25",
+    "name": "Mew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Mysterious Tail",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psyshot",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "25",
+    "artist": "Saki Hayashiro",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/25.png",
+      "large": "https://images.pokemontcg.io/cel25/25_hires.png"
+    }
+  }
+]
