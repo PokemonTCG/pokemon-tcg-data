@@ -16312,5 +16312,169 @@
       "small": "https://images.pokemontcg.io/smp/SM244.png",
       "large": "https://images.pokemontcg.io/smp/SM244_hires.png"
     }
+  },
+  {
+    "id": "smp-SM245",
+    "name": "Mismagius",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Misdreavus",
+    "attacks": [
+      {
+        "name": "Psybeam",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Nonahex",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "If your opponent's Active Pokémon has exactly 9 damage counters on it, that Pokémon is Knocked Out."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SM245",
+    "artist": "NC Empire",
+    "rarity": "Promo",
+    "flavorText": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",
+    "nationalPokedexNumbers": [
+      429
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/smp/SM245.png",
+      "large": "https://images.pokemontcg.io/smp/SM245_hires.png"
+    }
+  },
+  {
+    "id": "smp-SM246",
+    "name": "Sabrina & Brycen",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "When you play this card, you may discard 5 other cards from your hand. If you do, you may also search for up to 3 Pokémon of different types in this way.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "SM246",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    }
+  },
+  {
+    "id": "smp-SM247",
+    "name": "Reshiram & Charizard-GX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "TAG TEAM",
+      "GX"
+    ],
+    "hp": "270",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Outrage",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+      },
+      {
+        "name": "Flare Strike",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "230",
+        "text": "This Pokémon can't use Flare Strike during your next turn."
+      },
+      {
+        "name": "Double Blaze-GX",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200+",
+        "text": "If this Pokémon has at least 3 extra Fire Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SM247",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      6,
+      643
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/smp/SM247.png",
+      "large": "https://images.pokemontcg.io/smp/SM247_hires.png"
+    }
   }
 ]
