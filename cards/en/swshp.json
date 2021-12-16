@@ -3835,6 +3835,64 @@
     }
   },
   {
+    "id": "swshp-SWSH062",
+    "name": "Pikachu VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu V",
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Volt Tackle",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "You may discard all Energy from this Pokémon. If you do, this attack does 150 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH062",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH062.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH062_hires.png"
+    }
+  },
+  {
     "id": "swshp-SWSH063",
     "name": "Pikachu V",
     "supertype": "Pokémon",
@@ -8060,6 +8118,3176 @@
     }
   },
   {
+    "id": "swshp-SWSH132",
+    "name": "Dragapult",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Drakloak",
+    "attacks": [
+      {
+        "name": "Mach Turn",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Diving Swipe",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "number": "SWSH132",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      887
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH132.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH132_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH133",
+    "name": "Lance's Charizard V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Flamethrower",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Discard an Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SWSH133",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH133.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH133_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH134",
+    "name": "Dark Sylveon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "180",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Disarming Voice",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Tricky Ribbon",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH134",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      700
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH134.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH134_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH135",
+    "name": "Zacian",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "BREAK"
+    ],
+    "hp": "160",
+    "types": [
+      "Metal"
+    ],
+    "abilities": [
+      {
+        "name": "Bladed Armament",
+        "text": "Damage from this Pokémon's attacks isn't affected by any effects on your opponent's Active Pokémon.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Brave Blade",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH135",
+    "artist": "5ban GraphicsLV.X",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      888
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH135.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH135_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH136",
+    "name": "Mimikyu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Filch",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw 2 cards."
+      },
+      {
+        "name": "Wet Claw",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "Put an Energy attached to your opponent's Active Pokémon into their hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH136",
+    "artist": "Hasuno",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      778
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH136.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH136_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH137",
+    "name": "Light Toxtricity",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Toxel",
+    "attacks": [
+      {
+        "name": "Slow Ballad",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal 30 damage from both Active Pokémon."
+      },
+      {
+        "name": "Beatdown Smash",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "During your next turn, this Pokémon can't use Beatdown Smash."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH137",
+    "artist": "Naoyo KimuraLV.65",
+    "rarity": "Promo",
+    "flavorText": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
+    "nationalPokedexNumbers": [
+      849
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH137.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH137_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH138",
+    "name": "Hydreigon C",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Berserker Blade",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "This attack also does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH138",
+    "artist": "kawayooLV.61",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      635
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH138.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH138_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH139",
+    "name": "Pikachu V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Lightning Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Shocking Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Disconnect",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, they can't play any Item cards from their hand."
+      },
+      {
+        "name": "Electro Ball Together",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH139",
+    "artist": "n/a",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH139.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH139_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH140",
+    "name": "Pikachu V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Lightning Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Shocking Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Disconnect",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, they can't play any Item cards from their hand."
+      },
+      {
+        "name": "Electro Ball Together",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH140",
+    "artist": "n/a",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH140.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH140_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH141",
+    "name": "Pikachu V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Lightning Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Shocking Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Disconnect",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, they can't play any Item cards from their hand."
+      },
+      {
+        "name": "Electro Ball Together",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH141",
+    "artist": "n/a",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH141.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH141_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH142",
+    "name": "Pikachu V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Lightning Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Shocking Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Disconnect",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, they can't play any Item cards from their hand."
+      },
+      {
+        "name": "Electro Ball Together",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH142",
+    "artist": "n/a",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH142.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH142_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH143",
+    "name": "Pikachu V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Volt Tackle",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "210",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH143",
+    "artist": "HYOGONOSUKE",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH143.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH143_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH144",
+    "name": "Greninja Star",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Darkness"
+    ],
+    "abilities": [
+      {
+        "name": "Shadow Knife",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put 1 damage counter on 1 of your opponent's Pokémon.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mist Slash",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH144",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH144.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH144_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH145",
+    "name": "Pikachu V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Volt Tackle",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "210",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH145",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH145.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH145_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH146",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+      "Item rule: You may play any number of Item cards during your turn."
+    ],
+    "number": "SWSH146",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH146.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH146_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH147",
+    "name": "Rayquaza V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Rapid Strike"
+    ],
+    "hp": "210",
+    "types": [
+      "Dragon"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Pulse",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": "Discard the top 2 cards of your deck."
+      },
+      {
+        "name": "Spiral Burst",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "You may discard up to 2 basic Fire Energy or up to 2 basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH147",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      384
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH147.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH147_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH148",
+    "name": "Noivern V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "200",
+    "types": [
+      "Dragon"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Boomburst",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Synchro Loud",
+        "cost": [
+          "Psychic",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60+",
+        "text": "If you have the same number of cards in your hand as your opponent, this attack does 120 more damage."
+      }
+    ],
+    "number": "SWSH148",
+    "artist": "PLANETA Yamashita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      715
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH148.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH148_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH149",
+    "name": "Flareon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Single Strike"
+    ],
+    "hp": "210",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Flaming Breath",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Scorching Column",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH149",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      136
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH149.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH149_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH150",
+    "name": "Vaporeon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Rapid Strike"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Triple Draw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw 3 cards."
+      },
+      {
+        "name": "Splash Jump",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH150",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      134
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH150.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH150_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH151",
+    "name": "Jolteon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Spear",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Pin Missile",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60×",
+        "text": "Flip 4 coins. This attack does 60 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "SWSH151",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      135
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH151.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH151_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH154",
+    "name": "Dragonite V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "230",
+    "types": [
+      "Dragon"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Shred",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Dragon Gale",
+        "cost": [
+          "Water",
+          "Water",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": "This attack also does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SWSH154",
+    "artist": "Saki Hayashiro",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      149
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH154.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH154_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH155",
+    "name": "Greninja V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ninja Body",
+        "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+        "type": "Ability"
+      },
+      {
+        "name": "Antidote Jutsu",
+        "text": "This Pokémon can't be Poisoned.",
+        "type": "Ability"
+      },
+      {
+        "name": "Feel the Way",
+        "text": "Once during your turn, you may have your opponent reveal their hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Aqua Edge",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Twister Shuriken",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Waterfall Blind",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH155",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH155.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH155_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH156",
+    "name": "Greninja V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ninja Body",
+        "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+        "type": "Ability"
+      },
+      {
+        "name": "Antidote Jutsu",
+        "text": "This Pokémon can't be Poisoned.",
+        "type": "Ability"
+      },
+      {
+        "name": "Feel the Way",
+        "text": "Once during your turn, you may have your opponent reveal their hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Aqua Edge",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Twister Shuriken",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Waterfall Blind",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH156",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH156.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH156_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH157",
+    "name": "Greninja V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ninja Body",
+        "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+        "type": "Ability"
+      },
+      {
+        "name": "Antidote Jutsu",
+        "text": "This Pokémon can't be Poisoned.",
+        "type": "Ability"
+      },
+      {
+        "name": "Feel the Way",
+        "text": "Once during your turn, you may have your opponent reveal their hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Aqua Edge",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Twister Shuriken",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Waterfall Blind",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH157",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH157.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH157_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH158",
+    "name": "Greninja V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ninja Body",
+        "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+        "type": "Ability"
+      },
+      {
+        "name": "Antidote Jutsu",
+        "text": "This Pokémon can't be Poisoned.",
+        "type": "Ability"
+      },
+      {
+        "name": "Feel the Way",
+        "text": "Once during your turn, you may have your opponent reveal their hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Aqua Edge",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "130",
+        "text": ""
+      },
+      {
+        "name": "Twister Shuriken",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Waterfall Blind",
+        "cost": [
+          "Water",
+          "water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH158",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH158.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH158_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH159",
+    "name": "Mewtwo V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Photon Barrier",
+        "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Super Regeneration",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Heal 200 damage from this Pokémon."
+      },
+      {
+        "name": "Psysplosion",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+      },
+      {
+        "name": "Final Burn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "300"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH159",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH159.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH159_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH160",
+    "name": "Mewtwo V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Photon Barrier",
+        "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Super Regeneration",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Heal 200 damage from this Pokémon."
+      },
+      {
+        "name": "Psysplosion",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+      },
+      {
+        "name": "Final Burn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "300"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH160",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH160.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH160_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH161",
+    "name": "Mewtwo V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Photon Barrier",
+        "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Super Regeneration",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Heal 200 damage from this Pokémon."
+      },
+      {
+        "name": "Psysplosion",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+      },
+      {
+        "name": "Final Burn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "300"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH161",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH161.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH161_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH162",
+    "name": "Mewtwo V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "300",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Photon Barrier",
+        "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Super Regeneration",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Heal 200 damage from this Pokémon."
+      },
+      {
+        "name": "Psysplosion",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+      },
+      {
+        "name": "Final Burn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "300"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH162",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH162.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH162_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH163",
+    "name": "Zacian V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Dance of the Crowned Sword",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Steel Cut",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": ""
+      },
+      {
+        "name": "Master Blade",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "340",
+        "hp": "320",
+        "types": [
+          "Metal"
+        ],
+        "rules": [
+          "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+          "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+          {
+            "name": "Union Gain",
+            "cost": [
+              "Colorless"
+            ],
+            "convertedEnergyCost": 1,
+            "damage": "",
+            "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+          },
+          {
+            "name": "Dance of the Crowned Sword",
+            "cost": [
+              "Metal",
+              "Metal",
+              "Colorless"
+            ],
+            "convertedEnergyCost": 3,
+            "damage": "150",
+            "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+          },
+          {
+            "name": "Steel Cut",
+            "cost": [
+              "Metal",
+              "Metal",
+              "Colorless"
+            ],
+            "convertedEnergyCost": 3,
+            "damage": "200",
+            "text": ""
+          },
+          {
+            "name": "Master Blade",
+            "cost": [
+              "Metal",
+              "Metal",
+              "Metal",
+              "Colorless"
+            ],
+            "convertedEnergyCost": 4,
+            "damage": "340",
+            "text": "Discard 3 Energy from this Pokémon."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fire",
+            "value": "×2"
+          }
+        ],
+        "resistances": [
+          {
+            "type": "Grass",
+            "value": "-30"
+          }
+        ],
+        "retreatCost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "text": "Discard 3 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH163",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      888
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH163.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH163_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH164",
+    "name": "Zacian V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Dance of the Crowned Sword",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Steel Cut",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": ""
+      },
+      {
+        "name": "Master Blade",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "340",
+        "text": "Discard 3 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH164",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      888
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH164.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH164_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH165",
+    "name": "Zacian V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Dance of the Crowned Sword",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Steel Cut",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": ""
+      },
+      {
+        "name": "Master Blade",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "340",
+        "text": "Discard 3 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH165",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      888
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH165.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH165_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH166",
+    "name": "Zacian V-UNION",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "V-UNION"
+    ],
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "How to play a Pokémon V-UNION: Once per game during your turn, combine 4 different Pikachu V-UNION from your discard pile and put them onto your Bench.",
+      "V-UNION rule: When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Union Gain",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Dance of the Crowned Sword",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Steel Cut",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": ""
+      },
+      {
+        "name": "Master Blade",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "340",
+        "text": "Discard 3 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH166",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      888
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH166.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH166_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH167",
+    "name": "Professor Burnet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 cards and discard them. Then, shuffle your deck.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "SWSH167",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH167.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH167_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH167",
+    "name": "Professor Burnet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 cards and discard them. Then, shuffle your deck.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "SWSH167",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH167.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH167_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH168",
+    "name": "Oricorio",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Fusion Strike"
+    ],
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "abilities": [
+      {
+        "name": "Lesson in Zeal",
+        "text": "All of your Fusion Strike Pokémon take 20 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). You can't apply more than 1 Lesson in Zeal Ability at a time.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Glistening Droplets",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put 5 damage counters on your opponent's Pokémon in any way you like."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH168",
+    "artist": "otumami",
+    "rarity": "Promo",
+    "flavorText": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
+    "nationalPokedexNumbers": [
+      741
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH168.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH168_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH169",
+    "name": "Pyukumuku",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "abilities": [
+      {
+        "name": "Pitch a Pyukumuku",
+        "text": "Once during your turn, if this Pokémon is in your hand, you may reveal it and put it on the bottom of your deck. If you do, draw a card. You can't use more than 1 Pitch a Pyukumuku Ability each turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Knuckle Punch",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH169",
+    "artist": "Narumi Sato",
+    "rarity": "Promo",
+    "flavorText": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+    "nationalPokedexNumbers": [
+      771
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH169.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH169_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH170",
+    "name": "Deoxys",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Fusion Strike",
+      "Single Strike",
+      "Rapid Strike"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Photon Boost",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "If this Pokémon has any Fusion Strike Energy attached, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH170",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "flavorText": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+    "nationalPokedexNumbers": [
+      386
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH170.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH170_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH171",
+    "name": "Latias",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Fusion Strike"
+    ],
+    "hp": "120",
+    "types": [
+      "Dragon"
+    ],
+    "abilities": [
+      {
+        "name": "Red Assist",
+        "text": "Once during your turn, you may attach a Psychic Energy card from your hand to 1 of your Latios.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dyna Barrier",
+        "cost": [
+          "Fire",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon VMAX."
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH171",
+    "artist": "takuyoa",
+    "rarity": "Promo",
+    "flavorText": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+    "nationalPokedexNumbers": [
+      380
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH171.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH171_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH172",
+    "name": "Tepig",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Single Strike"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Pignite"
+    ],
+    "attacks": [
+      {
+        "name": "Ram",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH172",
+    "artist": "Eri Yamaki",
+    "rarity": "Promo",
+    "flavorText": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
+    "nationalPokedexNumbers": [
+      498
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH172.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH172_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH173",
+    "name": "Blitzle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Rapid Strike"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Zebstrika"
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Spear",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH173",
+    "artist": "Oswaldo KATO",
+    "rarity": "Promo",
+    "flavorText": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+    "nationalPokedexNumbers": [
+      522
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH173.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH173_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH174",
+    "name": "Espeon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Psy Bolt",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH174",
+    "artist": "Tika Matsuno",
+    "rarity": "Promo",
+    "flavorText": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
+    "nationalPokedexNumbers": [
+      196
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH174.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH174_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH175",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ],
+    "attacks": [
+      {
+        "name": "Be Prepared",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach a basic Energy card from your hand to this Pokémon."
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "SWSH175",
+    "artist": "Tika Matsuno",
+    "rarity": "Promo",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH175.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH175_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH176",
+    "name": "Hoopa V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Fusion Strike"
+    ],
+    "hp": "220",
+    "types": [
+      "Darkness"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Two-Faced",
+        "text": "As long as this Pokémon is in play, it is Psychic and Darkness type.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Shadow Impact",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170",
+        "text": "Put 3 damage counters on 1 of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH176",
+    "artist": "takuyoa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      720
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH176.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH176_hires.png"
+    }
+  },
+  {
     "id": "swshp-SWSH178",
     "name": "Professor's Research",
     "supertype": "Trainer",
@@ -8081,6 +11309,359 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH178.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH178_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH179",
+    "name": "Flareon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Single Strike"
+    ],
+    "hp": "210",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Flaming Breath",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Scorching Column",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH179",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      136
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH179.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH179_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH180",
+    "name": "Flareon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX",
+      "Single Strike"
+    ],
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Flareon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Detonate",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100×",
+        "text": "Discard the top 5 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH180",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      136
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH180.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH180_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH181",
+    "name": "Vaporeon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Rapid Strike"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Triple Draw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw 3 cards."
+      },
+      {
+        "name": "Splash Jump",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH181",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      134
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH181.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH181_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH182",
+    "name": "Vaporeon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX",
+      "Rapid Strike"
+    ],
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Vaporeon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Bubble Pod",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put a Water Pokémon from your discard pile onto your Bench. If you do, attach up to 3 Water Energy cards from your discard pile to that Pokémon."
+      },
+      {
+        "name": "Max Torrent",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH182",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      134
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH182.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH182_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH183",
+    "name": "Jolteon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Spear",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Pin Missile",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60×",
+        "text": "Flip 4 coins. This attack does 60 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "SWSH183",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      135
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH183.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH183_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH184",
+    "name": "Jolteon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Jolteon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Thunder Rumble",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100",
+        "text": "This attack also does 100 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "SWSH184",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      135
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH184.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH184_hires.png"
     }
   }
 ]
