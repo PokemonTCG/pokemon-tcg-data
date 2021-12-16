@@ -8129,6 +8129,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Drakloak",
+    "rules": [
+      "(This card cannot be used at official tournaments.)"
+    ],
     "attacks": [
       {
         "name": "Mach Turn",
@@ -8170,9 +8173,6 @@
       887
     ],
     "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
     },
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH132.png",
@@ -8301,14 +8301,19 @@
   },
   {
     "id": "swshp-SWSH135",
-    "name": "Zacian",
+    "name": "Zacian LV.X",
     "supertype": "Pokémon",
     "subtypes": [
-      "BREAK"
+      "Level-Up"
     ],
+    "level": "X",
     "hp": "160",
     "types": [
       "Metal"
+    ],
+    "rules": [
+      "(This card cannot be used at official tournaments.)",
+      "Put this card onto your Active Zacian. Zacian LV.X can use any attack, Poké-Power, or Poké-Body from its previous Level."
     ],
     "abilities": [
       {
@@ -8348,15 +8353,12 @@
     ],
     "convertedRetreatCost": 2,
     "number": "SWSH135",
-    "artist": "5ban GraphicsLV.X",
+    "artist": "5ban Graphics",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       888
     ],
     "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
     },
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH135.png",
@@ -8365,7 +8367,7 @@
   },
   {
     "id": "swshp-SWSH136",
-    "name": "Mimikyu",
+    "name": "Mimikyu δ",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
@@ -8373,6 +8375,9 @@
     "hp": "70",
     "types": [
       "Water"
+    ],
+    "rules": [
+      "(This card cannot be used at official tournaments.)"
     ],
     "attacks": [
       {
@@ -8412,9 +8417,6 @@
       778
     ],
     "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
     },
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH136.png",
@@ -8428,11 +8430,15 @@
     "subtypes": [
       "Stage 1"
     ],
+    "level": "65",
     "hp": "120",
     "types": [
       "Lightning"
     ],
     "evolvesFrom": "Toxel",
+    "rules": [
+      "(This card cannot be used at official tournaments.)"
+    ],
     "attacks": [
       {
         "name": "Slow Ballad",
@@ -8467,16 +8473,13 @@
     ],
     "convertedRetreatCost": 2,
     "number": "SWSH137",
-    "artist": "Naoyo KimuraLV.65",
+    "artist": "Naoyo Kimura",
     "rarity": "Promo",
     "flavorText": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
     "nationalPokedexNumbers": [
       849
     ],
     "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
     },
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH137.png",
@@ -8490,9 +8493,13 @@
     "subtypes": [
       "Basic"
     ],
+    "level": "61",
     "hp": "110",
     "types": [
       "Darkness"
+    ],
+    "rules": [
+      "(This card cannot be used at official tournaments.)"
     ],
     "attacks": [
       {
@@ -8529,15 +8536,12 @@
     ],
     "convertedRetreatCost": 2,
     "number": "SWSH138",
-    "artist": "kawayooLV.61",
+    "artist": "kawayoo",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       635
     ],
     "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
     },
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH138.png",
@@ -8964,6 +8968,10 @@
     "types": [
       "Darkness"
     ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck.",
+      "(This card cannot be used at official tournaments.)"
+    ],
     "abilities": [
       {
         "name": "Shadow Knife",
@@ -9001,9 +9009,6 @@
       658
     ],
     "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
     },
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH144.png",
