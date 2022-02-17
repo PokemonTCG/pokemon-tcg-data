@@ -11779,5 +11779,261 @@
       "small": "https://images.pokemontcg.io/swshp/SWSH184.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH184_hires.png"
     }
+  },
+  {
+    "id": "swshp-SWSH194",
+    "name": "Leafeon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Leaf Guard",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Slashing Strike",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your next turn, this Pokémon can't use Slashing Strike."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH194",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      470
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH194.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH194_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH195",
+    "name": "Leafeon VSTAR",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "hp": "260",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Leafeon V",
+    "rules": [
+      "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ivy Star",
+        "text": "During your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon. (You can't use more than 1 VSTAR Power in a game.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Leaf Guard",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH195",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      470
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH195.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH195_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH196",
+    "name": "Glaceon V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Frost Charge",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Search your deck for a Water Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Freezing Wind",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH196",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      471
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH196.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH196_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH197",
+    "name": "Glaceon VSTAR",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "hp": "260",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Glaceon V",
+    "rules": [
+      "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Icicle Shot",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      },
+      {
+        "name": "Crystal Star",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "During your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH197",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      471
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH197.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH197_hires.png"
+    }
   }
 ]
