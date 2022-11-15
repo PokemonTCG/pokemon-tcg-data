@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "swsh12tg-TG01",
+    "name": "Braixen",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Fennekin",
+    "evolvesTo": [
+      "Delphox"
+    ],
+    "attacks": [
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Flare Parade",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60×",
+        "text": "This attack does 60 damage for each Serena card in your discard pile."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG01",
+    "artist": "Naoki Saito",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+    "nationalPokedexNumbers": [
+      654
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG01.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG01_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG02",
+    "name": "Milotic",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Feebas",
+    "attacks": [
+      {
+        "name": "Water Arrow",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Mellow Wave",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG02",
+    "artist": "chibi",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
+    "nationalPokedexNumbers": [
+      350
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG02.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG02_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG03",
+    "name": "Flaaffy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Mareep",
+    "evolvesTo": [
+      "Ampharos"
+    ],
+    "abilities": [
+      {
+        "name": "Dynamotor",
+        "text": "Once during your turn (before your attack), you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG03",
+    "artist": "saino misaki",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
+    "nationalPokedexNumbers": [
+      180
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG03.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG03_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG04",
+    "name": "Jynx",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "100",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Selfish Lips",
+        "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon V, your opponent can't take any Prize cards for it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psychic Assault",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG04",
+    "artist": "HYOGONOSUKE",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+    "nationalPokedexNumbers": [
+      124
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG04.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG04_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG05",
+    "name": "Gardevoir",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Kirlia",
+    "abilities": [
+      {
+        "name": "Refinement",
+        "text": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Magical Shot",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG05",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
+    "nationalPokedexNumbers": [
+      282
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG05.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG05_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG06",
+    "name": "Malamar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "Rapid Strike"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Inkay",
+    "attacks": [
+      {
+        "name": "Rapid Strike Tentacles",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40×",
+        "text": "Reveal any number of Rapid Strike cards from your hand. This attack does 40 damage for each card you revealed in this way. Then, shuffle those cards into your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "TG06",
+    "artist": "Fumie Kittaka",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "It's said that Malamar's hypnotic powers played a role in certain history-changing events.",
+    "nationalPokedexNumbers": [
+      687
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG06.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG06_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG07",
+    "name": "Rockruff",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Single Strike"
+    ],
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [
+      "Lycanroc"
+    ],
+    "attacks": [
+      {
+        "name": "Crunch",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG07",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+    "nationalPokedexNumbers": [
+      744
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG07.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG07_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG08",
+    "name": "Passimian",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Rapid Strike"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "abilities": [
+      {
+        "name": "Throwing Coach",
+        "text": "Your Rapid Strike Pokémon's attacks do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX (before applying Weakness and Resistance). You can't apply more than 1 Throwing Coach Ability at a time.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fling",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG08",
+    "artist": "nagimiso",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
+    "nationalPokedexNumbers": [
+      766
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG08.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG08_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG09",
+    "name": "Druddigon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Revenge",
+        "cost": [
+          "Fire",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40+",
+        "text": "If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, this attack does 120 more damage."
+      },
+      {
+        "name": "Dragon Claw",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG09",
+    "artist": "Teeziro",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
+    "nationalPokedexNumbers": [
+      621
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG09.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG09_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG10",
+    "name": "Smeargle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Colorful Palette",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Look at the top 5 cards of your deck. You may attach any number of basic Energy cards you find there to 1 of your Pokémon. Shuffle the other cards back into your deck."
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG10",
+    "artist": "KIYOTAKA OSHIYAMA",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
+    "nationalPokedexNumbers": [
+      235
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG10.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG10_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG11",
+    "name": "Altaria",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Swablu",
+    "attacks": [
+      {
+        "name": "Magical Echo",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Move all damage counters from 1 of your Benched Pokémon to your opponent's Active Pokémon."
+      },
+      {
+        "name": "Blasting Wind",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG11",
+    "artist": "Yuu Nishida",
+    "rarity": "Trainer Gallery Rare Holo",
+    "flavorText": "As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",
+    "nationalPokedexNumbers": [
+      334
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG11.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG11_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG12",
+    "name": "Kricketune V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "180",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Exciting Stage",
+        "text": "Once during your turn, you may draw cards until you have 3 cards in your hand. If this Pokémon is in the Active Spot, you may draw cards until you have 4 cards in your hand instead. You can't use more than 1 Exciting Stage Ability each turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "X-Scissor",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "Flip a coin. If heads, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG12",
+    "artist": "HYOGONOSUKE",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      402
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG12.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG12_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG13",
+    "name": "Serperior V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Noble Light",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal 30 damage from each Pokémon (both yours and your opponent's)."
+      },
+      {
+        "name": "Solar Beam",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG13",
+    "artist": "Teeziro",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      497
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG13.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG13_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG14",
+    "name": "Blaziken V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Rapid Strike"
+    ],
+    "hp": "210",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "High Jump Kick",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Fire Spin",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "210",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG14",
+    "artist": "nagimiso",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      257
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG14.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG14_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG15",
+    "name": "Blaziken VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX",
+      "Rapid Strike"
+    ],
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Blaziken V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Clutch",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      },
+      {
+        "name": "Max Blaze",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130",
+        "text": "Choose up to 2 of your Benched Rapid Strike Pokémon and attach an Energy card from your discard pile to each of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG15",
+    "artist": "KIYOTAKA OSHIYAMA",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      257
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG15.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG15_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG16",
+    "name": "Zeraora V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Rapid Strike"
+    ],
+    "hp": "210",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Cross Fist",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "If 1 of your other Rapid Strike Pokémon used an attack during your last turn, this attack also does 160 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG16",
+    "artist": "yuu",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      807
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG16.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG16_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG17",
+    "name": "Mawile V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "200",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Pouty Slap",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+      },
+      {
+        "name": "Chomp Down",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG17",
+    "artist": "saino misaki",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      303
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG17.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG17_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG18",
+    "name": "Corviknight V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Clutch",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      },
+      {
+        "name": "Sky Hurricane",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "190",
+        "text": "During your next turn, this Pokémon can't use Sky Hurricane."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "TG18",
+    "artist": "KIYOTAKA OSHIYAMA",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      823
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG18.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG18_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG19",
+    "name": "Corviknight VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Corviknight V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Lustrous Body",
+        "text": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Hurricane",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't use G-Max Hurricane."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "number": "TG19",
+    "artist": "Shigenori Negishi",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      823
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG19.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG19_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG20",
+    "name": "Rayquaza VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX",
+      "Rapid Strike"
+    ],
+    "hp": "320",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Rayquaza V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Azure Pulse",
+        "text": "Once during your turn, you may discard your hand and draw 3 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Burst",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG20",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      384
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG20.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG20_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG21",
+    "name": "Duraludon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX",
+      "Single Strike"
+    ],
+    "hp": "330",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Duraludon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Skyscraper",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Pulverization",
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "TG21",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      884
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG21.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG21_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG22",
+    "name": "Blissey V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "250",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Natural Cure",
+        "text": "Whenever you attach an Energy card from your hand to this Pokémon, remove all Special Conditions from it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Blissful Blast",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "This attack does 30 more damage for each Energy attached to this Pokémon. If you did any damage with this attack, you may attach up to 3 Energy cards from your discard pile to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "TG22",
+    "artist": "You Iribi",
+    "rarity": "Trainer Gallery Rare Holo V",
+    "nationalPokedexNumbers": [
+      242
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG22.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG22_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG23",
+    "name": "Friends in Galar",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "TG23",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Trainer Gallery Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG23.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG23_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG24",
+    "name": "Gordie",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at the top 7 cards of your deck. You may reveal any number of Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "TG24",
+    "artist": "Ryuta Fuse",
+    "rarity": "Trainer Gallery Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG24.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG24_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG25",
+    "name": "Judge",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand into their deck and draws 4 cards.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "TG25",
+    "artist": "Ryuta Fuse",
+    "rarity": "Trainer Gallery Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG25.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG25_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG26",
+    "name": "Professor Burnet",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 2 cards and discard them. Then, shuffle your deck.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "TG26",
+    "artist": "kirisAki",
+    "rarity": "Trainer Gallery Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG26.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG26_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG27",
+    "name": "Raihan",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if any of your Pokémon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "TG27",
+    "artist": "take",
+    "rarity": "Trainer Gallery Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG27.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG27_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG28",
+    "name": "Sordward & Shielbert",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose a Trainer card from your discard pile. Then, ask your opponent if you may put it into your hand. If yes, put that card into your hand. If no, draw 3 cards.",
+      "Supporter rule: You may play only 1 Supporter card during your turn."
+    ],
+    "number": "TG28",
+    "artist": "nagimiso",
+    "rarity": "Trainer Gallery Rare Ultra",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG28.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG28_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG29",
+    "name": "Rayquaza VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX",
+      "Rapid Strike"
+    ],
+    "hp": "320",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Rayquaza V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Azure Pulse",
+        "text": "Once during your turn, you may discard your hand and draw 3 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Burst",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "TG29",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Trainer Gallery Rare Secret",
+    "nationalPokedexNumbers": [
+      384
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG29.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG29_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG30",
+    "name": "Duraludon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX",
+      "Single Strike"
+    ],
+    "hp": "330",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Duraludon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Skyscraper",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Pulverization",
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "TG30",
+    "artist": "PLANETA Mochizuki",
+    "rarity": "Trainer Gallery Rare Secret",
+    "nationalPokedexNumbers": [
+      884
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG30.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG30_hires.png"
+    }
+  }
+]
