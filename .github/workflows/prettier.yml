@@ -1,15 +1,16 @@
-name: Prettier Workflow
+name: Continuous Integration
 
 on:
   pull_request:
   push:
     branches:
       - master
-      - add-prettier
+      - main
 
 jobs:
   prettier:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout
