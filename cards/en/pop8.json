@@ -3,33 +3,21 @@
     "id": "pop8-1",
     "name": "Heatran",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "41",
     "hp": "100",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "attacks": [
       {
         "name": "Body Slam",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Fire Spin",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Fire", "Fire", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "90",
         "text": "Discard 2 Basic Energy cards attached to Heatran. (If you can't discard cards, this attack does nothing."
@@ -41,19 +29,13 @@
         "value": "+30"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 3,
     "number": "1",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
     "flavorText": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
-    "nationalPokedexNumbers": [
-      485
-    ],
+    "nationalPokedexNumbers": [485],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -66,33 +48,22 @@
     "id": "pop8-2",
     "name": "Lucario",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "49",
     "hp": "90",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "evolvesFrom": "Riolu",
     "attacks": [
       {
         "name": "Blocking Punch",
-        "cost": [
-          "Metal",
-          "Colorless"
-        ],
+        "cost": ["Metal", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "40",
         "text": "During your opponent's next turn, any damage done to Lucario by attacks is reduced by 20 (after applying Weakness and Resistance)."
       },
       {
         "name": "Striking Kick",
-        "cost": [
-          "Fighting",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Fighting", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "60",
         "text": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon"
@@ -104,17 +75,13 @@
         "value": "+20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "2",
     "artist": "Kent Kanetsuna",
     "rarity": "Rare",
     "flavorText": "By catching the aura emanating from others, it can read their thoughts and movements.",
-    "nationalPokedexNumbers": [
-      448
-    ],
+    "nationalPokedexNumbers": [448],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -127,14 +94,10 @@
     "id": "pop8-3",
     "name": "Luxray",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "level": "45",
     "hp": "120",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "evolvesFrom": "Luxio",
     "abilities": [
       {
@@ -146,12 +109,7 @@
     "attacks": [
       {
         "name": "Thunder",
-        "cost": [
-          "Lightning",
-          "Lightning",
-          "Lightning",
-          "Colorless"
-        ],
+        "cost": ["Lightning", "Lightning", "Lightning", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "120",
         "text": "Flip a coin. If tails, Luxray does 40 damage to itself."
@@ -169,17 +127,13 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "3",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
     "flavorText": "When its eyes gleam gold, it can spot hiding prey–even those taking shelter behind a wall.",
-    "nationalPokedexNumbers": [
-      405
-    ],
+    "nationalPokedexNumbers": [405],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -192,33 +146,22 @@
     "id": "pop8-4",
     "name": "Probopass",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "44",
     "hp": "90",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "evolvesFrom": "Nosepass",
     "attacks": [
       {
         "name": "Rock Slide",
-        "cost": [
-          "Fighting",
-          "Colorless"
-        ],
+        "cost": ["Fighting", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Triple Nose",
-        "cost": [
-          "Metal",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Metal", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "50+",
         "text": "Flip 3 coins. This attack does 50 damage plus 20 more damage for each heads."
@@ -236,19 +179,13 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 3,
     "number": "4",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
     "flavorText": "It exudes strong magnetium from all cover. It controls three small units called Mini-Noses.",
-    "nationalPokedexNumbers": [
-      476
-    ],
+    "nationalPokedexNumbers": [476],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -261,33 +198,22 @@
     "id": "pop8-5",
     "name": "Yanmega",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "42",
     "hp": "90",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Yanma",
     "attacks": [
       {
         "name": "Supersonic",
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       },
       {
         "name": "Air Slash",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "70",
         "text": "Flip a coin. If tails, discard an Energy attached to Yanmega."
@@ -309,9 +235,7 @@
     "artist": "Ken Sugimori",
     "rarity": "Rare",
     "flavorText": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
-    "nationalPokedexNumbers": [
-      469
-    ],
+    "nationalPokedexNumbers": [469],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -324,31 +248,22 @@
     "id": "pop8-6",
     "name": "Cherrim",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "26",
     "hp": "80",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Cherubi",
     "attacks": [
       {
         "name": "Worry Seed",
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "convertedEnergyCost": 1,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       },
       {
         "name": "Magical Leaf",
-        "cost": [
-          "Grass",
-          "Grass"
-        ],
+        "cost": ["Grass", "Grass"],
         "convertedEnergyCost": 2,
         "damage": "20+",
         "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and remove 3 damage counters from Cherrim."
@@ -366,18 +281,13 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "6",
     "artist": "Atsuko Nishida",
     "rarity": "Uncommon",
     "flavorText": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
-    "nationalPokedexNumbers": [
-      421
-    ],
+    "nationalPokedexNumbers": [421],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -390,31 +300,21 @@
     "id": "pop8-7",
     "name": "Carnivine",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "32",
     "hp": "70",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "attacks": [
       {
         "name": "Swallow Up",
-        "cost": [
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": "Before doing damage, count the remaining HP of the Defending Pokémon and Carnivine. If the Defending Pokémon has fewer remaining HP than Carnivine's, this attack does 60 damage instead."
       },
       {
         "name": "Wring Out",
-        "cost": [
-          "Grass",
-          "Grass"
-        ],
+        "cost": ["Grass", "Grass"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and discard an Energy card attached to the Defending Pokémon."
@@ -432,17 +332,13 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Kouki Saitou",
     "rarity": "Uncommon",
     "flavorText": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
-    "nationalPokedexNumbers": [
-      455
-    ],
+    "nationalPokedexNumbers": [455],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -455,34 +351,23 @@
     "id": "pop8-8",
     "name": "Luxio",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "19",
     "hp": "80",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "evolvesFrom": "Shinx",
-    "evolvesTo": [
-      "Luxray"
-    ],
+    "evolvesTo": ["Luxray"],
     "attacks": [
       {
         "name": "Fasten Claw",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10+",
         "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
       },
       {
         "name": "Thunder Fang",
-        "cost": [
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -504,9 +389,7 @@
     "artist": "Kagemaru Himeno",
     "rarity": "Uncommon",
     "flavorText": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
-    "nationalPokedexNumbers": [
-      404
-    ],
+    "nationalPokedexNumbers": [404],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -557,9 +440,7 @@
     "id": "pop8-11",
     "name": "Roseanne's Research",
     "supertype": "Trainer",
-    "subtypes": [
-      "Supporter"
-    ],
+    "subtypes": ["Supporter"],
     "rules": [
       "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
       "Search your deck for up to 2 in any combination of Basic Pokémon and basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -579,33 +460,22 @@
     "id": "pop8-12",
     "name": "Chimchar",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "8",
     "hp": "50",
-    "types": [
-      "Fire"
-    ],
-    "evolvesTo": [
-      "Monferno"
-    ],
+    "types": ["Fire"],
+    "evolvesTo": ["Monferno"],
     "attacks": [
       {
         "name": "Scratch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Ember",
-        "cost": [
-          "Fire",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar."
@@ -617,17 +487,13 @@
         "value": "+10"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "12",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
     "flavorText": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
-    "nationalPokedexNumbers": [
-      390
-    ],
+    "nationalPokedexNumbers": [390],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -640,33 +506,22 @@
     "id": "pop8-13",
     "name": "Croagunk",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "17",
     "hp": "60",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesTo": [
-      "Toxicroak"
-    ],
+    "types": ["Psychic"],
+    "evolvesTo": ["Toxicroak"],
     "attacks": [
       {
         "name": "Ghastly Sound",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, your opponent can't play any Supporter cards from his or her hand during his or her next turn."
       },
       {
         "name": "Finger Poke",
-        "cost": [
-          "Psychic",
-          "Psychic"
-        ],
+        "cost": ["Psychic", "Psychic"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
@@ -678,17 +533,13 @@
         "value": "+10"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "13",
     "artist": "Kouki Saitou",
     "rarity": "Common",
     "flavorText": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
-    "nationalPokedexNumbers": [
-      453
-    ],
+    "nationalPokedexNumbers": [453],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -701,17 +552,11 @@
     "id": "pop8-14",
     "name": "Happiny",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "8",
     "hp": "60",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Chansey"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Chansey"],
     "abilities": [
       {
         "name": "Baby Evolution",
@@ -722,9 +567,7 @@
     "attacks": [
       {
         "name": "Lively",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 2 damage counters from 1 of your Pokémon."
@@ -736,17 +579,13 @@
         "value": "+10"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "14",
     "artist": "Yuka Morii",
     "rarity": "Common",
     "flavorText": "It loves round white things. It carries an egg-shaped rock in imitation of CHANSEY.",
-    "nationalPokedexNumbers": [
-      440
-    ],
+    "nationalPokedexNumbers": [440],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -759,33 +598,22 @@
     "id": "pop8-15",
     "name": "Piplup",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "9",
     "hp": "60",
-    "types": [
-      "Water"
-    ],
-    "evolvesTo": [
-      "Prinplup"
-    ],
+    "types": ["Water"],
+    "evolvesTo": ["Prinplup"],
     "attacks": [
       {
         "name": "Peck",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Water Splash",
-        "cost": [
-          "Water",
-          "Colorless"
-        ],
+        "cost": ["Water", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20+",
         "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
@@ -797,17 +625,13 @@
         "value": "+10"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "15",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
     "flavorText": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
-    "nationalPokedexNumbers": [
-      393
-    ],
+    "nationalPokedexNumbers": [393],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -820,17 +644,11 @@
     "id": "pop8-16",
     "name": "Riolu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "6",
     "hp": "50",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Lucario"
-    ],
+    "types": ["Fighting"],
+    "evolvesTo": ["Lucario"],
     "abilities": [
       {
         "name": "Inner Focus",
@@ -841,9 +659,7 @@
     "attacks": [
       {
         "name": "Quick Attack",
-        "cost": [
-          "Fighting"
-        ],
+        "cost": ["Fighting"],
         "convertedEnergyCost": 1,
         "damage": "10+",
         "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
@@ -855,17 +671,13 @@
         "value": "+10"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "16",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
     "flavorText": "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
-    "nationalPokedexNumbers": [
-      447
-    ],
+    "nationalPokedexNumbers": [447],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -878,32 +690,22 @@
     "id": "pop8-17",
     "name": "Turtwig",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "10",
     "hp": "60",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Grotle"
-    ],
+    "types": ["Grass"],
+    "evolvesTo": ["Grotle"],
     "attacks": [
       {
         "name": "Tackle",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Razor Leaf",
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "convertedEnergyCost": 1,
         "damage": "20",
         "text": ""
@@ -921,18 +723,13 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "17",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
     "flavorText": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
-    "nationalPokedexNumbers": [
-      387
-    ],
+    "nationalPokedexNumbers": [387],
     "legalities": {
       "unlimited": "Legal"
     },

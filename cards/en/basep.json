@@ -3,33 +3,22 @@
     "id": "basep-1",
     "name": "Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "16",
     "hp": "60",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Growl",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "If the Defending Pokémon attacks Pikachu during your opponent's next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
       },
       {
         "name": "Thundershock",
-        "cost": [
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -41,17 +30,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "1",
     "artist": "Keiji Kinebuchi",
     "rarity": "Promo",
     "flavorText": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -64,33 +49,22 @@
     "id": "basep-2",
     "name": "Electabuzz",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "20",
     "hp": "60",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Electivire"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Electivire"],
     "attacks": [
       {
         "name": "Light Screen",
-        "cost": [
-          "Lightning"
-        ],
+        "cost": ["Lightning"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Whenever an attack does damage to Electabuzz (after applying Weakness and Resistance) during your opponent's next turn, that attack only does half the damage to Electabuzz (rounded down to the nearest 10). (Any other effects of attacks still happen.)"
       },
       {
         "name": "Quick Attack",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10+",
         "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
@@ -102,18 +76,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "2",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "A wild Pokémon with a short temper. It is able to distinguish colors, and likes the color red.",
-    "nationalPokedexNumbers": [
-      125
-    ],
+    "nationalPokedexNumbers": [125],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -126,31 +95,21 @@
     "id": "basep-3",
     "name": "Mewtwo",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "60",
     "hp": "70",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Energy Absorption",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose up to 2 Energy cards from your discard pile and attach them to Mewtwo."
       },
       {
         "name": "Psyburn",
-        "cost": [
-          "Psychic",
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Psychic", "Psychic", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "40",
         "text": ""
@@ -162,18 +121,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "3",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
-    "nationalPokedexNumbers": [
-      150
-    ],
+    "nationalPokedexNumbers": [150],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -186,34 +140,22 @@
     "id": "basep-4",
     "name": "Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "13",
     "hp": "50",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Recharge",
-        "cost": [
-          "Lightning"
-        ],
+        "cost": ["Lightning"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
       },
       {
         "name": "Thunderbolt",
-        "cost": [
-          "Lightning",
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning", "Lightning"],
         "convertedEnergyCost": 3,
         "damage": "50",
         "text": "Discard all Energy cards attached to Pikachu in order to use this attack."
@@ -225,17 +167,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "When several of these Pokémon gather, they attract so much electricity that they can cause lightning to strike.",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -248,14 +186,10 @@
     "id": "basep-5",
     "name": "Dragonite",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "level": "43",
     "hp": "90",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesFrom": "Dragonair",
     "abilities": [
       {
@@ -267,11 +201,7 @@
     "attacks": [
       {
         "name": "Supersonic Flight",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "60",
         "text": "Flip a coin. If tails, this attack does nothing."
@@ -283,18 +213,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "5",
     "artist": "Toshinao Aoki",
     "rarity": "Promo",
     "flavorText": "This Pokémon can fly is spite of its large bulk. It is said to be able to circumnavigate the earth in just 16 hours.",
-    "nationalPokedexNumbers": [
-      149
-    ],
+    "nationalPokedexNumbers": [149],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -307,32 +232,22 @@
     "id": "basep-6",
     "name": "Arcanine",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "34",
     "hp": "70",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "evolvesFrom": "Growlithe",
     "attacks": [
       {
         "name": "Quick Attack",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10+",
         "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
       },
       {
         "name": "Flames of Rage",
-        "cost": [
-          "Fire",
-          "Fire"
-        ],
+        "cost": ["Fire", "Fire"],
         "convertedEnergyCost": 2,
         "damage": "40+",
         "text": "Discard 2 Fire Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
@@ -344,17 +259,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "6",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "A legendary Pokémon famous for its beauty. It looks almost as if it flies when it runs.",
-    "nationalPokedexNumbers": [
-      59
-    ],
+    "nationalPokedexNumbers": [59],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -367,34 +278,22 @@
     "id": "basep-7",
     "name": "Jigglypuff",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "12",
     "hp": "50",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Wigglytuff"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Wigglytuff"],
     "attacks": [
       {
         "name": "First Aid",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Remove 1 damage counter from Jigglypuff."
       },
       {
         "name": "Double-edge",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "40",
         "text": "Jigglypuff does 20 damage to itself."
@@ -412,17 +311,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Keiji Kinebuchi",
     "rarity": "Promo",
     "flavorText": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-    "nationalPokedexNumbers": [
-      39
-    ],
+    "nationalPokedexNumbers": [39],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -435,30 +330,21 @@
     "id": "basep-8",
     "name": "Mew",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "23",
     "hp": "50",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Psywave",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "10×",
         "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon."
       },
       {
         "name": "Devolution Beam",
-        "cost": [
-          "Psychic",
-          "Psychic"
-        ],
+        "cost": ["Psychic", "Psychic"],
         "convertedEnergyCost": 2,
         "damage": "",
         "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
@@ -470,17 +356,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "8",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
-    "nationalPokedexNumbers": [
-      151
-    ],
+    "nationalPokedexNumbers": [151],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -493,30 +375,21 @@
     "id": "basep-9",
     "name": "Mew",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "51",
     "hp": "50",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Psywave",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "10×",
         "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon."
       },
       {
         "name": "Devolution Beam",
-        "cost": [
-          "Psychic",
-          "Psychic"
-        ],
+        "cost": ["Psychic", "Psychic"],
         "convertedEnergyCost": 2,
         "damage": "",
         "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
@@ -528,17 +401,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "9",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
-    "nationalPokedexNumbers": [
-      151
-    ],
+    "nationalPokedexNumbers": [151],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -551,24 +420,15 @@
     "id": "basep-10",
     "name": "Meowth",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "13",
     "hp": "50",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Persian"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Persian"],
     "attacks": [
       {
         "name": "Cat Punch",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "",
         "text": "Flip a coin. If heads, this attack does 20 damage. If tails and if your opponent has any Benched Pokémon, he or she chooses 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -586,17 +446,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "10",
     "artist": "Kagemaru Himeno",
     "rarity": "Promo",
     "flavorText": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
-    "nationalPokedexNumbers": [
-      52
-    ],
+    "nationalPokedexNumbers": [52],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -609,14 +465,10 @@
     "id": "basep-11",
     "name": "Eevee",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "7",
     "hp": "30",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesTo": [
       "Vaporeon",
       "Jolteon",
@@ -637,9 +489,7 @@
     "attacks": [
       {
         "name": "Bite",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "20",
         "text": ""
@@ -661,9 +511,7 @@
     "artist": "Kagemaru Himeno",
     "rarity": "Promo",
     "flavorText": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
-    "nationalPokedexNumbers": [
-      133
-    ],
+    "nationalPokedexNumbers": [133],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -676,31 +524,21 @@
     "id": "basep-12",
     "name": "Mewtwo",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "13",
     "hp": "60",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Energy Control",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, choose a basic Energy card attached to 1 of your opponent's Pokémon and attach it to another of your opponent's Pokémon of your choice."
       },
       {
         "name": "Telekinesis",
-        "cost": [
-          "Psychic",
-          "Psychic",
-          "Psychic"
-        ],
+        "cost": ["Psychic", "Psychic", "Psychic"],
         "convertedEnergyCost": 3,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
@@ -712,18 +550,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "12",
     "artist": "Christopher Rush",
     "rarity": "Promo",
     "flavorText": "A scientist created this Pokémon after years of horrific gene-splicing and DNA engineering experiments.",
-    "nationalPokedexNumbers": [
-      150
-    ],
+    "nationalPokedexNumbers": [150],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -736,14 +569,10 @@
     "id": "basep-13",
     "name": "Venusaur",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "level": "16",
     "hp": "100",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Ivysaur",
     "abilities": [
       {
@@ -755,12 +584,7 @@
     "attacks": [
       {
         "name": "Mega Drain",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Grass",
-          "Grass"
-        ],
+        "cost": ["Grass", "Grass", "Grass", "Grass"],
         "convertedEnergyCost": 4,
         "damage": "40",
         "text": "Remove a number of damage counters from Venusaur equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Venusaur has fewer damage counters than that, remove all of them."
@@ -772,18 +596,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "13",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
-    "nationalPokedexNumbers": [
-      3
-    ],
+    "nationalPokedexNumbers": [3],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -796,31 +615,21 @@
     "id": "basep-14",
     "name": "Mewtwo",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "60",
     "hp": "70",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Energy Absorption",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose up to 2 Energy cards from your discard pile and attach them to Mewtwo."
       },
       {
         "name": "Psyburn",
-        "cost": [
-          "Psychic",
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Psychic", "Psychic", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "40",
         "text": ""
@@ -832,18 +641,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "14",
     "artist": "Benimaru Itoh",
     "rarity": "Promo",
     "flavorText": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
-    "nationalPokedexNumbers": [
-      150
-    ],
+    "nationalPokedexNumbers": [150],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -856,36 +660,22 @@
     "id": "basep-15",
     "name": "Cool Porygon",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "15",
     "hp": "50",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Porygon2"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Porygon2"],
     "attacks": [
       {
         "name": "Texture Magic",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "",
         "text": "You may change Cool Porygon's Resistance to a type of your choice other than Colorless. If the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless. (Benching either Pokémon ends the effect on that Pokémon.)"
       },
       {
         "name": "3-D Attack",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "20×",
         "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
@@ -903,17 +693,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "15",
     "artist": "Hiromichi Sugiyama",
     "rarity": "Promo",
     "flavorText": "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.",
-    "nationalPokedexNumbers": [
-      137
-    ],
+    "nationalPokedexNumbers": [137],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -926,9 +712,7 @@
     "id": "basep-16",
     "name": "Computer Error",
     "supertype": "Trainer",
-    "subtypes": [
-      "Rocket's Secret Machine"
-    ],
+    "subtypes": ["Rocket's Secret Machine"],
     "rules": [
       "You may draw up to 5 cards, then your opponent may draw up to 5 cards. Your turn is over now (you don't get to attack)."
     ],
@@ -947,31 +731,22 @@
     "id": "basep-17",
     "name": "Dark Persian",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "28",
     "hp": "60",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesFrom": "Meowth",
     "attacks": [
       {
         "name": "Tempt",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "If your opponent has any Benched Pokémon, flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
       },
       {
         "name": "Poison Claws",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10",
         "text": "Flip a coin. if heads, the Defending Pokémon is now Poisoned."
@@ -993,9 +768,7 @@
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "Popular with women because of its beautiful fur. The leader of the Rockets keeps one as a pet.",
-    "nationalPokedexNumbers": [
-      53
-    ],
+    "nationalPokedexNumbers": [53],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1008,23 +781,15 @@
     "id": "basep-18",
     "name": "Team Rocket's Meowth",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "30",
     "hp": "40",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Persian"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Persian"],
     "attacks": [
       {
         "name": "Miraculous Comeback",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a number of coins equal to the number of Pokémon in play. This attack does 10 damage times the number of heads. Then Team Rocket's Meowth does 10 damage times the number of tails to itself."
@@ -1042,17 +807,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "18",
     "artist": "Kunihiko Yuyama",
     "rarity": "Promo",
     "flavorText": "This Pokémon is more active at night. It likes bright, shiny things and cannot resist taking them and adding them to its collection.",
-    "nationalPokedexNumbers": [
-      52
-    ],
+    "nationalPokedexNumbers": [52],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1065,33 +826,22 @@
     "id": "basep-19",
     "name": "Sabrina's Abra",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "15",
     "hp": "40",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesTo": [
-      "Kadabra"
-    ],
+    "types": ["Psychic"],
+    "evolvesTo": ["Kadabra"],
     "attacks": [
       {
         "name": "Pound",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Synchronize",
-        "cost": [
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Psychic", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "40",
         "text": "This attack can't be used unless Sabrina's Abra and the Defending Pokémon have the same number of Energy cards attached to them."
@@ -1106,9 +856,7 @@
     "number": "19",
     "artist": "Atsuko Nishida",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      63
-    ],
+    "nationalPokedexNumbers": [63],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1121,32 +869,22 @@
     "id": "basep-20",
     "name": "Psyduck",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "15",
     "hp": "50",
-    "types": [
-      "Water"
-    ],
-    "evolvesTo": [
-      "Golduck"
-    ],
+    "types": ["Water"],
+    "evolvesTo": ["Golduck"],
     "attacks": [
       {
         "name": "Headache",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Your opponent can't play Trainer cards during his or her next turn."
       },
       {
         "name": "Fury Swipes",
-        "cost": [
-          "Water"
-        ],
+        "cost": ["Water"],
         "convertedEnergyCost": 1,
         "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
@@ -1158,17 +896,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "20",
     "artist": "Kagemaru Himeno",
     "rarity": "Promo",
     "flavorText": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
-    "nationalPokedexNumbers": [
-      54
-    ],
+    "nationalPokedexNumbers": [54],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1181,22 +915,14 @@
     "id": "basep-21",
     "name": "Moltres",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "33",
     "hp": "70",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "attacks": [
       {
         "name": "Hyper Flame",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Fire"
-        ],
+        "cost": ["Fire", "Fire", "Fire"],
         "convertedEnergyCost": 3,
         "damage": "60",
         "text": "Flip a coin. If heads, discard 1 Fire Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing."
@@ -1208,17 +934,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "21",
     "artist": "Toshinao Aoki",
     "rarity": "Promo",
     "flavorText": "The flames on this legendary Pokémon's wings burn so brightly that they can make night seem like day.",
-    "nationalPokedexNumbers": [
-      146
-    ],
+    "nationalPokedexNumbers": [146],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1231,22 +953,14 @@
     "id": "basep-22",
     "name": "Articuno",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "34",
     "hp": "70",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "attacks": [
       {
         "name": "Diamond Dust",
-        "cost": [
-          "Water",
-          "Water",
-          "Water"
-        ],
+        "cost": ["Water", "Water", "Water"],
         "convertedEnergyCost": 3,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -1258,17 +972,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "22",
     "artist": "Toshinao Aoki",
     "rarity": "Promo",
     "flavorText": "This legendary Pokémon is said to freeze the water in the air during winter, causing snow.",
-    "nationalPokedexNumbers": [
-      144
-    ],
+    "nationalPokedexNumbers": [144],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1281,22 +991,14 @@
     "id": "basep-23",
     "name": "Zapdos",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "30",
     "hp": "70",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "attacks": [
       {
         "name": "Lightning Burn",
-        "cost": [
-          "Lightning",
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning", "Lightning"],
         "convertedEnergyCost": 3,
         "damage": "30",
         "text": "Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, Zapdos does 30 damage to itself."
@@ -1308,17 +1010,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "23",
     "artist": "Toshinao Aoki",
     "rarity": "Promo",
     "flavorText": "This legendary Pokémon is said to be present wherever there is a lightning storm.",
-    "nationalPokedexNumbers": [
-      145
-    ],
+    "nationalPokedexNumbers": [145],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1331,24 +1029,15 @@
     "id": "basep-24",
     "name": "_____'s Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "17",
     "hp": "50",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Birthday Surprise",
-        "cost": [
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning"],
         "convertedEnergyCost": 2,
         "damage": "30+",
         "text": "If it's not your birthday, this attack does 30 damage. If it is your birthday, flip a coin. If heads, this attack does 30 damage plus 50 more damage; if tails, this attack does 30 damage."
@@ -1360,17 +1049,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "24",
     "artist": "Kagemaru Himeno",
     "rarity": "Promo",
     "flavorText": "Your Birthdate: ______________________________",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1383,34 +1068,22 @@
     "id": "basep-25",
     "name": "Flying Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "12",
     "hp": "40",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Thundershock",
-        "cost": [
-          "Lightning"
-        ],
+        "cost": ["Lightning"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Fly",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30",
         "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Flying Pikachu; if tails, this attack does nothing (not even damage)."
@@ -1422,17 +1095,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "25",
     "artist": "Toshinao Aoki",
     "rarity": "Promo",
     "flavorText": "By learning how to fly, Pikachu overcame its weakness to Fighting Pokémon.",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1445,33 +1114,22 @@
     "id": "basep-26",
     "name": "Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "9",
     "hp": "40",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Scratch",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Thunderbolt",
-        "cost": [
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning"],
         "convertedEnergyCost": 2,
         "damage": "40",
         "text": "Discard all Energy cards attached to Pikachu."
@@ -1483,17 +1141,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "26",
     "artist": "Gakuji Nomoto",
     "rarity": "Promo",
     "flavorText": "It uses its sensitive tail to sense its environment and has been known to react violently if its tail is grabbed.",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1506,33 +1160,22 @@
     "id": "basep-27",
     "name": "Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "5",
     "hp": "30",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Thundershock",
-        "cost": [
-          "Lightning"
-        ],
+        "cost": ["Lightning"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Agility",
-        "cost": [
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
@@ -1548,9 +1191,7 @@
     "artist": "Atsuko Nishida",
     "rarity": "Promo",
     "flavorText": "When several of these Pokémon gather, their electricity can cause lightning storms.",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1563,24 +1204,15 @@
     "id": "basep-28",
     "name": "Surfing Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "32",
     "hp": "50",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Surf",
-        "cost": [
-          "Water",
-          "Water"
-        ],
+        "cost": ["Water", "Water"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": ""
@@ -1592,17 +1224,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "28",
     "artist": "Toshinao Aoki",
     "rarity": "Promo",
     "flavorText": "One summer, a group of Pikachus was found riding the waves at the local beach.",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -1616,24 +1244,15 @@
     "id": "basep-29",
     "name": "Marill",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "64",
     "hp": "50",
-    "types": [
-      "Water"
-    ],
-    "evolvesTo": [
-      "Azumarill"
-    ],
+    "types": ["Water"],
+    "evolvesTo": ["Azumarill"],
     "attacks": [
       {
         "name": "Water Gun",
-        "cost": [
-          "Water",
-          "Water"
-        ],
+        "cost": ["Water", "Water"],
         "convertedEnergyCost": 2,
         "damage": "20+",
         "text": "Does 20 damage plus 10 more damage for each Energy attached to Marill but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
@@ -1645,17 +1264,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "29",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
-    "nationalPokedexNumbers": [
-      183
-    ],
+    "nationalPokedexNumbers": [183],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1668,33 +1283,22 @@
     "id": "basep-30",
     "name": "Togepi",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "8",
     "hp": "30",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Togetic"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Togetic"],
     "attacks": [
       {
         "name": "Snivel",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "If the Defending Pokémon attacks Togepi during your opponent's next turn, any damage done to Togepi is reduced by 20 (before applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
       },
       {
         "name": "Mini-Metronome",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "",
         "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. Mini-Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type the Defending Pokémon is, Togepi's type is still Colorless.) Togepi performs that attack."
@@ -1706,17 +1310,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "30",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "Still only a hatchling, it uses poison to chase off its enemies when threatened.",
-    "nationalPokedexNumbers": [
-      175
-    ],
+    "nationalPokedexNumbers": [175],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1729,27 +1329,19 @@
     "id": "basep-31",
     "name": "Cleffa",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Baby"
-    ],
+    "subtypes": ["Baby"],
     "level": "5",
     "hp": "30",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesFrom": "Clefairy",
-    "evolvesTo": [
-      "Clefairy"
-    ],
+    "evolvesTo": ["Clefairy"],
     "rules": [
       "If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
     ],
     "attacks": [
       {
         "name": "Eek",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Draw 2 cards."
@@ -1759,9 +1351,7 @@
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
-    "nationalPokedexNumbers": [
-      173
-    ],
+    "nationalPokedexNumbers": [173],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1774,20 +1364,14 @@
     "id": "basep-32",
     "name": "Smeargle",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "21",
     "hp": "40",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "attacks": [
       {
         "name": "Paint",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, choose a type (other than Colorless) and put a Coloring counter on the Defending Pokémon. That Pokémon is now the type you chose. If it already had a Coloring counter, remove the old one. If tails, this attack does nothing."
@@ -1805,17 +1389,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "32",
     "artist": "Tomokazu Komiya",
     "rarity": "Promo",
     "flavorText": "Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.",
-    "nationalPokedexNumbers": [
-      235
-    ],
+    "nationalPokedexNumbers": [235],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1828,32 +1408,22 @@
     "id": "basep-33",
     "name": "Scizor",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "level": "36",
     "hp": "70",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "evolvesFrom": "Scyther",
     "attacks": [
       {
         "name": "Leer",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon can't attack Scizor during your opponent's next turn. (Benching either Pokémon ends this effect.)"
       },
       {
         "name": "Metal Pincer",
-        "cost": [
-          "Metal",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Metal", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30+",
         "text": "Flip a coin until you get tails. This attack does 30 damage plus 10 more damage for each heads."
@@ -1871,18 +1441,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "33",
     "artist": "Hironobu Yoshida",
     "rarity": "Promo",
     "flavorText": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
-    "nationalPokedexNumbers": [
-      212
-    ],
+    "nationalPokedexNumbers": [212],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1895,14 +1460,10 @@
     "id": "basep-34",
     "name": "Entei",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "37",
     "hp": "80",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "abilities": [
       {
         "name": "Bolt",
@@ -1913,11 +1474,7 @@
     "attacks": [
       {
         "name": "Protective Flame",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Fire"
-        ],
+        "cost": ["Fire", "Fire", "Fire"],
         "convertedEnergyCost": 3,
         "damage": "50",
         "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to your Benched Pokémon."
@@ -1929,17 +1486,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "34",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land.",
-    "nationalPokedexNumbers": [
-      244
-    ],
+    "nationalPokedexNumbers": [244],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1952,27 +1505,19 @@
     "id": "basep-35",
     "name": "Pichu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Baby"
-    ],
+    "subtypes": ["Baby"],
     "level": "4",
     "hp": "30",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "evolvesFrom": "Pikachu",
-    "evolvesTo": [
-      "Pikachu"
-    ],
+    "evolvesTo": ["Pikachu"],
     "rules": [
       "If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
     ],
     "attacks": [
       {
         "name": "Let's Play!",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Search your deck for a Baby Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
@@ -1982,9 +1527,7 @@
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-    "nationalPokedexNumbers": [
-      172
-    ],
+    "nationalPokedexNumbers": [172],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -1997,27 +1540,19 @@
     "id": "basep-36",
     "name": "Igglybuff",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Baby"
-    ],
+    "subtypes": ["Baby"],
     "level": "5",
     "hp": "30",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesFrom": "Jigglypuff",
-    "evolvesTo": [
-      "Jigglypuff"
-    ],
+    "evolvesTo": ["Jigglypuff"],
     "rules": [
       "If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
     ],
     "attacks": [
       {
         "name": "Good Night Song",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "The Defending Pokémon is now Asleep."
@@ -2027,9 +1562,7 @@
     "artist": "Kagemaru Himeno",
     "rarity": "Promo",
     "flavorText": "Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.",
-    "nationalPokedexNumbers": [
-      174
-    ],
+    "nationalPokedexNumbers": [174],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2042,32 +1575,21 @@
     "id": "basep-37",
     "name": "Hitmontop",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "29",
     "hp": "60",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "attacks": [
       {
         "name": "Repeating Kick",
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting"],
         "convertedEnergyCost": 2,
         "damage": "20×",
         "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
       },
       {
         "name": "Rapid Spin",
-        "cost": [
-          "Fighting",
-          "Fighting",
-          "Colorless"
-        ],
+        "cost": ["Fighting", "Fighting", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30",
         "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)"
@@ -2079,17 +1601,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "37",
     "artist": "Atsuko Nishida",
     "rarity": "Promo",
     "flavorText": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
-    "nationalPokedexNumbers": [
-      237
-    ],
+    "nationalPokedexNumbers": [237],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2102,14 +1620,10 @@
     "id": "basep-38",
     "name": "Unown [J]",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "17",
     "hp": "40",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rules": [
       "You may have up to 4 Basic Pokémon cards in your deck with Unown in their names."
     ],
@@ -2123,9 +1637,7 @@
     "attacks": [
       {
         "name": "Hidden Power",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
@@ -2137,17 +1649,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "38",
     "artist": "Hideki Kazama",
     "rarity": "Promo",
     "flavorText": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
-    "nationalPokedexNumbers": [
-      201
-    ],
+    "nationalPokedexNumbers": [201],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2160,33 +1668,22 @@
     "id": "basep-39",
     "name": "Misdreavus",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "23",
     "hp": "50",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesTo": [
-      "Mismagius"
-    ],
+    "types": ["Psychic"],
+    "evolvesTo": ["Mismagius"],
     "attacks": [
       {
         "name": "Pain Split",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Put 1 damage counter on the Defending Pokémon for each damage counter on Misdreavus."
       },
       {
         "name": "Confuse Ray",
-        "cost": [
-          "Psychic",
-          "Psychic"
-        ],
+        "cost": ["Psychic", "Psychic"],
         "convertedEnergyCost": 2,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
@@ -2198,17 +1695,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "39",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Promo",
     "flavorText": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
-    "nationalPokedexNumbers": [
-      200
-    ],
+    "nationalPokedexNumbers": [200],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2239,9 +1732,7 @@
     "id": "basep-41",
     "name": "Lucky Stadium",
     "supertype": "Trainer",
-    "subtypes": [
-      "Stadium"
-    ],
+    "subtypes": ["Stadium"],
     "rules": [
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
       "Once during each player's turn (before attacking), that player may flip a coin. If heads, that player draws a card."
@@ -2261,9 +1752,7 @@
     "id": "basep-42",
     "name": "Pokémon Tower",
     "supertype": "Trainer",
-    "subtypes": [
-      "Stadium"
-    ],
+    "subtypes": ["Stadium"],
     "rules": [
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
       "If the effect of a Pokémon Power, attack, Energy card, or Trainer card would put a card in a discard pile into its owner's hand, that card stays in that discard pile instead."
@@ -2283,34 +1772,22 @@
     "id": "basep-43",
     "name": "Machamp",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "level": "54",
     "hp": "90",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "evolvesFrom": "Machoke",
     "attacks": [
       {
         "name": "Seething Anger",
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting"],
         "convertedEnergyCost": 2,
         "damage": "20+",
         "text": "Flip a number of coins equal to the number of damage counters on Machamp. This attack does 20 damage plus 10 more damage for each heads."
       },
       {
         "name": "Fling",
-        "cost": [
-          "Fighting",
-          "Fighting",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Fighting", "Fighting", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "50",
         "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
@@ -2322,19 +1799,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 3,
     "number": "43",
     "artist": "Tomokazu Komiya",
     "rarity": "Promo",
     "flavorText": "Using its amazing muscles, it throws powerful punches that can knock its victim clear over the horizon.",
-    "nationalPokedexNumbers": [
-      68
-    ],
+    "nationalPokedexNumbers": [68],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2347,34 +1818,22 @@
     "id": "basep-44",
     "name": "Magmar",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "27",
     "hp": "60",
-    "types": [
-      "Fire"
-    ],
-    "evolvesTo": [
-      "Magmortar"
-    ],
+    "types": ["Fire"],
+    "evolvesTo": ["Magmortar"],
     "attacks": [
       {
         "name": "Burning Fire",
-        "cost": [
-          "Fire"
-        ],
+        "cost": ["Fire"],
         "convertedEnergyCost": 1,
         "damage": "10+",
         "text": "When you use this attack, you may discard any number of Fire Energy cards attached to your Pokémon in play. This attack does 10 damage plus 10 more damage for each Fire Energy card you discarded in this way."
       },
       {
         "name": "Magma Punch",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Fire", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "40",
         "text": ""
@@ -2386,18 +1845,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "44",
     "artist": "Atsuko Nishida",
     "rarity": "Promo",
     "flavorText": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
-    "nationalPokedexNumbers": [
-      126
-    ],
+    "nationalPokedexNumbers": [126],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2410,24 +1864,15 @@
     "id": "basep-45",
     "name": "Scyther",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "23",
     "hp": "60",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Scizor"
-    ],
+    "types": ["Grass"],
+    "evolvesTo": ["Scizor"],
     "attacks": [
       {
         "name": "Slashing Strike",
-        "cost": [
-          "Grass",
-          "Grass"
-        ],
+        "cost": ["Grass", "Grass"],
         "convertedEnergyCost": 2,
         "damage": "40",
         "text": "Scyther can't use this attack during your next turn. (Benching or evolving Scyther ends this effect.)"
@@ -2445,17 +1890,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "45",
     "artist": "Hironobu Yoshida",
     "rarity": "Promo",
     "flavorText": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
-    "nationalPokedexNumbers": [
-      123
-    ],
+    "nationalPokedexNumbers": [123],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2468,33 +1909,22 @@
     "id": "basep-46",
     "name": "Electabuzz",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "22",
     "hp": "60",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Electivire"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Electivire"],
     "attacks": [
       {
         "name": "Lightning Rod",
-        "cost": [
-          "Lightning"
-        ],
+        "cost": ["Lightning"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon and put a Lightning Rod marker on it. (A Pokémon can have only 1 Lightning Rod marker on it at a time.)"
       },
       {
         "name": "Lightning Bolt",
-        "cost": [
-          "Lightning",
-          "Lightning"
-        ],
+        "cost": ["Lightning", "Lightning"],
         "convertedEnergyCost": 2,
         "damage": "10",
         "text": "This attack does 20 damage to any Pokémon with a Lightning Rod marker on it. Apply Weakness and Resistance."
@@ -2506,17 +1936,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "46",
     "artist": "Miki Tanaka",
     "rarity": "Promo",
     "flavorText": "Normally found near power plants, it can wander away and cause major blackouts in cities.",
-    "nationalPokedexNumbers": [
-      125
-    ],
+    "nationalPokedexNumbers": [125],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2529,14 +1955,10 @@
     "id": "basep-47",
     "name": "Mew",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "8",
     "hp": "40",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "abilities": [
       {
         "name": "Neutral Shield",
@@ -2547,9 +1969,7 @@
     "attacks": [
       {
         "name": "Psyshock",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
@@ -2561,17 +1981,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "47",
     "artist": "Ken Sugimori",
     "rarity": "Promo",
     "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
-    "nationalPokedexNumbers": [
-      151
-    ],
+    "nationalPokedexNumbers": [151],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2584,14 +2000,10 @@
     "id": "basep-48",
     "name": "Articuno",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "34",
     "hp": "80",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "abilities": [
       {
         "name": "Aurora Veil",
@@ -2602,12 +2014,7 @@
     "attacks": [
       {
         "name": "Ice Beam",
-        "cost": [
-          "Water",
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Water", "Water", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "30",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -2619,18 +2026,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "48",
     "artist": "Atsuko Nishida",
     "rarity": "Promo",
     "flavorText": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
-    "nationalPokedexNumbers": [
-      144
-    ],
+    "nationalPokedexNumbers": [144],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2643,14 +2045,10 @@
     "id": "basep-49",
     "name": "Snorlax",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "level": "35",
     "hp": "90",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "abilities": [
       {
         "name": "Guard",
@@ -2661,12 +2059,7 @@
     "attacks": [
       {
         "name": "Roll Over",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "30",
         "text": "Snorlax is now Asleep. Flip a coin. If heads, the Defending Pokémon is now Asleep."
@@ -2684,20 +2077,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 4,
     "number": "49",
     "artist": "Craig Turvey",
     "rarity": "Promo",
     "flavorText": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
-    "nationalPokedexNumbers": [
-      143
-    ],
+    "nationalPokedexNumbers": [143],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2710,20 +2096,13 @@
     "id": "basep-50",
     "name": "Celebi",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "50",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "attacks": [
       {
         "name": "Leaf Slice",
-        "cost": [
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
@@ -2735,16 +2114,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "50",
     "artist": "Hajime Kusajima",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      251
-    ],
+    "nationalPokedexNumbers": [251],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2757,32 +2132,21 @@
     "id": "basep-51",
     "name": "Rapidash",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "60",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "evolvesFrom": "Ponyta",
     "attacks": [
       {
         "name": "Jump Over",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "",
         "text": "If your opponent has any Benched Pokémon, choose 1 of them. Flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Super Singe",
-        "cost": [
-          "Fire",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
@@ -2797,9 +2161,7 @@
     "number": "51",
     "artist": "Mitsuhiro Arita",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      78
-    ],
+    "nationalPokedexNumbers": [78],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2812,22 +2174,13 @@
     "id": "basep-52",
     "name": "Ho-oh",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "80",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "attacks": [
       {
         "name": "Sacred Wing",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Fire", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "60",
         "text": "Flip a coin. If tails, this attack's base damage is 20 instead of 60."
@@ -2845,17 +2198,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "52",
     "artist": "Mitsuhiro Arita",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      250
-    ],
+    "nationalPokedexNumbers": [250],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -2868,13 +2216,9 @@
     "id": "basep-53",
     "name": "Suicune",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "abilities": [
       {
         "name": "Pure Body",
@@ -2885,11 +2229,7 @@
     "attacks": [
       {
         "name": "Hypno Wave",
-        "cost": [
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Water", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30+",
         "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep."
@@ -2901,16 +2241,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "53",
     "artist": "Atsuko Nishida",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      245
-    ],
+    "nationalPokedexNumbers": [245],
     "legalities": {
       "unlimited": "Legal"
     },
