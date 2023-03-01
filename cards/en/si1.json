@@ -3,19 +3,13 @@
     "id": "si1-1",
     "name": "Mew",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "30",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Rainbow Wave",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose a type of Energy other than Colorless attached to Mew. This attack does 20 damage to each of your opponent's Pokémon of that type (including Benched Pokémon). Don't apply Weakness and Resistance."
@@ -30,9 +24,7 @@
     "number": "1",
     "artist": "Keiko Fukuyama",
     "flavorText": "This Pokémon's body is covered by fine hairs that can be seen only under a microscope.",
-    "nationalPokedexNumbers": [
-      151
-    ],
+    "nationalPokedexNumbers": [151],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -45,33 +37,21 @@
     "id": "si1-2",
     "name": "Pidgeot",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "70",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesFrom": "Pidgeotto",
     "attacks": [
       {
         "name": "Supersonic Flight",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "40",
         "text": "Flip a coin. If tails, this attack does nothing."
       },
       {
         "name": "Slicing Wind",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "50",
         "text": ""
@@ -92,9 +72,7 @@
     "number": "2",
     "artist": "Keiko Fukuyama",
     "flavorText": "This Pokémon searches for food while flying at Mach 2. Its large claws make fearsome weapons.",
-    "nationalPokedexNumbers": [
-      18
-    ],
+    "nationalPokedexNumbers": [18],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -107,35 +85,21 @@
     "id": "si1-3",
     "name": "Onix",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "90",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Steelix"
-    ],
+    "types": ["Fighting"],
+    "evolvesTo": ["Steelix"],
     "attacks": [
       {
         "name": "Slam",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       },
       {
         "name": "Body Slam",
-        "cost": [
-          "Fighting",
-          "Fighting",
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting", "Fighting", "Fighting"],
         "convertedEnergyCost": 4,
         "damage": "40",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -147,18 +111,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 3,
     "number": "3",
     "artist": "Keiko Fukuyama",
     "flavorText": "This Pokémon burrows through the earth at high speed, looking for food. The tunnels it digs are used by Diglett as nests.",
-    "nationalPokedexNumbers": [
-      95
-    ],
+    "nationalPokedexNumbers": [95],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -171,22 +129,14 @@
     "id": "si1-4",
     "name": "Togepi",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "40",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Togetic"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Togetic"],
     "attacks": [
       {
         "name": "Bawl",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
@@ -198,16 +148,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Keiko Fukuyama",
     "flavorText": "This Pokémon is still immature. When threatened, it releases poison from its head and tries to drive its enemies away.",
-    "nationalPokedexNumbers": [
-      175
-    ],
+    "nationalPokedexNumbers": [175],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -220,33 +166,22 @@
     "id": "si1-5",
     "name": "Ivysaur",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "60",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Bulbasaur",
-    "evolvesTo": [
-      "Venusaur"
-    ],
+    "evolvesTo": ["Venusaur"],
     "attacks": [
       {
         "name": "Strange Scent",
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Each player flips a coin. Each player who gets heads chooses a total of 3 damage counters from among his or her Pokémon and removes them. (If the player's Pokémon have fewer total damage counters than that, he or she removes all of them.)"
       },
       {
         "name": "Razor Leaf",
-        "cost": [
-          "Grass",
-          "Grass"
-        ],
+        "cost": ["Grass", "Grass"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": ""
@@ -258,16 +193,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "5",
     "artist": "Keiko Fukuyama",
     "flavorText": "A sure sign spring is on its way is when the seed on this Pokémon's back flowers.",
-    "nationalPokedexNumbers": [
-      2
-    ],
+    "nationalPokedexNumbers": [2],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -280,21 +211,14 @@
     "id": "si1-6",
     "name": "Raticate",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "60",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesFrom": "Rattata",
     "attacks": [
       {
         "name": "Sharp Teeth",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10+",
         "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage; if tails, this attack does 10 damage."
@@ -315,9 +239,7 @@
     "number": "6",
     "artist": "Keiko Fukuyama",
     "flavorText": "This Pokémon sometimes hunts for food in rivers, swimming using the small webs between the toes on its rear legs.",
-    "nationalPokedexNumbers": [
-      20
-    ],
+    "nationalPokedexNumbers": [20],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -330,32 +252,21 @@
     "id": "si1-7",
     "name": "Ledyba",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "40",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Ledian"
-    ],
+    "types": ["Grass"],
+    "evolvesTo": ["Ledian"],
     "attacks": [
       {
         "name": "Gnaw",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Agility",
-        "cost": [
-          "Grass",
-          "Grass"
-        ],
+        "cost": ["Grass", "Grass"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Ledyba."
@@ -373,16 +284,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Keiko Fukuyama",
     "flavorText": "When it senses enemies approaching, this Pokémon releases an orange fluid from the joints in its legs and flees.",
-    "nationalPokedexNumbers": [
-      165
-    ],
+    "nationalPokedexNumbers": [165],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -395,31 +302,21 @@
     "id": "si1-8",
     "name": "Jigglypuff",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "50",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Wigglytuff"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Wigglytuff"],
     "attacks": [
       {
         "name": "Tempting Eyes",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
       },
       {
         "name": "Sing",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
@@ -437,16 +334,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "8",
     "artist": "Keiko Fukuyama",
     "flavorText": "After lulling its enemies with its large eyes, this Pokémon sings them to sleep with a relaxing melody.",
-    "nationalPokedexNumbers": [
-      39
-    ],
+    "nationalPokedexNumbers": [39],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -459,33 +352,21 @@
     "id": "si1-9",
     "name": "Butterfree",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "80",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Metapod",
     "attacks": [
       {
         "name": "Fly",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30",
         "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Butterfree. If tails, this attack does nothing (not even damage)."
       },
       {
         "name": "Rainbow Powder",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Grass", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Poisoned."
@@ -503,16 +384,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "9",
     "artist": "Keiko Fukuyama",
     "flavorText": "The poison scales on its wings are waterproof, allowing this Pokémon to be active even on rainy days.",
-    "nationalPokedexNumbers": [
-      12
-    ],
+    "nationalPokedexNumbers": [12],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -525,30 +402,21 @@
     "id": "si1-10",
     "name": "Tentacruel",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "60",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "evolvesFrom": "Tentacool",
     "attacks": [
       {
         "name": "Tentacle Grip",
-        "cost": [
-          "Water"
-        ],
+        "cost": ["Water"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a number of coins equal to the number of Water Energy attached to Tentacruel. For each heads, draw 2 cards."
       },
       {
         "name": "Poison Sting",
-        "cost": [
-          "Water",
-          "Water"
-        ],
+        "cost": ["Water", "Water"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -560,16 +428,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "10",
     "artist": "Naoyo Kimura",
     "flavorText": "This Pokémon attacks its prey with its eighty toxin-producing tentacles.",
-    "nationalPokedexNumbers": [
-      73
-    ],
+    "nationalPokedexNumbers": [73],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -582,32 +446,21 @@
     "id": "si1-11",
     "name": "Marill",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "40",
-    "types": [
-      "Water"
-    ],
-    "evolvesTo": [
-      "Azumarill"
-    ],
+    "types": ["Water"],
+    "evolvesTo": ["Azumarill"],
     "attacks": [
       {
         "name": "Squirt",
-        "cost": [
-          "Water"
-        ],
+        "cost": ["Water"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. Don't apply Weakness and Resistance."
       },
       {
         "name": "Rolling Tackle",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": ""
@@ -619,16 +472,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "11",
     "artist": "Naoyo Kimura",
     "flavorText": "This Pokémon's fur repels water like a duck's feathers, allowing it to stay dry and fluffy even in water.",
-    "nationalPokedexNumbers": [
-      183
-    ],
+    "nationalPokedexNumbers": [183],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -641,29 +490,20 @@
     "id": "si1-12",
     "name": "Lapras",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "attacks": [
       {
         "name": "Gentle Song",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "If Lapras has any damage counters on it, remove 2 of them from it (1 if it only has 1). If the Defending Pokémon has any damage counters on it, remove 2 of them from it (1 if it only has 1). The Defending Pokémon is now Asleep."
       },
       {
         "name": "Ice Beam",
-        "cost": [
-          "Water",
-          "Water"
-        ],
+        "cost": ["Water", "Water"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -675,16 +515,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "12",
     "artist": "Naoyo Kimura",
     "flavorText": "This gentle Pokémon can understand human language and allows people to ride on its back.",
-    "nationalPokedexNumbers": [
-      131
-    ],
+    "nationalPokedexNumbers": [131],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -697,20 +533,14 @@
     "id": "si1-13",
     "name": "Exeggutor",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "70",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Exeggcute",
     "attacks": [
       {
         "name": "Sharpshooter",
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. Flip a number of coins equal to the number of Grass Energy attached to Exeggutor. This attack does 10 damage times the number of heads to that Pokémon. Don't apply Weakness and Resistance."
@@ -722,17 +552,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "13",
     "artist": "Naoyo Kimura",
     "flavorText": "This Pokémon has a unique cry, as all three of its heads are always talking independently of one another.",
-    "nationalPokedexNumbers": [
-      103
-    ],
+    "nationalPokedexNumbers": [103],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -745,30 +570,21 @@
     "id": "si1-14",
     "name": "Slowking",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "70",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "evolvesFrom": "Slowpoke",
     "attacks": [
       {
         "name": "Revelation",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
       },
       {
         "name": "Psychic",
-        "cost": [
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Psychic", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10+",
         "text": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
@@ -780,17 +596,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "14",
     "artist": "Naoyo Kimura",
     "flavorText": "Its nonchalant reaction to everything somehow gives this Pokémon an imposing presence.",
-    "nationalPokedexNumbers": [
-      199
-    ],
+    "nationalPokedexNumbers": [199],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -803,24 +614,15 @@
     "id": "si1-15",
     "name": "Wartortle",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "60",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "evolvesFrom": "Squirtle",
-    "evolvesTo": [
-      "Blastoise"
-    ],
+    "evolvesTo": ["Blastoise"],
     "attacks": [
       {
         "name": "Water Gun",
-        "cost": [
-          "Water",
-          "Water"
-        ],
+        "cost": ["Water", "Water"],
         "convertedEnergyCost": 2,
         "damage": "20+",
         "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
@@ -832,16 +634,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "15",
     "artist": "Naoyo Kimura",
     "flavorText": "When attacked, this Pokémon withdraws into its shell, although it can't quite pull in all of its long tail.",
-    "nationalPokedexNumbers": [
-      8
-    ],
+    "nationalPokedexNumbers": [8],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -854,32 +652,21 @@
     "id": "si1-16",
     "name": "Lickitung",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Lickilicky"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Lickilicky"],
     "attacks": [
       {
         "name": "Lick Wounds",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, choose 1 Pokémon (yours or your opponent's) with damage counters on it and remove 2 damage counters from it (1 if it only has 1)."
       },
       {
         "name": "Tongue Stretch",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "",
         "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance."
@@ -897,17 +684,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "16",
     "artist": "Naoyo Kimura",
     "flavorText": "This Pokémon uses its six-foot tongue as if it were a hand. The origin of its anaesthetic properties is still a mystery.",
-    "nationalPokedexNumbers": [
-      108
-    ],
+    "nationalPokedexNumbers": [108],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -920,31 +702,21 @@
     "id": "si1-17",
     "name": "Vileplume",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "70",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Gloom",
     "attacks": [
       {
         "name": "Paradise Pollen",
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, remove 2 damage counters from Vileplume (1 if it only has 1). Then, if you have any Benched Pokémon with damage counters on them, choose 1 of them and remove 2 damage counters from it (1 if it only has 1)."
       },
       {
         "name": "Horrid Pollen",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Grass", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Confused."
@@ -956,17 +728,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "17",
     "artist": "Naoyo Kimura",
     "flavorText": "This Pokémon makes a loud jangling noise when it shakes its petals to spread poison powder.",
-    "nationalPokedexNumbers": [
-      45
-    ],
+    "nationalPokedexNumbers": [45],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -979,30 +746,21 @@
     "id": "si1-18",
     "name": "Primeape",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "60",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "evolvesFrom": "Mankey",
     "attacks": [
       {
         "name": "Low Kick",
-        "cost": [
-          "Fighting"
-        ],
+        "cost": ["Fighting"],
         "convertedEnergyCost": 1,
         "damage": "20",
         "text": ""
       },
       {
         "name": "Rampage",
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting"],
         "convertedEnergyCost": 2,
         "damage": "20+",
         "text": "Does 20 damage plus 10 more damage for each damage counter on Primeape. Flip a coin. If tails, Primeape is now Confused (after doing damage)."
@@ -1014,16 +772,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "18",
     "artist": "Naoyo Kimura",
     "flavorText": "This Pokémon only calms down when there are no other animals or people around—which means no one has ever seen it when it's not angry.",
-    "nationalPokedexNumbers": [
-      57
-    ],
+    "nationalPokedexNumbers": [57],
     "legalities": {
       "unlimited": "Legal"
     },

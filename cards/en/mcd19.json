@@ -3,21 +3,13 @@
     "id": "mcd19-1",
     "name": "Caterpie",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "50",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Metapod"
-    ],
+    "types": ["Grass"],
+    "evolvesTo": ["Metapod"],
     "attacks": [
       {
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "name": "Surprise Attack",
         "text": "Flip a coin. If tails, this attack does nothing.",
         "damage": "20",
@@ -30,15 +22,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "1",
     "artist": "Sekio",
-    "nationalPokedexNumbers": [
-      10
-    ],
+    "nationalPokedexNumbers": [10],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -52,19 +40,13 @@
     "id": "mcd19-2",
     "name": "Alolan Exeggutor",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "160",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Exeggcute",
     "attacks": [
       {
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "name": "Tropical Shake",
         "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
         "damage": "20+",
@@ -77,17 +59,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 3,
     "number": "2",
     "artist": "Satoshi Shirai",
-    "nationalPokedexNumbers": [
-      103
-    ],
+    "nationalPokedexNumbers": [103],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -101,32 +77,20 @@
     "id": "mcd19-3",
     "name": "Magmar",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "80",
-    "types": [
-      "Fire"
-    ],
-    "evolvesTo": [
-      "Magmortar"
-    ],
+    "types": ["Fire"],
+    "evolvesTo": ["Magmortar"],
     "attacks": [
       {
-        "cost": [
-          "Fire"
-        ],
+        "cost": ["Fire"],
         "name": "Controlled Burn",
         "text": "Discard the top card of your opponent's deck.",
         "damage": "",
         "convertedEnergyCost": 1
       },
       {
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Fire", "Colorless"],
         "name": "Flamethrower",
         "text": "Discard an Energy from this Pokémon.",
         "damage": "80",
@@ -139,16 +103,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "3",
     "artist": "Yumi",
-    "nationalPokedexNumbers": [
-      126
-    ],
+    "nationalPokedexNumbers": [126],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -162,21 +121,13 @@
     "id": "mcd19-4",
     "name": "Alolan Sandshrew",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Water"
-    ],
-    "evolvesTo": [
-      "Sandslash"
-    ],
+    "types": ["Water"],
+    "evolvesTo": ["Sandslash"],
     "attacks": [
       {
-        "cost": [
-
-        ],
+        "cost": [],
         "name": "Fury Swipes",
         "text": "Flip 3 coins. This attack does 10 damage for each heads.",
         "damage": "10",
@@ -189,15 +140,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Shin Nagasawa",
-    "nationalPokedexNumbers": [
-      27
-    ],
+    "nationalPokedexNumbers": [27],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -211,29 +158,19 @@
     "id": "mcd19-5",
     "name": "Lapras",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "120",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "attacks": [
       {
-        "cost": [
-          "Water"
-        ],
+        "cost": ["Water"],
         "name": "Aqua Bullet",
         "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "damage": "20",
         "convertedEnergyCost": 1
       },
       {
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "name": "Hydro Pump",
         "text": "This attack does 10 more damage times the amount of Water Energy attached to this Pokémon.",
         "damage": "70+",
@@ -246,16 +183,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "5",
     "artist": "Saya Tsuruta",
-    "nationalPokedexNumbers": [
-      131
-    ],
+    "nationalPokedexNumbers": [131],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -269,21 +201,13 @@
     "id": "mcd19-6",
     "name": "Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
-        "cost": [
-          "Lightning"
-        ],
+        "cost": ["Lightning"],
         "name": "Iron Tail",
         "text": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
         "damage": "20",
@@ -302,15 +226,11 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "6",
     "artist": "Kagemaru Himeno",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -324,21 +244,13 @@
     "id": "mcd19-7",
     "name": "Gastly",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "50",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesTo": [
-      "Haunter"
-    ],
+    "types": ["Psychic"],
+    "evolvesTo": ["Haunter"],
     "attacks": [
       {
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "name": "Ominous Eyes",
         "text": "Put 1 damage counter on 1 of your opponent's Pokémon.",
         "damage": "",
@@ -357,15 +269,11 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Shibuzoh.",
-    "nationalPokedexNumbers": [
-      92
-    ],
+    "nationalPokedexNumbers": [92],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -379,21 +287,13 @@
     "id": "mcd19-8",
     "name": "Mankey",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Primeape"
-    ],
+    "types": ["Fighting"],
+    "evolvesTo": ["Primeape"],
     "attacks": [
       {
-        "cost": [
-          "Fighting"
-        ],
+        "cost": ["Fighting"],
         "name": "Three-Step Strike",
         "text": "Flip 3 coins. This attack does 10 damage for each heads.",
         "damage": "10",
@@ -406,15 +306,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "8",
     "artist": "Miki Tanaka",
-    "nationalPokedexNumbers": [
-      56
-    ],
+    "nationalPokedexNumbers": [56],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -428,31 +324,20 @@
     "id": "mcd19-9",
     "name": "Onix",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "100",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Steelix"
-    ],
+    "types": ["Fighting"],
+    "evolvesTo": ["Steelix"],
     "attacks": [
       {
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "name": "Screech",
         "text": "During your next turn, the Defending Pokémon takes 20 more damage from attacks (after applying Weakness and Resistance).",
         "damage": "",
         "convertedEnergyCost": 1
       },
       {
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting"],
         "name": "Rage",
         "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
         "damage": "10+",
@@ -465,16 +350,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "9",
     "artist": "Mitsuhiro Arita",
-    "nationalPokedexNumbers": [
-      95
-    ],
+    "nationalPokedexNumbers": [95],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -488,21 +368,13 @@
     "id": "mcd19-10",
     "name": "Alolan Meowth",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Darkness"
-    ],
-    "evolvesTo": [
-      "Persian"
-    ],
+    "types": ["Darkness"],
+    "evolvesTo": ["Persian"],
     "attacks": [
       {
-        "cost": [
-
-        ],
+        "cost": [],
         "name": "Spoil the Fun",
         "text": "If you go second, this attack does 60 more damage during your first turn.",
         "damage": "10+",
@@ -521,15 +393,11 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "10",
     "artist": "Akira Komayama",
-    "nationalPokedexNumbers": [
-      52
-    ],
+    "nationalPokedexNumbers": [52],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -543,19 +411,13 @@
     "id": "mcd19-11",
     "name": "Alolan Dugtrio",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "60",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "evolvesFrom": "Alolan Diglett",
     "attacks": [
       {
-        "cost": [
-
-        ],
+        "cost": [],
         "name": "Gold Rush",
         "text": "Discard any number of Metal Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
         "damage": "30",
@@ -574,15 +436,11 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "11",
     "artist": "Megumi Mizutani",
-    "nationalPokedexNumbers": [
-      51
-    ],
+    "nationalPokedexNumbers": [51],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -596,13 +454,9 @@
     "id": "mcd19-12",
     "name": "Eevee",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesTo": [
       "Vaporeon",
       "Jolteon",
@@ -615,9 +469,7 @@
     ],
     "attacks": [
       {
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "name": "Gnaw",
         "text": "",
         "damage": "20",
@@ -630,15 +482,11 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "12",
     "artist": "Atsuko Nishida",
-    "nationalPokedexNumbers": [
-      133
-    ],
+    "nationalPokedexNumbers": [133],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"

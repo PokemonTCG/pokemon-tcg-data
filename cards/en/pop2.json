@@ -3,31 +3,20 @@
     "id": "pop2-1",
     "name": "Entei",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "attacks": [
       {
         "name": "Stomp",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10+",
         "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
       },
       {
         "name": "Fire Spin",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Fire", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "50",
         "text": "Discard 2 Basic Energy cards attached to Entei or this attack does nothing."
@@ -39,16 +28,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "1",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
-    "nationalPokedexNumbers": [
-      244
-    ],
+    "nationalPokedexNumbers": [244],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -61,13 +46,9 @@
     "id": "pop2-2",
     "name": "Pidgeot",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "80",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "evolvesFrom": "Pidgeotto",
     "abilities": [
       {
@@ -79,11 +60,7 @@
     "attacks": [
       {
         "name": "Sharp Beak",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "20+",
         "text": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage."
@@ -104,9 +81,7 @@
     "number": "2",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
-    "nationalPokedexNumbers": [
-      18
-    ],
+    "nationalPokedexNumbers": [18],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -119,30 +94,20 @@
     "id": "pop2-3",
     "name": "Raikou",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "attacks": [
       {
         "name": "Roar",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
       },
       {
         "name": "Thunder",
-        "cost": [
-          "Lightning",
-          "Lightning",
-          "Colorless"
-        ],
+        "cost": ["Lightning", "Lightning", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "50",
         "text": "Flip a coin. If tails, Raikou does 20 damage to itself."
@@ -154,16 +119,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "3",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
-    "nationalPokedexNumbers": [
-      243
-    ],
+    "nationalPokedexNumbers": [243],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -176,13 +137,9 @@
     "id": "pop2-4",
     "name": "Suicune",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "abilities": [
       {
         "name": "Mirror Coat",
@@ -193,10 +150,7 @@
     "attacks": [
       {
         "name": "Bubblebeam",
-        "cost": [
-          "Water",
-          "Colorless"
-        ],
+        "cost": ["Water", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -208,16 +162,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
-    "nationalPokedexNumbers": [
-      245
-    ],
+    "nationalPokedexNumbers": [245],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -230,31 +180,20 @@
     "id": "pop2-5",
     "name": "Tauros",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "attacks": [
       {
         "name": "Rage",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10+",
         "text": "Does 10 damage plus 10 more damage for each damage counter on Tauros."
       },
       {
         "name": "Take Down",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "40",
         "text": "Tauros does 10 damage to itself."
@@ -266,16 +205,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "5",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
-    "nationalPokedexNumbers": [
-      128
-    ],
+    "nationalPokedexNumbers": [128],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -288,34 +223,21 @@
     "id": "pop2-6",
     "name": "Venusaur",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "120",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Ivysaur",
     "attacks": [
       {
         "name": "Wide Solarbeam",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Grass", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "20",
         "text": "Does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Hard Plant",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Grass", "Grass", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "80",
         "text": "Venusaur can't use Hard Plant during your next turn."
@@ -327,18 +249,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 3,
     "number": "6",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare",
-    "nationalPokedexNumbers": [
-      3
-    ],
+    "nationalPokedexNumbers": [3],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -351,34 +267,22 @@
     "id": "pop2-7",
     "name": "Ivysaur",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "80",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Bulbasaur",
-    "evolvesTo": [
-      "Venusaur"
-    ],
+    "evolvesTo": ["Venusaur"],
     "attacks": [
       {
         "name": "Poison Seed",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "The Defending Pokémon is now Poisoned."
       },
       {
         "name": "Razor Leaf",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Grass", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "50",
         "text": ""
@@ -390,16 +294,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Ken Sugimori",
     "rarity": "Uncommon",
-    "nationalPokedexNumbers": [
-      2
-    ],
+    "nationalPokedexNumbers": [2],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -412,9 +312,7 @@
     "id": "pop2-8",
     "name": "Mr. Briney's Compassion",
     "supertype": "Trainer",
-    "subtypes": [
-      "Supporter"
-    ],
+    "subtypes": ["Supporter"],
     "rules": [
       "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
       "Choose 1 of your Pokémon in play (excluding Pokémon-ex). Return that Pokémon and all cards attached to it to your hand."
@@ -434,18 +332,14 @@
     "id": "pop2-9",
     "name": "Multi Technical Machine 01",
     "supertype": "Trainer",
-    "subtypes": [
-      "Technical Machine"
-    ],
+    "subtypes": ["Technical Machine"],
     "rules": [
       "Attach this card to 1 of your Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Multi Technical Machine 01."
     ],
     "attacks": [
       {
         "name": "Paralyzing Gaze",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "The Defending Pokémon is now Paralyzed."
@@ -466,9 +360,7 @@
     "id": "pop2-10",
     "name": "Pokémon Park",
     "supertype": "Trainer",
-    "subtypes": [
-      "Stadium"
-    ],
+    "subtypes": ["Stadium"],
     "rules": [
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
       "Once during each player's turn, when that player attaches an Energy card from his or her hand to 1 of his or her Benched Pokémon, he or she removes 1 damage counter from that Pokémon."
@@ -488,9 +380,7 @@
     "id": "pop2-11",
     "name": "TV Reporter",
     "supertype": "Trainer",
-    "subtypes": [
-      "Supporter"
-    ],
+    "subtypes": ["Supporter"],
     "rules": [
       "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
       "Draw 3 cards. Then discard any 1 card from your hand."
@@ -511,32 +401,21 @@
     "id": "pop2-12",
     "name": "Bulbasaur",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "40",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Ivysaur"
-    ],
+    "types": ["Grass"],
+    "evolvesTo": ["Ivysaur"],
     "attacks": [
       {
         "name": "Bite",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Razor Leaf",
-        "cost": [
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": ""
@@ -548,16 +427,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "12",
     "artist": "Midori Harada",
     "rarity": "Common",
-    "nationalPokedexNumbers": [
-      1
-    ],
+    "nationalPokedexNumbers": [1],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -570,22 +445,14 @@
     "id": "pop2-13",
     "name": "Cacnea",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "40",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Cacturne"
-    ],
+    "types": ["Grass"],
+    "evolvesTo": ["Cacturne"],
     "attacks": [
       {
         "name": "Sand Attack",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
@@ -597,16 +464,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "13",
     "artist": "Ken Sugimori",
     "rarity": "Common",
-    "nationalPokedexNumbers": [
-      331
-    ],
+    "nationalPokedexNumbers": [331],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -619,29 +482,20 @@
     "id": "pop2-14",
     "name": "Luvdisc",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "attacks": [
       {
         "name": "Paralyzing Kiss",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "If there are 2 Defending Pokémon in play, choose 1 of the Defending Pokémon. That Pokémon is now Paralyzed. (If there is only 1 Defending Pokémon, this attack does nothing.)"
       },
       {
         "name": "Fast Stream",
-        "cost": [
-          "Water",
-          "Colorless"
-        ],
+        "cost": ["Water", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Move 1 Energy card attached to the Defending Pokémon to the other Defending Pokémon. (Ignore this effect if your opponent has only 1 Defending Pokémon.)"
@@ -653,16 +507,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "14",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
-    "nationalPokedexNumbers": [
-      370
-    ],
+    "nationalPokedexNumbers": [370],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -675,32 +525,21 @@
     "id": "pop2-15",
     "name": "Phanpy",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "50",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Donphan"
-    ],
+    "types": ["Fighting"],
+    "evolvesTo": ["Donphan"],
     "attacks": [
       {
         "name": "Double Spin",
-        "cost": [
-          "Fighting"
-        ],
+        "cost": ["Fighting"],
         "convertedEnergyCost": 1,
         "damage": "10×",
         "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
       },
       {
         "name": "Body Slam",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
@@ -712,16 +551,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "15",
     "artist": "Tomokazu Komiya",
     "rarity": "Common",
-    "nationalPokedexNumbers": [
-      231
-    ],
+    "nationalPokedexNumbers": [231],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -734,32 +569,21 @@
     "id": "pop2-16",
     "name": "Pikachu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "40",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Raichu"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
     "attacks": [
       {
         "name": "Gnaw",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Thunder Jolt",
-        "cost": [
-          "Lightning",
-          "Colorless"
-        ],
+        "cost": ["Lightning", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": "Flip a coin. If tails, Pikachu does 10 damage to itself."
@@ -771,16 +595,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "16",
     "artist": "Yuka Morii",
     "rarity": "Common",
-    "nationalPokedexNumbers": [
-      25
-    ],
+    "nationalPokedexNumbers": [25],
     "legalities": {
       "unlimited": "Legal"
     },
@@ -793,14 +613,9 @@
     "id": "pop2-17",
     "name": "Celebi ex",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic",
-      "EX"
-    ],
+    "subtypes": ["Basic", "EX"],
     "hp": "80",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rules": [
       "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
     ],
@@ -814,10 +629,7 @@
     "attacks": [
       {
         "name": "Psychic Shield",
-        "cost": [
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Psychic", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": "Prevent all effects of attacks, including damage, done to Celebi ex by your opponent's Pokémon-ex during your opponent's next turn."
@@ -829,16 +641,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "17",
     "artist": "Ryo Ueda",
     "rarity": "Rare",
-    "nationalPokedexNumbers": [
-      251
-    ],
+    "nationalPokedexNumbers": [251],
     "legalities": {
       "unlimited": "Legal"
     },

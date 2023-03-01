@@ -1,0 +1,27 @@
+name: Continuous Integration
+
+on:
+  pull_request:
+    branches:
+      - master
+      - main
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.3
+        with:
+          prettier_options: --write **/*.json

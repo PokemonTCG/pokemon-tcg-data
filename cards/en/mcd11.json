@@ -3,23 +3,14 @@
     "id": "mcd11-1",
     "name": "Snivy",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Grass"
-    ],
-    "evolvesTo": [
-      "Servine"
-    ],
+    "types": ["Grass"],
+    "evolvesTo": ["Servine"],
     "attacks": [
       {
         "name": "Slam",
-        "cost": [
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
@@ -37,16 +28,12 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "1",
     "artist": "Ken Sugimori",
     "flavorText": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
-    "nationalPokedexNumbers": [
-      495
-    ],
+    "nationalPokedexNumbers": [495],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -60,30 +47,20 @@
     "id": "mcd11-2",
     "name": "Maractus",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "80",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "attacks": [
       {
         "name": "Mega Drain",
-        "cost": [
-          "Grass"
-        ],
+        "cost": ["Grass"],
         "convertedEnergyCost": 1,
         "damage": "20",
         "text": "Heal 20 damage from this Pokémon."
       },
       {
         "name": "Pin Missile",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Grass", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "20×",
         "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
@@ -101,17 +78,12 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "2",
     "artist": "Kagemaru Himeno",
     "flavorText": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
-    "nationalPokedexNumbers": [
-      556
-    ],
+    "nationalPokedexNumbers": [556],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -125,23 +97,14 @@
     "id": "mcd11-3",
     "name": "Tepig",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Fire"
-    ],
-    "evolvesTo": [
-      "Pignite"
-    ],
+    "types": ["Fire"],
+    "evolvesTo": ["Pignite"],
     "attacks": [
       {
         "name": "Ember",
-        "cost": [
-          "Fire",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": "Discard an Energy attached to this Pokémon."
@@ -153,17 +116,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "3",
     "artist": "Ken Sugimori",
     "flavorText": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
-    "nationalPokedexNumbers": [
-      498
-    ],
+    "nationalPokedexNumbers": [498],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -177,23 +135,14 @@
     "id": "mcd11-4",
     "name": "Oshawott",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Water"
-    ],
-    "evolvesTo": [
-      "Dewott"
-    ],
+    "types": ["Water"],
+    "evolvesTo": ["Dewott"],
     "attacks": [
       {
         "name": "Water Pulse",
-        "cost": [
-          "Water",
-          "Colorless"
-        ],
+        "cost": ["Water", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
@@ -205,16 +154,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Ken Sugimori",
     "flavorText": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
-    "nationalPokedexNumbers": [
-      501
-    ],
+    "nationalPokedexNumbers": [501],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -228,32 +173,20 @@
     "id": "mcd11-5",
     "name": "Alomomola",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "100",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "attacks": [
       {
         "name": "Pound",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": ""
       },
       {
         "name": "Wave Splash",
-        "cost": [
-          "Water",
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Water", "Water", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "60",
         "text": ""
@@ -265,17 +198,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "5",
     "artist": "sui",
     "flavorText": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
-    "nationalPokedexNumbers": [
-      594
-    ],
+    "nationalPokedexNumbers": [594],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -289,23 +217,14 @@
     "id": "mcd11-6",
     "name": "Blitzle",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesTo": [
-      "Zebstrika"
-    ],
+    "types": ["Lightning"],
+    "evolvesTo": ["Zebstrika"],
     "attacks": [
       {
         "name": "Quick Attack",
-        "cost": [
-          "Lightning",
-          "Colorless"
-        ],
+        "cost": ["Lightning", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10+",
         "text": "Flip a coin. If heads, this attack does 20 more damage."
@@ -317,16 +236,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "6",
     "artist": "Ken Sugimori",
     "flavorText": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
-    "nationalPokedexNumbers": [
-      522
-    ],
+    "nationalPokedexNumbers": [522],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -340,22 +255,14 @@
     "id": "mcd11-7",
     "name": "Munna",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesTo": [
-      "Musharna"
-    ],
+    "types": ["Psychic"],
+    "evolvesTo": ["Musharna"],
     "attacks": [
       {
         "name": "Yawn",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "The Defending Pokémon is now Asleep."
@@ -367,16 +274,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Ken Sugimori",
     "flavorText": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
-    "nationalPokedexNumbers": [
-      517
-    ],
+    "nationalPokedexNumbers": [517],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -390,24 +293,14 @@
     "id": "mcd11-8",
     "name": "Sandile",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Krokorok"
-    ],
+    "types": ["Fighting"],
+    "evolvesTo": ["Krokorok"],
     "attacks": [
       {
         "name": "Sand Tomb",
-        "cost": [
-          "Fighting",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Fighting", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "30",
         "text": "The Defending Pokémon can't retreat during your opponent's next turn."
@@ -419,17 +312,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "8",
     "artist": "Ken Sugimori",
     "flavorText": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
-    "nationalPokedexNumbers": [
-      551
-    ],
+    "nationalPokedexNumbers": [551],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -443,32 +331,21 @@
     "id": "mcd11-9",
     "name": "Zorua",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "50",
-    "types": [
-      "Darkness"
-    ],
-    "evolvesTo": [
-      "Zoroark"
-    ],
+    "types": ["Darkness"],
+    "evolvesTo": ["Zoroark"],
     "attacks": [
       {
         "name": "Scratch",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Fury Swipes",
-        "cost": [
-          "Darkness",
-          "Colorless"
-        ],
+        "cost": ["Darkness", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
@@ -486,16 +363,12 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "9",
     "artist": "Ken Sugimori",
     "flavorText": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
-    "nationalPokedexNumbers": [
-      570
-    ],
+    "nationalPokedexNumbers": [570],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -509,32 +382,21 @@
     "id": "mcd11-10",
     "name": "Klink",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "50",
-    "types": [
-      "Metal"
-    ],
-    "evolvesTo": [
-      "Klang"
-    ],
+    "types": ["Metal"],
+    "evolvesTo": ["Klang"],
     "attacks": [
       {
         "name": "Charge Beam",
-        "cost": [
-          "Metal"
-        ],
+        "cost": ["Metal"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": "Flip a coin. If heads, attach an Energy card from your discard pile to this Pokémon."
       },
       {
         "name": "Irongrip",
-        "cost": [
-          "Metal",
-          "Colorless"
-        ],
+        "cost": ["Metal", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": ""
@@ -552,16 +414,12 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "10",
     "artist": "Ken Sugimori",
     "flavorText": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
-    "nationalPokedexNumbers": [
-      599
-    ],
+    "nationalPokedexNumbers": [599],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -575,31 +433,21 @@
     "id": "mcd11-11",
     "name": "Pidove",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "40",
-    "types": [
-      "Colorless"
-    ],
-    "evolvesTo": [
-      "Tranquill"
-    ],
+    "types": ["Colorless"],
+    "evolvesTo": ["Tranquill"],
     "attacks": [
       {
         "name": "Growl",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
       },
       {
         "name": "Gust",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
@@ -617,16 +465,12 @@
         "value": "-20"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "11",
     "artist": "Ken Sugimori",
     "flavorText": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
-    "nationalPokedexNumbers": [
-      519
-    ],
+    "nationalPokedexNumbers": [519],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
@@ -640,20 +484,13 @@
     "id": "mcd11-12",
     "name": "Audino",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "80",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "attacks": [
       {
         "name": "Double Slap",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "30×",
         "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
@@ -665,17 +502,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "12",
     "artist": "MAHOU",
     "flavorText": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
-    "nationalPokedexNumbers": [
-      531
-    ],
+    "nationalPokedexNumbers": [531],
     "legalities": {
       "unlimited": "Legal",
       "expanded": "Legal"
