@@ -24,6 +24,12 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
@@ -63,6 +69,12 @@
         "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
         "damage": "20+",
         "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -121,6 +133,12 @@
         "convertedEnergyCost": 3
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless",
       "Colorless"
@@ -163,6 +181,12 @@
         "text": "Flip 3 coins. This attack does 10 damage for each heads.",
         "damage": "10",
         "convertedEnergyCost": 0
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -208,13 +232,18 @@
         "cost": [
           "Colorless",
           "Colorless",
-          "Colorless",
-          "Water"
+          "Colorless"
         ],
         "name": "Hydro Pump",
-        "text": "This attack does 10 more damage times the amount of [W] Energy attached to this Pokémon.",
+        "text": "This attack does 10 more damage times the amount of Water Energy attached to this Pokémon.",
         "damage": "70+",
-        "convertedEnergyCost": 4
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -261,6 +290,18 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
@@ -304,6 +345,18 @@
         "convertedEnergyCost": 1
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
@@ -345,6 +398,12 @@
         "text": "Flip 3 coins. This attack does 10 damage for each heads.",
         "damage": "10",
         "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -400,6 +459,12 @@
         "convertedEnergyCost": 2
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
     "retreatCost": [
       "Colorless",
       "Colorless"
@@ -444,6 +509,18 @@
         "convertedEnergyCost": 0
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
     "retreatCost": [
       "Colorless"
     ],
@@ -477,12 +554,24 @@
     "attacks": [
       {
         "cost": [
-          "Metal"
+
         ],
         "name": "Gold Rush",
-        "text": "Discard any number of [M] Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
+        "text": "Discard any number of Metal Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
         "damage": "30",
-        "convertedEnergyCost": 1
+        "convertedEnergyCost": 0
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
       }
     ],
     "retreatCost": [
@@ -533,6 +622,12 @@
         "text": "",
         "damage": "20",
         "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
       }
     ],
     "retreatCost": [

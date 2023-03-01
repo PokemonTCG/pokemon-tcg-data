@@ -532,9 +532,9 @@
       {
         "name": "Swelling Scent",
         "cost": [
-          "[-]"
+
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Grass Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
       },
@@ -890,7 +890,7 @@
       "Grass"
     ],
     "rules": [
-      "Radiant Pokémon Rule: You cant have more than 1 Radiant Pokémon in your deck."
+      "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
     ],
     "abilities": [
       {
@@ -1940,9 +1940,9 @@
       {
         "name": "White Drop",
         "cost": [
-          "[-]"
+
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "If your opponent's Active Pokémon is a Pokémon V, this attack does 50 more damage."
       },
@@ -2018,9 +2018,9 @@
       {
         "name": "Silvery Snow Star",
         "cost": [
-          "[-]"
+
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "70×",
         "text": "This attack does 70 damage for each of your opponent's Pokémon V in play. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 VSTAR Power in a game.)"
       }
@@ -3536,7 +3536,7 @@
       "Psychic"
     ],
     "rules": [
-      "Radiant Pokémon Rule: You cant have more than 1 Radiant Pokémon in your deck."
+      "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
     ],
     "abilities": [
       {
@@ -7336,7 +7336,7 @@
       "Metal"
     ],
     "rules": [
-      "Radiant Pokémon Rule: You cant have more than 1 Radiant Pokémon in your deck."
+      "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
     ],
     "abilities": [
       {
@@ -9144,9 +9144,9 @@
       {
         "name": "Eerie Cry",
         "cost": [
-          "[-]"
+
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "",
         "text": "Put 3 damage counters on each of your opponent's Pokémon that has any damage counters on it."
       },
@@ -9260,7 +9260,7 @@
     ],
     "rules": [
       "You can use this card only when it is the last card in your hand. Draw a card for each Benched Pokémon (both yours and your opponent's).",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "151",
     "artist": "Ken Sugimori",
@@ -9285,7 +9285,7 @@
     ],
     "rules": [
       "Look at the top 7 cards of your deck. You may reveal any number of Water Pokémon and Water Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "152",
     "artist": "Ken Sugimori",
@@ -9310,7 +9310,7 @@
     ],
     "rules": [
       "Flip a coin. If heads, search your deck for an Evolution Pokémon, reveal it, and put it into your hand. If tails, search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
-      "Item rule: You may play any number of Item cards during your turn."
+      "You may play any number of Item cards during your turn."
     ],
     "number": "153",
     "artist": "sadaji",
@@ -9336,8 +9336,8 @@
     ],
     "rules": [
       "The Pokémon V this card is attached to can use the VSTAR Power on this card. (You still need the necessary Energy to use this attack.) ColorlessColorlessColorless Star Gravity Put damage counters on each of your opponent's Pokémon V until its remaining HP is 100. (You can't use more than 1 VSTAR Power in a game.)",
-      "Item rule: You may play any number of Item cards during your turn.",
-      "Pokémon Tool rule: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
     ],
     "number": "154",
     "artist": "AYUMI ODASHIMA",
@@ -9363,8 +9363,8 @@
     ],
     "rules": [
       "At the end of each turn, if the Pokémon this card is attached to has 30 HP or less remaining and has any damage counters on it, heal 120 damage from it. If you healed any damage in this way, discard this card.",
-      "Item rule: You may play any number of Item cards during your turn.",
-      "Pokémon Tool rule: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
     ],
     "number": "155",
     "artist": "AYUMI ODASHIMA",
@@ -9390,8 +9390,8 @@
     ],
     "rules": [
       "The Pokémon V this card is attached to can use the VSTAR Power on this card. Star Alchemy During your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
-      "Item rule: You may play any number of Item cards during your turn.",
-      "Pokémon Tool rule: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
     ],
     "number": "156",
     "artist": "AYUMI ODASHIMA",
@@ -9416,7 +9416,7 @@
     ],
     "rules": [
       "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck. You may switch that Pokémon with your Active Pokémon.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "157",
     "artist": "Yusuke Ohmura",
@@ -9441,7 +9441,7 @@
     ],
     "rules": [
       "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "158",
     "artist": "Hideki Ishikawa",
@@ -9466,7 +9466,7 @@
     ],
     "rules": [
       "Search your deck for up to 3 Dragon Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "159",
     "artist": "Ken Sugimori",
@@ -9492,8 +9492,8 @@
     ],
     "rules": [
       "Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to the Pokémon VSTAR or Pokémon VMAX this card is attached to.",
-      "Item rule: You may play any number of Item cards during your turn.",
-      "Pokémon Tool rule: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
     ],
     "number": "160",
     "artist": "Studio Bora Inc.",
@@ -9542,7 +9542,7 @@
     ],
     "rules": [
       "Put up to 3 Pokémon that have \"Hisuian\" in their names from your discard pile into your hand.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "162",
     "artist": "Ken Sugimori",
@@ -9567,7 +9567,7 @@
     ],
     "rules": [
       "You may use 4 Quad Stone cards at once. • If you used 1 card, heal 10 damage from your Active Pokémon. • If you used 4 cards, heal all damage from each of your Pokémon. (This effect works one time for 4 cards.)",
-      "Item rule: You may play any number of Item cards during your turn."
+      "You may play any number of Item cards during your turn."
     ],
     "number": "163",
     "artist": "sadaji",
@@ -9592,7 +9592,7 @@
     ],
     "rules": [
       "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "164",
     "artist": "Ken Sugimori",
@@ -9617,7 +9617,7 @@
     ],
     "rules": [
       "Play this card as if it were a 60-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
-      "Item rule: You may play any number of Item cards during your turn."
+      "You may play any number of Item cards during your turn."
     ],
     "number": "165",
     "artist": "AYUMI ODASHIMA",
@@ -9627,6 +9627,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "F",
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/165.png",
       "large": "https://images.pokemontcg.io/swsh12/165_hires.png"
@@ -9641,7 +9642,7 @@
     ],
     "rules": [
       "Draw 3 cards. Your opponent may draw a card. If they do, draw 1 more card.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "166",
     "artist": "Megumi Mizutani",
@@ -9666,7 +9667,7 @@
     ],
     "rules": [
       "Draw 3 cards. Discard a Stadium in play.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "167",
     "artist": "Sanosuke Sakuma",
@@ -9938,9 +9939,9 @@
       {
         "name": "White Drop",
         "cost": [
-          "[-]"
+
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "If your opponent's Active Pokémon is a Pokémon V, this attack does 50 more damage."
       },
@@ -10925,7 +10926,7 @@
     ],
     "rules": [
       "You can use this card only when it is the last card in your hand. Draw a card for each Benched Pokémon (both yours and your opponent's).",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "188",
     "artist": "Hideki Ishikawa",
@@ -10950,7 +10951,7 @@
     ],
     "rules": [
       "Look at the top 7 cards of your deck. You may reveal any number of Water Pokémon and Water Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "189",
     "artist": "Naoki Saito",
@@ -10975,7 +10976,7 @@
     ],
     "rules": [
       "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck. You may switch that Pokémon with your Active Pokémon.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "190",
     "artist": "saino misaki",
@@ -11000,7 +11001,7 @@
     ],
     "rules": [
       "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "191",
     "artist": "Hideki Ishikawa",
@@ -11025,7 +11026,7 @@
     ],
     "rules": [
       "Search your deck for up to 3 Dragon Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "192",
     "artist": "Ryuta Fuse",
@@ -11050,7 +11051,7 @@
     ],
     "rules": [
       "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "193",
     "artist": "Megumi Mizutani",
@@ -11075,7 +11076,7 @@
     ],
     "rules": [
       "Draw 3 cards. Your opponent may draw a card. If they do, draw 1 more card.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "194",
     "artist": "Ryuta Fuse",
@@ -11100,7 +11101,7 @@
     ],
     "rules": [
       "Draw 3 cards. Discard a Stadium in play.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "195",
     "artist": "Yuu Nishida",
@@ -11209,9 +11210,9 @@
       {
         "name": "Silvery Snow Star",
         "cost": [
-          "[-]"
+
         ],
-        "convertedEnergyCost": 1,
+        "convertedEnergyCost": 0,
         "damage": "70×",
         "text": "This attack does 70 damage for each of your opponent's Pokémon V in play. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 VSTAR Power in a game.)"
       }
@@ -11569,7 +11570,7 @@
     ],
     "rules": [
       "You can use this card only when it is the last card in your hand. Draw a card for each Benched Pokémon (both yours and your opponent's).",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "203",
     "artist": "Hideki Ishikawa",
@@ -11594,7 +11595,7 @@
     ],
     "rules": [
       "Look at the top 7 cards of your deck. You may reveal any number of Water Pokémon and Water Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "204",
     "artist": "Naoki Saito",
@@ -11619,7 +11620,7 @@
     ],
     "rules": [
       "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck. You may switch that Pokémon with your Active Pokémon.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "205",
     "artist": "saino misaki",
@@ -11644,7 +11645,7 @@
     ],
     "rules": [
       "Search your deck for up to 3 Dragon Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "206",
     "artist": "Ryuta Fuse",
@@ -11669,7 +11670,7 @@
     ],
     "rules": [
       "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "207",
     "artist": "Megumi Mizutani",
@@ -11694,7 +11695,7 @@
     ],
     "rules": [
       "Draw 3 cards. Your opponent may draw a card. If they do, draw 1 more card.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "208",
     "artist": "Ryuta Fuse",
@@ -11719,7 +11720,7 @@
     ],
     "rules": [
       "Draw 3 cards. Discard a Stadium in play.",
-      "Supporter rule: You may play only 1 Supporter card during your turn."
+      "You may play only 1 Supporter card during your turn."
     ],
     "number": "209",
     "artist": "Yuu Nishida",
@@ -11874,7 +11875,7 @@
     ],
     "rules": [
       "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
-      "Item rule: You may play any number of Item cards during your turn."
+      "You may play any number of Item cards during your turn."
     ],
     "number": "212",
     "artist": "Toyste Beach",
@@ -11884,6 +11885,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "regulationMark": "F",
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/212.png",
       "large": "https://images.pokemontcg.io/swsh12/212_hires.png"
@@ -11923,8 +11925,8 @@
     ],
     "rules": [
       "Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to the Pokémon VSTAR or Pokémon VMAX this card is attached to.",
-      "Item rule: You may play any number of Item cards during your turn.",
-      "Pokémon Tool rule: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
     ],
     "number": "214",
     "artist": "Studio Bora Inc.",
