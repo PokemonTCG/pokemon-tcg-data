@@ -4721,6 +4721,70 @@
     }
   },
   {
+    "id": "swshp-SWSH075",
+    "name": "Special Delivery Charizard",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmeleon"
+    ],
+    "attacks": [
+      {
+        "name": "Happy Delivery",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Flamethrower",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "Discard an Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "SWSH075",
+    "artist": "The Pokémon Company Art Team",
+    "rarity": "Promo",
+    "flavorText": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH075.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH075_hires.png"
+    }
+  },
+  {
     "id": "swshp-SWSH076",
     "name": "Zacian V",
     "supertype": "Pokémon",
