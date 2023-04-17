@@ -16058,6 +16058,31 @@
     }
   },
   {
+    "id": "swshp-SWSH251",
+    "name": "Boss's Orders",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "number": "SWSH251",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH251.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH251_hires.png"
+    }
+  },
+  {
     "id": "swshp-SWSH252",
     "name": "Infernape V",
     "supertype": "Pokémon",
@@ -18250,6 +18275,187 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH281.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH281_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH282",
+    "name": "Galarian Articuno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Cruel Charge",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Psychic Energy cards from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psylaser",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard all Psychic Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH282",
+    "artist": "Shiburingaru",
+    "rarity": "Promo",
+    "flavorText": "Known as Articuno, this Pokémon fires beams that can immobilize opponents as if they had been frozen solid.",
+    "nationalPokedexNumbers": [
+      144
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH282.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH282_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH283",
+    "name": "Galarian Zapdos",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "abilities": [
+      {
+        "name": "Strong Legs Charge",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Fighting Energy cards from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Zapper Kick",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "You may discard all Energy from this Pokémon. If you do, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "number": "SWSH283",
+    "artist": "Rianti Hidayat",
+    "rarity": "Promo",
+    "flavorText": "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph.",
+    "nationalPokedexNumbers": [
+      145
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH283.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH283_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH284",
+    "name": "Galarian Moltres",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "abilities": [
+      {
+        "name": "Malevolent Charge",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Darkness Energy cards from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fiery Wrath",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20+",
+        "text": "This attack does 50 more damage for each Prize card your opponent has taken."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH284",
+    "artist": "Shinji Kanda",
+    "rarity": "Promo",
+    "flavorText": "The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres.",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH284.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH284_hires.png"
     }
   },
   {
