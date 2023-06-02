@@ -1,1999 +1,5 @@
 [
   {
-    "id": "ecard3-H1",
-    "name": "Alakazam",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "100",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesFrom": "Kadabra",
-    "abilities": [
-      {
-        "name": "Energy Jump",
-        "text": "Once during your turn (before your attack), you may move an Energy card from 1 of your Pokémon to another of your Pokémon. This power can't be used if Alakazam is affected by a Special Condition.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Psychic",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "30+",
-        "text": "This attack does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H1",
-    "artist": "Kimiya Masago",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      65
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H1.png",
-      "large": "https://images.pokemontcg.io/ecard3/H1_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H2",
-    "name": "Arcanine",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Fire"
-    ],
-    "evolvesFrom": "Growlithe",
-    "abilities": [
-      {
-        "name": "Energy Recharge",
-        "text": "When you play Arcanine from your hand to evolve your Active Pokémon, you may flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to Arcanine.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Shake",
-        "cost": [
-          "Colorless"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "10",
-        "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
-      },
-      {
-        "name": "White Flames",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "70",
-        "text": "Discard all Fire Energy cards attached to Arcanine."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H2",
-    "artist": "Aya Kusube",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      59
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H2.png",
-      "large": "https://images.pokemontcg.io/ecard3/H2_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H3",
-    "name": "Articuno",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "80",
-    "types": [
-      "Water"
-    ],
-    "abilities": [
-      {
-        "name": "Water Immunity",
-        "text": "You can't attach Water Energy cards from your hand to Articuno.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Freeze Solid",
-        "cost": [
-          "Colorless"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "10",
-        "text": "If there are any Water Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Articuno."
-      },
-      {
-        "name": "Ice Cyclone",
-        "cost": [
-          "Water",
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "50",
-        "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Pokémon in play. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Metal",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Fighting",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H3",
-    "artist": "Hajime Kusajima",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      144
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H3.png",
-      "large": "https://images.pokemontcg.io/ecard3/H3_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H4",
-    "name": "Beedrill",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "80",
-    "types": [
-      "Grass"
-    ],
-    "evolvesFrom": "Kakuna",
-    "abilities": [
-      {
-        "name": "Venom Spray",
-        "text": "When you play Beedrill from your hand to evolve your Active Pokémon, the Defending Pokémon is now Paralyzed and Poisoned.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Needle Rush",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "10+",
-        "text": "Flip 4 coins. If you get 1 heads, this attack does 10 damage plus 10 more damage. If you get 2 heads, this attack does 10 damage plus 20 more damage. If you get 3 heads, this attack does 10 damage plus 50 more damage. If you get 4 heads, this attack does 10 damage plus 90 more damage."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fire",
-        "value": "×2"
-      }
-    ],
-    "number": "H4",
-    "artist": "Hikaru Koike",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      15
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H4.png",
-      "large": "https://images.pokemontcg.io/ecard3/H4_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H5",
-    "name": "Crobat",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "90",
-    "types": [
-      "Grass"
-    ],
-    "evolvesFrom": "Golbat",
-    "abilities": [
-      {
-        "name": "Carry Off",
-        "text": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Baby Pokémon, Basic Pokémon, or Evolution cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Crobat is affected by a Special Condition.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Double Cross",
-        "cost": [
-          "Grass",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40×",
-        "text": "Flip 2 coins. This attack does 40 damage times the number of heads. If both of them are tails, the Defending Pokémon is now Confused and Poisoned."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ],
-    "number": "H5",
-    "artist": "Kimiya Masago",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      169
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H5.png",
-      "large": "https://images.pokemontcg.io/ecard3/H5_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H6",
-    "name": "Dewgong",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Water"
-    ],
-    "evolvesFrom": "Seel",
-    "attacks": [
-      {
-        "name": "Freeze Lock",
-        "cost": [
-          "Water",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "20",
-        "text": "Flip a coin. If heads, your opponent can't attach Energy cards from his or her hand to his or her Active Pokémon during his or her next turn."
-      },
-      {
-        "name": "Crushing Ice",
-        "cost": [
-          "Water",
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "40+",
-        "text": "This attack does 40 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost. Damage is calculated using the Defending Pokémon's Retreat Cost after applying effects to the Retreat Cost."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Metal",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H6",
-    "artist": "Kouki Saitou",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      87
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H6.png",
-      "large": "https://images.pokemontcg.io/ecard3/H6_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H7",
-    "name": "Flareon",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Fire"
-    ],
-    "evolvesFrom": "Eevee",
-    "abilities": [
-      {
-        "name": "Self-healing",
-        "text": "Whenever you attach a Fire Energy card from your hand to Flareon, remove all Special Conditions affecting Flareon.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Singe",
-        "cost": [
-          "Fire"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "The Defending Pokémon is now Burned."
-      },
-      {
-        "name": "Burn Booster",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40+",
-        "text": "Discard an Energy card attached to Flareon in order to use this attack. If the discarded card is a Fire Energy card, this attack does 40 damage plus 10 more damage."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H7",
-    "artist": "Kyoko Umemoto",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      136
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H7.png",
-      "large": "https://images.pokemontcg.io/ecard3/H7_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H8",
-    "name": "Forretress",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Metal"
-    ],
-    "evolvesFrom": "Pineco",
-    "attacks": [
-      {
-        "name": "Spinning Blow",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "20×",
-        "text": "Flip 2 coins. This attack does 20 damage times the number of heads. If both coins are heads, switch Forretress with 1 of your Benched Pokémon."
-      },
-      {
-        "name": "Scatterbomb",
-        "cost": [
-          "Metal",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40",
-        "text": "Flip 2 coins. For each heads, do 10 damage to each of your opponent's Benched Pokémon. For each tails, do 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fire",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Grass",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H8",
-    "artist": "Midori Harada",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      205
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H8.png",
-      "large": "https://images.pokemontcg.io/ecard3/H8_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H9",
-    "name": "Gengar",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "100",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesFrom": "Haunter",
-    "abilities": [
-      {
-        "name": "Manipulate",
-        "text": "When you play Gengar from your hand to evolve your Active Pokémon, you may put a Basic Pokémon (excluding Baby Pokémon) from your discard pile onto your Bench. Then, flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to that Pokémon.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Hydrokinesis",
-        "cost": [
-          "Psychic",
-          "Psychic",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "40",
-        "text": "Flip a coin. If heads, the Defending Pokémon is now Burned. If tails, the Defending Pokémon is now Confused."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Darkness",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Fighting",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H9",
-    "artist": "Kyoko Umemoto",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      94
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H9.png",
-      "large": "https://images.pokemontcg.io/ecard3/H9_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H10",
-    "name": "Gyarados",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "90",
-    "types": [
-      "Water"
-    ],
-    "evolvesFrom": "Magikarp",
-    "abilities": [
-      {
-        "name": "Flame Vapor",
-        "text": "When you play Gyarados from your hand to evolve your Active Pokémon, you may flip 2 coins. For each heads, discard an Energy card attached to the Defending Pokémon.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Dragon's Vengeance",
-        "cost": [
-          "Water",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "50",
-        "text": "If Gyarados has 7 or more damage counters on it, this attack's base damage is 100."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Lightning",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H10",
-    "artist": "Kimiya Masago",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      130
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H10.png",
-      "large": "https://images.pokemontcg.io/ecard3/H10_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H11",
-    "name": "Houndoom",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Darkness"
-    ],
-    "evolvesFrom": "Houndour",
-    "attacks": [
-      {
-        "name": "Ambush",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "10+",
-        "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
-      },
-      {
-        "name": "Lonely Fang",
-        "cost": [
-          "Darkness",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "30+",
-        "text": "This attack does 30 damage plus 20 damage times the number of your opponent's Benched Pokémon minus the number of your Benched Pokémon. (For example, if your opponent has 3 Benched Pokémon and you have 1, this attack will do 30 damage plus 40 more damage.)"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Psychic",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H11",
-    "artist": "Kimiya Masago",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      229
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H11.png",
-      "large": "https://images.pokemontcg.io/ecard3/H11_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H12",
-    "name": "Jolteon",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesFrom": "Eevee",
-    "abilities": [
-      {
-        "name": "Self-healing",
-        "text": "Whenever you attach a Lightning Energy card from your hand to Jolteon, remove all Special Conditions affecting Jolteon.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Thundershock",
-        "cost": [
-          "Lightning"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-      },
-      {
-        "name": "Thunderspark",
-        "cost": [
-          "Lightning",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40",
-        "text": "This attack does 10 damage to each Benched Pokémon with at least 1 Energy card attached to it (yours and your opponent's)."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
-    ],
-    "number": "H12",
-    "artist": "Hikaru Koike",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      135
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H12.png",
-      "large": "https://images.pokemontcg.io/ecard3/H12_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H13",
-    "name": "Kabutops",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "90",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesFrom": "Kabuto",
-    "abilities": [
-      {
-        "name": "Primal Aura",
-        "text": "As long as Kabutops is your Active Pokémon, neither player can play Basic Pokémon or Evolution cards from his or her hand to evolve Benched Pokémon.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Dual Cut",
-        "cost": [
-          "Fighting",
-          "Fighting",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "50×",
-        "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Grass",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H13",
-    "artist": "Kouki Saitou",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      141
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H13.png",
-      "large": "https://images.pokemontcg.io/ecard3/H13_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H14",
-    "name": "Ledian",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Grass"
-    ],
-    "evolvesFrom": "Ledyba",
-    "attacks": [
-      {
-        "name": "Pollen Shield",
-        "cost": [
-          "Colorless"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "10",
-        "text": "During your opponent's next turn, Ledian can't become affected by a Special Condition. (Any other effects of attacks, Poké-Powers, Poké-Bodies, and Trainer cards still happen.)"
-      },
-      {
-        "name": "Swift",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "50",
-        "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fire",
-        "value": "×2"
-      }
-    ],
-    "number": "H14",
-    "artist": "Hikaru Koike",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      166
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H14.png",
-      "large": "https://images.pokemontcg.io/ecard3/H14_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H15",
-    "name": "Machamp",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "120",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesFrom": "Machoke",
-    "abilities": [
-      {
-        "name": "Immunity",
-        "text": "Prevent all effects of your opponent's attacks done to Machamp.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Drag Off",
-        "cost": [
-          "Fighting",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "20",
-        "text": "Before doing damage, if your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon. If your opponent has no Benched Pokémon, ignore this effect."
-      },
-      {
-        "name": "Hurricane Punch",
-        "cost": [
-          "Fighting",
-          "Fighting",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "30×",
-        "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H15",
-    "artist": "Naoyo Kimura",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      68
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H15.png",
-      "large": "https://images.pokemontcg.io/ecard3/H15_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H16",
-    "name": "Magcargo",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Fire"
-    ],
-    "evolvesFrom": "Slugma",
-    "attacks": [
-      {
-        "name": "Eruption",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "20+",
-        "text": "Each player discard the top card of his or her deck. This attack does 20 damage plus 20 more damage for each Fire Energy card discarded in this way."
-      },
-      {
-        "name": "Fire Stream",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "60",
-        "text": "Discard a Fire Energy card attached to Magcargo in order to use this attack. If your opponent has any Benched Pokémon, this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 3,
-    "number": "H16",
-    "artist": "Hajime Kusajima",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      219
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H16.png",
-      "large": "https://images.pokemontcg.io/ecard3/H16_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H17",
-    "name": "Magcargo",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesFrom": "Slugma",
-    "abilities": [
-      {
-        "name": "Streaming Mantle",
-        "text": "When you play Magcargo from your hand to evolve your Active Pokémon, you may discard the top 3 cards of your deck and and then shuffle 3 basic Energy cards from your discard pile into your deck. If you do, your opponent does the same.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Crushing Lava",
-        "cost": [
-          "Fighting",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40+",
-        "text": "You may discard a Fire or Fighting basic Energy card attached to Magcargo. If you discard a Fire Energy card in this way, the Defending Pokémon is now Burned. If you discard a Fighting Energy card in this way, this attack does 40 damage plus 20 more damage."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 3,
-    "number": "H17",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      219
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H17.png",
-      "large": "https://images.pokemontcg.io/ecard3/H17_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H18",
-    "name": "Magneton",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesFrom": "Magnemite",
-    "evolvesTo": [
-      "Magnezone"
-    ],
-    "abilities": [
-      {
-        "name": "Attract Energy",
-        "text": "When you play Magneton from your hand to evolve 1 of your Pokémon, you may move any number of basic Energy cards attached to your other Pokémon to Magneton.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Electric Blast",
-        "cost": [
-          "Lightning",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40",
-        "text": "You may discard all Lightning Energy cards attached to Magneton when you use this attack. If you do, put damage counters equal to the amount of Energy cards removed in this way on any number of your opponent's Benched Pokémon in the way you like. (For example, if you discard 3 Lightning Energy cards, you can put 1 damage counter on 1 of your opponent's Benched Pokémon and 2 on another.)"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H18",
-    "artist": "Hajime Kusajima",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      82
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H18.png",
-      "large": "https://images.pokemontcg.io/ecard3/H18_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H19",
-    "name": "Magneton",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Metal"
-    ],
-    "evolvesFrom": "Magnemite",
-    "evolvesTo": [
-      "Magnezone"
-    ],
-    "attacks": [
-      {
-        "name": "Bounce Off",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "20",
-        "text": "If Magneton and the Defending Pokémon don't have the same number of Energy cards attached to them, the player controlling the Active Pokémon with the fewest number of Energy cards attached to it switches 1 of his or her Benched Pokémon with his or her Active Pokémon."
-      },
-      {
-        "name": "Magnetic Wave",
-        "cost": [
-          "Metal",
-          "Metal",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "30+",
-        "text": "This attack does 30 damage plus 10 damage times the number of your Benched Pokémon minus the number of your opponent's Benched Pokémon. (For example, if your opponent has 1 Benched Pokémon and you have 3, this attack will do 30 damage plus 20 more damage.)"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fire",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Grass",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H19",
-    "artist": "Kouki Saitou",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      82
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H19.png",
-      "large": "https://images.pokemontcg.io/ecard3/H19_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H20",
-    "name": "Moltres",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "80",
-    "types": [
-      "Fire"
-    ],
-    "abilities": [
-      {
-        "name": "Fire Immunity",
-        "text": "You can't attach Fire Energy cards from your hand to Moltres.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Collect Fire",
-        "cost": [
-          "Colorless"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "10",
-        "text": "If there are any Fire Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Moltres."
-      },
-      {
-        "name": "Burning Tail",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "60",
-        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Moltres."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Water",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Fighting",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H20",
-    "artist": "Kouki Saitou",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      146
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H20.png",
-      "large": "https://images.pokemontcg.io/ecard3/H20_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H21",
-    "name": "Nidoqueen",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "110",
-    "types": [
-      "Grass"
-    ],
-    "evolvesFrom": "Nidorina",
-    "abilities": [
-      {
-        "name": "Evolution Helper",
-        "text": "Once during your turn (before your attack), if Nidoqueen is on your Bench, you may search your deck for a card that evolves from your Active Pokémon and attach it to your Active Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Double Claw",
-        "cost": [
-          "Grass",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "30+",
-        "text": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 3,
-    "number": "H21",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      31
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H21.png",
-      "large": "https://images.pokemontcg.io/ecard3/H21_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H22",
-    "name": "Piloswine",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "90",
-    "types": [
-      "Water"
-    ],
-    "evolvesFrom": "Swinub",
-    "evolvesTo": [
-      "Mamoswine"
-    ],
-    "attacks": [
-      {
-        "name": "Freezing Breath",
-        "cost": [
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "20",
-        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
-      },
-      {
-        "name": "Trample",
-        "cost": [
-          "Fighting",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "40",
-        "text": "For each Benched Pokémon (yours and your opponent's), flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Metal",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 3,
-    "number": "H22",
-    "artist": "Yuka Morii",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      221
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H22.png",
-      "large": "https://images.pokemontcg.io/ecard3/H22_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H23",
-    "name": "Politoed",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "110",
-    "types": [
-      "Water"
-    ],
-    "evolvesFrom": "Poliwhirl",
-    "attacks": [
-      {
-        "name": "Sudden Growth",
-        "cost": [
-          "Colorless"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "",
-        "text": "Attach any number of basic Energy cards from your hand to Politoed."
-      },
-      {
-        "name": "Frog Hop",
-        "cost": [
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "30+",
-        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
-      },
-      {
-        "name": "Energy Splash",
-        "cost": [
-          "Water",
-          "Water",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 5,
-        "damage": "70",
-        "text": "Move 2 Water Energy cards attached to Politoed to 1 or 2 of your Benched Pokémon. (You may put both on the same Pokémon or 1 each on 2 different Pokémon.) If you have no Benched Pokémon, ignore this effect."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Lightning",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H23",
-    "artist": "Atsuko Nishida",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      186
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H23.png",
-      "large": "https://images.pokemontcg.io/ecard3/H23_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H24",
-    "name": "Poliwrath",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
-    "hp": "110",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesFrom": "Poliwhirl",
-    "abilities": [
-      {
-        "name": "Strange Spiral",
-        "text": "Once during your turn (before your attack), if Poliwrath is your Active Pokémon, you may discard a basic Energy card attached to Poliwrath. If you do, the Defending Pokémon is now Confused. This power can't be used if Poliwrath is affected by a Special Condition.",
-        "type": "Poké-Power"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Spiral Punch",
-        "cost": [
-          "Fighting",
-          "Fighting",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40+",
-        "text": "Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H24",
-    "artist": "Naoyo Kimura",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      62
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H24.png",
-      "large": "https://images.pokemontcg.io/ecard3/H24_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H25",
-    "name": "Raichu",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Lightning"
-    ],
-    "evolvesFrom": "Pikachu",
-    "attacks": [
-      {
-        "name": "Zzzap",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "",
-        "text": "This attack does 20 damage to each Pokémon with a Poké-Body or Poké-Power (yours and your opponent's). (Don't apply Weakness or Resistance.)"
-      },
-      {
-        "name": "Lightning Storm",
-        "cost": [
-          "Lightning",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "50",
-        "text": "Flip a coin. If tails, put 2 damage counters on Raichu."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H25",
-    "artist": "Yuka Morii",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      26
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H25.png",
-      "large": "https://images.pokemontcg.io/ecard3/H25_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H26",
-    "name": "Raikou",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
-    "hp": "70",
-    "types": [
-      "Lightning"
-    ],
-    "abilities": [
-      {
-        "name": "Pure Body",
-        "text": "To attach a Lightning Energy card from your hand to Raikou, you must discard an Energy card attached to Raikou. (Attach the Lightning Energy, and then discard an Energy card from Raikou.)",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Lightning Sphere",
-        "cost": [
-          "Lightning",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40+",
-        "text": "You may flip a coin. If heads, discard all Lightning Energy cards attached to Raikou. This attack does 40 damage plus 20 more damage for each Energy card discarded in this way."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H26",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      243
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H26.png",
-      "large": "https://images.pokemontcg.io/ecard3/H26_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H27",
-    "name": "Rhydon",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "90",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesFrom": "Rhyhorn",
-    "evolvesTo": [
-      "Rhyperior"
-    ],
-    "attacks": [
-      {
-        "name": "Stomp",
-        "cost": [
-          "Fighting",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "30+",
-        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
-      },
-      {
-        "name": "Giant Tail",
-        "cost": [
-          "Fighting",
-          "Fighting",
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 5,
-        "damage": "100",
-        "text": "Flip a coin. If tails, this attack does nothing."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Grass",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Lightning",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 2,
-    "number": "H27",
-    "artist": "Mitsuhiro Arita",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      112
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H27.png",
-      "large": "https://images.pokemontcg.io/ecard3/H27_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H28",
-    "name": "Starmie",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesFrom": "Staryu",
-    "attacks": [
-      {
-        "name": "Energy Burst",
-        "cost": [
-          "Psychic"
-        ],
-        "convertedEnergyCost": 1,
-        "damage": "10×",
-        "text": "Flip a coin. If heads, this attack does 10 damage times the number of Energy attached to Starmie and the Defending Pokémon."
-      },
-      {
-        "name": "Star Back",
-        "cost": [
-          "Psychic",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40",
-        "text": "Attach a basic Energy card from your discard pile to 1 of your Pokémon."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H28",
-    "artist": "Hajime Kusajima",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      121
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H28.png",
-      "large": "https://images.pokemontcg.io/ecard3/H28_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H29",
-    "name": "Steelix",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "100",
-    "types": [
-      "Metal"
-    ],
-    "evolvesFrom": "Onix",
-    "abilities": [
-      {
-        "name": "Rare Metal",
-        "text": "All basic Energy cards attached to Steelix provide Metal Energy instead of their usual types.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Squeeze",
-        "cost": [
-          "Metal",
-          "Metal",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "20+",
-        "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Paralyzed."
-      },
-      {
-        "name": "Metal Tail",
-        "cost": [
-          "Metal",
-          "Metal",
-          "Metal",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 4,
-        "damage": "40",
-        "text": "Before doing damage, you may flip a coin. If heads, this attack does 80 damage. If tails, this attack does nothing."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fire",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Grass",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
-    "convertedRetreatCost": 4,
-    "number": "H29",
-    "artist": "Hikaru Koike",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      208
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H29.png",
-      "large": "https://images.pokemontcg.io/ecard3/H29_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H30",
-    "name": "Umbreon",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Darkness"
-    ],
-    "evolvesFrom": "Eevee",
-    "abilities": [
-      {
-        "name": "Dark Gaze",
-        "text": "As long as Umbreon is your Active Pokémon, Benched Pokémon (yours and your opponent's) can't use Poké-Powers.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Sharp Claws",
-        "cost": [
-          "Darkness",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "10+",
-        "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Fighting",
-        "value": "×2"
-      }
-    ],
-    "resistances": [
-      {
-        "type": "Psychic",
-        "value": "-30"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H30",
-    "artist": "Atsuko Nishida",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      197
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H30.png",
-      "large": "https://images.pokemontcg.io/ecard3/H30_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H31",
-    "name": "Vaporeon",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "70",
-    "types": [
-      "Water"
-    ],
-    "evolvesFrom": "Eevee",
-    "abilities": [
-      {
-        "name": "Self-healing",
-        "text": "Whenever you attach a Water Energy card from your hand to Vaporeon, remove all Special Conditions affecting Vaporeon.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Hypnosplash",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 2,
-        "damage": "10",
-        "text": "The Defending Pokémon is now Asleep."
-      },
-      {
-        "name": "Aqua Trick",
-        "cost": [
-          "Water",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "40",
-        "text": "If the Defending Pokémon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those Energy cards and move it to 1 of your opponent's Benched Pokémon. If your opponent has no Benched Pokémon, ignore this effect."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Lightning",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H31",
-    "artist": "Naoyo Kimura",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      134
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H31.png",
-      "large": "https://images.pokemontcg.io/ecard3/H31_hires.png"
-    }
-  },
-  {
-    "id": "ecard3-H32",
-    "name": "Xatu",
-    "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
-    "hp": "80",
-    "types": [
-      "Psychic"
-    ],
-    "evolvesFrom": "Natu",
-    "abilities": [
-      {
-        "name": "Synchronicity",
-        "text": "You may attach any Technical Machine to Xatu.",
-        "type": "Poké-Body"
-      }
-    ],
-    "attacks": [
-      {
-        "name": "Warp Hole",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
-        "convertedEnergyCost": 3,
-        "damage": "30",
-        "text": "Flip a coin. If heads, choose a card from your discard pile and put it on top of your deck."
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Psychic",
-        "value": "×2"
-      }
-    ],
-    "retreatCost": [
-      "Colorless"
-    ],
-    "convertedRetreatCost": 1,
-    "number": "H32",
-    "artist": "Atsuko Nishida",
-    "rarity": "Rare Holo",
-    "nationalPokedexNumbers": [
-      178
-    ],
-    "legalities": {
-      "unlimited": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/ecard3/H32.png",
-      "large": "https://images.pokemontcg.io/ecard3/H32_hires.png"
-    }
-  },
-  {
     "id": "ecard3-1",
     "name": "Aerodactyl",
     "supertype": "Pokémon",
@@ -5138,7 +3144,7 @@
     "abilities": [
       {
         "name": "Slippery Skin",
-        "text": "As long as the Defending Pokémon is an Evolved Pokémon, Dusparce's Retreat Cost is 0.",
+        "text": "As long as the Defending Pokémon is an Evolved Pokémon, Dunsparce's Retreat Cost is 0.",
         "type": "Poké-Body"
       }
     ],
@@ -10046,6 +8052,2000 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/150.png",
       "large": "https://images.pokemontcg.io/ecard3/150_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H1",
+    "name": "Alakazam",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "100",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Kadabra",
+    "abilities": [
+      {
+        "name": "Energy Jump",
+        "text": "Once during your turn (before your attack), you may move an Energy card from 1 of your Pokémon to another of your Pokémon. This power can't be used if Alakazam is affected by a Special Condition.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "This attack does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H1",
+    "artist": "Kimiya Masago",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      65
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H1.png",
+      "large": "https://images.pokemontcg.io/ecard3/H1_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H2",
+    "name": "Arcanine",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Growlithe",
+    "abilities": [
+      {
+        "name": "Energy Recharge",
+        "text": "When you play Arcanine from your hand to evolve your Active Pokémon, you may flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to Arcanine.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Shake",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+      },
+      {
+        "name": "White Flames",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "Discard all Fire Energy cards attached to Arcanine."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H2",
+    "artist": "Aya Kusube",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      59
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H2.png",
+      "large": "https://images.pokemontcg.io/ecard3/H2_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H3",
+    "name": "Articuno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "abilities": [
+      {
+        "name": "Water Immunity",
+        "text": "You can't attach Water Energy cards from your hand to Articuno.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Freeze Solid",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "If there are any Water Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Articuno."
+      },
+      {
+        "name": "Ice Cyclone",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "50",
+        "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Pokémon in play. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H3",
+    "artist": "Hajime Kusajima",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      144
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H3.png",
+      "large": "https://images.pokemontcg.io/ecard3/H3_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H4",
+    "name": "Beedrill",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "80",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Kakuna",
+    "abilities": [
+      {
+        "name": "Venom Spray",
+        "text": "When you play Beedrill from your hand to evolve your Active Pokémon, the Defending Pokémon is now Paralyzed and Poisoned.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Needle Rush",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "Flip 4 coins. If you get 1 heads, this attack does 10 damage plus 10 more damage. If you get 2 heads, this attack does 10 damage plus 20 more damage. If you get 3 heads, this attack does 10 damage plus 50 more damage. If you get 4 heads, this attack does 10 damage plus 90 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "number": "H4",
+    "artist": "Hikaru Koike",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      15
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H4.png",
+      "large": "https://images.pokemontcg.io/ecard3/H4_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H5",
+    "name": "Crobat",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Golbat",
+    "abilities": [
+      {
+        "name": "Carry Off",
+        "text": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Baby Pokémon, Basic Pokémon, or Evolution cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Crobat is affected by a Special Condition.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Double Cross",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40×",
+        "text": "Flip 2 coins. This attack does 40 damage times the number of heads. If both of them are tails, the Defending Pokémon is now Confused and Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "number": "H5",
+    "artist": "Kimiya Masago",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      169
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H5.png",
+      "large": "https://images.pokemontcg.io/ecard3/H5_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H6",
+    "name": "Dewgong",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Seel",
+    "attacks": [
+      {
+        "name": "Freeze Lock",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, your opponent can't attach Energy cards from his or her hand to his or her Active Pokémon during his or her next turn."
+      },
+      {
+        "name": "Crushing Ice",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40+",
+        "text": "This attack does 40 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost. Damage is calculated using the Defending Pokémon's Retreat Cost after applying effects to the Retreat Cost."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H6",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      87
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H6.png",
+      "large": "https://images.pokemontcg.io/ecard3/H6_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H7",
+    "name": "Flareon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Self-healing",
+        "text": "Whenever you attach a Fire Energy card from your hand to Flareon, remove all Special Conditions affecting Flareon.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Singe",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "The Defending Pokémon is now Burned."
+      },
+      {
+        "name": "Burn Booster",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "Discard an Energy card attached to Flareon in order to use this attack. If the discarded card is a Fire Energy card, this attack does 40 damage plus 10 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H7",
+    "artist": "Kyoko Umemoto",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      136
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H7.png",
+      "large": "https://images.pokemontcg.io/ecard3/H7_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H8",
+    "name": "Forretress",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Pineco",
+    "attacks": [
+      {
+        "name": "Spinning Blow",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "Flip 2 coins. This attack does 20 damage times the number of heads. If both coins are heads, switch Forretress with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Scatterbomb",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Flip 2 coins. For each heads, do 10 damage to each of your opponent's Benched Pokémon. For each tails, do 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H8",
+    "artist": "Midori Harada",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      205
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H8.png",
+      "large": "https://images.pokemontcg.io/ecard3/H8_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H9",
+    "name": "Gengar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "100",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Haunter",
+    "abilities": [
+      {
+        "name": "Manipulate",
+        "text": "When you play Gengar from your hand to evolve your Active Pokémon, you may put a Basic Pokémon (excluding Baby Pokémon) from your discard pile onto your Bench. Then, flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to that Pokémon.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hydrokinesis",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Burned. If tails, the Defending Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H9",
+    "artist": "Kyoko Umemoto",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      94
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H9.png",
+      "large": "https://images.pokemontcg.io/ecard3/H9_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H10",
+    "name": "Gyarados",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Magikarp",
+    "abilities": [
+      {
+        "name": "Flame Vapor",
+        "text": "When you play Gyarados from your hand to evolve your Active Pokémon, you may flip 2 coins. For each heads, discard an Energy card attached to the Defending Pokémon.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dragon's Vengeance",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "50",
+        "text": "If Gyarados has 7 or more damage counters on it, this attack's base damage is 100."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H10",
+    "artist": "Kimiya Masago",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H10.png",
+      "large": "https://images.pokemontcg.io/ecard3/H10_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H11",
+    "name": "Houndoom",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Houndour",
+    "attacks": [
+      {
+        "name": "Ambush",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+      },
+      {
+        "name": "Lonely Fang",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "This attack does 30 damage plus 20 damage times the number of your opponent's Benched Pokémon minus the number of your Benched Pokémon. (For example, if your opponent has 3 Benched Pokémon and you have 1, this attack will do 30 damage plus 40 more damage.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H11",
+    "artist": "Kimiya Masago",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      229
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H11.png",
+      "large": "https://images.pokemontcg.io/ecard3/H11_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H12",
+    "name": "Jolteon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Self-healing",
+        "text": "Whenever you attach a Lightning Energy card from your hand to Jolteon, remove all Special Conditions affecting Jolteon.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Thundershock",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Thunderspark",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "This attack does 10 damage to each Benched Pokémon with at least 1 Energy card attached to it (yours and your opponent's)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "H12",
+    "artist": "Hikaru Koike",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      135
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H12.png",
+      "large": "https://images.pokemontcg.io/ecard3/H12_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H13",
+    "name": "Kabutops",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "90",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Kabuto",
+    "abilities": [
+      {
+        "name": "Primal Aura",
+        "text": "As long as Kabutops is your Active Pokémon, neither player can play Basic Pokémon or Evolution cards from his or her hand to evolve Benched Pokémon.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dual Cut",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H13",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      141
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H13.png",
+      "large": "https://images.pokemontcg.io/ecard3/H13_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H14",
+    "name": "Ledian",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Ledyba",
+    "attacks": [
+      {
+        "name": "Pollen Shield",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "During your opponent's next turn, Ledian can't become affected by a Special Condition. (Any other effects of attacks, Poké-Powers, Poké-Bodies, and Trainer cards still happen.)"
+      },
+      {
+        "name": "Swift",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "number": "H14",
+    "artist": "Hikaru Koike",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      166
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H14.png",
+      "large": "https://images.pokemontcg.io/ecard3/H14_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H15",
+    "name": "Machamp",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Machoke",
+    "abilities": [
+      {
+        "name": "Immunity",
+        "text": "Prevent all effects of your opponent's attacks done to Machamp.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Drag Off",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Before doing damage, if your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon. If your opponent has no Benched Pokémon, ignore this effect."
+      },
+      {
+        "name": "Hurricane Punch",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "30×",
+        "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H15",
+    "artist": "Naoyo Kimura",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      68
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H15.png",
+      "large": "https://images.pokemontcg.io/ecard3/H15_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H16",
+    "name": "Magcargo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Slugma",
+    "attacks": [
+      {
+        "name": "Eruption",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Each player discard the top card of his or her deck. This attack does 20 damage plus 20 more damage for each Fire Energy card discarded in this way."
+      },
+      {
+        "name": "Fire Stream",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": "Discard a Fire Energy card attached to Magcargo in order to use this attack. If your opponent has any Benched Pokémon, this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "H16",
+    "artist": "Hajime Kusajima",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      219
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H16.png",
+      "large": "https://images.pokemontcg.io/ecard3/H16_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H17",
+    "name": "Magcargo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Slugma",
+    "abilities": [
+      {
+        "name": "Streaming Mantle",
+        "text": "When you play Magcargo from your hand to evolve your Active Pokémon, you may discard the top 3 cards of your deck and and then shuffle 3 basic Energy cards from your discard pile into your deck. If you do, your opponent does the same.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Crushing Lava",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "You may discard a Fire or Fighting basic Energy card attached to Magcargo. If you discard a Fire Energy card in this way, the Defending Pokémon is now Burned. If you discard a Fighting Energy card in this way, this attack does 40 damage plus 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "H17",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      219
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H17.png",
+      "large": "https://images.pokemontcg.io/ecard3/H17_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H18",
+    "name": "Magneton",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Magnemite",
+    "evolvesTo": [
+      "Magnezone"
+    ],
+    "abilities": [
+      {
+        "name": "Attract Energy",
+        "text": "When you play Magneton from your hand to evolve 1 of your Pokémon, you may move any number of basic Energy cards attached to your other Pokémon to Magneton.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Electric Blast",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "You may discard all Lightning Energy cards attached to Magneton when you use this attack. If you do, put damage counters equal to the amount of Energy cards removed in this way on any number of your opponent's Benched Pokémon in the way you like. (For example, if you discard 3 Lightning Energy cards, you can put 1 damage counter on 1 of your opponent's Benched Pokémon and 2 on another.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H18",
+    "artist": "Hajime Kusajima",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      82
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H18.png",
+      "large": "https://images.pokemontcg.io/ecard3/H18_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H19",
+    "name": "Magneton",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Magnemite",
+    "evolvesTo": [
+      "Magnezone"
+    ],
+    "attacks": [
+      {
+        "name": "Bounce Off",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "If Magneton and the Defending Pokémon don't have the same number of Energy cards attached to them, the player controlling the Active Pokémon with the fewest number of Energy cards attached to it switches 1 of his or her Benched Pokémon with his or her Active Pokémon."
+      },
+      {
+        "name": "Magnetic Wave",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "This attack does 30 damage plus 10 damage times the number of your Benched Pokémon minus the number of your opponent's Benched Pokémon. (For example, if your opponent has 1 Benched Pokémon and you have 3, this attack will do 30 damage plus 20 more damage.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H19",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      82
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H19.png",
+      "large": "https://images.pokemontcg.io/ecard3/H19_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H20",
+    "name": "Moltres",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "abilities": [
+      {
+        "name": "Fire Immunity",
+        "text": "You can't attach Fire Energy cards from your hand to Moltres.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Collect Fire",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "If there are any Fire Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Moltres."
+      },
+      {
+        "name": "Burning Tail",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Moltres."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H20",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H20.png",
+      "large": "https://images.pokemontcg.io/ecard3/H20_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H21",
+    "name": "Nidoqueen",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "110",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Nidorina",
+    "abilities": [
+      {
+        "name": "Evolution Helper",
+        "text": "Once during your turn (before your attack), if Nidoqueen is on your Bench, you may search your deck for a card that evolves from your Active Pokémon and attach it to your Active Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Double Claw",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "H21",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      31
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H21.png",
+      "large": "https://images.pokemontcg.io/ecard3/H21_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H22",
+    "name": "Piloswine",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Swinub",
+    "evolvesTo": [
+      "Mamoswine"
+    ],
+    "attacks": [
+      {
+        "name": "Freezing Breath",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+      },
+      {
+        "name": "Trample",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "For each Benched Pokémon (yours and your opponent's), flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "H22",
+    "artist": "Yuka Morii",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      221
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H22.png",
+      "large": "https://images.pokemontcg.io/ecard3/H22_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H23",
+    "name": "Politoed",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "110",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Poliwhirl",
+    "attacks": [
+      {
+        "name": "Sudden Growth",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach any number of basic Energy cards from your hand to Politoed."
+      },
+      {
+        "name": "Frog Hop",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      {
+        "name": "Energy Splash",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "70",
+        "text": "Move 2 Water Energy cards attached to Politoed to 1 or 2 of your Benched Pokémon. (You may put both on the same Pokémon or 1 each on 2 different Pokémon.) If you have no Benched Pokémon, ignore this effect."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H23",
+    "artist": "Atsuko Nishida",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      186
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H23.png",
+      "large": "https://images.pokemontcg.io/ecard3/H23_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H24",
+    "name": "Poliwrath",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Poliwhirl",
+    "abilities": [
+      {
+        "name": "Strange Spiral",
+        "text": "Once during your turn (before your attack), if Poliwrath is your Active Pokémon, you may discard a basic Energy card attached to Poliwrath. If you do, the Defending Pokémon is now Confused. This power can't be used if Poliwrath is affected by a Special Condition.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Spiral Punch",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H24",
+    "artist": "Naoyo Kimura",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      62
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H24.png",
+      "large": "https://images.pokemontcg.io/ecard3/H24_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H25",
+    "name": "Raichu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu",
+    "attacks": [
+      {
+        "name": "Zzzap",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "This attack does 20 damage to each Pokémon with a Poké-Body or Poké-Power (yours and your opponent's). (Don't apply Weakness or Resistance.)"
+      },
+      {
+        "name": "Lightning Storm",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Flip a coin. If tails, put 2 damage counters on Raichu."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H25",
+    "artist": "Yuka Morii",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      26
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H25.png",
+      "large": "https://images.pokemontcg.io/ecard3/H25_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H26",
+    "name": "Raikou",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "abilities": [
+      {
+        "name": "Pure Body",
+        "text": "To attach a Lightning Energy card from your hand to Raikou, you must discard an Energy card attached to Raikou. (Attach the Lightning Energy, and then discard an Energy card from Raikou.)",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Lightning Sphere",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "You may flip a coin. If heads, discard all Lightning Energy cards attached to Raikou. This attack does 40 damage plus 20 more damage for each Energy card discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H26",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      243
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H26.png",
+      "large": "https://images.pokemontcg.io/ecard3/H26_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H27",
+    "name": "Rhydon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Rhyhorn",
+    "evolvesTo": [
+      "Rhyperior"
+    ],
+    "attacks": [
+      {
+        "name": "Stomp",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      },
+      {
+        "name": "Giant Tail",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "100",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "H27",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      112
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H27.png",
+      "large": "https://images.pokemontcg.io/ecard3/H27_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H28",
+    "name": "Starmie",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Staryu",
+    "attacks": [
+      {
+        "name": "Energy Burst",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Flip a coin. If heads, this attack does 10 damage times the number of Energy attached to Starmie and the Defending Pokémon."
+      },
+      {
+        "name": "Star Back",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Attach a basic Energy card from your discard pile to 1 of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H28",
+    "artist": "Hajime Kusajima",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      121
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H28.png",
+      "large": "https://images.pokemontcg.io/ecard3/H28_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H29",
+    "name": "Steelix",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Onix",
+    "abilities": [
+      {
+        "name": "Rare Metal",
+        "text": "All basic Energy cards attached to Steelix provide Metal Energy instead of their usual types.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Squeeze",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20+",
+        "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Metal Tail",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "Before doing damage, you may flip a coin. If heads, this attack does 80 damage. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "H29",
+    "artist": "Hikaru Koike",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      208
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H29.png",
+      "large": "https://images.pokemontcg.io/ecard3/H29_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H30",
+    "name": "Umbreon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Dark Gaze",
+        "text": "As long as Umbreon is your Active Pokémon, Benched Pokémon (yours and your opponent's) can't use Poké-Powers.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Sharp Claws",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H30",
+    "artist": "Atsuko Nishida",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      197
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H30.png",
+      "large": "https://images.pokemontcg.io/ecard3/H30_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H31",
+    "name": "Vaporeon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Self-healing",
+        "text": "Whenever you attach a Water Energy card from your hand to Vaporeon, remove all Special Conditions affecting Vaporeon.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hypnosplash",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "The Defending Pokémon is now Asleep."
+      },
+      {
+        "name": "Aqua Trick",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "If the Defending Pokémon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those Energy cards and move it to 1 of your opponent's Benched Pokémon. If your opponent has no Benched Pokémon, ignore this effect."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H31",
+    "artist": "Naoyo Kimura",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      134
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H31.png",
+      "large": "https://images.pokemontcg.io/ecard3/H31_hires.png"
+    }
+  },
+  {
+    "id": "ecard3-H32",
+    "name": "Xatu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Natu",
+    "abilities": [
+      {
+        "name": "Synchronicity",
+        "text": "You may attach any Technical Machine to Xatu.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Warp Hole",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, choose a card from your discard pile and put it on top of your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "H32",
+    "artist": "Atsuko Nishida",
+    "rarity": "Rare Holo",
+    "nationalPokedexNumbers": [
+      178
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ecard3/H32.png",
+      "large": "https://images.pokemontcg.io/ecard3/H32_hires.png"
     }
   }
 ]
