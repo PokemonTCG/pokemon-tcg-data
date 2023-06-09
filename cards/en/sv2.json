@@ -14873,5 +14873,414 @@
       "small": "https://images.pokemontcg.io/sv2/270.png",
       "large": "https://images.pokemontcg.io/sv2/270_hires.png"
     }
+  },
+  {
+    "id": "sv2-271",
+    "name": "Meowscarada ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "310",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Floragato",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Bouquet Magic",
+        "text": "You must discard a Basic Grass Energy card from your hand in order to use this Ability. Once during your turn, you may put 3 damage counters on 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scratching Nails",
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "271",
+    "artist": "5ban Graphics",
+    "rarity": "Hyper Rare",
+    "nationalPokedexNumbers": [
+      908
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/271.png",
+      "large": "https://images.pokemontcg.io/sv2/271_hires.png"
+    }
+  },
+  {
+    "id": "sv2-272",
+    "name": "Skeledirge ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "340",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Crocalor",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Vitality Song",
+        "damage": "50",
+        "text": "Heal 30 damage from each of your Pokémon.",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Burning Voice",
+        "damage": "270-",
+        "text": "This attack does 10 less damage for each damage counter on this Pokémon.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "272",
+    "artist": "5ban Graphics",
+    "rarity": "Hyper Rare",
+    "nationalPokedexNumbers": [
+      911
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/272.png",
+      "large": "https://images.pokemontcg.io/sv2/272_hires.png"
+    }
+  },
+  {
+    "id": "sv2-273",
+    "name": "Quaquaval ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Quaxwell",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Exciting Dance",
+        "damage": "60",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Spiral Shot",
+        "damage": "230",
+        "text": "Put 2 Energy attached to this Pokémon into your hand.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "273",
+    "artist": "5ban Graphics",
+    "rarity": "Hyper Rare",
+    "nationalPokedexNumbers": [
+      914
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/273.png",
+      "large": "https://images.pokemontcg.io/sv2/273_hires.png"
+    }
+  },
+  {
+    "id": "sv2-274",
+    "name": "Chien-Pao ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "220",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Shivery Chill",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may search your deck for up to 2 Basic Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Hail Blade",
+        "damage": "60×",
+        "text": "You may discard any amount of Water Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "274",
+    "artist": "aky CG Works",
+    "rarity": "Hyper Rare",
+    "nationalPokedexNumbers": [
+      1002
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/274.png",
+      "large": "https://images.pokemontcg.io/sv2/274_hires.png"
+    }
+  },
+  {
+    "id": "sv2-275",
+    "name": "Ting-Lu ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "240",
+    "types": [
+      "Fighting"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Cursed Land",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play that have any damage counters on them have no Abilities, except for Pokémon ex."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Land Scoop",
+        "damage": "150",
+        "text": "Put 2 damage counters on 1 of your opponent's Benched Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "275",
+    "artist": "5ban Graphics",
+    "rarity": "Hyper Rare",
+    "nationalPokedexNumbers": [
+      1003
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/275.png",
+      "large": "https://images.pokemontcg.io/sv2/275_hires.png"
+    }
+  },
+  {
+    "id": "sv2-276",
+    "name": "Super Rod",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "276",
+    "artist": "Toyste Beach",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/276.png",
+      "large": "https://images.pokemontcg.io/sv2/276_hires.png"
+    }
+  },
+  {
+    "id": "sv2-277",
+    "name": "Superior Energy Retrieval",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "277",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/277.png",
+      "large": "https://images.pokemontcg.io/sv2/277_hires.png"
+    }
+  },
+  {
+    "id": "sv1-278",
+    "name": "Basic Grass Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "278",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/278.png",
+      "large": "https://images.pokemontcg.io/sv2/278_hires.png"
+    }
+  },
+  {
+    "id": "sv1-279",
+    "name": "Basic Grass Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "279",
+    "rarity": "Hyper Rare",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/279.png",
+      "large": "https://images.pokemontcg.io/sv2/279_hires.png"
+    }
   }
 ]
