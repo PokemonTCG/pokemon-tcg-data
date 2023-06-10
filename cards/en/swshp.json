@@ -19165,5 +19165,134 @@
       "small": "https://images.pokemontcg.io/swshp/SWSH305.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH305_hires.png"
     }
+  },
+  {
+    "id": "swshp-SWSH306",
+    "name": "Arceus V",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Trinity Charge",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon V in any way you like. Then, shuffle your deck."
+      },
+      {
+        "name": "Power Edge",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH306",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo V",
+    "nationalPokedexNumbers": [
+      493
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH306.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH306_hires.png"
+    }
+  },
+  {
+    "id": "swshp-SWSH307",
+    "name": "Arceus VSTAR",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "hp": "280",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Arceus V",
+    "rules": [
+      "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Starbirth",
+        "text": "During your turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Trinity Nova",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon V in any way you like. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "SWSH307",
+    "artist": "5ban Graphics",
+    "rarity": "Rare Holo VSTAR",
+    "nationalPokedexNumbers": [
+      493
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swshp/SWSH307.png",
+      "large": "https://images.pokemontcg.io/swshp/SWSH307_hires.png"
+    }
   }
 ]
