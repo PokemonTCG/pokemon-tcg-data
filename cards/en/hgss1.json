@@ -510,7 +510,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "Does 20 damage to 1 of your opponetn's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Mud Shot",
@@ -5257,6 +5257,9 @@
     "id": "hgss1-91",
     "name": "Energy Switch",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Move a basic Energy card attached 1 of your Pokémon to another of your Pokémon."
     ],
@@ -5311,7 +5314,6 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {

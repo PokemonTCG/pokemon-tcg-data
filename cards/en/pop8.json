@@ -245,7 +245,7 @@
     "number": "4",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
-    "flavorText": "It exudes strong magnetium from all cover. It controls three small units called Mini-Noses.",
+    "flavorText": "It exudes strong magnetism from all cover. It controls three small units called Mini-Noses.",
     "nationalPokedexNumbers": [
       476
     ],
@@ -519,6 +519,9 @@
     "id": "pop8-9",
     "name": "Night Maintenance",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Search your discard pile for up to 3 in any combination of Pokémon and basic Energy cards. Show them to your opponent and shuffle them into your deck."
     ],
@@ -537,6 +540,9 @@
     "id": "pop8-10",
     "name": "Rare Candy",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)"
     ],
