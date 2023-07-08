@@ -255,6 +255,9 @@
     "id": "dpp-DP05",
     "name": "Tropical Wind",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
     ],
@@ -1450,6 +1453,9 @@
     "id": "dpp-DP25",
     "name": "Tropical Wind",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
     ],
@@ -2587,7 +2593,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "70",
-        "text": "Probopass G‘s Retreat Cost is 0 until the end of your next turn."
+        "text": "Probopass G's Retreat Cost is 0 until the end of your next turn."
       }
     ],
     "weaknesses": [
@@ -2886,6 +2892,9 @@
     "id": "dpp-DP48",
     "name": "Tropical Wind",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
     ],
@@ -3194,6 +3203,9 @@
     "id": "dpp-DP54",
     "name": "Beginning Door",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "Search your deck for Arceus, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
     ],
@@ -3250,7 +3262,7 @@
     "abilities": [
       {
         "name": "Multitype",
-        "text": "Arceus LV.X‘s type is the same as its previous Level.",
+        "text": "Arceus LV.X's type is the same as its previous Level.",
         "type": "Poké-Body"
       }
     ],
