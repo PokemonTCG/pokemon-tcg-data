@@ -8822,9 +8822,21 @@
       "Pokémon Tool"
     ],
     "rules": [
-      "The Rapid Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) FireLightning Meteor Discard 2 Energy from this Pokémon. This attack does 90 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+      "The Rapid Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
       "You may play any number of Item cards during your turn.",
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "attacks": [
+      {
+        "name": "Meteor",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Discard 2 Energy from this Pokémon. This attack does 90 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
     ],
     "number": "153",
     "artist": "5ban Graphics",
@@ -8953,9 +8965,24 @@
       "Pokémon Tool"
     ],
     "rules": [
-      "The Single Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) FightingMetalMetalColorlessColorless Superstrong Slash 300 Discard all Energy from this Pokémon.",
+      "The Single Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
       "You may play any number of Item cards during your turn.",
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "attacks": [
+      {
+        "name": "Superstrong Slash",
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "300",
+        "text": "Discard all Energy from this Pokémon."
+      }
     ],
     "number": "158",
     "artist": "5ban Graphics",
