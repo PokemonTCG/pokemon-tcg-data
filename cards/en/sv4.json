@@ -119,6 +119,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
+      "Tera",
       "ex"
     ],
     "hp": "250",
@@ -1569,7 +1570,8 @@
     "name": "Iron Moth",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Future"
     ],
     "hp": "130",
     "types": [
@@ -2133,6 +2135,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
+      "Tera",
       "ex"
     ],
     "hp": "320",
@@ -2600,6 +2603,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
+      "Tera",
       "ex"
     ],
     "hp": "310",
@@ -3197,7 +3201,8 @@
     "name": "Iron Bundle",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Future"
     ],
     "hp": "100",
     "types": [
@@ -3312,6 +3317,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
+      "Tera",
       "ex"
     ],
     "hp": "230",
@@ -4003,7 +4009,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Future"
     ],
     "hp": "230",
     "types": [
@@ -4975,7 +4982,8 @@
     "name": "Scream Tail",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ancient"
     ],
     "hp": "90",
     "types": [
@@ -5156,7 +5164,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Future"
     ],
     "hp": "220",
     "types": [
@@ -5693,6 +5702,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
+      "Tera",
       "ex"
     ],
     "hp": "220",
@@ -5818,6 +5828,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
+      "Tera",
       "ex"
     ],
     "hp": "260",
@@ -6226,7 +6237,8 @@
     "name": "Slither Wing",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ancient"
     ],
     "hp": "140",
     "types": [
@@ -6286,7 +6298,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Ancient"
     ],
     "hp": "220",
     "types": [
@@ -7211,7 +7224,8 @@
     "name": "Brute Bonnet",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ancient"
     ],
     "hp": "120",
     "types": [
@@ -7270,7 +7284,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Ancient"
     ],
     "hp": "230",
     "types": [
@@ -8133,6 +8148,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
+      "Tera",
       "ex"
     ],
     "hp": "330",
@@ -9363,7 +9379,8 @@
     "name": "Iron Jugulis",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Future"
     ],
     "hp": "130",
     "types": [
@@ -9431,6 +9448,10 @@
     "id": "sv4-159",
     "name": "Ancient Booster Energy Capsule",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Ancient"
+    ],
     "rules": [
       "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions.",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9453,6 +9474,9 @@
     "id": "sv4-160",
     "name": "Counter Catcher",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "You can use this card only if you have more Prize cards remaining than your opponent.  Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
       "You may play any number of Item cards during your turn."
@@ -9475,6 +9499,9 @@
     "id": "sv4-161",
     "name": "Cursed Duster",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, discard a random card from your opponent's hand.",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9497,6 +9524,9 @@
     "id": "sv4-162",
     "name": "Defiance Vest",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "If you have more Prize cards remaining than your opponent, the Pokémon this card is attached to takes 40 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9519,6 +9549,10 @@
     "id": "sv4-163",
     "name": "Earthen Vessel",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Ancient"
+    ],
     "rules": [
       "You can use this card only if you discard another card from your hand.  Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
       "You may play any number of Item cards during your turn."
@@ -9541,6 +9575,10 @@
     "id": "sv4-164",
     "name": "Future Booster Energy Capsule",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Future"
+    ],
     "rules": [
       "The Future Pokémon this card is attached to has no Retreat Cost, and the attacks it uses do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9563,6 +9601,9 @@
     "id": "sv4-165",
     "name": "Larry",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Flip a coin. If heads, search your deck for up to 2 Pokémon, reveal them, and put them into your hand. If tails, search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
@@ -9585,6 +9626,9 @@
     "id": "sv4-166",
     "name": "Luxurious Cape",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "If the Pokémon this card is attached to doesn't have a Rule Box, it gets +100 HP, and if it is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 more Prize card. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9607,6 +9651,9 @@
     "id": "sv4-167",
     "name": "Mela",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Attach a Basic Fire Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -9629,6 +9676,9 @@
     "id": "sv4-168",
     "name": "Norman",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Draw 2 cards. If your opponent's Active Pokémon is a Pokémon ex, draw 2 more cards.",
       "You may play only 1 Supporter card during your turn."
@@ -9651,6 +9701,9 @@
     "id": "sv4-169",
     "name": "Parasol Lady",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Shuffle your hand into your deck. Then, draw 4 cards. If you go second and it's your first turn, draw 8 cards instead.",
       "You may play only 1 Supporter card during your turn."
@@ -9673,6 +9726,10 @@
     "id": "sv4-170",
     "name": "Professor Sada's Vitality",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Ancient"
+    ],
     "rules": [
       "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
       "You may play only 1 Supporter card during your turn."
@@ -9695,6 +9752,10 @@
     "id": "sv4-171",
     "name": "Professor Turo's Scenario",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Future"
+    ],
     "rules": [
       "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",
       "You may play only 1 Supporter card during your turn."
@@ -9717,6 +9778,9 @@
     "id": "sv4-172",
     "name": "Rika",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards and put them on the bottom of your deck.",
       "You may play only 1 Supporter card during your turn."
@@ -9739,6 +9803,9 @@
     "id": "sv4-173",
     "name": "Roark",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Draw 2 cards. Put a Basic Energy card from your discard pile into your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -9761,6 +9828,9 @@
     "id": "sv4-174",
     "name": "Shauntal",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot. If tails, switch your Active Pokémon with 1 of your Benched Pokémon.",
       "You may play only 1 Supporter card during your turn."
@@ -9783,6 +9853,9 @@
     "id": "sv4-175",
     "name": "Snorlax Doll",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "hp": "120",
     "rules": [
       "If this card is in your hand when you are setting up to play, you may put it face down in the Active Spot or on your Bench as if it were a 120-HP Basic Colorless Pokémon. (You can do this only when you are setting up to play.) At any time during your turn, you may discard this card from play.     This card can't be affected by any Special Conditions and can't retreat. If this card is Knocked Out, your opponent can't take any Prize cards for it.",
@@ -9806,6 +9879,9 @@
     "id": "sv4-176",
     "name": "Technical Machine: Blindside",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9841,6 +9917,9 @@
     "id": "sv4-177",
     "name": "Technical Machine: Devolution",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9874,6 +9953,9 @@
     "id": "sv4-178",
     "name": "Technical Machine: Evolution",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9907,6 +9989,9 @@
     "id": "sv4-179",
     "name": "Technical Machine: Turbo Energize",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -9940,6 +10025,10 @@
     "id": "sv4-180",
     "name": "Techno Radar",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Future"
+    ],
     "rules": [
       "You can use this card only if you discard another card from your hand.    Search your deck for up to 2 Future Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
       "You may play any number of Item cards during your turn."
@@ -9962,6 +10051,9 @@
     "id": "sv4-181",
     "name": "Tulip",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Put up to 4 in any combination of Psychic Pokémon and Basic Psychic Energy cards from your discard pile into your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -9984,6 +10076,9 @@
     "id": "sv4-182",
     "name": "Medical Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
     "rules": [
       "As long as this card is attached to a Pokémon, it provides Colorless Energy.  When you attach this card from your hand to 1 of your Pokémon, heal 30 damage from that Pokémon."
     ],
@@ -10242,7 +10337,8 @@
     "name": "Iron Moth",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Future"
     ],
     "hp": "130",
     "types": [
@@ -11163,7 +11259,8 @@
     "name": "Slither Wing",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ancient"
     ],
     "hp": "140",
     "types": [
@@ -11413,7 +11510,8 @@
     "name": "Brute Bonnet",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Ancient"
     ],
     "hp": "120",
     "types": [
@@ -11992,7 +12090,8 @@
     "name": "Iron Jugulis",
     "supertype": "Pokémon",
     "subtypes": [
-      "Basic"
+      "Basic",
+      "Future"
     ],
     "hp": "130",
     "types": [
@@ -12062,6 +12161,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
+      "Tera",
       "ex"
     ],
     "hp": "250",
@@ -12185,6 +12285,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
+      "Tera",
       "ex"
     ],
     "hp": "320",
@@ -12246,6 +12347,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
+      "Tera",
       "ex"
     ],
     "hp": "310",
@@ -12442,7 +12544,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Future"
     ],
     "hp": "230",
     "types": [
@@ -12578,7 +12681,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Future"
     ],
     "hp": "220",
     "types": [
@@ -12638,6 +12742,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
+      "Tera",
       "ex"
     ],
     "hp": "220",
@@ -12705,6 +12810,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
+      "Tera",
       "ex"
     ],
     "hp": "260",
@@ -12773,7 +12879,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Ancient"
     ],
     "hp": "220",
     "types": [
@@ -12833,7 +12940,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Ancient"
     ],
     "hp": "230",
     "types": [
@@ -13210,6 +13318,9 @@
     "id": "sv4-235",
     "name": "Larry",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Flip a coin. If heads, search your deck for up to 2 Pokémon, reveal them, and put them into your hand. If tails, search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
@@ -13232,6 +13343,9 @@
     "id": "sv4-236",
     "name": "Mela",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Attach a Basic Fire Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -13254,6 +13368,9 @@
     "id": "sv4-237",
     "name": "Norman",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Draw 2 cards. If your opponent's Active Pokémon is a Pokémon ex, draw 2 more cards.",
       "You may play only 1 Supporter card during your turn."
@@ -13276,6 +13393,9 @@
     "id": "sv4-238",
     "name": "Parasol Lady",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Shuffle your hand into your deck. Then, draw 4 cards. If you go second and it's your first turn, draw 8 cards instead.",
       "You may play only 1 Supporter card during your turn."
@@ -13298,6 +13418,10 @@
     "id": "sv4-239",
     "name": "Professor Sada's Vitality",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Ancient"
+    ],
     "rules": [
       "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
       "You may play only 1 Supporter card during your turn."
@@ -13320,6 +13444,10 @@
     "id": "sv4-240",
     "name": "Professor Turo's Scenario",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Future"
+    ],
     "rules": [
       "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",
       "You may play only 1 Supporter card during your turn."
@@ -13342,6 +13470,9 @@
     "id": "sv4-241",
     "name": "Rika",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards and put them on the bottom of your deck.",
       "You may play only 1 Supporter card during your turn."
@@ -13364,6 +13495,9 @@
     "id": "sv4-242",
     "name": "Roark",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Draw 2 cards. Put a Basic Energy card from your discard pile into your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -13386,6 +13520,9 @@
     "id": "sv4-243",
     "name": "Shauntal",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot. If tails, switch your Active Pokémon with 1 of your Benched Pokémon.",
       "You may play only 1 Supporter card during your turn."
@@ -13408,6 +13545,9 @@
     "id": "sv4-244",
     "name": "Tulip",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Put up to 4 in any combination of Psychic Pokémon and Basic Psychic Energy cards from your discard pile into your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -13432,6 +13572,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
+      "Tera",
       "ex"
     ],
     "hp": "320",
@@ -13623,7 +13764,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Future"
     ],
     "hp": "230",
     "types": [
@@ -13690,7 +13832,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Future"
     ],
     "hp": "220",
     "types": [
@@ -13750,7 +13893,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Ancient"
     ],
     "hp": "220",
     "types": [
@@ -13810,7 +13954,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Ancient"
     ],
     "hp": "230",
     "types": [
@@ -13993,6 +14138,9 @@
     "id": "sv4-254",
     "name": "Mela",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Attach a Basic Fire Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -14015,6 +14163,9 @@
     "id": "sv4-255",
     "name": "Parasol Lady",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Shuffle your hand into your deck. Then, draw 4 cards. If you go second and it's your first turn, draw 8 cards instead.",
       "You may play only 1 Supporter card during your turn."
@@ -14037,6 +14188,10 @@
     "id": "sv4-256",
     "name": "Professor Sada's Vitality",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Ancient"
+    ],
     "rules": [
       "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
       "You may play only 1 Supporter card during your turn."
@@ -14059,6 +14214,10 @@
     "id": "sv4-257",
     "name": "Professor Turo's Scenario",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Future"
+    ],
     "rules": [
       "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",
       "You may play only 1 Supporter card during your turn."
@@ -14081,6 +14240,9 @@
     "id": "sv4-258",
     "name": "Rika",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards and put them on the bottom of your deck.",
       "You may play only 1 Supporter card during your turn."
@@ -14103,6 +14265,9 @@
     "id": "sv4-259",
     "name": "Tulip",
     "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
     "rules": [
       "Put up to 4 in any combination of Psychic Pokémon and Basic Psychic Energy cards from your discard pile into your hand.",
       "You may play only 1 Supporter card during your turn."
@@ -14127,6 +14292,7 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
+      "Tera",
       "ex"
     ],
     "hp": "320",
@@ -14188,7 +14354,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Future"
     ],
     "hp": "220",
     "types": [
@@ -14248,7 +14415,8 @@
     "supertype": "Pokémon",
     "subtypes": [
       "Basic",
-      "ex"
+      "ex",
+      "Ancient"
     ],
     "hp": "230",
     "types": [
@@ -14310,6 +14478,9 @@
     "id": "sv4-263",
     "name": "Beach Court",
     "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
     "rules": [
       "The Retreat Cost of each Basic Pokémon in play (both yours and your opponent's) is Colorless less.",
       "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
@@ -14332,6 +14503,9 @@
     "id": "sv4-264",
     "name": "Counter Catcher",
     "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
     "rules": [
       "You can use this card only if you have more Prize cards remaining than your opponent.  Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
       "You may play any number of Item cards during your turn."
@@ -14354,6 +14528,9 @@
     "id": "sv4-265",
     "name": "Luxurious Cape",
     "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
     "rules": [
       "If the Pokémon this card is attached to doesn't have a Rule Box, it gets +100 HP, and if it is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 more Prize card. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
       "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -14376,6 +14553,9 @@
     "id": "sv4-266",
     "name": "Reversal Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
     "rules": [
       "As long as this card is attached to a Pokémon, it provides Colorless Energy.    If you have more Prize cards remaining than your opponent, and if this card is attached to an Evolution Pokémon that doesn't have a Rule Box (Pokémon ex, Pokémon V, etc. have Rule Boxes), this card provides every type of Energy but provides only 3 Energy at a time."
     ],
