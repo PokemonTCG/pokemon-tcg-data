@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": { "type": "string" },
+      "name": { "type": "string" },
+      "series": {
+        "enum": [ 
+          "Base",
+          "Gym",
+          "Neo",
+          "E-Card",
+          "EX",
+          "NP",
+          "POP",
+          "Diamond & Pearl",
+          "Platinum",
+          "HeartGold & SoulSilver",
+          "Black & White",
+          "XY",
+          "Sun & Moon",
+          "Sword & Shield",
+          "Other"
+        ]
+      },
+      "printedTotal": { "type": "integer" },
+      "total": { "type": "integer" },
+      "legalities": {
+        "type": "object",
+        "properties": {
+          "unlimited": { "enum": ["Legal", "Banned"] },
+          "expanded": { "enum": ["Legal", "Banned"] },
+          "standard": { "enum": ["Legal", "Banned"] }
+        },
+        "required": [ "unlimited" ]
+      },
+      "ptcgoCode": { "type": "string" },
+      "releaseDate": { "type": "string" },
+      "updatedAt": { "type": "string" },
+      "images": {
+        "type": "object",
+        "properties": {
+          "symbol": { "type": "string" },
+          "logo": { "type": "string" }
+        },
+        "required": [ "symbol", "logo" ]
+      }
+    },
+    "required": [
+      "id",
+      "images",
+      "legalities",
+      "name",
+      "printedTotal",
+      "releaseDate",
+      "series",
+      "total",
+      "updatedAt"
+    ]
+  }
+}

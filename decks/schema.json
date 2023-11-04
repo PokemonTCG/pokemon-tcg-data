@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": { "type": "string" },
+      "name": { "type": "string" },
+      "types": {
+        "type": "array",
+        "items": {
+          "enum": [ 
+            "Colorless",
+            "Darkness",
+            "Dragon",
+            "Fairy",
+            "Fire",
+            "Fighting",
+            "Grass",
+            "Lightning",
+            "Metal",
+            "Psychic",
+            "Water",
+            "Free"
+          ]
+        }
+      },
+      "cards": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": { "type": "string" },
+            "name": { "type": "string" },
+            "rarity": {
+              "enum": [
+                "Common",
+                "Common Holo",
+                "Uncommon",
+                "Uncommon Holo",
+                "Rare",
+                "Rare Holo",
+                "Rare ACE",
+                "Rare BREAK",
+                "Rare Prime",
+                "Rare Holo LV.X",
+                "Rare Holo EX",
+                "Rare Holo GX",
+                "Rare Holo Star",
+                "Rare Holo V",
+                "Rare Holo VMAX",
+                "Rare Holo VSTAR",
+                "Rare Prism Star",
+                "Rare Shining",
+                "Rare Shiny",
+                "Rare Shiny GX",
+                "Rare Ultra",
+                "Rare Rainbow",
+                "Rare Secret",
+                "Amazing Rare",
+                "Radiant Rare",
+                "LEGEND",
+                "V",
+                "VM",
+                "Promo",
+                "Classic Collection"
+              ]
+            },
+            "count": { "type": "integer" }
+          },
+          "required": [ "id", "name", "count" ]
+        }
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "types",
+      "cards"
+    ]
+  }
+}

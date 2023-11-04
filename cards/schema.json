@@ -1,0 +1,216 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": { "type": "string" },
+      "name": { "type": "string" },
+      "supertype": {
+        "enum": ["Pokémon", "Trainer", "Energy"]
+      },
+      "subtypes": {
+        "type": "array",
+        "items": {
+          "enum": [ 
+            "Basic",
+            "Stage 1", 
+            "Stage 2",
+            "Baby",
+            "Level-Up",
+            "LEGEND",
+            "MEGA",
+            "EX",
+            "GX",
+            "BREAK",
+            "Fusion Strike",
+            "Rapid Strike",
+            "Single Strike",
+            "V",
+            "VMAX",
+            "VSTAR",
+            "V-UNION",
+            "Item",
+            "Supporter",
+            "Stadium",
+            "Pokémon Tool",
+            "Pokémon Tool F",
+            "Rocket's Secret Machine",
+            "Technical Machine",
+            "Restored",
+            "Goldenrod Game Corner",
+            "TAG TEAM",
+            "Special",
+            "Prime",
+            "Star",
+            "Prism Star",
+            "SP",
+            "Radiant",
+            "Eternamax"
+          ]
+        }
+      },
+      "number": { "type": "string" },
+      "artist": { "type": "string" },
+      "rarity": {
+        "enum": [
+          "Common",
+          "Common Holo",
+          "Uncommon",
+          "Uncommon Holo",
+          "Rare",
+          "Rare Holo",
+          "Rare ACE",
+          "Rare BREAK",
+          "Rare Prime",
+          "Rare Holo LV.X",
+          "Rare Holo EX",
+          "Rare Holo GX",
+          "Rare Holo Star",
+          "Rare Holo V",
+          "Rare Holo VMAX",
+          "Rare Holo VSTAR",
+          "Rare Prism Star",
+          "Rare Shining",
+          "Rare Shiny",
+          "Rare Shiny GX",
+          "Rare Ultra",
+          "Rare Rainbow",
+          "Rare Secret",
+          "Amazing Rare",
+          "Radiant Rare",
+          "LEGEND",
+          "V",
+          "VM",
+          "Promo",
+          "Classic Collection"
+        ]
+      },
+      "level": { "type": "string" },
+      "hp": { "type": "string" },
+      "types": { "$ref": "#/$defs/energies" },
+      "evolvesFrom": { "type": "string" },
+      "evolvesTo": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "abilities": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "text": { "type": "string" },
+            "type": { "type": "string" }
+          },
+          "required": [ "name", "text", "type" ]
+        }
+      },
+      "attacks": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "cost": { "$ref": "#/$defs/energies" },
+            "convertedEnergyCost": { "type": "integer" },
+            "damage": { "type": "string" },
+            "text": { "type": "string" }
+          },
+          "required": [
+            "name",
+            "cost",
+            "convertedEnergyCost",
+            "damage",
+            "text"
+          ]
+        }
+      },
+      "weaknesses": { "$ref": "#/$defs/energyValues" },
+      "resistances": { "$ref": "#/$defs/energyValues" },
+      "retreatCost": { "$ref": "#/$defs/energies" },
+      "convertedRetreatCost": { "type": "integer" },
+      "flavorText": { "type": "string" },
+      "nationalPokedexNumbers": {
+        "type": "array",
+        "items": { "type": "integer" }
+      },
+      "legalities": {
+        "type": "object",
+        "properties": {
+          "unlimited": { "enum": ["Legal", "Banned"] },
+          "expanded": { "enum": ["Legal", "Banned"] },
+          "standard": { "enum": ["Legal", "Banned"] }
+        },
+        "required": [ "unlimited" ]
+      },
+      "images": {
+        "type": "object",
+        "properties": {
+          "large": { "type": "string" },
+          "small": { "type": "string" }
+        },
+        "required": [ "large", "small" ]
+      },
+      "rules": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "ancientTrait": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "text": { "type": "string" }
+        },
+        "required": [ "name", "text" ]
+      },
+      "regulationMark": {
+        "type": "string",
+        "pattern": "[A-Z]"
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "supertype",
+      "number",
+      "images",
+      "legalities"
+    ]
+  },
+
+  "$defs": {
+    "energy": { 
+      "enum": [ 
+        "[-]",
+        "Colorless",
+        "Darkness",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Fighting",
+        "Grass",
+        "Lightning",
+        "Metal",
+        "Psychic",
+        "Water",
+        "Free"
+      ]
+    },
+    "energies": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/energy" }
+    },
+    "energyValues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": { "$ref": "#/$defs/energy" },
+          "value": { "type": "string" }
+        },
+        "required": [ "type", "value" ]
+      }
+    }
+  }
+}
