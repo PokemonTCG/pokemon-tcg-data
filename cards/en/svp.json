@@ -3299,6 +3299,71 @@
     }
   },
   {
+    "id": "svp-56",
+    "name": "Charizard ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex",
+      "Tera"
+    ],
+    "hp": "330",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Charmeleon",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+    ],
+    "abilities": [
+      {
+        "name": "Infernal Reign",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Burning Darkness",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "180+",
+        "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "56",
+    "artist": "takuyoa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/56.png",
+      "large": "https://images.pokemontcg.io/svp/56_hires.png"
+    }
+  },
+  {
     "id": "svp-57",
     "name": "Chi-Yu",
     "supertype": "Pokémon",
