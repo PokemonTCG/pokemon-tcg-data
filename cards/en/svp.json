@@ -3299,6 +3299,766 @@
     }
   },
   {
+    "id": "svp-57",
+    "name": "Chi-Yu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Flare Bringer",
+        "cost": [
+            "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Attach up to 2 Basic Fire Energy cards from your discard pile to 1 of your Pokémon."
+      },
+      {
+        "name": "Megafire of Envy",
+        "cost": [
+            "Fire",
+            "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50+",
+        "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent’s last turn, this attack does 90 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "57",
+    "artist": "Dsuke",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/57.png",
+      "large": "https://images.pokemontcg.io/svp/57_hires.png"
+    }
+  },
+  {
+    "id": "svp-58",
+    "name": "Iron Bundle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "100",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Refrigerated Stream",
+        "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "If the Defending Pokémon is an Evolution Pokémon, it can’t attack during your opponent’s next turn."
+      }
+    ],
+    "abilities": [
+      {
+        "type": "ability",
+        "name": "Hyper Blower",
+        "text": "Once during your turn, if this Pokémon is on your Bench, you may switch out your opponent’s Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.) If you do, discard this Pokémon and all attached cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "58",
+    "artist": "Lee HyunJung",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/58.png",
+      "large": "https://images.pokemontcg.io/svp/58_hires.png"
+    }
+  },
+  {
+    "id": "svp-59",
+    "name": "Xatu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Natu",
+    "attacks": [
+      {
+        "name": "Super Psy Bolt",
+        "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      }
+    ],
+    "abilities": [
+      {
+        "type": "ability",
+        "name": "Clairvoyant Sense",
+        "text": "Once during your turn, you may attach a Basic Psychic Energy card from your hand to 1 of your Benched Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      },
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "resistances": [],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "59",
+    "artist": "GOSSAN",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/59.png",
+      "large": "https://images.pokemontcg.io/svp/59_hires.png"
+    }
+  },
+  {
+    "id": "svp-60",
+    "name": "Aegislash",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Doublade",
+    "attacks": [
+      {
+        "name": "Hard Bashing",
+        "cost": [
+            "Metal",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "This attack’s damage isn’t affected by any effects on your opponent’s Active Pokémon."
+      }
+    ],
+    "abilities": [
+      {
+        "type": "ability",
+        "name": "Mysterious Shield",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon ex and Pokémon V."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      },
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "resistances": [],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "60",
+    "artist": "Takeshi Nakamura",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/60.png",
+      "large": "https://images.pokemontcg.io/svp/60_hires.png"
+    }
+  },
+  {
+    "id": "svp-61",
+    "name": "Pineco",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Rollout",
+        "cost": [
+            "Grass",
+            "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "61",
+    "artist": "Nobuhiro Imagawa",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/61.png",
+      "large": "https://images.pokemontcg.io/svp/61_hires.png"
+    }
+  },
+  {
+    "id": "svp-62",
+    "name": "Sinistea",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "30",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Cold Tea",
+        "cost": [
+            "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      },
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "resistances": [],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "62",
+    "artist": "kurumitsu",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/62.png",
+      "large": "https://images.pokemontcg.io/svp/62_hires.png"
+    }
+  },
+  {
+    "id": "svp-63",
+    "name": "Cetitan",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "170",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Cetoddle",
+    "attacks": [
+      {
+        "name": "Avalanche",
+        "cost": [
+            "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "This attack also does 10 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Rolling Slider",
+        "cost": [
+            "Water",
+            "Water",
+            "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100×",
+        "text": "Flip 3 coins. This attack does 100 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "63",
+    "artist": "GOSSAN",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/63.png",
+      "large": "https://images.pokemontcg.io/svp/63_hires.png"
+    }
+  },
+  {
+    "id": "svp-64",
+    "name": "Arctibax",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Frigibax",
+    "attacks": [
+      {
+        "name": "Sharp Fin",
+        "cost": [
+            "Water",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Frost Smash",
+        "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "64",
+    "artist": "Teeziro",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/64.png",
+      "large": "https://images.pokemontcg.io/svp/64_hires.png"
+    }
+  },
+  {
+    "id": "svp-65",
+    "name": "Scream Tail",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Slap",
+        "cost": [
+            "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Roaring Scream",
+        "cost": [
+            "Psychic",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "text": "This attack does 20 damage to 1 of your opponent’s Pokémon for each damage counter on this Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      },
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "resistances": [],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "65",
+    "artist": "GIDORA",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/65.png",
+      "large": "https://images.pokemontcg.io/svp/65_hires.png"
+    }
+  },
+  {
+    "id": "svp-66",
+    "name": "Iron Bundle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "100",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Refrigerated Stream",
+        "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "If the Defending Pokémon is an Evolution Pokémon, it can’t attack during your opponent’s next turn."
+      }
+    ],
+    "abilities": [
+      {
+        "type": "ability",
+        "name": "Hyper Blower",
+        "text": "Once during your turn, if this Pokémon is on your Bench, you may switch out your opponent’s Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.) If you do, discard this Pokémon and all attached cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "66",
+    "artist": "Teeziro",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/66.png",
+      "large": "https://images.pokemontcg.io/svp/66_hires.png"
+    }
+  },
+  {
+    "id": "svp-67",
+    "name": "Roaring Moon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Pokémon ex"
+    ],
+    "hp": "230",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Frenzied Gouging",
+        "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "text": "Knock Out your opponent’s Active Pokémon. If your opponent’s Active Pokémon is Knocked Out in this way, this Pokémon does 200 damage to itself."
+      },
+      {
+        "name": "Calamity Storm",
+        "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "You may discard a Stadium in play. If you do, this attack does 120 more damage."
+      }
+    ],
+    "rules": [
+      "Pokémon ex rule"
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "67",
+    "artist": "takuyoa",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/67.png",
+      "large": "https://images.pokemontcg.io/svp/67_hires.png"
+    }
+  },
+  {
+    "id": "svp-68",
+    "name": "Iron Valiant ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Pokémon ex"
+    ],
+    "hp": "220",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Laser Blade",
+        "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "During your next turn, this Pokémon can’t attack."
+      }
+    ],
+    "abilities": [
+      {
+        "type": "ability",
+        "name": "Tachyon Bits",
+        "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may put 2 damage counters on 1 of your opponent’s Pokémon."
+      }
+    ],
+    "rules": [
+      "Pokémon ex rule"
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "68",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/68.png",
+      "large": "https://images.pokemontcg.io/svp/68_hires.png"
+    }
+  },
+  {
+    "id": "svp-85",
+    "name": "Pikachu with Grey Felt Hat",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Pika-Portrait",
+        "cost": [
+            "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for a Pikachu and put it onto your Bench. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "85",
+    "artist": "Naoyo Kimura",
+    "rarity": "Promo",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/85.png",
+      "large": "https://images.pokemontcg.io/svp/85_hires.png"
+    }
+  },
+  {
     "id": "svp-101",
     "name": "Pikachu",
     "supertype": "Pokémon",
