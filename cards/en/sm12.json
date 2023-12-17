@@ -12,9 +12,6 @@
     "types": [
       "Grass"
     ],
-    "evolvesTo": [
-      "Servine"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -90,7 +87,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Gloom"
+      "Gloom",
+      "Dark Gloom"
     ],
     "attacks": [
       {
@@ -143,7 +141,9 @@
     "evolvesFrom": "Oddish",
     "evolvesTo": [
       "Vileplume",
-      "Bellossom"
+      "Bellossom",
+      "Vileplume ex",
+      "Vileplume-GX"
     ],
     "attacks": [
       {
@@ -317,6 +317,9 @@
       "Grass"
     ],
     "evolvesFrom": "Tangela",
+    "evolvesTo": [
+      "Tangrowth LV.X"
+    ],
     "attacks": [
       {
         "name": "Grass Knot",
@@ -379,7 +382,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Sunflora"
+      "Sunflora",
+      "Light Sunflora"
     ],
     "attacks": [
       {
@@ -553,7 +557,8 @@
     ],
     "evolvesFrom": "Unidentified Fossil",
     "evolvesTo": [
-      "Cradily"
+      "Cradily",
+      "Cradily ex"
     ],
     "attacks": [
       {
@@ -1067,7 +1072,10 @@
     ],
     "evolvesFrom": "Rowlet",
     "evolvesTo": [
-      "Decidueye"
+      "Decidueye",
+      "Decidueye-GX",
+      "Hisuian Decidueye",
+      "Decidueye ex"
     ],
     "attacks": [
       {
@@ -1246,9 +1254,6 @@
     "types": [
       "Fire"
     ],
-    "evolvesTo": [
-      "Delphox"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -1315,7 +1320,8 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Rapidash"
+      "Rapidash",
+      "Dark Rapidash"
     ],
     "attacks": [
       {
@@ -1489,7 +1495,10 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Magcargo"
+      "Magcargo",
+      "Dark Magcargo",
+      "Magcargo ex",
+      "Magcargo-GX"
     ],
     "attacks": [
       {
@@ -1972,7 +1981,8 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Volcarona"
+      "Volcarona",
+      "Volcarona-GX"
     ],
     "attacks": [
       {
@@ -2170,6 +2180,9 @@
       "Fire"
     ],
     "evolvesFrom": "Litleo",
+    "evolvesTo": [
+      "Pyroar BREAK"
+    ],
     "attacks": [
       {
         "name": "Swirling Inferno",
@@ -2234,9 +2247,6 @@
     "hp": "270",
     "types": [
       "Water"
-    ],
-    "evolvesTo": [
-      "Prinplup"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -2305,7 +2315,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Ninetales"
+      "Alolan Ninetales",
+      "Alolan Ninetales-GX"
     ],
     "abilities": [
       {
@@ -2363,7 +2374,9 @@
       "Water"
     ],
     "evolvesTo": [
-      "Golduck"
+      "Golduck",
+      "Dark Golduck",
+      "Light Golduck"
     ],
     "attacks": [
       {
@@ -2424,6 +2437,9 @@
       "Water"
     ],
     "evolvesFrom": "Psyduck",
+    "evolvesTo": [
+      "Golduck BREAK"
+    ],
     "attacks": [
       {
         "name": "Scratch",
@@ -2542,7 +2558,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Weavile"
+      "Weavile",
+      "Weavile-GX"
     ],
     "attacks": [
       {
@@ -2649,7 +2666,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Wailord"
+      "Wailord",
+      "Wailord ex"
     ],
     "attacks": [
       {
@@ -2770,7 +2788,8 @@
     ],
     "evolvesTo": [
       "Glalie",
-      "Froslass"
+      "Froslass",
+      "Froslass ex"
     ],
     "attacks": [
       {
@@ -2822,9 +2841,6 @@
       "Water"
     ],
     "evolvesFrom": "Snorunt",
-    "evolvesTo": [
-      "Froslass"
-    ],
     "attacks": [
       {
         "name": "Ice Fang",
@@ -3004,7 +3020,8 @@
     ],
     "evolvesFrom": "Spheal",
     "evolvesTo": [
-      "Walrein"
+      "Walrein",
+      "Walrein ex"
     ],
     "attacks": [
       {
@@ -3312,6 +3329,10 @@
       "Water"
     ],
     "evolvesFrom": "Prinplup",
+    "evolvesTo": [
+      "Empoleon LV.X",
+      "Empoleon BREAK"
+    ],
     "attacks": [
       {
         "name": "Recall",
@@ -3909,7 +3930,11 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Raichu"
+      "Raichu",
+      "Dark Raichu",
+      "Raichu ex",
+      "Alolan Raichu",
+      "Raichu-GX"
     ],
     "attacks": [
       {
@@ -3977,6 +4002,10 @@
       "Lightning"
     ],
     "evolvesFrom": "Pikachu",
+    "evolvesTo": [
+      "Raichu LV.X",
+      "Raichu BREAK"
+    ],
     "attacks": [
       {
         "name": "Nuzzle",
@@ -4042,7 +4071,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Magneton"
+      "Magneton",
+      "Dark Magneton"
     ],
     "attacks": [
       {
@@ -4100,7 +4130,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "abilities": [
       {
@@ -4230,7 +4261,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Lanturn"
+      "Lanturn",
+      "Light Lanturn"
     ],
     "attacks": [
       {
@@ -4546,7 +4578,9 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Weezing"
+      "Weezing",
+      "Dark Weezing",
+      "Galarian Weezing"
     ],
     "abilities": [
       {
@@ -4848,7 +4882,9 @@
     "evolvesFrom": "Ralts",
     "evolvesTo": [
       "Gardevoir",
-      "Gallade"
+      "Gallade",
+      "Gardevoir ex",
+      "Gardevoir-GX"
     ],
     "attacks": [
       {
@@ -4967,7 +5003,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Dusclops"
+      "Dusclops",
+      "Dusclops ex"
     ],
     "abilities": [
       {
@@ -5091,6 +5128,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Dusclops",
+    "evolvesTo": [
+      "Dusknoir LV.X"
+    ],
     "abilities": [
       {
         "name": "Grim Marking",
@@ -5652,6 +5692,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Phantump",
+    "evolvesTo": [
+      "Trevenant BREAK"
+    ],
     "attacks": [
       {
         "name": "Perplexing Forest",
@@ -6075,7 +6118,9 @@
     "evolvesFrom": "Cosmog",
     "evolvesTo": [
       "Solgaleo",
-      "Lunala"
+      "Lunala",
+      "Lunala-GX",
+      "Solgaleo-GX"
     ],
     "attacks": [
       {
@@ -6306,7 +6351,9 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Steelix"
+      "Steelix",
+      "Dark Steelix",
+      "Steelix ex"
     ],
     "attacks": [
       {
@@ -6549,7 +6596,9 @@
     ],
     "evolvesFrom": "Trapinch",
     "evolvesTo": [
-      "Flygon"
+      "Flygon",
+      "Flygon ex",
+      "Flygon-GX"
     ],
     "abilities": [
       {
@@ -6682,7 +6731,8 @@
     ],
     "evolvesFrom": "Unidentified Fossil",
     "evolvesTo": [
-      "Armaldo"
+      "Armaldo",
+      "Armaldo ex"
     ],
     "attacks": [
       {
@@ -7390,7 +7440,9 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Lycanroc"
+      "Lycanroc",
+      "Lycanroc-GX",
+      "Lycanroc ex"
     ],
     "attacks": [
       {
@@ -7570,7 +7622,8 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Palossand"
+      "Palossand",
+      "Palossand-GX"
     ],
     "attacks": [
       {
@@ -7698,7 +7751,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Persian"
+      "Alolan Persian",
+      "Alolan Persian-GX"
     ],
     "attacks": [
       {
@@ -7844,7 +7898,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Muk"
+      "Alolan Muk",
+      "Alolan Muk-GX"
     ],
     "attacks": [
       {
@@ -7982,7 +8037,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Sharpedo"
+      "Sharpedo",
+      "Sharpedo ex"
     ],
     "attacks": [
       {
@@ -8170,6 +8226,9 @@
       "Darkness"
     ],
     "evolvesFrom": "Pawniard",
+    "evolvesTo": [
+      "Kingambit"
+    ],
     "attacks": [
       {
         "name": "Corner",
@@ -8305,7 +8364,8 @@
       "Metal"
     ],
     "evolvesTo": [
-      "Sandslash"
+      "Alolan Sandslash",
+      "Alolan Sandslash-GX"
     ],
     "attacks": [
       {
@@ -8711,9 +8771,6 @@
     "types": [
       "Fairy"
     ],
-    "evolvesTo": [
-      "Togetic"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -8787,9 +8844,6 @@
     "types": [
       "Fairy"
     ],
-    "evolvesTo": [
-      "Togetic"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -8862,7 +8916,8 @@
       "Fairy"
     ],
     "evolvesTo": [
-      "Clefable"
+      "Clefable",
+      "Clefable ex"
     ],
     "attacks": [
       {
@@ -8975,9 +9030,6 @@
     "types": [
       "Fairy"
     ],
-    "evolvesTo": [
-      "Marill"
-    ],
     "abilities": [
       {
         "name": "Growing Up",
@@ -9013,7 +9065,8 @@
       "Fairy"
     ],
     "evolvesTo": [
-      "Whimsicott"
+      "Whimsicott",
+      "Whimsicott-GX"
     ],
     "attacks": [
       {
@@ -9312,6 +9365,9 @@
       "Fairy"
     ],
     "evolvesFrom": "Floette",
+    "evolvesTo": [
+      "Florges BREAK"
+    ],
     "abilities": [
       {
         "name": "Flower Picking",
@@ -9949,7 +10005,8 @@
     ],
     "evolvesFrom": "Jangmo-o",
     "evolvesTo": [
-      "Kommo-o"
+      "Kommo-o",
+      "Kommo-o-GX"
     ],
     "abilities": [
       {
@@ -10128,9 +10185,6 @@
     "types": [
       "Colorless"
     ],
-    "evolvesTo": [
-      "Wigglytuff"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -10201,7 +10255,27 @@
       "Espeon",
       "Umbreon",
       "Leafeon",
-      "Glaceon"
+      "Glaceon",
+      "Dark Flareon",
+      "Dark Jolteon",
+      "Dark Vaporeon",
+      "Dark Espeon",
+      "Light Flareon",
+      "Light Jolteon",
+      "Light Vaporeon",
+      "Espeon ex",
+      "Umbreon ex",
+      "Flareon ex",
+      "Jolteon ex",
+      "Vaporeon ex",
+      "Espeon-GX",
+      "Umbreon-GX",
+      "Leafeon-GX",
+      "Glaceon-GX",
+      "Flareon-GX",
+      "Vaporeon-GX",
+      "Jolteon-GX",
+      "Sylveon-GX"
     ],
     "attacks": [
       {
@@ -10269,7 +10343,27 @@
       "Espeon",
       "Umbreon",
       "Leafeon",
-      "Glaceon"
+      "Glaceon",
+      "Dark Flareon",
+      "Dark Jolteon",
+      "Dark Vaporeon",
+      "Dark Espeon",
+      "Light Flareon",
+      "Light Jolteon",
+      "Light Vaporeon",
+      "Espeon ex",
+      "Umbreon ex",
+      "Flareon ex",
+      "Jolteon ex",
+      "Vaporeon ex",
+      "Espeon-GX",
+      "Umbreon-GX",
+      "Leafeon-GX",
+      "Glaceon-GX",
+      "Flareon-GX",
+      "Vaporeon-GX",
+      "Jolteon-GX",
+      "Sylveon-GX"
     ],
     "attacks": [
       {
@@ -10327,9 +10421,6 @@
     "hp": "60",
     "types": [
       "Colorless"
-    ],
-    "evolvesTo": [
-      "Jigglypuff"
     ],
     "abilities": [
       {
@@ -10484,7 +10575,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Ursaring"
+      "Ursaring",
+      "Dark Ursaring"
     ],
     "attacks": [
       {
@@ -10545,6 +10637,9 @@
       "Colorless"
     ],
     "evolvesFrom": "Teddiursa",
+    "evolvesTo": [
+      "Ursaluna"
+    ],
     "attacks": [
       {
         "name": "Hammer In",
@@ -10853,7 +10948,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Braviary"
+      "Braviary",
+      "Hisuian Braviary"
     ],
     "attacks": [
       {
@@ -11099,7 +11195,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Bewear"
+      "Bewear",
+      "Bewear-GX"
     ],
     "attacks": [
       {
@@ -11209,6 +11306,10 @@
     "hp": "110",
     "types": [
       "Colorless"
+    ],
+    "evolvesTo": [
+      "Silvally",
+      "Silvally-GX"
     ],
     "attacks": [
       {
@@ -11867,6 +11968,20 @@
       "Item"
     ],
     "hp": "60",
+    "evolvesTo": [
+      "Cranidos",
+      "Shieldon",
+      "Amaura",
+      "Tyrunt",
+      "Omanyte",
+      "Kabuto",
+      "Aerodactyl",
+      "Tirtouga",
+      "Aerodactyl-GX",
+      "Archen",
+      "Lileep",
+      "Anorith"
+    ],
     "rules": [
       "Play this card as if it were a 60-HP Colorless Basic Pokémon. At any time during your turn (before your attack), you may discard this card from play.",
       "This card can't retreat.",
@@ -11942,9 +12057,6 @@
     "hp": "270",
     "types": [
       "Grass"
-    ],
-    "evolvesTo": [
-      "Servine"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -12092,9 +12204,6 @@
     "types": [
       "Fire"
     ],
-    "evolvesTo": [
-      "Delphox"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -12234,9 +12343,6 @@
     "types": [
       "Water"
     ],
-    "evolvesTo": [
-      "Prinplup"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -12304,9 +12410,6 @@
     "hp": "270",
     "types": [
       "Water"
-    ],
-    "evolvesTo": [
-      "Prinplup"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -13023,9 +13126,6 @@
     "types": [
       "Colorless"
     ],
-    "evolvesTo": [
-      "Wigglytuff"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -13089,9 +13189,6 @@
     "hp": "240",
     "types": [
       "Colorless"
-    ],
-    "evolvesTo": [
-      "Wigglytuff"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -13672,7 +13769,11 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Raichu"
+      "Raichu",
+      "Dark Raichu",
+      "Raichu ex",
+      "Alolan Raichu",
+      "Raichu-GX"
     ],
     "attacks": [
       {
@@ -13740,7 +13841,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Magneton"
+      "Magneton",
+      "Dark Magneton"
     ],
     "attacks": [
       {
@@ -13797,7 +13899,9 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Weezing"
+      "Weezing",
+      "Dark Weezing",
+      "Galarian Weezing"
     ],
     "abilities": [
       {
@@ -14158,9 +14262,6 @@
     "types": [
       "Grass"
     ],
-    "evolvesTo": [
-      "Servine"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -14307,9 +14408,6 @@
     "types": [
       "Fire"
     ],
-    "evolvesTo": [
-      "Delphox"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -14448,9 +14546,6 @@
     "hp": "270",
     "types": [
       "Water"
-    ],
-    "evolvesTo": [
-      "Prinplup"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -15025,9 +15120,6 @@
     "hp": "240",
     "types": [
       "Colorless"
-    ],
-    "evolvesTo": [
-      "Wigglytuff"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."

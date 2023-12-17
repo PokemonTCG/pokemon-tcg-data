@@ -118,6 +118,9 @@
     "types": [
       "Metal"
     ],
+    "evolvesTo": [
+      "Dialga LV.X"
+    ],
     "attacks": [
       {
         "name": "Time Rewind",
@@ -483,6 +486,9 @@
     "types": [
       "Fire"
     ],
+    "evolvesTo": [
+      "Ho-Oh BREAK"
+    ],
     "attacks": [
       {
         "name": "Combustion",
@@ -725,6 +731,9 @@
       "Grass"
     ],
     "evolvesFrom": "Eevee",
+    "evolvesTo": [
+      "Leafeon LV.X"
+    ],
     "attacks": [
       {
         "name": "Miasma Wind",
@@ -788,6 +797,9 @@
       "Fighting"
     ],
     "evolvesFrom": "Riolu",
+    "evolvesTo": [
+      "Lucario LV.X"
+    ],
     "attacks": [
       {
         "name": "Dimension Sphere",
@@ -846,6 +858,9 @@
     "hp": "100",
     "types": [
       "Water"
+    ],
+    "evolvesTo": [
+      "Lugia BREAK"
     ],
     "attacks": [
       {
@@ -918,6 +933,9 @@
       "Fire"
     ],
     "evolvesFrom": "Magmar",
+    "evolvesTo": [
+      "Magmortar LV.X"
+    ],
     "attacks": [
       {
         "name": "Hard Crush",
@@ -981,6 +999,9 @@
       "Fire"
     ],
     "evolvesFrom": "Vulpix",
+    "evolvesTo": [
+      "Ninetales BREAK"
+    ],
     "abilities": [
       {
         "name": "Roast Reveal",
@@ -1097,6 +1118,9 @@
     "hp": "100",
     "types": [
       "Water"
+    ],
+    "evolvesTo": [
+      "Palkia LV.X"
     ],
     "attacks": [
       {
@@ -1390,9 +1414,6 @@
     "hp": "30",
     "types": [
       "Colorless"
-    ],
-    "evolvesTo": [
-      "Clefairy"
     ],
     "abilities": [
       {
@@ -1932,6 +1953,9 @@
     "types": [
       "Colorless"
     ],
+    "evolvesTo": [
+      "Snorlax LV.X"
+    ],
     "attacks": [
       {
         "name": "Layabout",
@@ -1997,6 +2021,9 @@
       "Grass"
     ],
     "evolvesFrom": "Tangela",
+    "evolvesTo": [
+      "Tangrowth LV.X"
+    ],
     "attacks": [
       {
         "name": "Grind",
@@ -2124,11 +2151,6 @@
     "types": [
       "Fighting"
     ],
-    "evolvesTo": [
-      "Hitmonlee",
-      "Hitmonchan",
-      "Hitmontop"
-    ],
     "abilities": [
       {
         "name": "Sweet Sleeping Face",
@@ -2174,6 +2196,9 @@
       "Colorless"
     ],
     "evolvesFrom": "Teddiursa",
+    "evolvesTo": [
+      "Ursaluna"
+    ],
     "attacks": [
       {
         "name": "Confront",
@@ -2354,7 +2379,8 @@
     ],
     "evolvesFrom": "Chikorita",
     "evolvesTo": [
-      "Meganium"
+      "Meganium",
+      "Meganium ex"
     ],
     "attacks": [
       {
@@ -2423,7 +2449,8 @@
     ],
     "evolvesFrom": "Totodile",
     "evolvesTo": [
-      "Feraligatr"
+      "Feraligatr",
+      "Feraligatr ex"
     ],
     "attacks": [
       {
@@ -2557,7 +2584,9 @@
     ],
     "evolvesFrom": "Mareep",
     "evolvesTo": [
-      "Ampharos"
+      "Ampharos",
+      "Ampharos ex",
+      "Ampharos-GX"
     ],
     "attacks": [
       {
@@ -2743,9 +2772,6 @@
     "types": [
       "Fire"
     ],
-    "evolvesTo": [
-      "Magmar"
-    ],
     "abilities": [
       {
         "name": "Sweet Sleeping Face",
@@ -2836,7 +2862,8 @@
     ],
     "evolvesFrom": "Pidgey",
     "evolvesTo": [
-      "Pidgeot"
+      "Pidgeot",
+      "Pidgeot ex"
     ],
     "attacks": [
       {
@@ -2905,7 +2932,9 @@
     ],
     "evolvesFrom": "Cyndaquil",
     "evolvesTo": [
-      "Typhlosion"
+      "Typhlosion",
+      "Typhlosion ex",
+      "Hisuian Typhlosion"
     ],
     "attacks": [
       {
@@ -2967,7 +2996,9 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Lucario"
+      "Lucario",
+      "Lucario-GX",
+      "Lucario ex"
     ],
     "attacks": [
       {
@@ -3201,7 +3232,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Clefable"
+      "Clefable",
+      "Clefable ex"
     ],
     "attacks": [
       {
@@ -3260,7 +3292,8 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Quilava"
+      "Quilava",
+      "Dark Quilava"
     ],
     "attacks": [
       {
@@ -3317,7 +3350,27 @@
       "Espeon",
       "Umbreon",
       "Leafeon",
-      "Glaceon"
+      "Glaceon",
+      "Dark Flareon",
+      "Dark Jolteon",
+      "Dark Vaporeon",
+      "Dark Espeon",
+      "Light Flareon",
+      "Light Jolteon",
+      "Light Vaporeon",
+      "Espeon ex",
+      "Umbreon ex",
+      "Flareon ex",
+      "Jolteon ex",
+      "Vaporeon ex",
+      "Espeon-GX",
+      "Umbreon-GX",
+      "Leafeon-GX",
+      "Glaceon-GX",
+      "Flareon-GX",
+      "Vaporeon-GX",
+      "Jolteon-GX",
+      "Sylveon-GX"
     ],
     "attacks": [
       {
@@ -3493,7 +3546,9 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Houndoom"
+      "Houndoom",
+      "Dark Houndoom",
+      "Houndoom ex"
     ],
     "attacks": [
       {
@@ -3549,7 +3604,9 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Weezing"
+      "Weezing",
+      "Dark Weezing",
+      "Galarian Weezing"
     ],
     "attacks": [
       {
@@ -3609,7 +3666,10 @@
       "Water"
     ],
     "evolvesTo": [
-      "Gyarados"
+      "Gyarados",
+      "Dark Gyarados",
+      "Gyarados ex",
+      "Gyarados-GX"
     ],
     "attacks": [
       {
@@ -3720,7 +3780,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Flaaffy"
+      "Flaaffy",
+      "Dark Flaaffy"
     ],
     "attacks": [
       {
@@ -3905,7 +3966,8 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Donphan"
+      "Donphan",
+      "Dark Donphan"
     ],
     "abilities": [
       {
@@ -4035,7 +4097,9 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Forretress"
+      "Forretress",
+      "Dark Forretress",
+      "Forretress ex"
     ],
     "attacks": [
       {
@@ -4156,7 +4220,11 @@
     ],
     "evolvesTo": [
       "Slowbro",
-      "Slowking"
+      "Slowking",
+      "Dark Slowbro",
+      "Dark Slowking",
+      "Light Slowbro",
+      "Slowking ex"
     ],
     "attacks": [
       {
@@ -4336,7 +4404,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Ursaring"
+      "Ursaring",
+      "Dark Ursaring"
     ],
     "attacks": [
       {
@@ -4386,7 +4455,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Croconaw"
+      "Croconaw",
+      "Dark Croconaw"
     ],
     "attacks": [
       {
@@ -4439,7 +4509,9 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Ninetales"
+      "Ninetales",
+      "Light Ninetales",
+      "Ninetales ex"
     ],
     "attacks": [
       {
@@ -4960,6 +5032,9 @@
     "types": [
       "Metal"
     ],
+    "evolvesTo": [
+      "Dialga LV.X"
+    ],
     "attacks": [
       {
         "name": "Time Rewind",
@@ -5128,6 +5203,9 @@
     "types": [
       "Fire"
     ],
+    "evolvesTo": [
+      "Ho-Oh BREAK"
+    ],
     "attacks": [
       {
         "name": "Combustion",
@@ -5251,6 +5329,9 @@
     "types": [
       "Water"
     ],
+    "evolvesTo": [
+      "Lugia BREAK"
+    ],
     "attacks": [
       {
         "name": "Linear Attack",
@@ -5320,6 +5401,9 @@
     "hp": "100",
     "types": [
       "Water"
+    ],
+    "evolvesTo": [
+      "Palkia LV.X"
     ],
     "attacks": [
       {

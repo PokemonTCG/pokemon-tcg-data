@@ -75,6 +75,9 @@
     "types": [
       "Psychic"
     ],
+    "evolvesTo": [
+      "Cresselia LV.X"
+    ],
     "attacks": [
       {
         "name": "Future Sight",
@@ -133,6 +136,9 @@
     "hp": "80",
     "types": [
       "Darkness"
+    ],
+    "evolvesTo": [
+      "Darkrai LV.X"
     ],
     "abilities": [
       {
@@ -207,6 +213,9 @@
     "types": [
       "Metal"
     ],
+    "evolvesTo": [
+      "Dialga LV.X"
+    ],
     "rules": [
       "Adamant Orb: If an Active Pokémon has Weakness to Metal type, Dialga's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance)."
     ],
@@ -278,6 +287,9 @@
       "Water"
     ],
     "evolvesFrom": "Eevee",
+    "evolvesTo": [
+      "Glaceon LV.X"
+    ],
     "attacks": [
       {
         "name": "Snow Cloak",
@@ -397,6 +409,9 @@
       "Grass"
     ],
     "evolvesFrom": "Eevee",
+    "evolvesTo": [
+      "Leafeon LV.X"
+    ],
     "attacks": [
       {
         "name": "Bind Down",
@@ -527,6 +542,9 @@
     "hp": "90",
     "types": [
       "Psychic"
+    ],
+    "evolvesTo": [
+      "Mewtwo LV.X"
     ],
     "attacks": [
       {
@@ -660,6 +678,9 @@
     "hp": "100",
     "types": [
       "Water"
+    ],
+    "evolvesTo": [
+      "Palkia LV.X"
     ],
     "rules": [
       "Lustrous Orb: If an Active Pokémon has Weakness to Water type, Palkia's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance)."
@@ -975,6 +996,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Bronzor",
+    "evolvesTo": [
+      "Bronzong BREAK"
+    ],
     "abilities": [
       {
         "name": "Cursed Alloy",
@@ -1050,6 +1074,10 @@
       "Water"
     ],
     "evolvesFrom": "Prinplup",
+    "evolvesTo": [
+      "Empoleon LV.X",
+      "Empoleon BREAK"
+    ],
     "attacks": [
       {
         "name": "Dual Splash",
@@ -1231,6 +1259,9 @@
       "Water"
     ],
     "evolvesFrom": "Eevee",
+    "evolvesTo": [
+      "Glaceon LV.X"
+    ],
     "attacks": [
       {
         "name": "Ice Shot",
@@ -1292,6 +1323,9 @@
       "Fighting"
     ],
     "evolvesFrom": "Hippopotas",
+    "evolvesTo": [
+      "Hippowdon LV.X"
+    ],
     "attacks": [
       {
         "name": "Vacuum Sand",
@@ -1354,6 +1388,9 @@
       "Fire"
     ],
     "evolvesFrom": "Monferno",
+    "evolvesTo": [
+      "Infernape LV.X"
+    ],
     "attacks": [
       {
         "name": "Mach Punch",
@@ -1470,6 +1507,9 @@
       "Grass"
     ],
     "evolvesFrom": "Eevee",
+    "evolvesTo": [
+      "Leafeon LV.X"
+    ],
     "attacks": [
       {
         "name": "Sprial Drain",
@@ -1601,6 +1641,9 @@
       "Water"
     ],
     "evolvesFrom": "Omanyte",
+    "evolvesTo": [
+      "Omastar BREAK"
+    ],
     "abilities": [
       {
         "name": "Primal Swirl",
@@ -1846,6 +1889,9 @@
       "Grass"
     ],
     "evolvesFrom": "Grotle",
+    "evolvesTo": [
+      "Torterra LV.X"
+    ],
     "attacks": [
       {
         "name": "Earthquake",
@@ -2783,6 +2829,10 @@
       "Lightning"
     ],
     "evolvesFrom": "Pikachu",
+    "evolvesTo": [
+      "Raichu LV.X",
+      "Raichu BREAK"
+    ],
     "attacks": [
       {
         "name": "Agility",
@@ -2845,7 +2895,11 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Scizor"
+      "Scizor",
+      "Scizor ex",
+      "Dark Scizor",
+      "Scizor-GX",
+      "Kleavor"
     ],
     "attacks": [
       {
@@ -3335,7 +3389,7 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Wormadam"
+      "Wormadam Sandy Cloak"
     ],
     "attacks": [
       {
@@ -3569,9 +3623,6 @@
     "types": [
       "Psychic"
     ],
-    "evolvesTo": [
-      "Chimecho"
-    ],
     "abilities": [
       {
         "name": "Baby Evolution",
@@ -3628,7 +3679,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Vespiquen"
+      "Vespiquen",
+      "Vespiquen ex"
     ],
     "attacks": [
       {
@@ -3695,7 +3747,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Toxicroak"
+      "Toxicroak",
+      "Toxicroak ex"
     ],
     "attacks": [
       {
@@ -3828,7 +3881,27 @@
       "Espeon",
       "Umbreon",
       "Leafeon",
-      "Glaceon"
+      "Glaceon",
+      "Dark Flareon",
+      "Dark Jolteon",
+      "Dark Vaporeon",
+      "Dark Espeon",
+      "Light Flareon",
+      "Light Jolteon",
+      "Light Vaporeon",
+      "Espeon ex",
+      "Umbreon ex",
+      "Flareon ex",
+      "Jolteon ex",
+      "Vaporeon ex",
+      "Espeon-GX",
+      "Umbreon-GX",
+      "Leafeon-GX",
+      "Glaceon-GX",
+      "Flareon-GX",
+      "Vaporeon-GX",
+      "Jolteon-GX",
+      "Sylveon-GX"
     ],
     "attacks": [
       {
@@ -3895,7 +3968,27 @@
       "Espeon",
       "Umbreon",
       "Leafeon",
-      "Glaceon"
+      "Glaceon",
+      "Dark Flareon",
+      "Dark Jolteon",
+      "Dark Vaporeon",
+      "Dark Espeon",
+      "Light Flareon",
+      "Light Jolteon",
+      "Light Vaporeon",
+      "Espeon ex",
+      "Umbreon ex",
+      "Flareon ex",
+      "Jolteon ex",
+      "Vaporeon ex",
+      "Espeon-GX",
+      "Umbreon-GX",
+      "Leafeon-GX",
+      "Glaceon-GX",
+      "Flareon-GX",
+      "Vaporeon-GX",
+      "Jolteon-GX",
+      "Sylveon-GX"
     ],
     "attacks": [
       {
@@ -3955,7 +4048,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Manectric"
+      "Manectric",
+      "Manectric ex"
     ],
     "attacks": [
       {
@@ -4147,7 +4241,8 @@
     ],
     "evolvesFrom": "Dome Fossil",
     "evolvesTo": [
-      "Kabutops"
+      "Kabutops",
+      "Kabutops ex"
     ],
     "abilities": [
       {
@@ -4203,9 +4298,6 @@
     "hp": "60",
     "types": [
       "Colorless"
-    ],
-    "evolvesTo": [
-      "Snorlax"
     ],
     "abilities": [
       {
@@ -4325,7 +4417,11 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Raichu"
+      "Raichu",
+      "Dark Raichu",
+      "Raichu ex",
+      "Alolan Raichu",
+      "Raichu-GX"
     ],
     "attacks": [
       {
@@ -4507,7 +4603,7 @@
       "Water"
     ],
     "evolvesTo": [
-      "Gastrodon"
+      "Gastrodon East Sea"
     ],
     "attacks": [
       {
@@ -5002,6 +5098,9 @@
       "Item"
     ],
     "hp": "50",
+    "evolvesTo": [
+      "Aerodactyl"
+    ],
     "rules": [
       "Play Old Amber as if it were a Colorless Basic Pokémon. (Old Amber counts as a Trainer card as well, but if Old Amber is Knocked Out, this counts as a Knocked Out Pokémon.) Old Amber can't be affected by any Special Conditions and can't retreat. At any time during your turn before your attack, you may discard Old Amber from play. (This doesn't count as a Knocked Out Pokémon.)"
     ],
@@ -5119,6 +5218,9 @@
       "Item"
     ],
     "hp": "50",
+    "evolvesTo": [
+      "Kabuto"
+    ],
     "rules": [
       "Play Dome Fossil as if it were a Colorless Basic Pokémon. (Dome Fossil counts as a Trainer card as well, but if Dome Fossil is Knocked Out, this counts as a Knocked Out Pokémon.) Dome Fossil can't be affected by any Special Conditions and can't retreat. At any time during your turn before your attack, you may discard Dome Fossil from play. (This doesn't count as a Knocked Out Pokémon.)"
     ],
@@ -5171,6 +5273,9 @@
       "Item"
     ],
     "hp": "50",
+    "evolvesTo": [
+      "Omanyte"
+    ],
     "rules": [
       "Play Helix Fossil as if it were a Colorless Basic Pokémon. (Helix Fossil counts as a Trainer card as well, but if Helix Fossil is Knocked Out, this counts as a Knocked Out Pokémon.) Helix Fossil can't be affected by any Special Conditions and can't retreat. At any time during your turn before your attack, you may discard Helix Fossil from play. (This doesn't count as a Knocked Out Pokémon.)"
     ],
