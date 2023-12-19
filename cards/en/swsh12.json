@@ -9335,9 +9335,22 @@
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon V this card is attached to can use the VSTAR Power on this card. (You still need the necessary Energy to use this attack.) ColorlessColorlessColorless Star Gravity Put damage counters on each of your opponent's Pokémon V until its remaining HP is 100. (You can't use more than 1 VSTAR Power in a game.)",
+      "The Pokémon V this card is attached to can use the VSTAR Power on this card. (You still need the necessary Energy to use this attack.)",
       "You may play any number of Item cards during your turn.",
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "attacks": [
+      {
+        "name": "Star Gravity",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put damage counters on each of your opponent's Pokémon V until its remaining HP is 100. (You can't use more than 1 VSTAR Power in a game.)"
+      }
     ],
     "number": "154",
     "artist": "AYUMI ODASHIMA",
@@ -9389,9 +9402,16 @@
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon V this card is attached to can use the VSTAR Power on this card. Star Alchemy During your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+      "The Pokémon V this card is attached to can use the VSTAR Power on this card.",
       "You may play any number of Item cards during your turn.",
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "abilities": [
+      {
+        "name": "Star Alchemy",
+        "text": "During your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+        "type": "Ability"
+      }
     ],
     "number": "156",
     "artist": "AYUMI ODASHIMA",
