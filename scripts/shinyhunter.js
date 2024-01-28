@@ -206,17 +206,7 @@ var addCommand = (name, description, callback) => {
     }
 }
 
-addCommand("hunt", "Finds and logs shiny cards heuristically", huntCommand);
-addCommand("preview", "Opens a page showing all the shiny cards, found heuristically and hardcoded", previewCommand);
-addCommand("print", "Prints a list of all known shiny card IDs to \"shinies.json\"", printCommand);
-addCommand("update", "Updates the actual card data with shiny information [not yet implemented]", printCommand);
-
-
-if(process.argv.length > 2){
-    if(commands[process.argv[2]]){
-        commands[process.argv[2]].callback();
-    }
-} else {
+var helpCommand = () => {
     // print help
     console.log("Usage: node shinyhunter.js <command>\nAvailable Commands:");
     var longestCommand = 0;
@@ -228,5 +218,21 @@ if(process.argv.length > 2){
     for(var key in commands){
         console.log(`${key.padEnd(longestCommand)} -- ${commands[key].description}`);
     }
+}
+
+addCommand("hunt", "Finds and logs shiny cards heuristically", huntCommand);
+addCommand("preview", "Opens a page showing all the shiny cards, found heuristically and hardcoded", previewCommand);
+addCommand("print", "Prints a list of all known shiny card IDs to \"shinies.json\"", printCommand);
+addCommand("update", "Updates the actual card data with shiny information [not yet implemented]", printCommand);
+addCommand("help", "Prints this screen", helpCommand);
+
+
+
+if(process.argv.length > 2){
+    if(commands[process.argv[2]]){
+        commands[process.argv[2]].callback();
+    }
+} else {
+    helpCommand();
 }
 
