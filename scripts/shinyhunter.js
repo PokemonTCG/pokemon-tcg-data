@@ -193,6 +193,10 @@ var printCommand = () => {
     });
 }
 
+var updateCommand = () => {
+    // TODO: figure out what format should there be for shinies in the data
+}
+
 var commands = {};
 
 var addCommand = (name, description, callback) => {
@@ -204,7 +208,8 @@ var addCommand = (name, description, callback) => {
 
 addCommand("hunt", "Finds and logs shiny cards heuristically", huntCommand);
 addCommand("preview", "Opens a page showing all the shiny cards, found heuristically and hardcoded", previewCommand);
-addCommand("print", "Prints a list of all known shiny card IDs to \"shinylist.json\"", printCommand);
+addCommand("print", "Prints a list of all known shiny card IDs to \"shinies.json\"", printCommand);
+addCommand("update", "Updates the actual card data with shiny information [not yet implemented]", printCommand);
 
 
 if(process.argv.length > 2){
