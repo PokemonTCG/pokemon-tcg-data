@@ -291,7 +291,7 @@
     "id": "ecard3",
     "name": "Skyridge",
     "series": "E-Card",
-    "printedTotal": 182,
+    "printedTotal": 144,
     "total": 182,
     "legalities": {
       "unlimited": "Legal"
@@ -2124,7 +2124,7 @@
   },
   {
     "id": "sma",
-    "name": "Shiny Vault",
+    "name": "Hidden Fates Shiny Vault",
     "series": "Sun & Moon",
     "printedTotal": 94,
     "total": 94,
@@ -2178,8 +2178,8 @@
     "id": "swshp",
     "name": "SWSH Black Star Promos",
     "series": "Sword & Shield",
-    "printedTotal": 184,
-    "total": 181,
+    "printedTotal": 307,
+    "total": 304,
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -2214,7 +2214,6 @@
     "total": 216,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "SSH",
@@ -2233,7 +2232,6 @@
     "total": 209,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "RCL",
@@ -2252,7 +2250,6 @@
     "total": 201,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "DAA",
@@ -2290,7 +2287,6 @@
     "total": 80,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "CPA",
@@ -2309,7 +2305,6 @@
     "total": 203,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "VIV",
@@ -2341,13 +2336,12 @@
   },
   {
     "id": "swsh45sv",
-    "name": "Shiny Vault",
+    "name": "Shining Fates Shiny Vault",
     "series": "Sword & Shield",
     "printedTotal": 122,
     "total": 122,
     "legalities": {
       "unlimited": "Legal",
-      "standard": "Legal",
       "expanded": "Legal"
     },
     "ptcgoCode": "SHF",
@@ -2715,6 +2709,44 @@
     }
   },
   {
+    "id": "svp",
+    "name": "Scarlet & Violet Black Star Promos",
+    "series": "Scarlet & Violet",
+    "printedTotal": 45,
+    "total": 42,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-SV",
+    "releaseDate": "2023/01/01",
+    "updatedAt": "2023/09/07 23:15:00",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+      "logo": "https://images.pokemontcg.io/svp/logo.png"
+    }
+  },
+  {
+    "id": "sve",
+    "name": "Scarlet & Violet Energies",
+    "series": "Scarlet & Violet",
+    "printedTotal": 8,
+    "total": 8,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "SVE",
+    "releaseDate": "2023/03/31",
+    "updatedAt": "2023/07/20 15:45:00",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sve/symbol.png",
+      "logo": "https://images.pokemontcg.io/sve/logo.png"
+    }
+  },
+  {
     "id": "sv1",
     "name": "Scarlet & Violet",
     "series": "Scarlet & Violet",
@@ -2725,6 +2757,7 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "ptcgoCode": "SVI",
     "releaseDate": "2023/03/31",
     "updatedAt": "2023/03/31 15:45:00",
     "images": {
@@ -2737,17 +2770,94 @@
     "name": "Paldea Evolved",
     "series": "Scarlet & Violet",
     "printedTotal": 193,
-    "total": 270,
+    "total": 279,
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
       "expanded": "Legal"
     },
+    "ptcgoCode": "PAL",
     "releaseDate": "2023/06/09",
     "updatedAt": "2023/06/09 15:00:00",
     "images": {
       "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
       "logo": "https://images.pokemontcg.io/sv2/logo.png"
+    }
+  },
+  {
+    "id": "sv3",
+    "name": "Obsidian Flames",
+    "series": "Scarlet & Violet",
+    "printedTotal": 197,
+    "total": 230,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "OBF",
+    "releaseDate": "2023/08/11",
+    "updatedAt": "2023/08/11 15:00:00",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+      "logo": "https://images.pokemontcg.io/sv3/logo.png"
+    }
+  },
+  {
+    "id": "sv3pt5",
+    "name": "151",
+    "series": "Scarlet & Violet",
+    "printedTotal": 165,
+    "total": 207,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "MEW",
+    "releaseDate": "2023/09/22",
+    "updatedAt": "2023/09/22 15:00:00",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+      "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+    }
+  },
+  {
+    "id": "sv4",
+    "name": "Paradox Rift",
+    "series": "Scarlet & Violet",
+    "printedTotal": 182,
+    "total": 266,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "PAR",
+    "releaseDate": "2023/11/03",
+    "updatedAt": "2023/11/03 15:00:00",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+      "logo": "https://images.pokemontcg.io/sv4/logo.png"
+    }
+  },
+  {
+    "id": "sv4pt5",
+    "name": "Paldean Fates",
+    "series": "Scarlet & Violet",
+    "printedTotal": 91,
+    "total": 245,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "PAF",
+    "releaseDate": "2024/01/26",
+    "updatedAt": "2024/01/25 15:00:00",
+    "images": {
+      "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
+      "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
     }
   }
 ]

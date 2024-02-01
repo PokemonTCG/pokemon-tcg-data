@@ -9335,9 +9335,22 @@
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon V this card is attached to can use the VSTAR Power on this card. (You still need the necessary Energy to use this attack.) ColorlessColorlessColorless Star Gravity Put damage counters on each of your opponent's Pokémon V until its remaining HP is 100. (You can't use more than 1 VSTAR Power in a game.)",
+      "The Pokémon V this card is attached to can use the VSTAR Power on this card. (You still need the necessary Energy to use this attack.)",
       "You may play any number of Item cards during your turn.",
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "attacks": [
+      {
+        "name": "Star Gravity",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put damage counters on each of your opponent's Pokémon V until its remaining HP is 100. (You can't use more than 1 VSTAR Power in a game.)"
+      }
     ],
     "number": "154",
     "artist": "AYUMI ODASHIMA",
@@ -9389,9 +9402,16 @@
       "Pokémon Tool"
     ],
     "rules": [
-      "The Pokémon V this card is attached to can use the VSTAR Power on this card. Star Alchemy During your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+      "The Pokémon V this card is attached to can use the VSTAR Power on this card.",
       "You may play any number of Item cards during your turn.",
       "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "abilities": [
+      {
+        "name": "Star Alchemy",
+        "text": "During your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+        "type": "Ability"
+      }
     ],
     "number": "156",
     "artist": "AYUMI ODASHIMA",
@@ -9565,7 +9585,7 @@
       "Item"
     ],
     "rules": [
-      "You may use 4 Quad Stone cards at once. • If you used 1 card, heal 10 damage from your Active Pokémon. • If you used 4 cards, heal all damage from each of your Pokémon. (This effect works one time for 4 cards.)",
+      "You may use 4 Quad Stone cards at once.\n• If you used 1 card, heal 10 damage from your Active Pokémon.\n• If you used 4 cards, heal all damage from each of your Pokémon. (This effect works one time for 4 cards.)",
       "You may play any number of Item cards during your turn."
     ],
     "number": "163",
@@ -9590,7 +9610,7 @@
       "Supporter"
     ],
     "rules": [
-      "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
+      "Choose 1:\n• Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand.\n• Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "164",
@@ -11054,7 +11074,7 @@
       "Supporter"
     ],
     "rules": [
-      "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
+      "Choose 1:\n• Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand.\n• Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "193",
@@ -11673,7 +11693,7 @@
       "Supporter"
     ],
     "rules": [
-      "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
+      "Choose 1:\n• Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand.\n• Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon.",
       "You may play only 1 Supporter card during your turn."
     ],
     "number": "207",
