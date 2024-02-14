@@ -3362,7 +3362,7 @@
     ],
     "evolvesFrom": "Charmeleon",
     "rules": [
-      "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+      "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
       "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
@@ -3518,6 +3518,9 @@
     "artist": "Lee HyunJung",
     "rarity": "Promo",
     "flavorText": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.",
+    "nationalPokedexNumbers": [
+      991
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -3958,6 +3961,9 @@
     "artist": "GIDORA",
     "rarity": "Promo",
     "flavorText": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+    "nationalPokedexNumbers": [
+      985
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -4015,6 +4021,9 @@
     "artist": "Teeziro",
     "rarity": "Promo",
     "flavorText": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.",
+    "nationalPokedexNumbers": [
+      991
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -4078,7 +4087,11 @@
     ],
     "convertedRetreatCost": 2,
     "number": "67",
+    "artist": "takuyoa",
     "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1005
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -4138,7 +4151,11 @@
     ],
     "convertedRetreatCost": 2,
     "number": "68",
+    "artist": "aky CG Works",
     "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1006
+    ],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -4184,6 +4201,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "69",
+    "artist": "sowsow",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       926
@@ -4239,6 +4257,7 @@
     ],
     "convertedRetreatCost": 2,
     "number": "70",
+    "artist": "Nisota Niso",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       971
@@ -4287,6 +4306,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "71",
+    "artist": "Kagemaru Himeno",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       942
@@ -4343,6 +4363,7 @@
     ],
     "convertedRetreatCost": 1,
     "number": "75",
+    "artist": "Mitsuhiro Arita",
     "rarity": "Promo",
     "nationalPokedexNumbers": [
       778
@@ -4356,6 +4377,55 @@
     "images": {
       "small": "https://images.pokemontcg.io/svp/75.png",
       "large": "https://images.pokemontcg.io/svp/75_hires.png"
+    }
+  },
+  {
+    "id": "svp-85",
+    "name": "Pikachu with Grey Felt Hat",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Pika-Portrait",
+        "cost": [
+            "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for a Pikachu and put it onto your Bench. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "85",
+    "artist": "Naoyo Kimura",
+    "rarity": "Promo",
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches of its cheeks.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/85.png",
+      "large": "https://images.pokemontcg.io/svp/85_hires.png"
     }
   },
   {
@@ -4408,6 +4478,66 @@
     "images": {
       "small": "https://images.pokemontcg.io/svp/101.png",
       "large": "https://images.pokemontcg.io/svp/101_hires.png"
+    }
+  },
+  {
+    "id": "svp-102",
+    "name": "Oddish",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Grass Knot",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "102",
+    "artist": "Miranda Branley",
+    "rarity": "Promo",
+    "flavorText": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+    "nationalPokedexNumbers": [
+      43
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/102.png",
+      "large": "https://images.pokemontcg.io/svp/102_hires.png"
     }
   }
 ]
