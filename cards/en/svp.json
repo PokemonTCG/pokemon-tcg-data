@@ -4380,6 +4380,545 @@
     }
   },
   {
+    "id": "svp-76",
+    "name": "Sprigatito",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Gather Sunlight",
+        "damage": "",
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Seed Bomb",
+        "damage": "10",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "76",
+    "artist": "kurumitsu",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      906
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/76.png",
+      "large": "https://images.pokemontcg.io/svp/76_hires.png"
+    },
+    "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out."
+  },
+  {
+    "id": "svp-77",
+    "name": "Floragato",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Sprigatito",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Seed Bomb",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Magic Whip",
+        "damage": "50",
+        "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "77",
+    "artist": "GIDORA",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      907
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/77.png",
+      "large": "https://images.pokemontcg.io/svp/77_hires.png"
+    },
+    "flavorText": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents."
+  },
+  {
+    "id": "svp-78",
+    "name": "Meowscarada ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "310",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Floragato",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Bouquet Magic",
+        "text": "You must discard a Basic Grass Energy card from your hand in order to use this Ability. Once during your turn, you may put 3 damage counters on 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scratching Nails",
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "78",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      908
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/78.png",
+      "large": "https://images.pokemontcg.io/svp/78_hires.png"
+    }
+  },
+  {
+    "id": "svp-79",
+    "name": "Fuecoco",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Tackle",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "79",
+    "artist": "OKACHEKE",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      909
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/79.png",
+      "large": "https://images.pokemontcg.io/svp/79_hires.png"
+    },
+    "flavorText": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy."
+  },
+  {
+    "id": "svp-80",
+    "name": "Crocalor",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Fuecoco",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Steady Firebreathing",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Hyper Voice",
+        "damage": "70",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "80",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      910
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/80.png",
+      "large": "https://images.pokemontcg.io/svp/80_hires.png"
+    },
+    "flavorText": "The combination of Crocalor's fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon's head."
+  },
+  {
+    "id": "svp-81",
+    "name": "Skeledirge ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "340",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Crocalor",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Vitality Song",
+        "damage": "50",
+        "text": "Heal 30 damage from each of your Pokémon.",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Burning Voice",
+        "damage": "270-",
+        "text": "This attack does 10 less damage for each damage counter on this Pokémon.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "81",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      911
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/81.png",
+      "large": "https://images.pokemontcg.io/svp/81_hires.png"
+    }
+  },
+  {
+    "id": "svp-82",
+    "name": "Quaxly",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Reckless Charge",
+        "damage": "30",
+        "text": "This Pokémon also does 10 damage to itself.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "82",
+    "artist": "GIDORA",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      912
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/82.png",
+      "large": "https://images.pokemontcg.io/svp/82_hires.png"
+    },
+    "flavorText": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime."
+  },
+  {
+    "id": "svp-83",
+    "name": "Quaxwell",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Quaxly",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Water Gun",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Wave Splash",
+        "damage": "50",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "83",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      913
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/83.png",
+      "large": "https://images.pokemontcg.io/svp/83_hires.png"
+    },
+    "flavorText": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully."
+  },
+  {
+    "id": "svp-84",
+    "name": "Quaquaval ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Quaxwell",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Exciting Dance",
+        "damage": "60",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Spiral Shot",
+        "damage": "230",
+        "text": "Put 2 Energy attached to this Pokémon into your hand.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "84",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      914
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/84.png",
+      "large": "https://images.pokemontcg.io/svp/84_hires.png"
+    }
+  },
+  {
     "id": "svp-85",
     "name": "Pikachu with Grey Felt Hat",
     "supertype": "Pokémon",
@@ -4427,7 +4966,7 @@
       "small": "https://images.pokemontcg.io/svp/85.png",
       "large": "https://images.pokemontcg.io/svp/85_hires.png"
     }
-  },,
+  },
   {
     "id": "svp-86",
     "name": "Mabosstiff ex",
