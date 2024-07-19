@@ -1,0 +1,707 @@
+[
+  {
+    "id": "mcd23-1",
+    "name": "Sprigatito",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "70",
+    "types": ["Grass"],
+    "evolvesTo": ["Floragato"],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Leafage",
+        "cost": ["Grass", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "artist": "Saya Tsuruta",
+    "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "nationalPokedexNumbers": [906],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/1.png",
+      "large": "https://images.pokemontcg.io/mcd23/1_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-2",
+    "name": "Fuecoco",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "80",
+    "types": ["Fire"],
+    "evolvesTo": ["Crocalor"],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Combustion",
+        "cost": ["Fire", "Fire", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "number": "2",
+    "artist": "Akira Komayama",
+    "flavorText": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+    "nationalPokedexNumbers": [909],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/2.png",
+      "large": "https://images.pokemontcg.io/mcd23/2_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-3",
+    "name": "Quaxly",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "70",
+    "types": ["Water"],
+    "evolvesTo": ["Quaxwell"],
+    "attacks": [
+      {
+        "name": "Pound",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Kick",
+        "cost": ["Water", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "3",
+    "artist": "Mizue",
+    "flavorText": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+    "nationalPokedexNumbers": [912],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/3.png",
+      "large": "https://images.pokemontcg.io/mcd23/3_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-4",
+    "name": "Cetoddle",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "100",
+    "types": ["Water"],
+    "evolvesTo": ["Cetitan"],
+    "attacks": [
+      {
+        "name": "Icicle",
+        "cost": ["Water"],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Sharp Fin",
+        "cost": ["Water", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
+    "convertedRetreatCost": 3,
+    "number": "4",
+    "artist": "Kouki Saitou",
+    "flavorText": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice.",
+    "nationalPokedexNumbers": [974],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/4.png",
+      "large": "https://images.pokemontcg.io/mcd23/4_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-5",
+    "name": "Cetitan",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "180",
+    "types": ["Water"],
+    "evolvesFrom": ["Cetitan"],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "cost": ["Colorless", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Sweeping Tackle",
+        "cost": ["Water", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "200-",
+        "text": "This attack does 20 less damage for each damage counter on this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
+    "convertedRetreatCost": 3,
+    "number": "5",
+    "artist": "Anesaki Dynamic",
+    "flavorText": "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings.",
+    "nationalPokedexNumbers": [974],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/5.png",
+      "large": "https://images.pokemontcg.io/mcd23/5_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-6",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "70",
+    "types": ["Lightning"],
+    "evolvesTo": ["Raichu"],
+    "attacks": [
+      {
+        "name": "Growl",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Pika Bolt",
+        "cost": ["Lightning", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "6",
+    "artist": "OKACHEKE",
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "nationalPokedexNumbers": [25],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/6.png",
+      "large": "https://images.pokemontcg.io/mcd23/6_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-7",
+    "name": "Pawmi",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "60",
+    "types": ["Lightning"],
+    "evolvesTo": ["Pawmo"],
+    "attacks": [
+      {
+        "name": "Light Punch",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Zap Kick",
+        "cost": ["Lightning", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "7",
+    "artist": "kantaro",
+    "flavorText": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
+    "nationalPokedexNumbers": [921],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/7.png",
+      "large": "https://images.pokemontcg.io/mcd23/7_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-8",
+    "name": "Kilowattrel",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "hp": "120",
+    "types": ["Lightning"],
+    "evolvesFrom": ["Wattrel"],
+    "attacks": [
+      {
+        "name": "Skill Dive",
+        "cost": ["Colorless", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Thunder Blast",
+        "cost": ["Lightning", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "140",
+        "text": "Discard a Lightning Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "8",
+    "artist": "Kouki Saitou",
+    "flavorText": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
+    "nationalPokedexNumbers": [941],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/8.png",
+      "large": "https://images.pokemontcg.io/mcd23/8_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-9",
+    "name": "Flittle",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "30",
+    "types": ["Psychic"],
+    "evolvesTo": ["Espathra"],
+    "attacks": [
+      {
+        "name": "Ram",
+        "cost": ["Psychic"],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
+    "number": "9",
+    "artist": "Hitoshi Ariga",
+    "flavorText": "Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.",
+    "nationalPokedexNumbers": [955],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/9.png",
+      "large": "https://images.pokemontcg.io/mcd23/9_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-10",
+    "name": "Sandaconda",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "140",
+    "types": ["Fighting"],
+    "evolvesFrom": ["Silicobra"],
+    "attacks": [
+      {
+        "name": "Skull Bash",
+        "cost": ["Fighting", "Fighting", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      },
+      {
+        "name": "Sandstorm Spray",
+        "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+        "convertedEnergyCost": 4,
+        "damage": "",
+        "text": "Discard 2 Energy from this Pokémon. If you discarded any Energy in this way, your opponent shuffles their Active Pokémon and all attached cards into their deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
+    "convertedRetreatCost": 3,
+    "number": "10",
+    "artist": "Yuya Oka",
+    "flavorText": "It will expand its body as much as it can and then contract itself, blasting out sand with enough force to wash away a dump truck.",
+    "nationalPokedexNumbers": [844],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/10.png",
+      "large": "https://images.pokemontcg.io/mcd23/10_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-11",
+    "name": "Klawf",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "130",
+    "types": ["Fighting"],
+    "attacks": [
+      {
+        "name": "Vise Grip",
+        "cost": ["Fighting", "Fighting"],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Adrenaline Hammer",
+        "cost": ["Fighting", "Fighting", "Fighting"],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
+    "convertedRetreatCost": 3,
+    "number": "11",
+    "artist": "nagimiso",
+    "flavorText": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
+    "nationalPokedexNumbers": [950],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/11.png",
+      "large": "https://images.pokemontcg.io/mcd23/11_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-12",
+    "name": "Blissey",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "130",
+    "types": ["Colorless"],
+    "evolvesFrom": ["Chansey"],
+    "abilities": [
+      {
+        "name": "Busybody Nurse",
+        "text": "Once during your turn, you may use this Ability. Your Active Pokémon recovers from all Special Conditions."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Happy Cyclone",
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Move all Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "number": "12",
+    "artist": "chibi",
+    "flavorText": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+    "nationalPokedexNumbers": [242],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/12.png",
+      "large": "https://images.pokemontcg.io/mcd23/12_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-13",
+    "name": "Tandemaus",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "40",
+    "types": ["Colorless"],
+    "evolvesTo": ["Maushold"],
+    "attacks": [
+      {
+        "name": "Double Hit",
+        "cost": ["Colorless", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Flip 2 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "13",
+    "artist": "yuu",
+    "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
+    "nationalPokedexNumbers": [924],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/13.png",
+      "large": "https://images.pokemontcg.io/mcd23/13_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-14",
+    "name": "Cyclizar",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "110",
+    "types": ["Colorless"],
+    "attacks": [
+      {
+        "name": "Touring",
+        "cost": ["Colorless"],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw 2 cards."
+      },
+      {
+        "name": "Speed Attack",
+        "cost": ["Colorless", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "14",
+    "artist": "Ryota Murayama",
+    "flavorText": "It can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.",
+    "nationalPokedexNumbers": [967],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/14.png",
+      "large": "https://images.pokemontcg.io/mcd23/14_hires.png"
+    }
+  },
+  {
+    "id": "mcd23-15",
+    "name": "Kirlia",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "hp": "90",
+    "types": ["Psychic"],
+    "evolvesFrom": ["Ralts"],
+    "evolvesTo": ["Gardevoir"],
+    "attacks": [
+      {
+        "name": "Magical Shot",
+        "cost": ["Psychic", "Colorless"],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Psychic",
+        "cost": ["Psychic", "Psychic", "Colorless"],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "number": "15",
+    "artist": "kawayoo",
+    "flavorText": "It has a psychic power that enables it to distort the space around it and see into the future.",
+    "nationalPokedexNumbers": [281],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/mcd23/15.png",
+      "large": "https://images.pokemontcg.io/mcd23/15_hires.png"
+    }
+  }
+]
