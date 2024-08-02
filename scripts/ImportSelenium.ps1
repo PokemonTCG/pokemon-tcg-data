@@ -1,30 +1,47 @@
-# Install the Selenium module if you haven't already
-#Install-Module -Name Selenium -Force -Scope CurrentUser
+# PowerShell script to fetch raw contents of a webpage using Selenium
 
-# Import the Selenium module
-Import-Module Selenium
+# Variables for file paths
+$seleniumPath = "C:\Users\Gunna\Downloads\selenium-java-4.23.0"
+$javaPath = "C:\Program Files\Java\jre-1.8\bin\java.exe"
+$chromeDriverPath = "C:\Program Files\WindowsPowerShell\Modules\Selenium\3.0.1\assemblies\linux\chromedriver"
 
-# Start a new browser instance
-$driver = Start-SeChrome
+# Java classpath setup for Selenium
+$classpath = "$seleniumPath\client-combined-4.23.0.jar;$seleniumPath\client-combined-4.23.0-nodeps.jar;$seleniumPath\libs\*"
 
-## Navigate to the URL
-#$driver.Navigate().GoToUrl("https://pokemoncard.io/deck/muddy-waters-sglc-semi-gym-leader-challenge-35660")
-#
-## Give the page some time to load
-#Start-Sleep -Seconds 5
-#
-## Find the <textarea> element by XPath
-#$textarea = $driver.FindElementByXPath("/html/body/main/div/div[2]/form/textarea/text()")
-#
-## Extract and print the content
-#if ($textarea -ne $null) {
-#    $content = $textarea.Text.Trim()
-#    Write-Output "Content of the <textarea>:"
-#    Write-Output $content
-#} else {
-#    Write-Output "No <textarea> element found with the specified XPath."
-#}
-#
-## Close the browser
-#$driver.Quit()
+# Java code to perform the web scraping
+$javaCode = @"
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import java.nio.file.*;
+import java.io.*;
 
+public class WebScraper {
+    public static void main(String[] args) {
+        System.setProperty("webdriver.chrome.driver", "$chromeDriverPath");
+        WebDriver driver = new ChromeDriver();
+        driver.get("https://pokemoncard.io/deck/muddy-waters-sglc-semi-gym-leader-challenge-35660");
+        
+        // Get the page source (raw HTML content)
+        String pageSource = driver.getPageSource();
+        
+        // Save the page source to a file
+        try {
+            Files.write(Paths.get("pageSource.html"), pageSource.getBytes());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        
+        driver.quit();
+    }
+}
+"@
+
+# Save the Java code to a file
+$javaFilePath = "C:\Users\Gunna\Downloads\WebScraper.java"
+Set-Content -Path $javaFilePath -Value $javaCode
+
+# Compile the Java code
+& $javaPath\javac.exe -cp $classpath $javaFilePath
+
+# Run the compiled Java program
+& $javaPath\java.exe -cp "$classpath;C:\Users\Gunna\Downloads" WebScraper
