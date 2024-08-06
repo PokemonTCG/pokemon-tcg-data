@@ -1,4 +1,4 @@
-import requests
+#import requests
 
 # Define the API endpoint and authorization token
 url = "https://pokemoncard.io/deck/rapid-striker-sglc-semi-gym-leader-challenge-36438"
