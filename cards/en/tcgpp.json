@@ -1,0 +1,781 @@
+[
+  {
+    "id": "tcgpp-1",
+    "name": "Potion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 20 damage from 1 of your Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "1",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/1.png",
+      "large": "https://images.pokemontcg.io/tcgpp/1_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-2",
+    "name": "X Speed",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "2",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/2.png",
+      "large": "https://images.pokemontcg.io/tcgpp/2_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-3",
+    "name": "Hand Scope",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Your opponent reveals their hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "3",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/3.png",
+      "large": "https://images.pokemontcg.io/tcgpp/3_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-4",
+    "name": "Pokédex",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the top 3 cards of your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "4",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/4.png",
+      "large": "https://images.pokemontcg.io/tcgpp/4_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-5",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 1 random Basic Pokémon from your deck into your hand.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "5",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/5.png",
+      "large": "https://images.pokemontcg.io/tcgpp/5_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-6",
+    "name": "Red Card",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Your opponent shuffles their hand into their deck and draws 3 cards.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "6",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/6.png",
+      "large": "https://images.pokemontcg.io/tcgpp/6_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-7",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "number": "7",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/7.png",
+      "large": "https://images.pokemontcg.io/tcgpp/7_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-9",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "9",
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/9.png",
+      "large": "https://images.pokemontcg.io/tcgpp/9_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-10",
+    "name": "Mewtwo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Power Blast",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120",
+        "text": "Discard 2 Psychic Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 2,
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "10",
+    "flavorText": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/10.png",
+      "large": "https://images.pokemontcg.io/tcgpp/10_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-11",
+    "name": "Chansey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 3,
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "11",
+    "flavorText": "This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/11.png",
+      "large": "https://images.pokemontcg.io/tcgpp/11_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-12",
+    "name": "Meowth",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "12",
+    "flavorText": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/12.png",
+      "large": "https://images.pokemontcg.io/tcgpp/12_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-13",
+    "name": "Butterfree",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Metapod",
+    "abilities": [
+      {
+        "name": "Powder Heal",
+        "text": "Once during your turn, you may heal 20 damage from each of your Pokémon.",
+        "type": "Grass"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Gust",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "13",
+    "flavorText": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/13.png",
+      "large": "https://images.pokemontcg.io/tcgpp/13_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-14",
+    "name": "Lapras ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "140",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ],
+    "attacks": [
+      {
+        "name": "Bubble Drain",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 3,
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "14",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/14.png",
+      "large": "https://images.pokemontcg.io/tcgpp/14_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-15",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "15",
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/15.png",
+      "large": "https://images.pokemontcg.io/tcgpp/15_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-16",
+    "name": "Clefairy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Slap",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "16",
+    "flavorText": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/16.png",
+      "large": "https://images.pokemontcg.io/tcgpp/16_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-17",
+    "name": "Mankey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Reckless Charge",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "17",
+    "flavorText": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/17.png",
+      "large": "https://images.pokemontcg.io/tcgpp/17_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-18",
+    "name": "Venusaur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Ivysaur",
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 3,
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "18",
+    "flavorText": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/18.png",
+      "large": "https://images.pokemontcg.io/tcgpp/18_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-19",
+    "name": "Greninja",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Frogadier",
+    "abilities": [
+      {
+        "name": "Water Shuriken",
+        "text": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.",
+        "type": "Water"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mist Slash",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "19",
+    "flavorText": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/19.png",
+      "large": "https://images.pokemontcg.io/tcgpp/19_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-20",
+    "name": "Haunter",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Gastly",
+    "attacks": [
+      {
+        "name": "Surprise Attack",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "20",
+    "flavorText": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/20.png",
+      "large": "https://images.pokemontcg.io/tcgpp/20_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-21",
+    "name": "Onix",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 4,
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "number": "21",
+    "flavorText": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/21.png",
+      "large": "https://images.pokemontcg.io/tcgpp/21_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-22",
+    "name": "Jigglypuff",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Sing",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "22",
+    "flavorText": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/22.png",
+      "large": "https://images.pokemontcg.io/tcgpp/22_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-23",
+    "name": "Bulbasaur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Vine Whip",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "23",
+    "flavorText": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/23.png",
+      "large": "https://images.pokemontcg.io/tcgpp/23_hires.png"
+    }
+  },
+  {
+    "id": "tcgpp-24",
+    "name": "Magnemite",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Lightning Ball",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "convertedRetreatCost": 1,
+    "retreatCost": [
+      "Colorless"
+    ],
+    "number": "24",
+    "flavorText": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "images": {
+      "small": "https://images.pokemontcg.io/tcgpp/24.png",
+      "large": "https://images.pokemontcg.io/tcgpp/24_hires.png"
+    }
+  }
+]
