@@ -1,0 +1,490 @@
+[
+  {
+    "id": "tk3a-1",
+    "name": "Buizel",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "10",
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Floatzel"
+    ],
+    "attacks": [
+      {
+        "name": "Splash About",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+10"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "artist": "Ken Sugimori",
+    "flavorText": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+    "nationalPokedexNumbers": [
+      418
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/1.png",
+      "large": "https://images.pokemontcg.io/tk3a/1_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-2",
+    "name": "Floatzel",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "29",
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Buizel",
+    "attacks": [
+      {
+        "name": "Screw Tail",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40+",
+        "text": "Does 40 damage plus 20 more damage for each Water Energy attached to Floatzel but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "2",
+    "artist": "Masahiko Ishii",
+    "flavorText": "It floats using its well-developed floatation sac. It assists in the rescues of drowning people.",
+    "nationalPokedexNumbers": [
+      419
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/2.png",
+      "large": "https://images.pokemontcg.io/tk3a/2_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-3",
+    "name": "Goldeen",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "14",
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Seaking"
+    ],
+    "attacks": [
+      {
+        "name": "Horn Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Take Down",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Goldeen does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+10"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "3",
+    "artist": "Atsuko Nishida",
+    "flavorText": "It swims elegantly by flittering its tail as if it were a dress. It has the look of a queen.",
+    "nationalPokedexNumbers": [
+      118
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/3.png",
+      "large": "https://images.pokemontcg.io/tk3a/3_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-4",
+    "name": "Manaphy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "20",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+      },
+      {
+        "name": "Aqua Ring",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Switch Manaphy with 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "4",
+    "artist": "Daisuke Ito",
+    "flavorText": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+    "nationalPokedexNumbers": [
+      490
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/4.png",
+      "large": "https://images.pokemontcg.io/tk3a/4_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-5",
+    "name": "Prinplup",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "20",
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Piplup",
+    "evolvesTo": [
+      "Empoleon"
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Shower",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Brine",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "Ken Sugimori",
+    "flavorText": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+    "nationalPokedexNumbers": [
+      394
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/5.png",
+      "large": "https://images.pokemontcg.io/tk3a/5_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-6",
+    "name": "Seaking",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "41",
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Goldeen",
+    "attacks": [
+      {
+        "name": "Flail",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10×",
+        "text": "Does 10 damage times the number of damage counters on Seaking."
+      },
+      {
+        "name": "Horn Drill",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "6",
+    "artist": "Atsuko Nishida",
+    "flavorText": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+    "nationalPokedexNumbers": [
+      119
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/6.png",
+      "large": "https://images.pokemontcg.io/tk3a/6_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-7",
+    "name": "Totodile",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "15",
+    "hp": "50",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Croconaw"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+
+        ],
+        "convertedEnergyCost": 0,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Shining Fang",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "If the Defending Pokémon already has any damage counters on it, this attack does 10 damage plus 10 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+10"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "7",
+    "artist": "Kouki Saitou",
+    "flavorText": "It has the habit of biting anything with its developed jaws. Even its Trainer need to be careful.",
+    "nationalPokedexNumbers": [
+      158
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/7.png",
+      "large": "https://images.pokemontcg.io/tk3a/7_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-9",
+    "name": "Dusk Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Look at the 7 cards from the bottom of your deck. Choose 1 Pokémon you find there, show it to your opponent, and put it into your hand. Put the remaining cards back on top of your deck. Shuffle your deck afterward."
+    ],
+    "number": "9",
+    "artist": "Ryo Ueda",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/9.png",
+      "large": "https://images.pokemontcg.io/tk3a/9_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-10",
+    "name": "Energy Search",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    ],
+    "number": "10",
+    "artist": "Kai Ishikawa",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/10.png",
+      "large": "https://images.pokemontcg.io/tk3a/10_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-11",
+    "name": "Potion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1)."
+    ],
+    "number": "11",
+    "artist": "Shin-ichi Yoshikawa",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/11.png",
+      "large": "https://images.pokemontcg.io/tk3a/11_hires.png"
+    }
+  },
+  {
+    "id": "tk3a-12",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "12",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk3a/12.png",
+      "large": "https://images.pokemontcg.io/tk3a/12_hires.png"
+    }
+  }
+]
+
