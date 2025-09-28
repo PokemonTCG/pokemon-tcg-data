@@ -12,9 +12,6 @@
     "types": [
       "Grass"
     ],
-    "evolvesTo": [
-      "Dartrix"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -152,6 +149,9 @@
       "Grass"
     ],
     "evolvesFrom": "Yanma",
+    "evolvesTo": [
+      "Yanmega BREAK"
+    ],
     "attacks": [
       {
         "name": "Tackle",
@@ -829,7 +829,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Lurantis"
+      "Lurantis",
+      "Lurantis-GX"
     ],
     "attacks": [
       {
@@ -1009,7 +1010,9 @@
     ],
     "evolvesFrom": "Bounsweet",
     "evolvesTo": [
-      "Tsareena"
+      "Tsareena",
+      "Tsareena-GX",
+      "Tsareena ex"
     ],
     "attacks": [
       {
@@ -1242,6 +1245,9 @@
       "Fire"
     ],
     "evolvesFrom": "Magmar",
+    "evolvesTo": [
+      "Magmortar LV.X"
+    ],
     "attacks": [
       {
         "name": "Smoke Bomb",
@@ -1305,7 +1311,8 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Camerupt"
+      "Camerupt",
+      "Camerupt ex"
     ],
     "attacks": [
       {
@@ -1820,6 +1827,9 @@
       "Fire"
     ],
     "evolvesFrom": "Fletchinder",
+    "evolvesTo": [
+      "Talonflame BREAK"
+    ],
     "attacks": [
       {
         "name": "Heat Wave",
@@ -1875,7 +1885,8 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Salazzle"
+      "Salazzle",
+      "Salazzle-GX"
     ],
     "attacks": [
       {
@@ -1976,10 +1987,6 @@
     "hp": "250",
     "types": [
       "Water"
-    ],
-    "evolvesTo": [
-      "Slowbro",
-      "Slowking"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -2103,7 +2110,8 @@
     ],
     "evolvesTo": [
       "Glalie",
-      "Froslass"
+      "Froslass",
+      "Froslass ex"
     ],
     "attacks": [
       {
@@ -2487,7 +2495,8 @@
     ],
     "evolvesFrom": "Unidentified Fossil",
     "evolvesTo": [
-      "Carracosta"
+      "Carracosta",
+      "Carracosta-GX"
     ],
     "attacks": [
       {
@@ -2852,7 +2861,9 @@
       "Water"
     ],
     "evolvesTo": [
-      "Golisopod"
+      "Golisopod",
+      "Golisopod-GX",
+      "Golisopod ex"
     ],
     "attacks": [
       {
@@ -3154,7 +3165,11 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Raichu"
+      "Raichu",
+      "Dark Raichu",
+      "Raichu ex",
+      "Alolan Raichu",
+      "Raichu-GX"
     ],
     "attacks": [
       {
@@ -3221,7 +3236,11 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Raichu"
+      "Raichu",
+      "Dark Raichu",
+      "Raichu ex",
+      "Alolan Raichu",
+      "Raichu-GX"
     ],
     "attacks": [
       {
@@ -3355,7 +3374,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Magneton"
+      "Magneton",
+      "Dark Magneton"
     ],
     "attacks": [
       {
@@ -3413,7 +3433,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "attacks": [
       {
@@ -3482,6 +3503,9 @@
       "Lightning"
     ],
     "evolvesFrom": "Magneton",
+    "evolvesTo": [
+      "Magnezone LV.X"
+    ],
     "abilities": [
       {
         "name": "Double Type",
@@ -3548,7 +3572,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Galvantula"
+      "Galvantula",
+      "Galvantula ex"
     ],
     "attacks": [
       {
@@ -4281,7 +4306,11 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Exeggutor"
+      "Exeggutor",
+      "Dark Exeggutor",
+      "Alolan Exeggutor-GX",
+      "Alolan Exeggutor",
+      "Alolan Exeggutor ex"
     ],
     "attacks": [
       {
@@ -4514,9 +4543,6 @@
     "hp": "60",
     "types": [
       "Psychic"
-    ],
-    "evolvesTo": [
-      "Wobbuffet"
     ],
     "abilities": [
       {
@@ -4940,6 +4966,9 @@
     "types": [
       "Psychic"
     ],
+    "evolvesTo": [
+      "Uxie LV.X"
+    ],
     "abilities": [
       {
         "name": "Secret Territory",
@@ -4996,6 +5025,9 @@
     "hp": "60",
     "types": [
       "Psychic"
+    ],
+    "evolvesTo": [
+      "Mesprit LV.X"
     ],
     "attacks": [
       {
@@ -5054,6 +5086,9 @@
     "types": [
       "Psychic"
     ],
+    "evolvesTo": [
+      "Azelf LV.X"
+    ],
     "attacks": [
       {
         "name": "Psypower",
@@ -5101,6 +5136,9 @@
     "hp": "130",
     "types": [
       "Psychic"
+    ],
+    "evolvesTo": [
+      "Giratina LV.X"
     ],
     "abilities": [
       {
@@ -5164,6 +5202,9 @@
     "hp": "130",
     "types": [
       "Psychic"
+    ],
+    "evolvesTo": [
+      "Cresselia LV.X"
     ],
     "attacks": [
       {
@@ -5390,6 +5431,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Elgyem",
+    "evolvesTo": [
+      "Beheeyem BREAK"
+    ],
     "attacks": [
       {
         "name": "Psypunch",
@@ -5576,7 +5620,8 @@
     ],
     "evolvesFrom": "Honedge",
     "evolvesTo": [
-      "Aegislash"
+      "Aegislash",
+      "Aegislash ex"
     ],
     "attacks": [
       {
@@ -5699,7 +5744,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Toxapex"
+      "Toxapex",
+      "Toxapex-GX"
     ],
     "attacks": [
       {
@@ -5802,7 +5848,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Salazzle"
+      "Salazzle",
+      "Salazzle-GX"
     ],
     "attacks": [
       {
@@ -6032,7 +6079,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Naganadel"
+      "Naganadel",
+      "Naganadel-GX"
     ],
     "attacks": [
       {
@@ -6094,7 +6142,9 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Steelix"
+      "Steelix",
+      "Dark Steelix",
+      "Steelix ex"
     ],
     "attacks": [
       {
@@ -6213,7 +6263,10 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Marowak"
+      "Marowak",
+      "Dark Marowak",
+      "Alolan Marowak-GX",
+      "Alolan Marowak"
     ],
     "attacks": [
       {
@@ -6458,7 +6511,8 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Medicham"
+      "Medicham",
+      "Medicham ex"
     ],
     "attacks": [
       {
@@ -6688,7 +6742,8 @@
     ],
     "evolvesFrom": "Gible",
     "evolvesTo": [
-      "Garchomp"
+      "Garchomp",
+      "Garchomp ex"
     ],
     "attacks": [
       {
@@ -6749,6 +6804,9 @@
       "Fighting"
     ],
     "evolvesFrom": "Gabite",
+    "evolvesTo": [
+      "Garchomp LV.X"
+    ],
     "abilities": [
       {
         "name": "Avenging Aura",
@@ -6802,7 +6860,9 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Lucario"
+      "Lucario",
+      "Lucario-GX",
+      "Lucario ex"
     ],
     "attacks": [
       {
@@ -6853,7 +6913,9 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Lucario"
+      "Lucario",
+      "Lucario-GX",
+      "Lucario ex"
     ],
     "attacks": [
       {
@@ -6904,6 +6966,9 @@
       "Fighting"
     ],
     "evolvesFrom": "Riolu",
+    "evolvesTo": [
+      "Lucario LV.X"
+    ],
     "abilities": [
       {
         "name": "Tag Coach",
@@ -7526,7 +7591,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Muk"
+      "Alolan Muk",
+      "Alolan Muk-GX"
     ],
     "attacks": [
       {
@@ -7595,7 +7661,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Honchkrow"
+      "Honchkrow",
+      "Honchkrow-GX"
     ],
     "attacks": [
       {
@@ -7652,7 +7719,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Honchkrow"
+      "Honchkrow",
+      "Honchkrow-GX"
     ],
     "attacks": [
       {
@@ -7709,6 +7777,9 @@
       "Darkness"
     ],
     "evolvesFrom": "Murkrow",
+    "evolvesTo": [
+      "Honchkrow LV.X"
+    ],
     "attacks": [
       {
         "name": "Sharpshooting",
@@ -7773,7 +7844,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Weavile"
+      "Weavile",
+      "Weavile-GX"
     ],
     "attacks": [
       {
@@ -7949,6 +8021,9 @@
       "Darkness"
     ],
     "evolvesFrom": "Skorupi",
+    "evolvesTo": [
+      "Drapion LV.X"
+    ],
     "attacks": [
       {
         "name": "Cross Poison",
@@ -8280,6 +8355,9 @@
     "types": [
       "Darkness"
     ],
+    "evolvesTo": [
+      "Yveltal BREAK"
+    ],
     "attacks": [
       {
         "name": "Blow Through",
@@ -8556,7 +8634,8 @@
       "Fairy"
     ],
     "evolvesTo": [
-      "Whimsicott"
+      "Whimsicott",
+      "Whimsicott-GX"
     ],
     "attacks": [
       {
@@ -8802,7 +8881,9 @@
       "Dragon"
     ],
     "evolvesTo": [
-      "Dragonair"
+      "Dragonair",
+      "Dark Dragonair",
+      "Light Dragonair"
     ],
     "attacks": [
       {
@@ -8854,7 +8935,9 @@
       "Dragon"
     ],
     "evolvesTo": [
-      "Dragonair"
+      "Dragonair",
+      "Dark Dragonair",
+      "Light Dragonair"
     ],
     "abilities": [
       {
@@ -8915,7 +8998,9 @@
     ],
     "evolvesFrom": "Dratini",
     "evolvesTo": [
-      "Dragonite"
+      "Dragonite",
+      "Dragonite ex",
+      "Dragonite-GX"
     ],
     "attacks": [
       {
@@ -8969,7 +9054,9 @@
     ],
     "evolvesFrom": "Dratini",
     "evolvesTo": [
-      "Dragonite"
+      "Dragonite",
+      "Dragonite ex",
+      "Dragonite-GX"
     ],
     "attacks": [
       {
@@ -9473,7 +9560,9 @@
       "Dragon"
     ],
     "evolvesTo": [
-      "Noivern"
+      "Noivern",
+      "Noivern-GX",
+      "Noivern ex"
     ],
     "attacks": [
       {
@@ -9525,6 +9614,9 @@
       "Dragon"
     ],
     "evolvesFrom": "Noibat",
+    "evolvesTo": [
+      "Noivern BREAK"
+    ],
     "attacks": [
       {
         "name": "Boomburst",
@@ -9958,6 +10050,9 @@
       "Colorless"
     ],
     "evolvesFrom": "Hoothoot",
+    "evolvesTo": [
+      "Noctowl BREAK"
+    ],
     "attacks": [
       {
         "name": "Blindside",
@@ -10152,7 +10247,8 @@
     ],
     "evolvesFrom": "Slakoth",
     "evolvesTo": [
-      "Slaking"
+      "Slaking",
+      "Slaking ex"
     ],
     "attacks": [
       {
@@ -10396,9 +10492,6 @@
     "hp": "60",
     "types": [
       "Colorless"
-    ],
-    "evolvesTo": [
-      "Snorlax"
     ],
     "abilities": [
       {
@@ -10814,7 +10907,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Gumshoos"
+      "Gumshoos",
+      "Gumshoos-GX"
     ],
     "attacks": [
       {
@@ -10975,6 +11069,10 @@
     "hp": "100",
     "types": [
       "Colorless"
+    ],
+    "evolvesTo": [
+      "Silvally",
+      "Silvally-GX"
     ],
     "attacks": [
       {
@@ -11780,6 +11878,20 @@
       "Item"
     ],
     "hp": "60",
+    "evolvesTo": [
+      "Cranidos",
+      "Shieldon",
+      "Amaura",
+      "Tyrunt",
+      "Omanyte",
+      "Kabuto",
+      "Aerodactyl",
+      "Tirtouga",
+      "Aerodactyl-GX",
+      "Archen",
+      "Lileep",
+      "Anorith"
+    ],
     "rules": [
       "Play this card as if it were a 60-HP Colorless Basic Pokémon. At any time during your turn (before your attack), you may discard this card from play.",
       "This card can't retreat.",
@@ -11880,9 +11992,6 @@
     "types": [
       "Grass"
     ],
-    "evolvesTo": [
-      "Dartrix"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -11959,9 +12068,6 @@
     "hp": "270",
     "types": [
       "Grass"
-    ],
-    "evolvesTo": [
-      "Dartrix"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -12111,10 +12217,6 @@
     "types": [
       "Water"
     ],
-    "evolvesTo": [
-      "Slowbro",
-      "Slowking"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -12179,10 +12281,6 @@
     "hp": "250",
     "types": [
       "Water"
-    ],
-    "evolvesTo": [
-      "Slowbro",
-      "Slowking"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
@@ -13256,9 +13354,6 @@
     "types": [
       "Grass"
     ],
-    "evolvesTo": [
-      "Dartrix"
-    ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -13406,10 +13501,6 @@
     "hp": "250",
     "types": [
       "Water"
-    ],
-    "evolvesTo": [
-      "Slowbro",
-      "Slowking"
     ],
     "rules": [
       "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
