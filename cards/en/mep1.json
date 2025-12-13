@@ -1,0 +1,172 @@
+[
+  {
+    "id": "mep-001",
+    "name": "Meganium",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "hp": "160",
+    "types": ["Grass"],
+    "evolvesFrom": "Bayleef",
+    "abilities": [
+      {
+        "name": "Wild Growth",
+        "text": "Each Basic Grass Energy attached to all of your Pokémon provides GrassGrass Energy. The effect of Wild Growth doesn’t stack.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Solar Beam",
+        "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "mep",
+      "name": "Mega Evolution Promo",
+      "series": "Mega Evolution"
+    },
+    "number": "001",
+    "rarity": "Promo",
+    "artist": "Uninori",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    }
+  },
+  {
+    "id": "mep-010",
+    "name": "Riolu",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "80",
+    "types": ["Fighting"],
+    "attacks": [
+      {
+        "name": "Accelerating Stab",
+        "cost": ["Fighting"],
+        "damage": "30",
+        "text": "During your next turn, this Pokémon can’t use Accelerating Stab."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "mep",
+      "name": "Mega Evolution Promo",
+      "series": "Mega Evolution"
+    },
+    "number": "010",
+    "rarity": "Promo",
+    "artist": "GOSSAN",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    }
+  },
+  {
+    "id": "mep-017",
+    "name": "Toxtricity",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "hp": "140",
+    "types": ["Darkness"],
+    "evolvesFrom": "Toxel",
+    "abilities": [
+      {
+        "name": "Sinister Surge",
+        "text": "Once during your turn, you may search your deck for a Basic Darkness Energy card and attach it to one of your Benched Darkness Pokémon. Then, shuffle your deck. If you attached Energy in this way, put 2 damage counters on that Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "cost": ["Darkness", "Darkness", "Colorless"],
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless", "Colorless"],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "mep",
+      "name": "Mega Evolution Promo",
+      "series": "Mega Evolution"
+    },
+    "number": "017",
+    "rarity": "Promo",
+    "artist": "Krgc",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    }
+  },
+  {
+    "id": "mep-020",
+    "name": "Sneasel",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "hp": "70",
+    "types": ["Darkness"],
+    "attacks": [
+      {
+        "name": "Dig Claws",
+        "cost": ["Darkness"],
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Scratch",
+        "cost": ["Darkness", "Darkness"],
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": ["Colorless"],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "mep",
+      "name": "Mega Evolution Promo",
+      "series": "Mega Evolution"
+    },
+    "number": "020",
+    "rarity": "Promo",
+    "artist": "Souichirou Gunjima",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    }
+  }
+]
