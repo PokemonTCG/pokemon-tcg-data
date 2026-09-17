@@ -1,0 +1,988 @@
+[
+  {
+    "id": "tk4a-1",
+    "name": "Totodile",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Croconaw"
+    ],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Wave Splash",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "artist": "kawayoo",
+    "flavorText": "Its powerful, well-developed jaws are capable of crushing anything. Even its trainer must be careful.",
+    "nationalPokedexNumbers": [
+      158
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/1.png",
+      "large": "https://images.pokemontcg.io/tk4a/1_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-2",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "2",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/2.png",
+      "large": "https://images.pokemontcg.io/tk4a/2_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-3",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "3",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/3.png",
+      "large": "https://images.pokemontcg.io/tk4a/3_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-4",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "4",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/4.png",
+      "large": "https://images.pokemontcg.io/tk4a/4_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-5",
+    "name": "Bill",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Draw 2 cards."
+    ],
+    "number": "5",
+    "artist": "Ken Sugimori",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/5.png",
+      "large": "https://images.pokemontcg.io/tk4a/5_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-6",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "6",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/6.png",
+      "large": "https://images.pokemontcg.io/tk4a/6_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-7",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "7",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/7.png",
+      "large": "https://images.pokemontcg.io/tk4a/7_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-8",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "8",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/8.png",
+      "large": "https://images.pokemontcg.io/tk4a/8_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-9",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "9",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/9.png",
+      "large": "https://images.pokemontcg.io/tk4a/9_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-10",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "10",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/10.png",
+      "large": "https://images.pokemontcg.io/tk4a/10_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-11",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "11",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/11.png",
+      "large": "https://images.pokemontcg.io/tk4a/11_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-12",
+    "name": "Magikarp",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "30",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Gyarados"
+    ],
+    "attacks": [
+      {
+        "name": "Splash",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "artist": "Mitsuhiro Arita",
+    "flavorText": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
+    "nationalPokedexNumbers": [
+      129
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/12.png",
+      "large": "https://images.pokemontcg.io/tk4a/12_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-13",
+    "name": "Croconaw",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Totodile",
+    "evolvesTo": [
+      "Feraligatr"
+    ],
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Big Bite",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "13",
+    "artist": "kawayoo",
+    "flavorText": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+    "nationalPokedexNumbers": [
+      159
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/13.png",
+      "large": "https://images.pokemontcg.io/tk4a/13_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-14",
+    "name": "Totodile",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Croconaw"
+    ],
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Wave Splash",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "14",
+    "artist": "kawayoo",
+    "flavorText": "Its powerful, well-developed jaws are capable of crushing anything. Even its trainer must be careful.",
+    "nationalPokedexNumbers": [
+      158
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/14.png",
+      "large": "https://images.pokemontcg.io/tk4a/14_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-15",
+    "name": "Marill",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Azumarill"
+    ],
+    "attacks": [
+      {
+        "name": "Water Splash",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      {
+        "name": "Tail Slap",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "15",
+    "artist": "Kouki Saitou",
+    "flavorText": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
+    "nationalPokedexNumbers": [
+      183
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/15.png",
+      "large": "https://images.pokemontcg.io/tk4a/15_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-16",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "16",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/16.png",
+      "large": "https://images.pokemontcg.io/tk4a/16_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-17",
+    "name": "Croconaw",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Totodile",
+    "evolvesTo": [
+      "Feraligatr"
+    ],
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Big Bite",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "17",
+    "artist": "kawayoo",
+    "flavorText": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+    "nationalPokedexNumbers": [
+      159
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/17.png",
+      "large": "https://images.pokemontcg.io/tk4a/17_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-18",
+    "name": "Bill",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Draw 2 cards."
+    ],
+    "number": "18",
+    "artist": "Ken Sugimori",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/18.png",
+      "large": "https://images.pokemontcg.io/tk4a/18_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-19",
+    "name": "Magikarp",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "30",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Gyarados"
+    ],
+    "attacks": [
+      {
+        "name": "Splash",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "19",
+    "artist": "Mitsuhiro Arita",
+    "flavorText": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
+    "nationalPokedexNumbers": [
+      129
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/19.png",
+      "large": "https://images.pokemontcg.io/tk4a/19_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-20",
+    "name": "Gyarados",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Magikarp",
+    "attacks": [
+      {
+        "name": "Hydro Splash",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Hyper Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Discard an Energy card attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "20",
+    "artist": "Mitsuhiro Arita",
+    "flavorText": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/20.png",
+      "large": "https://images.pokemontcg.io/tk4a/20_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-21",
+    "name": "Energy Switch",
+    "supertype": "Trainer",
+    "rules": [
+      "Move a basic Energy card attached 1 of your Pokémon to another of your Pokémon."
+    ],
+    "number": "21",
+    "artist": "Wataru Kawahara",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/21.png",
+      "large": "https://images.pokemontcg.io/tk4a/21_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-22",
+    "name": "Pokémon Communication",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1 Pokémon in your hand, show it to your opponent, and put it on top of your deck. If you do, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    ],
+    "number": "22",
+    "artist": "Takashi Yamaguchi",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/22.png",
+      "large": "https://images.pokemontcg.io/tk4a/22_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-23",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    ],
+    "number": "23",
+    "artist": "Hideaki Hakozaki",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/23.png",
+      "large": "https://images.pokemontcg.io/tk4a/23_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-24",
+    "name": "Marill",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Azumarill"
+    ],
+    "attacks": [
+      {
+        "name": "Water Splash",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+      },
+      {
+        "name": "Tail Slap",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "24",
+    "artist": "Kouki Saitou",
+    "flavorText": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
+    "nationalPokedexNumbers": [
+      183
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/24.png",
+      "large": "https://images.pokemontcg.io/tk4a/24_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-25",
+    "name": "Professor Elm's Training Method",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    ],
+    "number": "25",
+    "artist": "Ken Sugimori",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/25.png",
+      "large": "https://images.pokemontcg.io/tk4a/25_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-26",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "26",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/26.png",
+      "large": "https://images.pokemontcg.io/tk4a/26_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-27",
+    "name": "Pokémon Communication",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1 Pokémon in your hand, show it to your opponent, and put it on top of your deck. If you do, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    ],
+    "number": "27",
+    "artist": "Takashi Yamaguchi",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/27.png",
+      "large": "https://images.pokemontcg.io/tk4a/27_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-28",
+    "name": "Switch",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch 1 of your Active Pokémon with 1 of your Benched Pokémon."
+    ],
+    "number": "28",
+    "artist": "Hideaki Hakozaki",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/28.png",
+      "large": "https://images.pokemontcg.io/tk4a/28_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-29",
+    "name": "Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "29",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/29.png",
+      "large": "https://images.pokemontcg.io/tk4a/29_hires.png"
+    }
+  },
+  {
+    "id": "tk4a-30",
+    "name": "Gyarados",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Magikarp",
+    "attacks": [
+      {
+        "name": "Hydro Splash",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Hyper Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Discard an Energy card attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "30",
+    "artist": "Mitsuhiro Arita",
+    "flavorText": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/tk4a/30.png",
+      "large": "https://images.pokemontcg.io/tk4a/30_hires.png"
+    }
+  }
+]
