@@ -123,6 +123,9 @@
       "Fire"
     ],
     "evolvesFrom": "Growlithe",
+    "evolvesTo": [
+      "Arcanine BREAK"
+    ],
     "abilities": [
       {
         "name": "Energy Recharge",
@@ -312,6 +315,9 @@
       "Grass"
     ],
     "evolvesFrom": "Golbat",
+    "evolvesTo": [
+      "Crobat BREAK"
+    ],
     "abilities": [
       {
         "name": "Carry Off",
@@ -556,6 +562,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Haunter",
+    "evolvesTo": [
+      "Gengar LV.X"
+    ],
     "abilities": [
       {
         "name": "Manipulate",
@@ -915,6 +924,10 @@
       "Fighting"
     ],
     "evolvesFrom": "Machoke",
+    "evolvesTo": [
+      "Machamp LV.X",
+      "Machamp BREAK"
+    ],
     "abilities": [
       {
         "name": "Immunity",
@@ -1104,7 +1117,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "abilities": [
       {
@@ -1163,7 +1177,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "attacks": [
       {
@@ -1361,6 +1376,9 @@
       "Water"
     ],
     "evolvesFrom": "Omanyte",
+    "evolvesTo": [
+      "Omastar BREAK"
+    ],
     "abilities": [
       {
         "name": "Primal Stare",
@@ -1613,6 +1631,10 @@
       "Lightning"
     ],
     "evolvesFrom": "Pikachu",
+    "evolvesTo": [
+      "Raichu LV.X",
+      "Raichu BREAK"
+    ],
     "attacks": [
       {
         "name": "Zzzap",
@@ -1799,6 +1821,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Staryu",
+    "evolvesTo": [
+      "Starmie BREAK"
+    ],
     "attacks": [
       {
         "name": "Energy Burst",
@@ -2233,7 +2258,8 @@
     ],
     "evolvesFrom": "Mysterious Fossil",
     "evolvesTo": [
-      "Kabutops"
+      "Kabutops",
+      "Kabutops ex"
     ],
     "abilities": [
       {
@@ -2291,7 +2317,8 @@
     ],
     "evolvesFrom": "Machop",
     "evolvesTo": [
-      "Machamp"
+      "Machamp",
+      "Machamp-GX"
     ],
     "attacks": [
       {
@@ -2416,6 +2443,9 @@
       "Colorless"
     ],
     "evolvesFrom": "Hoothoot",
+    "evolvesTo": [
+      "Noctowl BREAK"
+    ],
     "abilities": [
       {
         "name": "Investigate",
@@ -2659,6 +2689,9 @@
       "Water"
     ],
     "evolvesFrom": "Staryu",
+    "evolvesTo": [
+      "Starmie BREAK"
+    ],
     "attacks": [
       {
         "name": "Water Gun",
@@ -2716,6 +2749,9 @@
     "types": [
       "Psychic"
     ],
+    "evolvesTo": [
+      "Wobbuffet BREAK"
+    ],
     "abilities": [
       {
         "name": "Mirror Coat",
@@ -2772,7 +2808,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Kadabra"
+      "Kadabra",
+      "Dark Kadabra"
     ],
     "abilities": [
       {
@@ -2827,6 +2864,13 @@
     "hp": "30",
     "types": [
       "Colorless"
+    ],
+    "evolvesTo": [
+      "Aerodactyl",
+      "Kabuto",
+      "Omanyte",
+      "Dark Omanyte",
+      "Aerodactyl ex"
     ],
     "rules": [
       "Evolves into Omanyte, Kabuto, Aerodactyl",
@@ -2968,7 +3012,8 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Dugtrio"
+      "Dugtrio",
+      "Dark Dugtrio"
     ],
     "attacks": [
       {
@@ -3140,6 +3185,9 @@
     "types": [
       "Colorless"
     ],
+    "evolvesTo": [
+      "Dudunsparce"
+    ],
     "abilities": [
       {
         "name": "Slippery Skin",
@@ -3201,7 +3249,28 @@
       "Espeon",
       "Umbreon",
       "Leafeon",
-      "Glaceon"
+      "Glaceon",
+      "Dark Flareon",
+      "Dark Jolteon",
+      "Dark Vaporeon",
+      "Dark Espeon",
+      "Light Flareon",
+      "Light Jolteon",
+      "Light Vaporeon",
+      "Espeon ex",
+      "Umbreon ex",
+      "Flareon ex",
+      "Jolteon ex",
+      "Vaporeon ex",
+      "Espeon-GX",
+      "Umbreon-GX",
+      "Leafeon-GX",
+      "Glaceon-GX",
+      "Flareon-GX",
+      "Vaporeon-GX",
+      "Jolteon-GX",
+      "Sylveon-GX",
+      "Sylveon ex"
     ],
     "attacks": [
       {
@@ -3258,9 +3327,6 @@
     "hp": "50",
     "types": [
       "Colorless"
-    ],
-    "evolvesTo": [
-      "Sirfetch'd"
     ],
     "attacks": [
       {
@@ -3391,7 +3457,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Haunter"
+      "Haunter",
+      "Dark Haunter"
     ],
     "attacks": [
       {
@@ -3444,6 +3511,10 @@
     "hp": "60",
     "types": [
       "Psychic"
+    ],
+    "evolvesTo": [
+      "Farigiraf",
+      "Farigiraf ex"
     ],
     "attacks": [
       {
@@ -3562,7 +3633,8 @@
     ],
     "evolvesFrom": "Zubat",
     "evolvesTo": [
-      "Crobat"
+      "Crobat",
+      "Crobat ex"
     ],
     "attacks": [
       {
@@ -3683,7 +3755,9 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Arcanine"
+      "Arcanine",
+      "Light Arcanine",
+      "Arcanine ex"
     ],
     "attacks": [
       {
@@ -3743,7 +3817,8 @@
     ],
     "evolvesFrom": "Gastly",
     "evolvesTo": [
-      "Gengar"
+      "Gengar",
+      "Gengar ex"
     ],
     "attacks": [
       {
@@ -3932,7 +4007,9 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Houndoom"
+      "Houndoom",
+      "Dark Houndoom",
+      "Houndoom ex"
     ],
     "attacks": [
       {
@@ -4036,7 +4113,11 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Wigglytuff"
+      "Wigglytuff",
+      "Dark Wigglytuff",
+      "Light Wigglytuff",
+      "Wigglytuff ex",
+      "Wigglytuff-GX"
     ],
     "attacks": [
       {
@@ -4096,7 +4177,8 @@
     ],
     "evolvesFrom": "Abra",
     "evolvesTo": [
-      "Alakazam"
+      "Alakazam",
+      "Alakazam ex"
     ],
     "attacks": [
       {
@@ -4273,7 +4355,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Ledian"
+      "Ledian",
+      "Light Ledian"
     ],
     "attacks": [
       {
@@ -4337,7 +4420,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Ledian"
+      "Ledian",
+      "Light Ledian"
     ],
     "attacks": [
       {
@@ -4396,7 +4480,9 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Machoke"
+      "Machoke",
+      "Dark Machoke",
+      "Light Machoke"
     ],
     "attacks": [
       {
@@ -4455,7 +4541,10 @@
       "Water"
     ],
     "evolvesTo": [
-      "Gyarados"
+      "Gyarados",
+      "Dark Gyarados",
+      "Gyarados ex",
+      "Gyarados-GX"
     ],
     "attacks": [
       {
@@ -4513,7 +4602,8 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Magneton"
+      "Magneton",
+      "Dark Magneton"
     ],
     "attacks": [
       {
@@ -4635,7 +4725,9 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Persian"
+      "Persian",
+      "Dark Persian",
+      "Persian-GX"
     ],
     "attacks": [
       {
@@ -4684,7 +4776,8 @@
       "Darkness"
     ],
     "evolvesTo": [
-      "Honchkrow"
+      "Honchkrow",
+      "Honchkrow-GX"
     ],
     "attacks": [
       {
@@ -4807,6 +4900,9 @@
     "types": [
       "Grass"
     ],
+    "evolvesTo": [
+      "Nidorina"
+    ],
     "attacks": [
       {
         "name": "Call for Family",
@@ -4861,6 +4957,9 @@
     "hp": "50",
     "types": [
       "Grass"
+    ],
+    "evolvesTo": [
+      "Nidorina"
     ],
     "attacks": [
       {
@@ -4973,7 +5072,11 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Raichu"
+      "Raichu",
+      "Dark Raichu",
+      "Raichu ex",
+      "Alolan Raichu",
+      "Raichu-GX"
     ],
     "attacks": [
       {
@@ -5023,7 +5126,9 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Forretress"
+      "Forretress",
+      "Dark Forretress",
+      "Forretress ex"
     ],
     "attacks": [
       {
@@ -5072,7 +5177,9 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Forretress"
+      "Forretress",
+      "Dark Forretress",
+      "Forretress ex"
     ],
     "attacks": [
       {
@@ -5183,7 +5290,8 @@
     "evolvesFrom": "Poliwag",
     "evolvesTo": [
       "Poliwrath",
-      "Politoed"
+      "Politoed",
+      "Politoed ex"
     ],
     "attacks": [
       {
@@ -5243,6 +5351,9 @@
       "Colorless"
     ],
     "evolvesFrom": "Rattata",
+    "evolvesTo": [
+      "Raticate BREAK"
+    ],
     "attacks": [
       {
         "name": "Scratch",
@@ -5300,7 +5411,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Raticate"
+      "Raticate",
+      "Dark Raticate"
     ],
     "attacks": [
       {
@@ -5424,7 +5536,8 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Sandslash"
+      "Sandslash",
+      "Dark Sandslash"
     ],
     "attacks": [
       {
@@ -5553,7 +5666,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Dewgong"
+      "Dewgong",
+      "Light Dewgong"
     ],
     "attacks": [
       {
@@ -5602,7 +5716,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Dewgong"
+      "Dewgong",
+      "Light Dewgong"
     ],
     "attacks": [
       {
@@ -5780,7 +5895,10 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Magcargo"
+      "Magcargo",
+      "Dark Magcargo",
+      "Magcargo ex",
+      "Magcargo-GX"
     ],
     "attacks": [
       {
@@ -5839,7 +5957,10 @@
       "Fire"
     ],
     "evolvesTo": [
-      "Magcargo"
+      "Magcargo",
+      "Dark Magcargo",
+      "Magcargo ex",
+      "Magcargo-GX"
     ],
     "attacks": [
       {
@@ -5888,6 +6009,9 @@
     "hp": "80",
     "types": [
       "Colorless"
+    ],
+    "evolvesTo": [
+      "Snorlax LV.X"
     ],
     "abilities": [
       {
@@ -6005,6 +6129,9 @@
     "types": [
       "Colorless"
     ],
+    "evolvesTo": [
+      "Wyrdeer"
+    ],
     "attacks": [
       {
         "name": "Threaten",
@@ -6062,7 +6189,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Starmie"
+      "Starmie",
+      "Starmie-GX"
     ],
     "attacks": [
       {
@@ -6120,7 +6248,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Starmie"
+      "Starmie",
+      "Starmie-GX"
     ],
     "attacks": [
       {
@@ -6244,7 +6373,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Sunflora"
+      "Sunflora",
+      "Light Sunflora"
     ],
     "attacks": [
       {
@@ -6308,7 +6438,8 @@
       "Water"
     ],
     "evolvesTo": [
-      "Piloswine"
+      "Piloswine",
+      "Light Piloswine"
     ],
     "attacks": [
       {
@@ -6366,7 +6497,8 @@
       "Fighting"
     ],
     "evolvesTo": [
-      "Piloswine"
+      "Piloswine",
+      "Light Piloswine"
     ],
     "attacks": [
       {
@@ -6431,7 +6563,8 @@
       "Colorless"
     ],
     "evolvesTo": [
-      "Ursaring"
+      "Ursaring",
+      "Dark Ursaring"
     ],
     "attacks": [
       {
@@ -6490,6 +6623,9 @@
       "Colorless"
     ],
     "evolvesFrom": "Teddiursa",
+    "evolvesTo": [
+      "Ursaluna"
+    ],
     "attacks": [
       {
         "name": "Bear Hug",
@@ -6607,7 +6743,9 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Venomoth"
+      "Venomoth",
+      "Light Venomoth",
+      "Venomoth-GX"
     ],
     "attacks": [
       {
@@ -6666,7 +6804,10 @@
       "Lightning"
     ],
     "evolvesTo": [
-      "Electrode"
+      "Electrode",
+      "Dark Electrode",
+      "Electrode ex",
+      "Electrode-GX"
     ],
     "attacks": [
       {
@@ -6899,7 +7040,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Golbat"
+      "Golbat",
+      "Dark Golbat"
     ],
     "attacks": [
       {
@@ -6963,7 +7105,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Golbat"
+      "Golbat",
+      "Dark Golbat"
     ],
     "attacks": [
       {
@@ -7791,6 +7934,9 @@
       "Colorless"
     ],
     "evolvesFrom": "Golbat",
+    "evolvesTo": [
+      "Crobat BREAK"
+    ],
     "abilities": [
       {
         "name": "Crystal Type",
@@ -8120,6 +8266,9 @@
       "Fire"
     ],
     "evolvesFrom": "Growlithe",
+    "evolvesTo": [
+      "Arcanine BREAK"
+    ],
     "abilities": [
       {
         "name": "Energy Recharge",
@@ -8309,6 +8458,9 @@
       "Grass"
     ],
     "evolvesFrom": "Golbat",
+    "evolvesTo": [
+      "Crobat BREAK"
+    ],
     "abilities": [
       {
         "name": "Carry Off",
@@ -8553,6 +8705,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Haunter",
+    "evolvesTo": [
+      "Gengar LV.X"
+    ],
     "abilities": [
       {
         "name": "Manipulate",
@@ -8912,6 +9067,10 @@
       "Fighting"
     ],
     "evolvesFrom": "Machoke",
+    "evolvesTo": [
+      "Machamp LV.X",
+      "Machamp BREAK"
+    ],
     "abilities": [
       {
         "name": "Immunity",
@@ -9101,7 +9260,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "abilities": [
       {
@@ -9160,7 +9320,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "attacks": [
       {
@@ -9553,6 +9714,10 @@
       "Lightning"
     ],
     "evolvesFrom": "Pikachu",
+    "evolvesTo": [
+      "Raichu LV.X",
+      "Raichu BREAK"
+    ],
     "attacks": [
       {
         "name": "Zzzap",
@@ -9739,6 +9904,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Staryu",
+    "evolvesTo": [
+      "Starmie BREAK"
+    ],
     "attacks": [
       {
         "name": "Energy Burst",

@@ -249,6 +249,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Haunter",
+    "evolvesTo": [
+      "Gengar LV.X"
+    ],
     "abilities": [
       {
         "name": "Curse",
@@ -308,7 +311,8 @@
     ],
     "evolvesFrom": "Gastly",
     "evolvesTo": [
-      "Gengar"
+      "Gengar",
+      "Gengar ex"
     ],
     "abilities": [
       {
@@ -606,7 +610,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "attacks": [
       {
@@ -791,6 +796,10 @@
       "Lightning"
     ],
     "evolvesFrom": "Pikachu",
+    "evolvesTo": [
+      "Raichu LV.X",
+      "Raichu BREAK"
+    ],
     "attacks": [
       {
         "name": "Gigashock",
@@ -1132,6 +1141,9 @@
       "Psychic"
     ],
     "evolvesFrom": "Haunter",
+    "evolvesTo": [
+      "Gengar LV.X"
+    ],
     "abilities": [
       {
         "name": "Curse",
@@ -1191,7 +1203,8 @@
     ],
     "evolvesFrom": "Gastly",
     "evolvesTo": [
-      "Gengar"
+      "Gengar",
+      "Gengar ex"
     ],
     "abilities": [
       {
@@ -1489,7 +1502,8 @@
     ],
     "evolvesFrom": "Magnemite",
     "evolvesTo": [
-      "Magnezone"
+      "Magnezone",
+      "Magnezone ex"
     ],
     "attacks": [
       {
@@ -1674,6 +1688,10 @@
       "Lightning"
     ],
     "evolvesFrom": "Pikachu",
+    "evolvesTo": [
+      "Raichu LV.X",
+      "Raichu BREAK"
+    ],
     "attacks": [
       {
         "name": "Gigashock",
@@ -1900,7 +1918,8 @@
       "Psychic"
     ],
     "evolvesTo": [
-      "Haunter"
+      "Haunter",
+      "Dark Haunter"
     ],
     "attacks": [
       {
@@ -1958,7 +1977,8 @@
     ],
     "evolvesFrom": "Zubat",
     "evolvesTo": [
-      "Crobat"
+      "Crobat",
+      "Crobat ex"
     ],
     "attacks": [
       {
@@ -2024,6 +2044,9 @@
       "Water"
     ],
     "evolvesFrom": "Psyduck",
+    "evolvesTo": [
+      "Golduck BREAK"
+    ],
     "attacks": [
       {
         "name": "Psyshock",
@@ -2152,7 +2175,8 @@
     ],
     "evolvesFrom": "Geodude",
     "evolvesTo": [
-      "Golem"
+      "Golem",
+      "Golem ex"
     ],
     "attacks": [
       {
@@ -2339,6 +2363,9 @@
       "Water"
     ],
     "evolvesFrom": "Omanyte",
+    "evolvesTo": [
+      "Omastar BREAK"
+    ],
     "attacks": [
       {
         "name": "Water Gun",
@@ -2466,7 +2493,9 @@
     ],
     "evolvesFrom": "Horsea",
     "evolvesTo": [
-      "Kingdra"
+      "Kingdra",
+      "Kingdra ex",
+      "Kingdra-GX"
     ],
     "attacks": [
       {
@@ -2702,7 +2731,9 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Arbok"
+      "Arbok",
+      "Dark Arbok",
+      "Arbok ex"
     ],
     "attacks": [
       {
@@ -2815,7 +2846,9 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Muk"
+      "Muk",
+      "Dark Muk",
+      "Muk ex"
     ],
     "attacks": [
       {
@@ -2923,7 +2956,8 @@
     ],
     "evolvesFrom": "Mysterious Fossil",
     "evolvesTo": [
-      "Kabutops"
+      "Kabutops",
+      "Kabutops ex"
     ],
     "abilities": [
       {
@@ -3102,7 +3136,9 @@
       "Water"
     ],
     "evolvesTo": [
-      "Golduck"
+      "Golduck",
+      "Dark Golduck",
+      "Light Golduck"
     ],
     "attacks": [
       {
@@ -3223,7 +3259,11 @@
     ],
     "evolvesTo": [
       "Slowbro",
-      "Slowking"
+      "Slowking",
+      "Dark Slowbro",
+      "Dark Slowking",
+      "Light Slowbro",
+      "Slowking ex"
     ],
     "attacks": [
       {
@@ -3338,7 +3378,8 @@
       "Grass"
     ],
     "evolvesTo": [
-      "Golbat"
+      "Golbat",
+      "Dark Golbat"
     ],
     "attacks": [
       {
@@ -3469,6 +3510,13 @@
     "name": "Mysterious Fossil",
     "supertype": "Trainer",
     "hp": "10",
+    "evolvesTo": [
+      "Aerodactyl",
+      "Kabuto",
+      "Omanyte",
+      "Dark Omanyte",
+      "Aerodactyl ex"
+    ],
     "rules": [
       "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play."
     ],
