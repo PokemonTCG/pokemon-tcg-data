@@ -1,42 +1,115 @@
 # Pokémon TCG Data
 
-[![Discord](https://img.shields.io/badge/Pokémon%20TCG%20Developers-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dpsTCvg)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/bePatron?u=8336557)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Z8Z25AVR)
+> [!IMPORTANT]
+>
+> ## This project is being deprecated
+>
+> Pokémon TCG Data and the Pokémon TCG API are legacy projects and are no longer recommended for new integrations.
+>
+> **The Pokémon TCG API is scheduled to be taken offline on March 1, 2027.**
+>
+> For actively maintained Pokémon TCG data, pricing, price history, graded card data, population reports, image recognition, and support for additional trading card games, please use **[Scrydex](https://scrydex.com)**.
+>
+> **Scrydex:** https://scrydex.com
+> **API Documentation:** https://scrydex.com/docs
+>
+> Existing data in this repository will remain available for historical and compatibility purposes. Developers currently using the Pokémon TCG API should migrate to Scrydex before March 1, 2027.
 
+---
 
-This is the data found within the [Pokémon TCG API](https://pokemontcg.io/). Currently, the raw JSON files for all the card information can be found here.
+This repository contains the card data historically used by the [Pokémon TCG API](https://pokemontcg.io/).
 
-If you find this data useful, consider donating via one of the links above. All donations are greatly appreciated!
+The project is now considered legacy. The existing JSON files will remain available for developers who depend on them, but this repository should not be used as the primary data source for new applications.
 
-# Downloading the data
+For current Pokémon TCG data and actively maintained API access, use [Scrydex](https://scrydex.com).
 
-The easiest way to stay up to date and interact with the data is via the [Pokémon TCG API](http://pokemontcg.io/) and one of the associated SDKs. Otherwise, feel free to clone this repository or download a zip from the releases.
+## Scrydex
 
-# Version 1 and 2 Data
+Scrydex is the actively maintained platform for developers building applications around trading card game data.
 
-Version 1 data is no longer being maintained. The API for V1 will continue to receive new sets until August 1st, 2021. At this time, V1 of the API will be taken offline, and you MUST be using V2. You have a 6 month window to migrate to V2.
+In addition to Pokémon, Scrydex supports multiple trading card games and provides access to features including:
 
-If you rely on the V1 data, I have provided a `v2_to_v1.rb` Ruby script that you can run to generate all the json files in v1 format.
+* Card and expansion metadata
+* Raw card pricing
+* Graded card pricing
+* Historical price data
+* Graded sold listings
+* Population reports
+* Market trends
+* Card image recognition
+* Additional TCGs beyond Pokémon
 
-To install Ruby: https://www.ruby-lang.org/en/documentation/installation/
+For more information:
 
-You will also need the `json` gem: `gem install json`.
+* [Scrydex](https://scrydex.com)
+* [API Documentation](https://scrydex.com/docs)
 
-Finally, to run the script:
+## Downloading the Data
 
+The historical JSON data in this repository can still be cloned directly:
+
+```bash
+git clone https://github.com/PokemonTCG/pokemon-tcg-data.git
 ```
+
+You can also download data from the repository's releases.
+
+This repository should primarily be considered a historical or compatibility data source.
+
+Applications that require continuously maintained card data should use the [Scrydex API](https://scrydex.com).
+
+## Pokémon TCG API Deprecation
+
+The [Pokémon TCG API](https://pokemontcg.io/) is being deprecated and is scheduled to be taken offline on **March 1, 2027**.
+
+Existing integrations may continue to function until the shutdown date, but developers should avoid starting new integrations against the Pokémon TCG API.
+
+If your application currently relies on the Pokémon TCG API, please migrate to [Scrydex](https://scrydex.com) before **March 1, 2027**.
+
+New applications should use Scrydex from the start.
+
+## Version 1 and Version 2 Data
+
+Version 1 data is no longer maintained.
+
+The `v2_to_v1.rb` Ruby script is retained for developers who still need to generate the legacy V1 JSON format from V2 data.
+
+To install Ruby:
+
+https://www.ruby-lang.org/en/documentation/installation/
+
+You will also need the `json` gem:
+
+```bash
+gem install json
+```
+
+To generate the V1 data:
+
+```bash
 ruby v2_to_v1.rb
 ```
 
-This will output all of the card data into `/cards/en/v1`.
+The generated card data will be written to:
 
-# Contributing
+```text
+/cards/en/v1
+```
 
-Please contribute when you see missing and/or incorrect data. I'll try to review all pull requests relatively quickly so that I can push updates at night.
+## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/pokemon-tcg-data/fork )
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create a new Pull Request
+This repository is maintained primarily for historical and compatibility purposes.
+
+Routine card-data updates and new feature development are no longer the focus of this project.
+
+For current data, API access, or support, please use [Scrydex](https://scrydex.com).
+
+## Migrating to Scrydex
+
+If you currently use Pokémon TCG Data or the Pokémon TCG API in an application, please migrate to Scrydex before the Pokémon TCG API shutdown on **March 1, 2027**.
+
+Scrydex provides a maintained API designed for production applications and expands on the original Pokémon TCG API with pricing, historical market data, graded card information, population reports, image recognition, and support for additional trading card games.
+
+Documentation is available at:
+
+https://scrydex.com/docs
