@@ -1,0 +1,7298 @@
+[
+  {
+    "id": "me6-1",
+    "name": "Heracross",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Spike Draw",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Draw 2 cards."
+      },
+      {
+        "name": "High Horsepower",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "1",
+    "artist": "Satoshi Ito",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      214
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-1/small",
+      "large": "https://images.scrydex.com/pokemon/me6-1/large"
+    }
+  },
+  {
+    "id": "me6-2",
+    "name": "Surskit",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Multiply",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for up to 2 Surskit and put them onto your Bench. Then, shuffle your deck."
+      },
+      {
+        "name": "Bug Bite",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "2",
+    "artist": "Gemi",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      283
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-2/small",
+      "large": "https://images.scrydex.com/pokemon/me6-2/large"
+    }
+  },
+  {
+    "id": "me6-3",
+    "name": "Masquerain",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Surskit",
+    "attacks": [
+      {
+        "name": "Frightening Pattern",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "During your opponent's next turn, the Defending Pokémon can't use attacks."
+      },
+      {
+        "name": "Bug Out",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50×",
+        "text": "Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "3",
+    "artist": "Kazumasa Yasukuni",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      284
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-3/small",
+      "large": "https://images.scrydex.com/pokemon/me6-3/large"
+    }
+  },
+  {
+    "id": "me6-4",
+    "name": "Cacnea",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Knock Away",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 10 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "4",
+    "artist": "Minato",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      331
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-4/small",
+      "large": "https://images.scrydex.com/pokemon/me6-4/large"
+    }
+  },
+  {
+    "id": "me6-5",
+    "name": "Cacturne",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Cacnea",
+    "attacks": [
+      {
+        "name": "Linear Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Punishing Needles",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "This attack does 50 more damage for each of your opponent's Pokémon in play that has an Ability."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "5",
+    "artist": "okayamatakatoshi",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      332
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-5/small",
+      "large": "https://images.scrydex.com/pokemon/me6-5/large"
+    }
+  },
+  {
+    "id": "me6-6",
+    "name": "Combee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Fade Out",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Put this Pokémon and all attached cards into your hand."
+      },
+      {
+        "name": "Bug Out",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "6",
+    "artist": "nisimono",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      415
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-6/small",
+      "large": "https://images.scrydex.com/pokemon/me6-6/large"
+    }
+  },
+  {
+    "id": "me6-7",
+    "name": "Vespiquen",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Combee",
+    "attacks": [
+      {
+        "name": "Pierce",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Clean Hit",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "7",
+    "artist": "Masako Tomii",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      416
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-7/small",
+      "large": "https://images.scrydex.com/pokemon/me6-7/large"
+    }
+  },
+  {
+    "id": "me6-8",
+    "name": "Shaymin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Overrun",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "8",
+    "artist": "HYOGONOSUKE",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      492
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-8/small",
+      "large": "https://images.scrydex.com/pokemon/me6-8/large"
+    }
+  },
+  {
+    "id": "me6-9",
+    "name": "Virizion",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Double Draw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Draw 2 cards."
+      },
+      {
+        "name": "Solar Beam",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      640
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-9/small",
+      "large": "https://images.scrydex.com/pokemon/me6-9/large"
+    }
+  },
+  {
+    "id": "me6-10",
+    "name": "Wimpod",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "abilities": [
+      {
+        "name": "Punk Out",
+        "text": "If your opponent has any Pokémon ex in play, this Pokémon has no Retreat Cost.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Ram",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "10",
+    "artist": "Jerky",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      767
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-10/small",
+      "large": "https://images.scrydex.com/pokemon/me6-10/large"
+    }
+  },
+  {
+    "id": "me6-11",
+    "name": "Mega Golisopod ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "340",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Wimpod",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Finishing Blow",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 160 more damage."
+      },
+      {
+        "name": "Quadruple Hold",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "11",
+    "artist": "5ban Graphics",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      768
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-11/small",
+      "large": "https://images.scrydex.com/pokemon/me6-11/large"
+    }
+  },
+  {
+    "id": "me6-12",
+    "name": "Sprigatito",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Play Rough",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "artist": "Makura Tami",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      906
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-12/small",
+      "large": "https://images.scrydex.com/pokemon/me6-12/large"
+    }
+  },
+  {
+    "id": "me6-13",
+    "name": "Floragato",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Sprigatito",
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "13",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      907
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-13/small",
+      "large": "https://images.scrydex.com/pokemon/me6-13/large"
+    }
+  },
+  {
+    "id": "me6-14",
+    "name": "Meowscarada ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "320",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Floragato",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Magical Bullet",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "This attack also does 120 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "14",
+    "artist": "5ban Graphics",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      908
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-14/small",
+      "large": "https://images.scrydex.com/pokemon/me6-14/large"
+    }
+  },
+  {
+    "id": "me6-15",
+    "name": "Smoliv",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Spray Fluid",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "15",
+    "artist": "Kanami Ogata",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      928
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-15/small",
+      "large": "https://images.scrydex.com/pokemon/me6-15/large"
+    }
+  },
+  {
+    "id": "me6-16",
+    "name": "Dolliv",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Smoliv",
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "16",
+    "artist": "Eri Kamei",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      929
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-16/small",
+      "large": "https://images.scrydex.com/pokemon/me6-16/large"
+    }
+  },
+  {
+    "id": "me6-17",
+    "name": "Arboliva",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Dolliv",
+    "abilities": [
+      {
+        "name": "Slippery Oil",
+        "text": "Once during your turn, you may use this Ability. Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "17",
+    "artist": "Aliya Chen",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      930
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-17/small",
+      "large": "https://images.scrydex.com/pokemon/me6-17/large"
+    }
+  },
+  {
+    "id": "me6-18",
+    "name": "Growlithe",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Roar",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+      },
+      {
+        "name": "Rear Kick",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "18",
+    "artist": "Teeziro",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      58
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-18/small",
+      "large": "https://images.scrydex.com/pokemon/me6-18/large"
+    }
+  },
+  {
+    "id": "me6-19",
+    "name": "Arcanine",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "150",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Growlithe",
+    "attacks": [
+      {
+        "name": "Fervent Fang",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "If your opponent has 4 or fewer Prize cards remaining, this attack does 90 more damage."
+      },
+      {
+        "name": "Heat Tackle",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "200",
+        "text": "This Pokémon also does 50 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "19",
+    "artist": "Felicia Chen",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      59
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-19/small",
+      "large": "https://images.scrydex.com/pokemon/me6-19/large"
+    }
+  },
+  {
+    "id": "me6-20",
+    "name": "Magmar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Gather Strength",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "20",
+    "artist": "GOSSAN",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      126
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-20/small",
+      "large": "https://images.scrydex.com/pokemon/me6-20/large"
+    }
+  },
+  {
+    "id": "me6-21",
+    "name": "Magmortar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Magmar",
+    "abilities": [
+      {
+        "name": "Buddy Boost",
+        "text": "Once during your turn, you may use this Ability. Attach a Basic Fire Energy card, a Basic Lightning Energy card, or 1 of each from your hand to your Electivire and Magmortar in any way you like.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Heat Crash",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "21",
+    "artist": "Ryuta Fuse",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      467
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-21/small",
+      "large": "https://images.scrydex.com/pokemon/me6-21/large"
+    }
+  },
+  {
+    "id": "me6-22",
+    "name": "Torkoal",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Searing Flame",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Combustion Blast",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "During your next turn, this Pokémon can't use Combustion Blast."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "22",
+    "artist": "Tonji Matsuno",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      324
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-22/small",
+      "large": "https://images.scrydex.com/pokemon/me6-22/large"
+    }
+  },
+  {
+    "id": "me6-23",
+    "name": "Heat Rotom ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "190",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Rewarm",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each Basic Fire Energy card in your discard pile. Then, shuffle those cards into your deck."
+      },
+      {
+        "name": "Strong Flare",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "23",
+    "artist": "5ban Graphics",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      479
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-23/small",
+      "large": "https://images.scrydex.com/pokemon/me6-23/large"
+    }
+  },
+  {
+    "id": "me6-24",
+    "name": "Heatmor",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Destructive Flame",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "24",
+    "artist": "Takeshi Nakamura",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      631
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-24/small",
+      "large": "https://images.scrydex.com/pokemon/me6-24/large"
+    }
+  },
+  {
+    "id": "me6-25",
+    "name": "Mantine",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Make Waves",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Each player shuffles their hand into their deck and draws 4 cards."
+      },
+      {
+        "name": "Bubble Drain",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "25",
+    "artist": "kodama",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      226
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-25/small",
+      "large": "https://images.scrydex.com/pokemon/me6-25/large"
+    }
+  },
+  {
+    "id": "me6-26",
+    "name": "Kyogre",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "150",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Brutal Whirlpool",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "If a Stadium that has \"Legendary\" in its name is in play, this attack also does 50 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "26",
+    "artist": "Anderson",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      382
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-26/small",
+      "large": "https://images.scrydex.com/pokemon/me6-26/large"
+    }
+  },
+  {
+    "id": "me6-27",
+    "name": "Frillish",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Hook",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "27",
+    "artist": "Mousho",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      592
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-27/small",
+      "large": "https://images.scrydex.com/pokemon/me6-27/large"
+    }
+  },
+  {
+    "id": "me6-28",
+    "name": "Jellicent",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Frillish",
+    "abilities": [
+      {
+        "name": "Deep Sea Draw",
+        "text": "Once during your turn, you may use this Ability. Draw a card. If you do, you may put a card from your hand on the bottom of your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "28",
+    "artist": "Nurikabe",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      593
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-28/small",
+      "large": "https://images.scrydex.com/pokemon/me6-28/large"
+    }
+  },
+  {
+    "id": "me6-29",
+    "name": "Wishiwashi ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "260",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Oceanic Gain",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Heal 50 damage from this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hydro Splash",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "220",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "29",
+    "artist": "5ban Graphics",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      746
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-29/small",
+      "large": "https://images.scrydex.com/pokemon/me6-29/large"
+    }
+  },
+  {
+    "id": "me6-30",
+    "name": "Electabuzz",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "30",
+    "artist": "kurumitsu",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      125
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-30/small",
+      "large": "https://images.scrydex.com/pokemon/me6-30/large"
+    }
+  },
+  {
+    "id": "me6-31",
+    "name": "Electivire",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Electabuzz",
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Voltaic Hammer",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60×",
+        "text": "Discard any amount of Basic Energy from this Pokémon, and this attack does 60 damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "31",
+    "artist": "hncl",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      466
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-31/small",
+      "large": "https://images.scrydex.com/pokemon/me6-31/large"
+    }
+  },
+  {
+    "id": "me6-32",
+    "name": "Jolteon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "32",
+    "artist": "hncl",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      135
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-32/small",
+      "large": "https://images.scrydex.com/pokemon/me6-32/large"
+    }
+  },
+  {
+    "id": "me6-33",
+    "name": "Raikou ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "200",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Thunder-Clad",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Power Rush",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Flip a coin. If tails, during your next turn, this Pokémon can't use attacks."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "33",
+    "artist": "aky CG Works",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      243
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-33/small",
+      "large": "https://images.scrydex.com/pokemon/me6-33/large"
+    }
+  },
+  {
+    "id": "me6-34",
+    "name": "Rotom",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Shock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "34",
+    "artist": "Yukiko Baba",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      479
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-34/small",
+      "large": "https://images.scrydex.com/pokemon/me6-34/large"
+    }
+  },
+  {
+    "id": "me6-35",
+    "name": "Thundurus",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Lightning"
+    ],
+    "abilities": [
+      {
+        "name": "Incarnate Solidarity",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Thunderous Edge",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "35",
+    "artist": "Takumi Wada",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      642
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-35/small",
+      "large": "https://images.scrydex.com/pokemon/me6-35/large"
+    }
+  },
+  {
+    "id": "me6-36",
+    "name": "Pincurchin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Energy Crush",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "36",
+    "artist": "OKUBO",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      871
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-36/small",
+      "large": "https://images.scrydex.com/pokemon/me6-36/large"
+    }
+  },
+  {
+    "id": "me6-37",
+    "name": "Pawmi",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "37",
+    "artist": "TOMATO MARKET",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      921
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-37/small",
+      "large": "https://images.scrydex.com/pokemon/me6-37/large"
+    }
+  },
+  {
+    "id": "me6-38",
+    "name": "Pawmo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pawmi",
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "38",
+    "artist": "Susumu Maeya",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      922
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-38/small",
+      "large": "https://images.scrydex.com/pokemon/me6-38/large"
+    }
+  },
+  {
+    "id": "me6-39",
+    "name": "Pawmot",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pawmo",
+    "abilities": [
+      {
+        "name": "Generator's Touch",
+        "text": "Once during your turn, you may use this Ability. Attach a Basic Lightning Energy card from your discard pile to 1 of your Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Electric Punch",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "39",
+    "artist": "kirisAki",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      923
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-39/small",
+      "large": "https://images.scrydex.com/pokemon/me6-39/large"
+    }
+  },
+  {
+    "id": "me6-40",
+    "name": "Wattrel",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Agility",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "40",
+    "artist": "Yukihiro Tada",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      940
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-40/small",
+      "large": "https://images.scrydex.com/pokemon/me6-40/large"
+    }
+  },
+  {
+    "id": "me6-41",
+    "name": "Kilowattrel",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Wattrel",
+    "attacks": [
+      {
+        "name": "Raid",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If this Pokémon evolved from Wattrel during this turn, this attack does 90 more damage."
+      },
+      {
+        "name": "Speed Dive",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "41",
+    "artist": "OKACHEKE",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      941
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-41/small",
+      "large": "https://images.scrydex.com/pokemon/me6-41/large"
+    }
+  },
+  {
+    "id": "me6-42",
+    "name": "Miraidon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Flashing Bolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "During your next turn, this Pokémon can't use Flashing Bolt."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "42",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      1008
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-42/small",
+      "large": "https://images.scrydex.com/pokemon/me6-42/large"
+    }
+  },
+  {
+    "id": "me6-43",
+    "name": "Drowzee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Pound",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "43",
+    "artist": "Hachinana",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      96
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-43/small",
+      "large": "https://images.scrydex.com/pokemon/me6-43/large"
+    }
+  },
+  {
+    "id": "me6-44",
+    "name": "Hypno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Drowzee",
+    "attacks": [
+      {
+        "name": "Mind Ruler",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each card in your opponent's hand."
+      },
+      {
+        "name": "Hypnoblast",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "44",
+    "artist": "Yuta Kawazu",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      97
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-44/small",
+      "large": "https://images.scrydex.com/pokemon/me6-44/large"
+    }
+  },
+  {
+    "id": "me6-45",
+    "name": "Giratina",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Chaos Crawler",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "During your opponent's next turn, prevent all damage from attacks done to this Pokémon. If 1 of your Pokémon used Chaos Crawler during your last turn, this attack can't be used."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "45",
+    "artist": "toriyufu",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      487
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-45/small",
+      "large": "https://images.scrydex.com/pokemon/me6-45/large"
+    }
+  },
+  {
+    "id": "me6-46",
+    "name": "Golett",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Light Punch",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "46",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      622
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-46/small",
+      "large": "https://images.scrydex.com/pokemon/me6-46/large"
+    }
+  },
+  {
+    "id": "me6-47",
+    "name": "Mega Golurk ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "350",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Golett",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Restricted Activation",
+        "text": "This Pokémon can't use attacks unless you have 10 or more cards in your hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Goliath's Punch",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "300",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "47",
+    "artist": "5ban Graphics",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      623
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-47/small",
+      "large": "https://images.scrydex.com/pokemon/me6-47/large"
+    }
+  },
+  {
+    "id": "me6-48",
+    "name": "Enamorus",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Incarnate Solidarity",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Rising Heart",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "48",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      905
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-48/small",
+      "large": "https://images.scrydex.com/pokemon/me6-48/large"
+    }
+  },
+  {
+    "id": "me6-49",
+    "name": "Sandshrew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Ascension",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "49",
+    "artist": "Izucch",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      27
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-49/small",
+      "large": "https://images.scrydex.com/pokemon/me6-49/large"
+    }
+  },
+  {
+    "id": "me6-50",
+    "name": "Sandslash",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Sandshrew",
+    "abilities": [
+      {
+        "name": "Counterattack Quills",
+        "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), place 3 damage counters on the Attacking Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Digging Claw",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "50",
+    "artist": "aoki",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      28
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-50/small",
+      "large": "https://images.scrydex.com/pokemon/me6-50/large"
+    }
+  },
+  {
+    "id": "me6-51",
+    "name": "Onix",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Guard Press",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "51",
+    "artist": "Kedamahadaitai Yawarakai",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      95
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-51/small",
+      "large": "https://images.scrydex.com/pokemon/me6-51/large"
+    }
+  },
+  {
+    "id": "me6-52",
+    "name": "Steelix",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "190",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Onix",
+    "abilities": [
+      {
+        "name": "High Density Armor",
+        "text": "If this Pokémon has full HP, it takes 60 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Tough Swing",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": "This attack's damage isn't affected by Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "52",
+    "artist": "Shin Nagasawa",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      208
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-52/small",
+      "large": "https://images.scrydex.com/pokemon/me6-52/large"
+    }
+  },
+  {
+    "id": "me6-53",
+    "name": "Groudon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "150",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Strength",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Brutal Lands",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If a Stadium that has \"Legendary\" in its name is in play, this attack does 170 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "53",
+    "artist": "Nisota Niso",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      383
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-53/small",
+      "large": "https://images.scrydex.com/pokemon/me6-53/large"
+    }
+  },
+  {
+    "id": "me6-54",
+    "name": "Landorus",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Fighting"
+    ],
+    "abilities": [
+      {
+        "name": "Incarnate Solidarity",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Gaia Crush",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": "Discard a Stadium in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "54",
+    "artist": "Oku",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      645
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-54/small",
+      "large": "https://images.scrydex.com/pokemon/me6-54/large"
+    }
+  },
+  {
+    "id": "me6-55",
+    "name": "Nidoran♀",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Find a Friend",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Gnaw",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "55",
+    "artist": "tayu",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      29
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-55/small",
+      "large": "https://images.scrydex.com/pokemon/me6-55/large"
+    }
+  },
+  {
+    "id": "me6-56",
+    "name": "Nidorina",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Nidoran♀",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "56",
+    "artist": "Jiro Sasumo",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      30
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-56/small",
+      "large": "https://images.scrydex.com/pokemon/me6-56/large"
+    }
+  },
+  {
+    "id": "me6-57",
+    "name": "Nidoqueen",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Nidorina",
+    "abilities": [
+      {
+        "name": "Maternal Call",
+        "text": "Once during your turn, you may use this Ability. Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "During your next turn, this Pokémon can't use attacks."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "57",
+    "artist": "Aliya Chen",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      31
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-57/small",
+      "large": "https://images.scrydex.com/pokemon/me6-57/large"
+    }
+  },
+  {
+    "id": "me6-58",
+    "name": "Spinarak",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Poison Sting",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Your opponent's Active Pokémon is now Poisoned."
+      },
+      {
+        "name": "Bug Out",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "58",
+    "artist": "Apios",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      167
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-58/small",
+      "large": "https://images.scrydex.com/pokemon/me6-58/large"
+    }
+  },
+  {
+    "id": "me6-59",
+    "name": "Ariados",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Spinarak",
+    "attacks": [
+      {
+        "name": "Tormenting Poison",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, place 4 damage counters on that Pokémon instead of 1."
+      },
+      {
+        "name": "Stealthy Sting",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "59",
+    "artist": "UKUMO uiti",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      168
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-59/small",
+      "large": "https://images.scrydex.com/pokemon/me6-59/large"
+    }
+  },
+  {
+    "id": "me6-60",
+    "name": "Sableye",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Lure Out",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Reveal the top 5 cards of your opponent's deck. You may choose any number of Basic Pokémon you find there and put those Pokémon onto their Bench. Your opponent shuffles the other cards back into their deck."
+      },
+      {
+        "name": "Ominous Eyes",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "text": "Place 5 damage counters on 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "60",
+    "artist": "Shinji Kanda",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      302
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-60/small",
+      "large": "https://images.scrydex.com/pokemon/me6-60/large"
+    }
+  },
+  {
+    "id": "me6-61",
+    "name": "Carvanha",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Ambush",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "61",
+    "artist": "Julie Hang",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      318
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-61/small",
+      "large": "https://images.scrydex.com/pokemon/me6-61/large"
+    }
+  },
+  {
+    "id": "me6-62",
+    "name": "Sharpedo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Carvanha",
+    "attacks": [
+      {
+        "name": "Crunch",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "62",
+    "artist": "Kazumasa Yasukuni",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      319
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-62/small",
+      "large": "https://images.scrydex.com/pokemon/me6-62/large"
+    }
+  },
+  {
+    "id": "me6-63",
+    "name": "Darkrai",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Shadow-Clad",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Dark Cutter",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "63",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      491
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-63/small",
+      "large": "https://images.scrydex.com/pokemon/me6-63/large"
+    }
+  },
+  {
+    "id": "me6-64",
+    "name": "Purrloin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Dig Claws",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "64",
+    "artist": "Hachinana",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      509
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-64/small",
+      "large": "https://images.scrydex.com/pokemon/me6-64/large"
+    }
+  },
+  {
+    "id": "me6-65",
+    "name": "Liepard",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Purrloin",
+    "attacks": [
+      {
+        "name": "Follow-Up Claw",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each damage counter on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Slash",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "65",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      510
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-65/small",
+      "large": "https://images.scrydex.com/pokemon/me6-65/large"
+    }
+  },
+  {
+    "id": "me6-66",
+    "name": "Zorua",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Stampede",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Scratch",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "66",
+    "artist": "HYOGONOSUKE",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      570
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-66/small",
+      "large": "https://images.scrydex.com/pokemon/me6-66/large"
+    }
+  },
+  {
+    "id": "me6-67",
+    "name": "Zoroark ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "270",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Zorua",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Riotous Beating",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each of your Pokémon in play."
+      },
+      {
+        "name": "Slashing Strike",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "210",
+        "text": "During your next turn, this Pokémon can't use Slashing Strike."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "67",
+    "artist": "Keisuke Azuma",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      571
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-67/small",
+      "large": "https://images.scrydex.com/pokemon/me6-67/large"
+    }
+  },
+  {
+    "id": "me6-68",
+    "name": "Inkay",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Knock Off",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "68",
+    "artist": "kawayoo",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      686
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-68/small",
+      "large": "https://images.scrydex.com/pokemon/me6-68/large"
+    }
+  },
+  {
+    "id": "me6-69",
+    "name": "Mega Malamar ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "320",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Inkay",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Psychic Marionette",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70×",
+        "text": "This attack does 70 damage for each of your opponent's Benched Pokémon."
+      },
+      {
+        "name": "Eerie Wave",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "69",
+    "artist": "5ban Graphics",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      687
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-69/small",
+      "large": "https://images.scrydex.com/pokemon/me6-69/large"
+    }
+  },
+  {
+    "id": "me6-70",
+    "name": "Morpeko",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+      },
+      {
+        "name": "Slap",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "70",
+    "artist": "kurumitsu",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      877
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-70/small",
+      "large": "https://images.scrydex.com/pokemon/me6-70/large"
+    }
+  },
+  {
+    "id": "me6-71",
+    "name": "Zarude",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Corkscrew Punch",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Deadly Whip",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50+",
+        "text": "Flip 2 coins. If both of them are heads, this attack does 150 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "71",
+    "artist": "Nisota Niso",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      893
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-71/small",
+      "large": "https://images.scrydex.com/pokemon/me6-71/large"
+    }
+  },
+  {
+    "id": "me6-72",
+    "name": "Druddigon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Drag Off",
+        "cost": [
+          "Fire",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 40 damage to the new Active Pokémon."
+      },
+      {
+        "name": "Claw Slash",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "72",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      621
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-72/small",
+      "large": "https://images.scrydex.com/pokemon/me6-72/large"
+    }
+  },
+  {
+    "id": "me6-73",
+    "name": "Jangmo-o",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Hard Head",
+        "cost": [
+          "Lightning",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "73",
+    "artist": "June",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      782
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-73/small",
+      "large": "https://images.scrydex.com/pokemon/me6-73/large"
+    }
+  },
+  {
+    "id": "me6-74",
+    "name": "Hakamo-o",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Jangmo-o",
+    "attacks": [
+      {
+        "name": "Double Smash",
+        "cost": [
+          "Lightning",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70×",
+        "text": "Flip 2 coins. This attack does 70 damage for each heads."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "74",
+    "artist": "Scav",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      783
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-74/small",
+      "large": "https://images.scrydex.com/pokemon/me6-74/large"
+    }
+  },
+  {
+    "id": "me6-75",
+    "name": "Kommo-o",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Hakamo-o",
+    "abilities": [
+      {
+        "name": "Beat Scales",
+        "text": "Once during your turn, you may use this Ability. Look at the top 6 cards of your deck and attach any number of Basic Energy cards you find there to your Dragon Pokémon in any way you like. Shuffle the other cards back into your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "cost": [
+          "Lightning",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170",
+        "text": ""
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "75",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      784
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-75/small",
+      "large": "https://images.scrydex.com/pokemon/me6-75/large"
+    }
+  },
+  {
+    "id": "me6-76",
+    "name": "Cyclizar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Break Through",
+        "cost": [
+          "Grass",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "76",
+    "artist": "Saboteri",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      967
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-76/small",
+      "large": "https://images.scrydex.com/pokemon/me6-76/large"
+    }
+  },
+  {
+    "id": "me6-77",
+    "name": "Tauros",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Raging Horns",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50+",
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "77",
+    "artist": "Uta",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      128
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-77/small",
+      "large": "https://images.scrydex.com/pokemon/me6-77/large"
+    }
+  },
+  {
+    "id": "me6-78",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Nap",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Heal 20 damage from this Pokémon."
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "78",
+    "artist": "UKUMO uiti",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-78/small",
+      "large": "https://images.scrydex.com/pokemon/me6-78/large"
+    }
+  },
+  {
+    "id": "me6-79",
+    "name": "Delibird",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Energizing Present",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Look at the top 6 cards of your deck, reveal an Energy card you find there, and put it into your hand. Shuffle the other cards and put them on the bottom of your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Beat",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "79",
+    "artist": "satoma",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      225
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-79/small",
+      "large": "https://images.scrydex.com/pokemon/me6-79/large"
+    }
+  },
+  {
+    "id": "me6-80",
+    "name": "Azurill",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "30",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Bouncy-Bounce Charge",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "80",
+    "artist": "TOMATO MARKET",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      298
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-80/small",
+      "large": "https://images.scrydex.com/pokemon/me6-80/large"
+    }
+  },
+  {
+    "id": "me6-81",
+    "name": "Swablu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Run Around",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Peck",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "81",
+    "artist": "Shiburingaru",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      333
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-81/small",
+      "large": "https://images.scrydex.com/pokemon/me6-81/large"
+    }
+  },
+  {
+    "id": "me6-82",
+    "name": "Altaria",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Swablu",
+    "abilities": [
+      {
+        "name": "Cottony Carrier",
+        "text": "Your Basic Pokémon in play have no Retreat Cost.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flap",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "82",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      334
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-82/small",
+      "large": "https://images.scrydex.com/pokemon/me6-82/large"
+    }
+  },
+  {
+    "id": "me6-83",
+    "name": "Kecleon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Colorful Whip",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Reveal any number of Pokémon from your hand, and this attack does 30 damage for each different type of Pokémon you revealed in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "83",
+    "artist": "Akira Komayama",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      352
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-83/small",
+      "large": "https://images.scrydex.com/pokemon/me6-83/large"
+    }
+  },
+  {
+    "id": "me6-84",
+    "name": "Mega Rayquaza ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "280",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ruler's Roar",
+        "text": "Once during your turn, when you play this Pokémon from your hand onto your Bench, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy card you find there to this Pokémon. Shuffle the other cards and put them on the bottom of your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Storm Emerald",
+        "cost": [
+          "Fire",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each Fire Energy and each Lightning Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "84",
+    "artist": "takuyoa",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      384
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-84/small",
+      "large": "https://images.scrydex.com/pokemon/me6-84/large"
+    }
+  },
+  {
+    "id": "me6-85",
+    "name": "Tornadus",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Incarnate Solidarity",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Corkscrew Dive",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "You may draw cards until you have 6 cards in your hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "85",
+    "artist": "Uta",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      641
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-85/small",
+      "large": "https://images.scrydex.com/pokemon/me6-85/large"
+    }
+  },
+  {
+    "id": "me6-86",
+    "name": "Fletchling",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Surprise Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "86",
+    "artist": "takashi shiraishi",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      661
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-86/small",
+      "large": "https://images.scrydex.com/pokemon/me6-86/large"
+    }
+  },
+  {
+    "id": "me6-87",
+    "name": "Fletchinder",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Fletchling",
+    "attacks": [
+      {
+        "name": "Clutch",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "number": "87",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      662
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-87/small",
+      "large": "https://images.scrydex.com/pokemon/me6-87/large"
+    }
+  },
+  {
+    "id": "me6-88",
+    "name": "Talonflame ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "280",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Fletchinder",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Excited Dive",
+        "text": "Once during your turn, if this Pokémon is in your hand, and if you have any Colorless Mega Evolution Pokémon ex in play, you may use this Ability. Put this Pokémon onto your Bench.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Talon Hunt",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "150",
+        "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "number": "88",
+    "artist": "5ban Graphics",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      663
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-88/small",
+      "large": "https://images.scrydex.com/pokemon/me6-88/large"
+    }
+  },
+  {
+    "id": "me6-89",
+    "name": "Aarune",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 in any combination of Supporter and Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "number": "89",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-89/small",
+      "large": "https://images.scrydex.com/pokemon/me6-89/large"
+    }
+  },
+  {
+    "id": "me6-90",
+    "name": "Adventure Lantern",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Search your deck for a Basic Fire Energy card and a Basic Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "number": "90",
+    "artist": "inose yukie",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-90/small",
+      "large": "https://images.scrydex.com/pokemon/me6-90/large"
+    }
+  },
+  {
+    "id": "me6-91",
+    "name": "Custom Vest",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to isn't a Mega Evolution Pokémon ex, it takes 60 less damage from attacks from your opponent's Mega Evolution Pokémon ex (after applying Weakness and Resistance)."
+    ],
+    "number": "91",
+    "artist": "Toyste Beach",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-91/small",
+      "large": "https://images.scrydex.com/pokemon/me6-91/large"
+    }
+  },
+  {
+    "id": "me6-92",
+    "name": "Emcee's Hype",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your opponent has 3 or fewer Prize cards remaining, draw 2 more cards."
+    ],
+    "number": "92",
+    "artist": "DOM",
+    "rarity": "Common",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-92/small",
+      "large": "https://images.scrydex.com/pokemon/me6-92/large"
+    }
+  },
+  {
+    "id": "me6-93",
+    "name": "Grisham",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Heal 50 damage from each Pokémon (both yours and your opponent's)."
+    ],
+    "number": "93",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-93/small",
+      "large": "https://images.scrydex.com/pokemon/me6-93/large"
+    }
+  },
+  {
+    "id": "me6-94",
+    "name": "Legendary Pyroduct",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities."
+    ],
+    "number": "94",
+    "artist": "akagi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-94/small",
+      "large": "https://images.scrydex.com/pokemon/me6-94/large"
+    }
+  },
+  {
+    "id": "me6-95",
+    "name": "Legendary Pyroduct",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Evolution Pokémon in play (both yours and your opponent's) have no Abilities."
+    ],
+    "number": "95",
+    "artist": "akagi",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-95/small",
+      "large": "https://images.scrydex.com/pokemon/me6-95/large"
+    }
+  },
+  {
+    "id": "me6-96",
+    "name": "Legendary Summit",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card."
+    ],
+    "number": "96",
+    "artist": "nagimiso",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-96/small",
+      "large": "https://images.scrydex.com/pokemon/me6-96/large"
+    }
+  },
+  {
+    "id": "me6-97",
+    "name": "Legendary Summit",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever a Colorless Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card."
+    ],
+    "number": "97",
+    "artist": "nagimiso",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-97/small",
+      "large": "https://images.scrydex.com/pokemon/me6-97/large"
+    }
+  },
+  {
+    "id": "me6-98",
+    "name": "Legendary Trench",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed."
+    ],
+    "number": "98",
+    "artist": "danciao",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-98/small",
+      "large": "https://images.scrydex.com/pokemon/me6-98/large"
+    }
+  },
+  {
+    "id": "me6-99",
+    "name": "Legendary Trench",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Whenever a Pokémon (yours or your opponent's) is healed, double the amount of damage healed."
+    ],
+    "number": "99",
+    "artist": "danciao",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-99/small",
+      "large": "https://images.scrydex.com/pokemon/me6-99/large"
+    }
+  },
+  {
+    "id": "me6-100",
+    "name": "Mega Rayquaza Cap",
+    "supertype": "Trainer",
+    "subtypes": [
+      "MEGA",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Delta Gift",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "For each of your Pokémon that has a Mega Rayquaza Cap attached, search your deck for a Basic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+      }
+    ],
+    "number": "100",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-100/small",
+      "large": "https://images.scrydex.com/pokemon/me6-100/large"
+    }
+  },
+  {
+    "id": "me6-101",
+    "name": "Tasty Rice Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Heal 30 damage from your Active Pokémon. For each Tasty Rice Ball card (not including this card) in your discard pile, heal 30 more damage."
+    ],
+    "number": "101",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Common",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-101/small",
+      "large": "https://images.scrydex.com/pokemon/me6-101/large"
+    }
+  },
+  {
+    "id": "me6-102",
+    "name": "Tate & Liza's Training",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you drew any cards in this way, and if a Stadium that has \"Legendary\" in its name is in play, put this Tate & Liza's Training into your hand instead of the discard pile."
+    ],
+    "number": "102",
+    "artist": "Yuu Nishida",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-102/small",
+      "large": "https://images.scrydex.com/pokemon/me6-102/large"
+    }
+  },
+  {
+    "id": "me6-103",
+    "name": "Zinnia's Trust",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move an Energy from the Pokémon you moved to your Bench to the new Active Pokémon."
+    ],
+    "number": "103",
+    "artist": "GIDORA",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-103/small",
+      "large": "https://images.scrydex.com/pokemon/me6-103/large"
+    }
+  },
+  {
+    "id": "me6-104",
+    "name": "Masquerain",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Surskit",
+    "attacks": [
+      {
+        "name": "Frightening Pattern",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "During your opponent's next turn, the Defending Pokémon can't use attacks."
+      },
+      {
+        "name": "Bug Out",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50×",
+        "text": "Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "104",
+    "artist": "REND",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      284
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-104/small",
+      "large": "https://images.scrydex.com/pokemon/me6-104/large"
+    }
+  },
+  {
+    "id": "me6-105",
+    "name": "Sprigatito",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Play Rough",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "105",
+    "artist": "Jiro Sasumo",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      906
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-105/small",
+      "large": "https://images.scrydex.com/pokemon/me6-105/large"
+    }
+  },
+  {
+    "id": "me6-106",
+    "name": "Growlithe",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Roar",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+      },
+      {
+        "name": "Rear Kick",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "106",
+    "artist": "Yoshimoto Yoshimon",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      58
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-106/small",
+      "large": "https://images.scrydex.com/pokemon/me6-106/large"
+    }
+  },
+  {
+    "id": "me6-107",
+    "name": "Magmortar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Magmar",
+    "abilities": [
+      {
+        "name": "Buddy Boost",
+        "text": "Once during your turn, you may use this Ability. Attach a Basic Fire Energy card, a Basic Lightning Energy card, or 1 of each from your hand to your Electivire and Magmortar in any way you like.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Heat Crash",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "107",
+    "artist": "Taiga Kasai",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      467
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-107/small",
+      "large": "https://images.scrydex.com/pokemon/me6-107/large"
+    }
+  },
+  {
+    "id": "me6-108",
+    "name": "Electivire",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Electabuzz",
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Voltaic Hammer",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60×",
+        "text": "Discard any amount of Basic Energy from this Pokémon, and this attack does 60 damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "108",
+    "artist": "Rianti Hidayat",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      466
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-108/small",
+      "large": "https://images.scrydex.com/pokemon/me6-108/large"
+    }
+  },
+  {
+    "id": "me6-109",
+    "name": "Pincurchin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Energy Crush",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "109",
+    "artist": "Tetsu Kayama",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      871
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-109/small",
+      "large": "https://images.scrydex.com/pokemon/me6-109/large"
+    }
+  },
+  {
+    "id": "me6-110",
+    "name": "Enamorus",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Incarnate Solidarity",
+        "text": "If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Rising Heart",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "110",
+    "artist": "Taira Akitsu",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      905
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-110/small",
+      "large": "https://images.scrydex.com/pokemon/me6-110/large"
+    }
+  },
+  {
+    "id": "me6-111",
+    "name": "Groudon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "150",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Strength",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Brutal Lands",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If a Stadium that has \"Legendary\" in its name is in play, this attack does 170 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "111",
+    "artist": "Ryota Murayama",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      383
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-111/small",
+      "large": "https://images.scrydex.com/pokemon/me6-111/large"
+    }
+  },
+  {
+    "id": "me6-112",
+    "name": "Zorua",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Stampede",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Scratch",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "112",
+    "artist": "GOSSAN",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      570
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-112/small",
+      "large": "https://images.scrydex.com/pokemon/me6-112/large"
+    }
+  },
+  {
+    "id": "me6-113",
+    "name": "Inkay",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Knock Off",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "113",
+    "artist": "Rond",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      686
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-113/small",
+      "large": "https://images.scrydex.com/pokemon/me6-113/large"
+    }
+  },
+  {
+    "id": "me6-114",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Nap",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "Heal 20 damage from this Pokémon."
+      },
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "114",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-114/small",
+      "large": "https://images.scrydex.com/pokemon/me6-114/large"
+    }
+  },
+  {
+    "id": "me6-115",
+    "name": "Azurill",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "30",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Bouncy-Bounce Charge",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "text": "Search your deck for an Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "115",
+    "artist": "Narumi Sato",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      298
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-115/small",
+      "large": "https://images.scrydex.com/pokemon/me6-115/large"
+    }
+  },
+  {
+    "id": "me6-116",
+    "name": "Altaria",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Swablu",
+    "abilities": [
+      {
+        "name": "Cottony Carrier",
+        "text": "Your Basic Pokémon in play have no Retreat Cost.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flap",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "116",
+    "artist": "kodama",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      334
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-116/small",
+      "large": "https://images.scrydex.com/pokemon/me6-116/large"
+    }
+  },
+  {
+    "id": "me6-117",
+    "name": "Kecleon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Colorful Whip",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Reveal any number of Pokémon from your hand, and this attack does 30 damage for each different type of Pokémon you revealed in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "117",
+    "artist": "Tomokazu Komiya",
+    "rarity": "Illustration Rare",
+    "nationalPokedexNumbers": [
+      352
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-117/small",
+      "large": "https://images.scrydex.com/pokemon/me6-117/large"
+    }
+  },
+  {
+    "id": "me6-118",
+    "name": "Mega Golisopod ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "340",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Wimpod",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Finishing Blow",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 160 more damage."
+      },
+      {
+        "name": "Quadruple Hold",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "118",
+    "artist": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "nationalPokedexNumbers": [
+      768
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-118/small",
+      "large": "https://images.scrydex.com/pokemon/me6-118/large"
+    }
+  },
+  {
+    "id": "me6-119",
+    "name": "Heat Rotom ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "190",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Rewarm",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each Basic Fire Energy card in your discard pile. Then, shuffle those cards into your deck."
+      },
+      {
+        "name": "Strong Flare",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "119",
+    "artist": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "nationalPokedexNumbers": [
+      479
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-119/small",
+      "large": "https://images.scrydex.com/pokemon/me6-119/large"
+    }
+  },
+  {
+    "id": "me6-120",
+    "name": "Wishiwashi ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "260",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Oceanic Gain",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Heal 50 damage from this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hydro Splash",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "220",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "120",
+    "artist": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "nationalPokedexNumbers": [
+      746
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-120/small",
+      "large": "https://images.scrydex.com/pokemon/me6-120/large"
+    }
+  },
+  {
+    "id": "me6-121",
+    "name": "Raikou ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "200",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Thunder-Clad",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Power Rush",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Flip a coin. If tails, during your next turn, this Pokémon can't use attacks."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "121",
+    "artist": "aky CG Works",
+    "rarity": "Ultra Rare",
+    "nationalPokedexNumbers": [
+      243
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-121/small",
+      "large": "https://images.scrydex.com/pokemon/me6-121/large"
+    }
+  },
+  {
+    "id": "me6-122",
+    "name": "Mega Golurk ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "350",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Golett",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Restricted Activation",
+        "text": "This Pokémon can't use attacks unless you have 10 or more cards in your hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Goliath's Punch",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "300",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "122",
+    "artist": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "nationalPokedexNumbers": [
+      623
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-122/small",
+      "large": "https://images.scrydex.com/pokemon/me6-122/large"
+    }
+  },
+  {
+    "id": "me6-123",
+    "name": "Mega Malamar ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "320",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Inkay",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Psychic Marionette",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70×",
+        "text": "This attack does 70 damage for each of your opponent's Benched Pokémon."
+      },
+      {
+        "name": "Eerie Wave",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "123",
+    "artist": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "nationalPokedexNumbers": [
+      687
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-123/small",
+      "large": "https://images.scrydex.com/pokemon/me6-123/large"
+    }
+  },
+  {
+    "id": "me6-124",
+    "name": "Talonflame ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "280",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Fletchinder",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Excited Dive",
+        "text": "Once during your turn, if this Pokémon is in your hand, and if you have any Colorless Mega Evolution Pokémon ex in play, you may use this Ability. Put this Pokémon onto your Bench.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Talon Hunt",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "150",
+        "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "number": "124",
+    "artist": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "nationalPokedexNumbers": [
+      663
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-124/small",
+      "large": "https://images.scrydex.com/pokemon/me6-124/large"
+    }
+  },
+  {
+    "id": "me6-125",
+    "name": "Aarune",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 in any combination of Supporter and Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "number": "125",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-125/small",
+      "large": "https://images.scrydex.com/pokemon/me6-125/large"
+    }
+  },
+  {
+    "id": "me6-126",
+    "name": "Adventure Lantern",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Search your deck for a Basic Fire Energy card and a Basic Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "number": "126",
+    "artist": "inose yukie",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-126/small",
+      "large": "https://images.scrydex.com/pokemon/me6-126/large"
+    }
+  },
+  {
+    "id": "me6-127",
+    "name": "Custom Vest",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "If the Pokémon this card is attached to isn't a Mega Evolution Pokémon ex, it takes 60 less damage from attacks from your opponent's Mega Evolution Pokémon ex (after applying Weakness and Resistance)."
+    ],
+    "number": "127",
+    "artist": "Toyste Beach",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-127/small",
+      "large": "https://images.scrydex.com/pokemon/me6-127/large"
+    }
+  },
+  {
+    "id": "me6-128",
+    "name": "Emcee's Hype",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If your opponent has 3 or fewer Prize cards remaining, draw 2 more cards."
+    ],
+    "number": "128",
+    "artist": "DOM",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-128/small",
+      "large": "https://images.scrydex.com/pokemon/me6-128/large"
+    }
+  },
+  {
+    "id": "me6-129",
+    "name": "Pokémon Catcher",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+    ],
+    "number": "129",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-129/small",
+      "large": "https://images.scrydex.com/pokemon/me6-129/large"
+    }
+  },
+  {
+    "id": "me6-130",
+    "name": "Tate & Liza's Training",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. If you drew any cards in this way, and if a Stadium that has \"Legendary\" in its name is in play, put this Tate & Liza's Training into your hand instead of the discard pile."
+    ],
+    "number": "130",
+    "artist": "Yuu Nishida",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-130/small",
+      "large": "https://images.scrydex.com/pokemon/me6-130/large"
+    }
+  },
+  {
+    "id": "me6-131",
+    "name": "Zinnia's Trust",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move an Energy from the Pokémon you moved to your Bench to the new Active Pokémon."
+    ],
+    "number": "131",
+    "artist": "GIDORA",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-131/small",
+      "large": "https://images.scrydex.com/pokemon/me6-131/large"
+    }
+  },
+  {
+    "id": "me6-132",
+    "name": "Bubbly Water Energy",
+    "supertype": "Energy",
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Water Energy.\n \nThe Water Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions."
+    ],
+    "number": "132",
+    "artist": "—",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-132/small",
+      "large": "https://images.scrydex.com/pokemon/me6-132/large"
+    }
+  },
+  {
+    "id": "me6-133",
+    "name": "Growing Grass Energy",
+    "supertype": "Energy",
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Grass Energy.\n \nThe Grass Pokémon this card is attached to gets +20 HP."
+    ],
+    "number": "133",
+    "artist": "—",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-133/small",
+      "large": "https://images.scrydex.com/pokemon/me6-133/large"
+    }
+  },
+  {
+    "id": "me6-134",
+    "name": "Nitro Fire Energy",
+    "supertype": "Energy",
+    "rules": [
+      "As long as this card is attached to a Pokémon, it provides Fire Energy.\n \nIf this card is discarded by an effect of an attack used by the Fire Pokémon this card is attached to, put this card into your hand after attack damage and effects."
+    ],
+    "number": "134",
+    "artist": "—",
+    "rarity": "Ultra Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-134/small",
+      "large": "https://images.scrydex.com/pokemon/me6-134/large"
+    }
+  },
+  {
+    "id": "me6-135",
+    "name": "Mega Golisopod ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "340",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Wimpod",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Finishing Blow",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 160 more damage."
+      },
+      {
+        "name": "Quadruple Hold",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "135",
+    "artist": "nagimiso",
+    "rarity": "Special Illustration Rare",
+    "nationalPokedexNumbers": [
+      768
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-135/small",
+      "large": "https://images.scrydex.com/pokemon/me6-135/large"
+    }
+  },
+  {
+    "id": "me6-136",
+    "name": "Raikou ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "200",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Thunder-Clad",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "text": "If you go first, you can use this attack during your first turn. Search your deck for an Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Power Rush",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Flip a coin. If tails, during your next turn, this Pokémon can't use attacks."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "136",
+    "artist": "Oku",
+    "rarity": "Special Illustration Rare",
+    "nationalPokedexNumbers": [
+      243
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-136/small",
+      "large": "https://images.scrydex.com/pokemon/me6-136/large"
+    }
+  },
+  {
+    "id": "me6-137",
+    "name": "Mega Golurk ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "350",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Golett",
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Restricted Activation",
+        "text": "This Pokémon can't use attacks unless you have 10 or more cards in your hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Goliath's Punch",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "300",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "137",
+    "artist": "Takeshi Nakamura",
+    "rarity": "Special Illustration Rare",
+    "nationalPokedexNumbers": [
+      623
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-137/small",
+      "large": "https://images.scrydex.com/pokemon/me6-137/large"
+    }
+  },
+  {
+    "id": "me6-138",
+    "name": "Mega Rayquaza ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "280",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ruler's Roar",
+        "text": "Once during your turn, when you play this Pokémon from your hand onto your Bench, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy card you find there to this Pokémon. Shuffle the other cards and put them on the bottom of your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Storm Emerald",
+        "cost": [
+          "Fire",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each Fire Energy and each Lightning Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "138",
+    "artist": "Kazuki Minami",
+    "rarity": "Special Illustration Rare",
+    "nationalPokedexNumbers": [
+      384
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-138/small",
+      "large": "https://images.scrydex.com/pokemon/me6-138/large"
+    }
+  },
+  {
+    "id": "me6-139",
+    "name": "Aarune",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 in any combination of Supporter and Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    ],
+    "number": "139",
+    "artist": "Shimaris Yukichi",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-139/small",
+      "large": "https://images.scrydex.com/pokemon/me6-139/large"
+    }
+  },
+  {
+    "id": "me6-140",
+    "name": "Zinnia's Trust",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move an Energy from the Pokémon you moved to your Bench to the new Active Pokémon."
+    ],
+    "number": "140",
+    "artist": "Teeziro",
+    "rarity": "Special Illustration Rare",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-140/small",
+      "large": "https://images.scrydex.com/pokemon/me6-140/large"
+    }
+  },
+  {
+    "id": "me6-141",
+    "name": "Mega Rayquaza ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "280",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Ruler's Roar",
+        "text": "Once during your turn, when you play this Pokémon from your hand onto your Bench, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy card you find there to this Pokémon. Shuffle the other cards and put them on the bottom of your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Storm Emerald",
+        "cost": [
+          "Fire",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each Fire Energy and each Lightning Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "141",
+    "artist": "takuyoa",
+    "rarity": "Mega Hyper Rare",
+    "nationalPokedexNumbers": [
+      384
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-141/small",
+      "large": "https://images.scrydex.com/pokemon/me6-141/large"
+    }
+  }
+]
